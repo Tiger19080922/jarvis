@@ -1,0 +1,45 @@
+name: AI India Digest — Daily
+
+on:
+  schedule:
+    - cron: '30 1 * * *'   # 07:00 IST (UTC+5:30)
+  workflow_dispatch:         # Manual trigger from GitHub UI
+
+jobs:
+  send-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: agents/AI_newsletter/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r agents/AI_newsletter/requirements.txt
+
+      - name: Run newsletter
+        env:
+          ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_RECIPIENT:    ${{ secrets.GMAIL_RECIPIENT }}
+        run: |
+          cd agents/AI_newsletter
+          python run.py
+
+      - name: Persist memory.json
+        if: always()
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "github-actions[bot]"
+          git add agents/AI_newsletter/memory.json
+          git diff --staged --quiet || git commit -m "chore: update newsletter memory [skip ci]"
+          git push
