@@ -2,7 +2,7 @@ name: AI India Digest — Daily
 
 on:
   schedule:
-    - cron: '30 1 * * *'   # 07:00 IST (UTC+5:30)
+    - cron: '30 20 * * *'  # 02:00 IST next day (UTC+5:30) — buffers 4–5hr GitHub delay, targets ~07:00 IST delivery
   workflow_dispatch:         # Manual trigger from GitHub UI
 
 jobs:
