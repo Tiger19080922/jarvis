@@ -11,8 +11,9 @@ Days 85–90:           Buffer      — revisit technical depth (hardest gaps)
 """
 
 from datetime import date
+from config import CURRICULUM_START_DATE, USER_CURRENT_ROLE, USER_TARGET_ROLES
 
-START_DATE = date(2026, 4, 11)
+START_DATE = CURRICULUM_START_DATE
 
 # 13 weekly entries × 7 days = 91 days (days 1–90 used; week 13 = buffer)
 WEEKLY_CURRICULUM = [
@@ -257,28 +258,31 @@ SYNTHESIS_ROLES = ["PM", "Strategy", "VC"]
 
 ROLE_LENS_DESCRIPTIONS = {
     "PM": (
-        "You are targeting a PM role at a scaling AI company (Series B+, e.g. Sarvam, "
-        "Krutrim, or a global AI co with India presence). Frame the pivot lens around: "
-        "product spec decisions, feature prioritisation, eval design, working with ML "
-        "engineers, and how to demonstrate AI product instincts in an interview."
+        f"You are targeting a PM role at a scaling AI company. "
+        f"The reader is currently {USER_CURRENT_ROLE}. "
+        f"Frame the pivot lens around: product spec decisions, feature prioritisation, "
+        f"eval design, working with ML engineers, and how to demonstrate AI product "
+        f"instincts in an interview."
     ),
     "Strategy": (
-        "You are targeting a Strategy or BD role at an early-stage AI startup. "
-        "Frame the pivot lens around: go-to-market decisions, partnership strategy, "
-        "competitive positioning, and how NRI consulting skills translate directly "
-        "into an AI-native strategy context."
+        f"You are targeting a Strategy or BD role at an early-stage AI startup. "
+        f"The reader is currently {USER_CURRENT_ROLE}. "
+        f"Frame the pivot lens around: go-to-market decisions, partnership strategy, "
+        f"competitive positioning, and how their consulting skills translate directly "
+        f"into an AI-native strategy context."
     ),
     "VC": (
-        "You are targeting a VC Analyst or Associate role at an AI-focused fund "
-        "(Blume Ventures, Accel, Lightspeed, or a global fund with India exposure). "
-        "Frame the pivot lens around: building an investment thesis, due diligence "
-        "frameworks, evaluating founding teams, and spotting defensible AI business models."
+        f"You are targeting a VC Analyst or Associate role at an AI-focused fund. "
+        f"The reader is currently {USER_CURRENT_ROLE}. "
+        f"Frame the pivot lens around: building an investment thesis, due diligence "
+        f"frameworks, evaluating founding teams, and spotting defensible AI business models."
     ),
     "General": (
-        "You are building toward AI PM, Strategy, and VC analyst roles simultaneously. "
-        "Frame the pivot lens around what this topic means for someone pivoting from "
-        "strategy consulting into AI. How does mastering this topic change how you speak "
-        "in interviews? What signal does it send to a hiring manager or investor?"
+        f"You are building toward these roles: {USER_TARGET_ROLES}. "
+        f"The reader is currently {USER_CURRENT_ROLE}. "
+        f"Frame the pivot lens around what this topic means for someone pivoting into AI. "
+        f"How does mastering this topic change how they speak in interviews? "
+        f"What signal does it send to a hiring manager or investor?"
     ),
 }
 

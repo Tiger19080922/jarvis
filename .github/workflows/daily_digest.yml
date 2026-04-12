@@ -29,10 +29,17 @@ jobs:
 
       - name: Run newsletter
         env:
+          # ── Required ──────────────────────────────────────────────────────
           ANTHROPIC_API_KEY:  ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           GMAIL_RECIPIENT:    ${{ secrets.GMAIL_RECIPIENT }}
+          # ── Persona (set these to personalise your daily essay) ───────────
+          CURRICULUM_START_DATE: ${{ secrets.CURRICULUM_START_DATE }}
+          USER_CURRENT_ROLE:     ${{ secrets.USER_CURRENT_ROLE }}
+          USER_TARGET_ROLES:     ${{ secrets.USER_TARGET_ROLES }}
+          USER_GOAL:             ${{ secrets.USER_GOAL }}
+          USER_DIFFERENTIATOR:   ${{ secrets.USER_DIFFERENTIATOR }}
         run: |
           cd agents/AI_newsletter
           python run.py

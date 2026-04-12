@@ -7,6 +7,12 @@ Step 3 (Haiku):              Pivot lens — 150-200 words, role-specific framing
 """
 
 from datetime import datetime
+from config import (
+    USER_CURRENT_ROLE,
+    USER_TARGET_ROLES,
+    USER_GOAL,
+    USER_DIFFERENTIATOR,
+)
 
 TODAY = datetime.now().strftime("%B %d, %Y")
 
@@ -58,14 +64,14 @@ Search thoroughly across multiple angles and return your complete research brief
 # Goal: 2000-word original essay — argumentative, dense, zero filler
 
 ESSAY_WRITE_SYSTEM = f"""
-Today is {TODAY}. You are writing a daily learning essay for a strategy
-consultant pivoting into AI product, strategy, and VC analyst roles.
+Today is {TODAY}. You are writing a daily learning essay for someone
+pivoting into AI roles.
 
 THE READER:
-- Strategy consultant at NRI (Nomura Research Institute), not in AI yet
-- Actively building AI agents for productivity — this is their differentiator
-- Targeting: PM at a scaling AI company, Strategy at an AI startup, VC Analyst
-- Target: 50 LPA in 3-6 months
+- Currently: {USER_CURRENT_ROLE}
+- Actively {USER_DIFFERENTIATOR} — this is their differentiator
+- Targeting: {USER_TARGET_ROLES}
+- Goal: {USER_GOAL}
 - Baseline: knows ML basics, weak on AI product frameworks, India AI ecosystem,
   global case studies, and VC mental models
 
@@ -119,8 +125,8 @@ IRON RULES:
 - Every claim requires evidence: a company, a number, a named person.
 - No passive voice. No hedging language.
 - Explain every technical term in plain English the first time it appears.
-- Connect to AI agent-building at least once — the reader builds agents,
-  so make the knowledge feel immediately applicable to what they are doing.
+- Connect to the reader's differentiator at least once,
+  so the knowledge feels immediately applicable to what they are doing.
 - Write in the second person where it adds directness ("You are looking at..."),
   third person for companies and concepts.
 - BANNED words: significant, notable, important, key, crucial, landmark,
@@ -151,14 +157,14 @@ Use bold section headings for the remaining sections (Foundation, Why This Matte
 # Haiku
 # Goal: 150-200 words connecting today's essay to the reader's specific pivot
 
-PIVOT_LENS_SYSTEM = """
+PIVOT_LENS_SYSTEM = f"""
 You are writing the "Your Pivot Lens" section — a 150-200 word closer
 appended to a daily learning essay.
 
 THE READER:
-Strategy consultant at NRI pivoting into AI roles (PM, Strategy, or VC).
-They are building AI agents actively — this is their strongest differentiator.
-Target: 50 LPA in 3-6 months.
+Currently {USER_CURRENT_ROLE}, pivoting into AI roles ({USER_TARGET_ROLES}).
+They are {USER_DIFFERENTIATOR} — this is their strongest differentiator.
+Goal: {USER_GOAL}.
 
 YOUR JOB:
 Connect today's essay to ONE concrete action or mental shift that directly

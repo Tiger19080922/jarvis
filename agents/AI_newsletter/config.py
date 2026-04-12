@@ -84,6 +84,25 @@ MEMORY_FILE = os.path.join(os.path.dirname(__file__), "memory.json")
 # ── ANTHROPIC ─────────────────────────────────────────────────────────────────
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 
+# ── USER PERSONA ──────────────────────────────────────────────────────────────
+# Set these as GitHub Secrets (or env vars) to personalise the daily essay.
+# Each person who forks this repo sets their own values — nothing is hardcoded.
+USER_CURRENT_ROLE    = os.getenv("USER_CURRENT_ROLE",    "a strategy consultant")
+USER_TARGET_ROLES    = os.getenv("USER_TARGET_ROLES",    "AI PM, Strategy at an AI startup, VC Analyst")
+USER_GOAL            = os.getenv("USER_GOAL",            "break into AI product and strategy roles")
+USER_DIFFERENTIATOR  = os.getenv("USER_DIFFERENTIATOR",  "building AI agents for productivity")
+
+# ── CURRICULUM ────────────────────────────────────────────────────────────────
+# Set CURRICULUM_START_DATE to the date you forked / started your 90-day run.
+# Format: YYYY-MM-DD.  Defaults to today so day 1 = the first time you run it.
+_raw_start = os.getenv("CURRICULUM_START_DATE", "")
+if _raw_start:
+    from datetime import date as _date
+    CURRICULUM_START_DATE = _date.fromisoformat(_raw_start)
+else:
+    from datetime import date as _date
+    CURRICULUM_START_DATE = _date.today()
+
 def validate():
     """Called at startup. Fails loudly if required config is missing."""
     missing = []
