@@ -43,22 +43,73 @@ def get_recent_titles() -> List[str]:
     ]
 
 
-def is_duplicate(title: str, threshold: float = 0.6) -> bool:
+# Named entities that trigger entity-level dedup when two stories share one
+# and are in the same category within the last 3 days.
+_KNOWN_ENTITIES = [
+    "sarvam", "krutrim", "anthropic", "openai", "google", "microsoft",
+    "meity", "nasscom", "infosys", "tcs", "wipro", "reliance", "jio",
+    "flipkart", "razorpay", "zerodha", "zomato", "swiggy", "paytm",
+    "ai4bharat", "indiaai", "blume", "accel", "lightspeed", "stellaris",
+    "haptik", "yellowai", "gnani", "observe", "workongrid", "satleo",
+]
+
+
+def _extract_entities(text: str) -> set:
+    """Return named entities found in text."""
+    words = set(text.lower().split())
+    return {e for e in _KNOWN_ENTITIES if e in words}
+
+
+def get_recent_entries(days: int = 14) -> list:
+    """Return full story entries from the last N days."""
+    data = _load()
+    cutoff = datetime.now() - timedelta(days=days)
+    return [
+        s for s in data["stories"]
+        if datetime.fromisoformat(s["date"]) > cutoff
+    ]
+
+
+def is_duplicate(title: str, category: str = "", threshold: float = 0.45) -> bool:
     """
     Return True if title is too similar to a recently seen story.
-    Uses simple token overlap — no external library needed.
-    threshold: fraction of words that must overlap to be called duplicate.
+
+    Two-pass check:
+    1. Token overlap >= threshold (lowered from 0.6 to 0.45) — strict title match
+    2. Entity-level: same named entity + same category within last 3 days
+       catches "Sarvam raises $350M" vs "Sarvam in talks for $300M funding"
     """
-    candidate = set(_normalise(title).split())
+    candidate       = set(_normalise(title).split())
+    candidate_ents  = _extract_entities(_normalise(title))
+
     if not candidate:
         return False
-    for seen in get_recent_titles():
-        seen_words = set(seen.split())
+
+    recent = get_recent_entries(days=14)
+
+    for entry in recent:
+        seen_title = _normalise(entry.get("title", ""))
+        seen_words = set(seen_title.split())
+
         if not seen_words:
             continue
+
+        # Pass 1: token overlap
         overlap = len(candidate & seen_words) / len(candidate | seen_words)
         if overlap >= threshold:
             return True
+
+        # Pass 2: entity-level dedup (same entity + same category within 3 days)
+        if candidate_ents and category:
+            seen_ents = _extract_entities(seen_title)
+            shared    = candidate_ents & seen_ents
+            if shared:
+                seen_cat  = entry.get("cat", "")
+                seen_date = datetime.fromisoformat(entry["date"])
+                if (seen_cat == category
+                        and (datetime.now() - seen_date).days <= 3):
+                    return True
+
     return False
 
 

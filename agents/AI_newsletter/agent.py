@@ -97,8 +97,9 @@ def run(dry_run: bool = False, trace=None) -> Dict:
     else:
         sent = emailer.send(subject=subject, html=html)
 
-    # 12. Save to memory
-    mem.save_stories([best])
+    # 12. Save ALL scored items to memory (not just the winner)
+    # This prevents the same stories from re-surfacing tomorrow
+    mem.save_stories(scored)
 
     elapsed = (datetime.now() - start).total_seconds()
     result = {

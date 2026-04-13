@@ -106,9 +106,11 @@ def _build_essay_section(essay: Dict) -> str:
     essay_html   = _essay_to_html(essay["essay_text"])
     pivot_html   = _pivot_lens_to_html(essay["pivot_lens"])
     day_num      = essay["day_number"]
+    day_in_week  = essay.get("day_in_week", "")
     days_left    = essay["days_remaining"]
     phase        = essay["phase"]
     topic        = essay["topic"]
+    angle        = essay.get("angle", "")
     role_lens    = essay["role_lens"]
 
     return f"""
@@ -122,12 +124,13 @@ def _build_essay_section(essay: Dict) -> str:
 <!-- Essay label -->
 <tr><td style="padding:24px 36px 0 36px;">
     <p style="margin:0 0 4px 0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:11px; letter-spacing:2px; color:#1A6B3C; text-transform:uppercase; font-weight:600;">Daily Learning Essay</p>
-    <p style="margin:0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:11px; color:#888888;">Day {day_num} of 90 &middot; {phase} &middot; {role_lens} Lens &middot; {days_left} days remaining</p>
+    <p style="margin:0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:11px; color:#888888;">Day {day_num} of 90 &middot; Day {day_in_week} of 7 &middot; {phase} &middot; {role_lens} Lens &middot; {days_left} days remaining</p>
 </td></tr>
 
 <!-- Essay title -->
 <tr><td style="padding:12px 36px 0 36px;">
     <h2 style="margin:0; font-family:Georgia, serif; font-size:24px; font-weight:400; color:#0D3320; line-height:1.35;">{topic}</h2>
+    <p style="margin:6px 0 0 0; font-family:Georgia, serif; font-size:15px; font-style:italic; color:#3A6B50; line-height:1.4;">{angle}</p>
 </td></tr>
 
 <!-- Essay body -->

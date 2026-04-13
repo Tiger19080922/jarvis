@@ -4,19 +4,23 @@ essay_writer.py — Daily pivot essay pipeline.
 Step 1 (Haiku + web_search): Source discovery — find best real articles.
 Step 2 (Sonnet):             Write 2000-word essay from source material.
 Step 3 (Haiku):              Write role-specific pivot lens (150-200 words).
+Step 4 (Haiku):              Extract key arguments for essay memory.
 """
 
+import json
 import time
-from typing import Dict
+from typing import Dict, List
 
 import anthropic
 
 from config import HAIKU, SONNET, ANTHROPIC_API_KEY
 from curriculum import get_today_topic
+from essay_memory import build_prior_coverage_block, save_essay
 from essay_prompts import (
     ESSAY_SEARCH_SYSTEM, ESSAY_SEARCH_USER,
     ESSAY_WRITE_SYSTEM, ESSAY_WRITE_USER,
     PIVOT_LENS_SYSTEM, PIVOT_LENS_USER,
+    EXTRACT_ARGS_SYSTEM, EXTRACT_ARGS_USER,
 )
 
 client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
@@ -39,15 +43,15 @@ def _extract_text(response) -> str:
 # ── STEP 1: SOURCE DISCOVERY ──────────────────────────────────────────────────
 
 def _search_sources(entry: Dict) -> str:
-    """Haiku + web_search: find the best real source material for today's topic."""
-    print(f"[essay] step 1 — searching sources: {entry['topic']}")
+    """Haiku + web_search: find the best real source material for today's angle."""
+    print(f"[essay] step 1 — searching sources: {entry['topic']} / {entry['angle']}")
 
     user = ESSAY_SEARCH_USER.format(
-        topic=entry["topic"],
-        focus=entry["focus"],
-        search_query=entry["search_query"],
-        day_number=entry["day_number"],
-        phase=entry["phase"],
+        topic        = entry["topic"],
+        focus        = entry["focus"],
+        search_query = entry["search_query"],
+        day_number   = entry["day_number"],
+        phase        = entry["phase"],
     )
 
     response = client.messages.create(
@@ -65,17 +69,20 @@ def _search_sources(entry: Dict) -> str:
 
 # ── STEP 2: ESSAY WRITING ─────────────────────────────────────────────────────
 
-def _write_essay(entry: Dict, research_brief: str) -> str:
-    """Sonnet: write the 2000-word essay."""
-    print(f"[essay] step 2 — writing essay...")
+def _write_essay(entry: Dict, research_brief: str, prior_coverage: str) -> str:
+    """Sonnet: write the 2000-word essay for today's specific angle."""
+    print(f"[essay] step 2 — writing essay (angle: {entry['angle']})...")
 
     user = ESSAY_WRITE_USER.format(
-        topic=entry["topic"],
-        phase=entry["phase"],
-        day_number=entry["day_number"],
-        days_remaining=entry["days_remaining"],
-        focus=entry["focus"],
-        research_brief=research_brief,
+        topic          = entry["topic"],
+        angle          = entry["angle"],
+        phase          = entry["phase"],
+        day_number     = entry["day_number"],
+        day_in_week    = entry["day_in_week"],
+        days_remaining = entry["days_remaining"],
+        focus          = entry["focus"],
+        prior_coverage = prior_coverage,
+        research_brief = research_brief,
     )
 
     response = client.messages.create(
@@ -97,14 +104,13 @@ def _write_pivot_lens(entry: Dict, essay: str) -> str:
     """Haiku: write the role-specific pivot lens (150-200 words)."""
     print(f"[essay] step 3 — writing pivot lens (role: {entry['role_lens']})...")
 
-    # Pass the opening of the essay so Haiku can make the lens specific
     essay_opening = essay[:1000] + "..." if len(essay) > 1000 else essay
 
     user = PIVOT_LENS_USER.format(
-        topic=entry["topic"],
-        role_lens=entry["role_lens"],
-        role_lens_description=entry["role_lens_description"],
-        essay_opening=essay_opening,
+        topic                = entry["topic"],
+        role_lens            = entry["role_lens"],
+        role_lens_description= entry["role_lens_description"],
+        essay_opening        = essay_opening,
     )
 
     response = client.messages.create(
@@ -119,42 +125,102 @@ def _write_pivot_lens(entry: Dict, essay: str) -> str:
     return pivot_lens
 
 
+# ── STEP 4: ARGUMENT EXTRACTION ───────────────────────────────────────────────
+
+def _extract_arguments(essay: str) -> List[str]:
+    """Haiku: extract 3-5 key arguments from the essay for memory storage."""
+    print(f"[essay] step 4 — extracting key arguments for memory...")
+
+    user = EXTRACT_ARGS_USER.format(essay_text=essay[:3000])
+
+    response = client.messages.create(
+        model=HAIKU,
+        max_tokens=300,
+        system=EXTRACT_ARGS_SYSTEM,
+        messages=[{"role": "user", "content": user}],
+    )
+
+    raw = _extract_text(response).strip()
+
+    # Parse JSON array
+    try:
+        # Strip markdown fences if present
+        if raw.startswith("```"):
+            raw = raw.split("```")[1]
+            if raw.startswith("json"):
+                raw = raw[4:]
+        bracket = raw.find("[")
+        if bracket >= 0:
+            raw = raw[bracket:]
+        args = json.loads(raw)
+        if isinstance(args, list):
+            print(f"[essay] extracted {len(args)} key arguments")
+            return [str(a) for a in args[:5]]
+    except Exception as e:
+        print(f"[essay] argument extraction parse error: {e}")
+
+    return []
+
+
 # ── FULL PIPELINE ─────────────────────────────────────────────────────────────
 
 def generate_essay() -> Dict:
     """
-    Run the full three-step essay pipeline.
+    Run the full four-step essay pipeline.
 
     Returns a dict ready for emailer.build_html():
-      day_number, days_remaining, phase, week, topic,
+      day_number, days_remaining, phase, week, topic, angle,
       role_lens, essay_text, pivot_lens
     """
     entry = get_today_topic()
 
-    print(f"\n[essay] ── Day {entry['day_number']}/90 | {entry['phase']} | {entry['topic']}")
-    print(f"[essay]    Role lens: {entry['role_lens']}")
+    print(f"\n[essay] Day {entry['day_number']}/90 | {entry['phase']} | "
+          f"{entry['topic']} | Day {entry['day_in_week']}/7")
+    print(f"[essay] Angle:     {entry['angle']}")
+    print(f"[essay] Role lens: {entry['role_lens']}")
 
-    # Step 1
+    # Build prior coverage context from essay memory
+    prior_coverage = build_prior_coverage_block(entry["topic"])
+    if prior_coverage:
+        print(f"[essay] Prior coverage block: {len(prior_coverage)} chars")
+    else:
+        print(f"[essay] No prior coverage for this topic yet")
+
+    # Step 1: Search
     research_brief = _search_sources(entry)
 
     print(f"[essay] pausing {PAUSE}s...")
     time.sleep(PAUSE)
 
-    # Step 2
-    essay_text = _write_essay(entry, research_brief)
+    # Step 2: Write
+    essay_text = _write_essay(entry, research_brief, prior_coverage)
 
     print(f"[essay] pausing {PAUSE}s...")
     time.sleep(PAUSE)
 
-    # Step 3
+    # Step 3: Pivot lens
     pivot_lens = _write_pivot_lens(entry, essay_text)
+
+    print(f"[essay] pausing {PAUSE}s...")
+    time.sleep(PAUSE)
+
+    # Step 4: Extract arguments and save to memory
+    key_arguments = _extract_arguments(essay_text)
+    save_essay(
+        day_number    = entry["day_number"],
+        topic         = entry["topic"],
+        angle         = entry["angle"],
+        key_arguments = key_arguments,
+    )
 
     return {
         "day_number":     entry["day_number"],
+        "day_in_week":    entry["day_in_week"],
         "days_remaining": entry["days_remaining"],
         "phase":          entry["phase"],
         "week":           entry["week"],
         "topic":          entry["topic"],
+        "angle":          entry["angle"],
         "role_lens":      entry["role_lens"],
         "essay_text":     essay_text,
         "pivot_lens":     pivot_lens,

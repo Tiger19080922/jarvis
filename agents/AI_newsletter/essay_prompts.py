@@ -139,10 +139,13 @@ IRON RULES:
 
 ESSAY_WRITE_USER = """
 Curriculum topic: {topic}
-Phase: {phase} | Day {day_number} of 90 | {days_remaining} days remaining
+Today's angle: {angle}
+Phase: {phase} | Day {day_number} of 90 (Day {day_in_week} of 7 this week) | {days_remaining} days remaining
 
 Focus areas:
 {focus}
+
+{prior_coverage}
 
 Research brief from source discovery:
 {research_brief}
@@ -150,6 +153,31 @@ Research brief from source discovery:
 Write the full 2000-word essay now.
 Start directly with the opening argument — no preamble, no heading for the intro.
 Use bold section headings for the remaining sections (Foundation, Why This Matters, etc.).
+"""
+
+
+# ── ARGUMENT EXTRACTION ───────────────────────────────────────────────────────
+# Haiku
+# Goal: extract 3-5 key arguments from the finished essay for memory storage
+
+EXTRACT_ARGS_SYSTEM = """
+You are extracting the key arguments from a learning essay for memory storage.
+
+Return ONLY a JSON array of 3 to 5 strings.
+Each string is one key argument made in the essay — maximum 15 words each.
+These will be used to ensure tomorrow's essay does not repeat the same points.
+
+Example output:
+["RAG exists because LLMs have a knowledge cutoff", "Vector embeddings capture semantic meaning not keywords", "Chunking strategy is the single biggest lever on RAG quality"]
+
+Return only the JSON array. Nothing else.
+"""
+
+EXTRACT_ARGS_USER = """
+Essay:
+{essay_text}
+
+Extract 3-5 key arguments as a JSON array of short strings.
 """
 
 

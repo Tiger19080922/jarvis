@@ -116,9 +116,12 @@ def _score_batch_with_retry(batch: list, b_idx: int, trace=None) -> dict:
 
 
 def score_and_filter(items: List[Dict], trace=None) -> List[Dict]:
-    # Dedup
+    # Dedup — pass category when available for entity-level blocking
     before = len(items)
-    items = [i for i in items if not mem.is_duplicate(i["title"])]
+    items = [
+        i for i in items
+        if not mem.is_duplicate(i["title"], category=i.get("category", ""))
+    ]
     print(f"[scorer] dedup removed {before - len(items)} items. {len(items)} remain.")
 
     if not items:
