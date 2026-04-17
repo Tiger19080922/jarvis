@@ -51,4 +51,5 @@ jobs:
           git config user.name  "github-actions[bot]"
           git add agents/AI_newsletter/memory.json
           git diff --staged --quiet || git commit -m "chore: update newsletter memory [skip ci]"
+          git pull --rebase origin master
           git push
