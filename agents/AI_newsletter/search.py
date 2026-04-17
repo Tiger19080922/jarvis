@@ -1,23 +1,27 @@
 """
-search.py — Claude web search tool for gap filling.
+search.py — Gemini Google Search tool for gap filling.
 
-Runs 4 targeted queries for content RSS cannot reach.
-Uses Claude's built-in web_search_20250305 tool.
+Runs targeted queries for content RSS cannot reach.
+Uses Gemini's built-in Google Search grounding.
 """
 
-import anthropic
+from google import genai
+from google.genai import types
 import json
 from datetime import datetime
 from typing import List, Dict
 
-from config import HAIKU, SEARCH_QUERIES, ANTHROPIC_API_KEY
+from config import FLASH, SEARCH_QUERIES, GOOGLE_API_KEY
 
-client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+_client = None
 
-SEARCH_TOOL = {
-    "type": "web_search_20250305",
-    "name": "web_search",
-}
+def _get_client():
+    global _client
+    if _client is None:
+        _client = genai.Client(api_key=GOOGLE_API_KEY)
+    return _client
+
+SEARCH_TOOL = types.Tool(google_search=types.GoogleSearch())
 
 SEARCH_SYSTEM = (
     f"Today is {datetime.now().strftime('%B %d, %Y')}. "
@@ -31,24 +35,17 @@ SEARCH_SYSTEM = (
 )
 
 
-def _extract_items(response) -> List[Dict]:
-    """Parse Claude's response into a list of story dicts."""
-    text = ""
-    for block in response.content:
-        if hasattr(block, "text"):
-            text += block.text
-
-    text = text.strip()
+def _extract_items(text: str) -> List[Dict]:
+    """Parse Gemini's response into a list of story dicts."""
     if not text:
         return []
 
-    # Find first [ — skip any preamble text
+    text = text.strip()
     bracket = text.find("[")
     if bracket < 0:
         return []
     text = text[bracket:]
 
-    # Strip markdown fences
     if text.startswith("```"):
         parts = text.split("```")
         text = parts[1] if len(parts) > 1 else text
@@ -87,18 +84,20 @@ def fetch_gaps(trace=None) -> List[Dict]:
     for i, query in enumerate(SEARCH_QUERIES):
         print(f"[search] query {i+1}/{len(SEARCH_QUERIES)}: {query[:60]}...")
         try:
-            response = client.messages.create(
-                model=HAIKU,
-                max_tokens=1500,
-                system=SEARCH_SYSTEM,
-                tools=[SEARCH_TOOL],
-                messages=[{"role": "user", "content": query}],
+            response = _get_client().models.generate_content(
+                model=FLASH,
+                contents=query,
+                config=types.GenerateContentConfig(
+                    system_instruction=SEARCH_SYSTEM,
+                    max_output_tokens=1500,
+                    tools=[SEARCH_TOOL],
+                ),
             )
 
             if trace:
                 trace.span(name=f"web_search_{i+1}", input={"query": query})
 
-            items = _extract_items(response)
+            items = _extract_items(response.text or "")
             for item in items:
                 if item["url"] not in seen_urls:
                     seen_urls.add(item["url"])
@@ -106,9 +105,9 @@ def fetch_gaps(trace=None) -> List[Dict]:
 
             print(f"[search] query {i+1} returned {len(items)} items")
 
-            # Pause between queries — each search burns ~10k tokens
+            # Short pause between queries
             if i < len(SEARCH_QUERIES) - 1:
-                import time; time.sleep(15)
+                import time; time.sleep(5)
 
         except Exception as e:
             print(f"[search] ERROR on query {i+1}: {e}")

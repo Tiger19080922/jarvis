@@ -7,8 +7,8 @@ import os
 from datetime import datetime
 
 # ── MODELS ────────────────────────────────────────────────────────────────────
-HAIKU  = "claude-haiku-4-5-20251001"   # scoring, bullets, subject line
-SONNET = "claude-sonnet-4-6"           # Story of the Day, The Thread
+FLASH  = "gemini-2.0-flash"   # fast + cheap: scoring, search, subject line, pivot lens
+PRO    = "gemini-2.0-flash"   # writing tasks — upgrade to gemini-2.5-pro for higher quality
 
 # ── PIPELINE THRESHOLDS ───────────────────────────────────────────────────────
 RELEVANCE_THRESHOLD   = 6      # min score (1-10) to pass scoring filter
@@ -81,8 +81,8 @@ LANGFUSE_ENABLED     = bool(LANGFUSE_PUBLIC_KEY and LANGFUSE_SECRET_KEY)
 # ── MEMORY ────────────────────────────────────────────────────────────────────
 MEMORY_FILE = os.path.join(os.path.dirname(__file__), "memory.json")
 
-# ── ANTHROPIC ─────────────────────────────────────────────────────────────────
-ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
+# ── GOOGLE AI ─────────────────────────────────────────────────────────────────
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "")
 
 # ── USER PERSONA ──────────────────────────────────────────────────────────────
 # Set these as GitHub Secrets (or env vars) to personalise the daily essay.
@@ -106,8 +106,8 @@ else:
 def validate():
     """Called at startup. Fails loudly if required config is missing."""
     missing = []
-    if not ANTHROPIC_API_KEY:
-        missing.append("ANTHROPIC_API_KEY")
+    if not GOOGLE_API_KEY:
+        missing.append("GOOGLE_API_KEY")
     if not EMAIL_SENDER:
         missing.append("GMAIL_ADDRESS")
     if not SMTP_PASSWORD:

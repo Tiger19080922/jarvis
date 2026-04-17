@@ -1,19 +1,20 @@
 """
 writer.py — Four-step prompt chain.
 
-Step 1: Haiku + web_search → research brief
-Step 2: Sonnet → story plan (consulting structure)
-Step 3: Sonnet → narrative (execute the plan)
-Step 4: Sonnet → structure extraction (four HTML sections)
-+ Subject line: Haiku
+Step 1: Gemini Flash + Google Search → research brief
+Step 2: Gemini Flash → story plan (consulting structure)
+Step 3: Gemini Flash → narrative (execute the plan)
+Step 4: Gemini Flash → structure extraction (four HTML sections)
++ Subject line: Gemini Flash
 """
 
-import anthropic
+from google import genai
+from google.genai import types
 import json
 import time
 from typing import Dict
 
-from config import HAIKU, SONNET, ANTHROPIC_API_KEY
+from config import FLASH, PRO, GOOGLE_API_KEY
 from prompts import (
     RESEARCH_SYSTEM, RESEARCH_USER,
     PLANNING_SYSTEM, PLANNING_USER,
@@ -22,37 +23,30 @@ from prompts import (
     SUBJECT_SYSTEM, SUBJECT_USER,
 )
 
-client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+_client = None
 
-SEARCH_TOOL = {
-    "type": "web_search_20250305",
-    "name": "web_search",
-}
+def _get_client():
+    global _client
+    if _client is None:
+        _client = genai.Client(api_key=GOOGLE_API_KEY)
+    return _client
 
-PAUSE = 20  # seconds between steps to avoid rate limits
+SEARCH_TOOL = types.Tool(google_search=types.GoogleSearch())
 
-
-def _extract_text(response) -> str:
-    return "".join(
-        block.text for block in response.content
-        if hasattr(block, "text")
-    ).strip()
+PAUSE = 10  # seconds between steps (Gemini has more generous rate limits)
 
 
 def _extract_json(text: str) -> dict:
     """Extract JSON object, robust to preamble and trailing text."""
-    # Find the opening brace
     brace = text.find("{")
     if brace > 0:
         text = text[brace:]
-    # Strip markdown fences
     if text.startswith("```"):
         parts = text.split("```")
         text = parts[1] if len(parts) > 1 else text
         if text.startswith("json"):
             text = text[4:]
     text = text.strip()
-    # Find matching closing brace to trim trailing garbage
     depth = 0
     end = 0
     in_string = False
@@ -83,14 +77,17 @@ def _extract_json(text: str) -> dict:
 
 def _call(model: str, system: str, user: str, max_tokens: int,
           step_name: str, trace=None) -> str:
-    """Single Claude call with logging."""
-    response = client.messages.create(
+    """Single Gemini call with logging."""
+    response = _get_client().models.generate_content(
         model=model,
-        max_tokens=max_tokens,
-        system=system,
-        messages=[{"role": "user", "content": user}],
+        contents=user,
+        config=types.GenerateContentConfig(
+            system_instruction=system,
+            max_output_tokens=max_tokens,
+            temperature=0.3,
+        ),
     )
-    text = _extract_text(response)
+    text = response.text or ""
     if trace:
         trace.span(name=step_name,
                    input={"chars": len(user)},
@@ -101,7 +98,7 @@ def _call(model: str, system: str, user: str, max_tokens: int,
 # ─── STEP 1: RESEARCH ────────────────────────────────────────────────────────
 
 def research(item: Dict, trace=None) -> str:
-    """Haiku + web_search: build rich research brief."""
+    """Gemini Flash + Google Search: build rich research brief."""
     print(f"[writer] step 1 — researching: {item['title'][:60]}")
 
     user = RESEARCH_USER.format(
@@ -110,15 +107,17 @@ def research(item: Dict, trace=None) -> str:
         source=item["source"],
     )
 
-    response = client.messages.create(
-        model=HAIKU,
-        max_tokens=2500,
-        system=RESEARCH_SYSTEM,
-        tools=[SEARCH_TOOL],
-        messages=[{"role": "user", "content": user}],
+    response = _get_client().models.generate_content(
+        model=FLASH,
+        contents=user,
+        config=types.GenerateContentConfig(
+            system_instruction=RESEARCH_SYSTEM,
+            max_output_tokens=2500,
+            tools=[SEARCH_TOOL],
+        ),
     )
 
-    brief = _extract_text(response)
+    brief = response.text or ""
     print(f"[writer] research brief: {len(brief)} chars")
 
     if trace:
@@ -129,11 +128,7 @@ def research(item: Dict, trace=None) -> str:
 # ─── STEP 2: PLANNING ────────────────────────────────────────────────────────
 
 def plan(item: Dict, research_brief: str, trace=None) -> str:
-    """
-    Sonnet: build the story plan before writing.
-    Consultant thinking: central argument, question sequence, analogy choices,
-    emotional arc, what to include, what to leave out, the conclusion.
-    """
+    """Build the story plan before writing."""
     print(f"[writer] step 2 — planning narrative structure...")
 
     user = PLANNING_USER.format(
@@ -142,7 +137,7 @@ def plan(item: Dict, research_brief: str, trace=None) -> str:
     )
 
     story_plan = _call(
-        model=SONNET,
+        model=PRO,
         system=PLANNING_SYSTEM,
         user=user,
         max_tokens=1500,
@@ -158,10 +153,7 @@ def plan(item: Dict, research_brief: str, trace=None) -> str:
 
 def write_narrative(item: Dict, research_brief: str,
                     story_plan: str, trace=None) -> str:
-    """
-    Sonnet: execute the plan as flowing narrative journalism.
-    600-900 words. Plain English after every stat. Analogies throughout.
-    """
+    """Execute the plan as flowing narrative journalism. 600-900 words."""
     print(f"[writer] step 3 — writing narrative...")
 
     user = NARRATIVE_USER.format(
@@ -173,7 +165,7 @@ def write_narrative(item: Dict, research_brief: str,
     )
 
     narrative = _call(
-        model=SONNET,
+        model=PRO,
         system=NARRATIVE_SYSTEM,
         user=user,
         max_tokens=2000,
@@ -189,10 +181,7 @@ def write_narrative(item: Dict, research_brief: str,
 # ─── STEP 4: STRUCTURE EXTRACTION ────────────────────────────────────────────
 
 def extract_structure(narrative: str, item: Dict, trace=None) -> Dict:
-    """
-    Sonnet: extract the four email sections from the narrative.
-    Uses Sonnet (not Haiku) to handle the full token length reliably.
-    """
+    """Extract the four email sections from the narrative."""
     print(f"[writer] step 4 — extracting structure...")
 
     user = EXTRACT_USER.format(
@@ -202,7 +191,7 @@ def extract_structure(narrative: str, item: Dict, trace=None) -> Dict:
     )
 
     text = _call(
-        model=SONNET,
+        model=PRO,
         system=EXTRACT_SYSTEM,
         user=user,
         max_tokens=2000,
@@ -226,7 +215,6 @@ def extract_structure(narrative: str, item: Dict, trace=None) -> Dict:
     except Exception as e:
         print(f"[writer] JSON extraction error: {e}")
         print(f"[writer] raw text: {text[:300]}")
-        # Fallback: split narrative into sections manually
         half = len(narrative) // 2
         return {
             "headline":       item["title"],
@@ -244,29 +232,22 @@ def extract_structure(narrative: str, item: Dict, trace=None) -> Dict:
 # ─── FULL CHAIN ───────────────────────────────────────────────────────────────
 
 def write_story(item: Dict, trace=None) -> Dict:
-    """
-    Run the full four-step chain with pauses between each step
-    to avoid hitting the token rate limit.
-    """
-    # Step 1: Research
+    """Run the full four-step chain."""
     brief = research(item, trace=trace)
 
     print(f"[writer] pausing {PAUSE}s...")
     time.sleep(PAUSE)
 
-    # Step 2: Plan
     story_plan = plan(item, brief, trace=trace)
 
     print(f"[writer] pausing {PAUSE}s...")
     time.sleep(PAUSE)
 
-    # Step 3: Write
     narrative = write_narrative(item, brief, story_plan, trace=trace)
 
     print(f"[writer] pausing {PAUSE}s...")
     time.sleep(PAUSE)
 
-    # Step 4: Extract
     story = extract_structure(narrative, item, trace=trace)
 
     return story
@@ -275,7 +256,7 @@ def write_story(item: Dict, trace=None) -> Dict:
 # ─── SUBJECT LINE ─────────────────────────────────────────────────────────────
 
 def write_subject_line(story: Dict, trace=None) -> str:
-    """Haiku writes the subject line."""
+    """Write the email subject line."""
     hook = story.get("what_happened", "")[:200]
 
     user = SUBJECT_USER.format(
@@ -285,11 +266,14 @@ def write_subject_line(story: Dict, trace=None) -> str:
         hook=hook,
     )
 
-    response = client.messages.create(
-        model=HAIKU,
-        max_tokens=40,
-        system=SUBJECT_SYSTEM,
-        messages=[{"role": "user", "content": user}],
+    response = _get_client().models.generate_content(
+        model=FLASH,
+        contents=user,
+        config=types.GenerateContentConfig(
+            system_instruction=SUBJECT_SYSTEM,
+            max_output_tokens=40,
+            temperature=0.1,
+        ),
     )
 
-    return _extract_text(response).strip('"\'')
+    return (response.text or "").strip('"\'').strip()

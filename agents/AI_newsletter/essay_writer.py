@@ -1,19 +1,20 @@
 """
 essay_writer.py — Daily pivot essay pipeline.
 
-Step 1 (Haiku + web_search): Source discovery — find best real articles.
-Step 2 (Sonnet):             Write 2000-word essay from source material.
-Step 3 (Haiku):              Write role-specific pivot lens (150-200 words).
-Step 4 (Haiku):              Extract key arguments for essay memory.
+Step 1 (Gemini Flash + Google Search): Source discovery — find best real articles.
+Step 2 (Gemini Flash):                 Write 2000-word essay from source material.
+Step 3 (Gemini Flash):                 Write role-specific pivot lens (150-200 words).
+Step 4 (Gemini Flash):                 Extract key arguments for essay memory.
 """
 
 import json
 import time
 from typing import Dict, List
 
-import anthropic
+from google import genai
+from google.genai import types
 
-from config import HAIKU, SONNET, ANTHROPIC_API_KEY
+from config import FLASH, PRO, GOOGLE_API_KEY
 from curriculum import get_today_topic
 from essay_memory import build_prior_coverage_block, save_essay
 from essay_prompts import (
@@ -23,27 +24,23 @@ from essay_prompts import (
     EXTRACT_ARGS_SYSTEM, EXTRACT_ARGS_USER,
 )
 
-client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+_client = None
 
-SEARCH_TOOL = {
-    "type": "web_search_20250305",
-    "name": "web_search",
-}
+def _get_client():
+    global _client
+    if _client is None:
+        _client = genai.Client(api_key=GOOGLE_API_KEY)
+    return _client
 
-PAUSE = 15  # seconds between steps to avoid rate limit bursts
+SEARCH_TOOL = types.Tool(google_search=types.GoogleSearch())
 
-
-def _extract_text(response) -> str:
-    return "".join(
-        block.text for block in response.content
-        if hasattr(block, "text")
-    ).strip()
+PAUSE = 10  # seconds between steps
 
 
 # ── STEP 1: SOURCE DISCOVERY ──────────────────────────────────────────────────
 
 def _search_sources(entry: Dict) -> str:
-    """Haiku + web_search: find the best real source material for today's angle."""
+    """Gemini Flash + Google Search: find the best real source material for today's angle."""
     print(f"[essay] step 1 — searching sources: {entry['topic']} / {entry['angle']}")
 
     user = ESSAY_SEARCH_USER.format(
@@ -54,15 +51,17 @@ def _search_sources(entry: Dict) -> str:
         phase        = entry["phase"],
     )
 
-    response = client.messages.create(
-        model=HAIKU,
-        max_tokens=3000,
-        system=ESSAY_SEARCH_SYSTEM,
-        tools=[SEARCH_TOOL],
-        messages=[{"role": "user", "content": user}],
+    response = _get_client().models.generate_content(
+        model=FLASH,
+        contents=user,
+        config=types.GenerateContentConfig(
+            system_instruction=ESSAY_SEARCH_SYSTEM,
+            max_output_tokens=2000,
+            tools=[SEARCH_TOOL],
+        ),
     )
 
-    brief = _extract_text(response)
+    brief = response.text or ""
     print(f"[essay] research brief: {len(brief)} chars")
     return brief
 
@@ -70,7 +69,7 @@ def _search_sources(entry: Dict) -> str:
 # ── STEP 2: ESSAY WRITING ─────────────────────────────────────────────────────
 
 def _write_essay(entry: Dict, research_brief: str, prior_coverage: str) -> str:
-    """Sonnet: write the 2000-word essay for today's specific angle."""
+    """Write the 2000-word essay for today's specific angle."""
     print(f"[essay] step 2 — writing essay (angle: {entry['angle']})...")
 
     user = ESSAY_WRITE_USER.format(
@@ -85,14 +84,17 @@ def _write_essay(entry: Dict, research_brief: str, prior_coverage: str) -> str:
         research_brief = research_brief,
     )
 
-    response = client.messages.create(
-        model=SONNET,
-        max_tokens=4000,
-        system=ESSAY_WRITE_SYSTEM,
-        messages=[{"role": "user", "content": user}],
+    response = _get_client().models.generate_content(
+        model=PRO,
+        contents=user,
+        config=types.GenerateContentConfig(
+            system_instruction=ESSAY_WRITE_SYSTEM,
+            max_output_tokens=4000,
+            temperature=0.4,
+        ),
     )
 
-    essay = _extract_text(response)
+    essay = response.text or ""
     word_count = len(essay.split())
     print(f"[essay] essay: {word_count} words")
     return essay
@@ -101,7 +103,7 @@ def _write_essay(entry: Dict, research_brief: str, prior_coverage: str) -> str:
 # ── STEP 3: PIVOT LENS ────────────────────────────────────────────────────────
 
 def _write_pivot_lens(entry: Dict, essay: str) -> str:
-    """Haiku: write the role-specific pivot lens (150-200 words)."""
+    """Write the role-specific pivot lens (150-200 words)."""
     print(f"[essay] step 3 — writing pivot lens (role: {entry['role_lens']})...")
 
     essay_opening = essay[:1000] + "..." if len(essay) > 1000 else essay
@@ -113,14 +115,17 @@ def _write_pivot_lens(entry: Dict, essay: str) -> str:
         essay_opening        = essay_opening,
     )
 
-    response = client.messages.create(
-        model=HAIKU,
-        max_tokens=500,
-        system=PIVOT_LENS_SYSTEM,
-        messages=[{"role": "user", "content": user}],
+    response = _get_client().models.generate_content(
+        model=FLASH,
+        contents=user,
+        config=types.GenerateContentConfig(
+            system_instruction=PIVOT_LENS_SYSTEM,
+            max_output_tokens=500,
+            temperature=0.3,
+        ),
     )
 
-    pivot_lens = _extract_text(response)
+    pivot_lens = response.text or ""
     print(f"[essay] pivot lens: {len(pivot_lens.split())} words")
     return pivot_lens
 
@@ -128,23 +133,24 @@ def _write_pivot_lens(entry: Dict, essay: str) -> str:
 # ── STEP 4: ARGUMENT EXTRACTION ───────────────────────────────────────────────
 
 def _extract_arguments(essay: str) -> List[str]:
-    """Haiku: extract 3-5 key arguments from the essay for memory storage."""
+    """Extract 3-5 key arguments from the essay for memory storage."""
     print(f"[essay] step 4 — extracting key arguments for memory...")
 
     user = EXTRACT_ARGS_USER.format(essay_text=essay[:3000])
 
-    response = client.messages.create(
-        model=HAIKU,
-        max_tokens=300,
-        system=EXTRACT_ARGS_SYSTEM,
-        messages=[{"role": "user", "content": user}],
+    response = _get_client().models.generate_content(
+        model=FLASH,
+        contents=user,
+        config=types.GenerateContentConfig(
+            system_instruction=EXTRACT_ARGS_SYSTEM,
+            max_output_tokens=300,
+            temperature=0.1,
+        ),
     )
 
-    raw = _extract_text(response).strip()
+    raw = (response.text or "").strip()
 
-    # Parse JSON array
     try:
-        # Strip markdown fences if present
         if raw.startswith("```"):
             raw = raw.split("```")[1]
             if raw.startswith("json"):
@@ -179,7 +185,6 @@ def generate_essay() -> Dict:
     print(f"[essay] Angle:     {entry['angle']}")
     print(f"[essay] Role lens: {entry['role_lens']}")
 
-    # Build prior coverage context from essay memory
     prior_coverage = build_prior_coverage_block(entry["topic"])
     if prior_coverage:
         print(f"[essay] Prior coverage block: {len(prior_coverage)} chars")

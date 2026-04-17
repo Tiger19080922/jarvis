@@ -1,19 +1,26 @@
 """
-scorer.py — Haiku batch scoring with rate limit handling.
+scorer.py — Gemini batch scoring with rate limit handling.
 """
 
-import anthropic
+from google import genai
+from google.genai import types
 import json
 import time
 from typing import List, Dict
 
-from config import HAIKU, RELEVANCE_THRESHOLD, EDITORIAL_FILTER, ANTHROPIC_API_KEY
+from config import FLASH, RELEVANCE_THRESHOLD, EDITORIAL_FILTER, GOOGLE_API_KEY
 import memory as mem
 
-client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+_client = None
 
-BATCH_SIZE  = 15   # smaller batches
-BATCH_PAUSE = 30   # 30s between batches — lets the token window reset
+def _get_client():
+    global _client
+    if _client is None:
+        _client = genai.Client(api_key=GOOGLE_API_KEY)
+    return _client
+
+BATCH_SIZE  = 15   # items per batch
+BATCH_PAUSE = 30   # seconds between batches — lets the quota window reset
 
 SCORE_SYSTEM = f"""
 You are a senior editor at an AI India newsletter.
@@ -48,18 +55,15 @@ Start your response with [ and nothing else.
 
 def _extract_json(text: str) -> list:
     text = text.strip()
-    # Find first [ bracket
     bracket = text.find("[")
     if bracket > 0:
         text = text[bracket:]
-    # Strip markdown fences
     if text.startswith("```"):
         parts = text.split("```")
         text = parts[1] if len(parts) > 1 else text
         if text.startswith("json"):
             text = text[4:]
     text = text.strip()
-    # Find matching ] to handle extra data after the array
     depth = 0
     end = 0
     for i, ch in enumerate(text):
@@ -75,48 +79,51 @@ def _extract_json(text: str) -> list:
     return json.loads(text)
 
 
+def _is_rate_limit(e: Exception) -> bool:
+    msg = str(e)
+    return "429" in msg or "RESOURCE_EXHAUSTED" in msg or "quota" in msg.lower()
+
+
 def _score_batch_with_retry(batch: list, b_idx: int, trace=None) -> dict:
-    """Score one batch, retry once after 20s on rate limit."""
+    """Score one batch, retry once after 30s on rate limit."""
     for attempt in range(2):
         try:
-            response = client.messages.create(
-                model=HAIKU,
-                max_tokens=600,
-                system=SCORE_SYSTEM,
-                messages=[{
-                    "role": "user",
-                    "content": f"Score these {len(batch)} articles:\n\n"
-                               + json.dumps(batch, ensure_ascii=False)
-                }],
+            response = _get_client().models.generate_content(
+                model=FLASH,
+                contents=f"Score these {len(batch)} articles:\n\n"
+                         + json.dumps(batch, ensure_ascii=False),
+                config=types.GenerateContentConfig(
+                    system_instruction=SCORE_SYSTEM,
+                    max_output_tokens=600,
+                    temperature=0.1,
+                ),
             )
             if trace:
                 trace.span(name=f"batch_score_{b_idx}", input={"item_count": len(batch)})
 
-            text = "".join(
-                block.text for block in response.content
-                if hasattr(block, "text")
-            )
+            text = response.text or ""
             batch_scores = _extract_json(text)
             return {s["id"]: s for s in batch_scores}
 
-        except anthropic.RateLimitError:
-            if attempt == 0:
-                print(f"[scorer] rate limit hit on batch {b_idx+1}, waiting 30s...")
-                time.sleep(30)
-            else:
-                print(f"[scorer] rate limit persists on batch {b_idx+1}, skipping")
-                return {item["id"]: {"id": item["id"], "score": 3,
-                                     "category": "OTHER", "reason": "rate limit"}
-                        for item in batch}
         except Exception as e:
-            print(f"[scorer] ERROR on batch {b_idx+1}: {e}")
-            return {item["id"]: {"id": item["id"], "score": 3,
-                                 "category": "OTHER", "reason": "error"}
-                    for item in batch}
+            if _is_rate_limit(e):
+                if attempt == 0:
+                    print(f"[scorer] rate limit hit on batch {b_idx+1}, waiting 30s...")
+                    time.sleep(30)
+                else:
+                    print(f"[scorer] rate limit persists on batch {b_idx+1}, skipping")
+                    return {item["id"]: {"id": item["id"], "score": 3,
+                                         "category": "OTHER", "reason": "rate limit"}
+                            for item in batch}
+            else:
+                print(f"[scorer] ERROR on batch {b_idx+1}: {e}")
+                return {item["id"]: {"id": item["id"], "score": 3,
+                                     "category": "OTHER", "reason": "error"}
+                        for item in batch}
 
 
 def score_and_filter(items: List[Dict], trace=None) -> List[Dict]:
-    # Dedup — pass category when available for entity-level blocking
+    # Dedup
     before = len(items)
     items = [
         i for i in items
@@ -127,13 +134,11 @@ def score_and_filter(items: List[Dict], trace=None) -> List[Dict]:
     if not items:
         return []
 
-    # Trim to save tokens
     numbered = [
         {"id": idx, "title": item["title"], "summary": item["summary"][:100]}
         for idx, item in enumerate(items)
     ]
 
-    # Batch score
     score_map = {}
     batches = [numbered[i:i+BATCH_SIZE] for i in range(0, len(numbered), BATCH_SIZE)]
 
@@ -146,7 +151,6 @@ def score_and_filter(items: List[Dict], trace=None) -> List[Dict]:
         result = _score_batch_with_retry(batch, b_idx, trace)
         score_map.update(result)
 
-    # Filter and sort
     enriched = []
     for idx, item in enumerate(items):
         s = score_map.get(idx, {"score": 3, "category": "OTHER", "reason": ""})
