@@ -52,6 +52,21 @@ def _extract_items(text: str) -> List[Dict]:
         if text.startswith("json"):
             text = text[4:]
 
+    # Find the matching closing bracket to strip any grounding citations appended after
+    text = text.strip()
+    depth = 0
+    end = 0
+    for i, ch in enumerate(text):
+        if ch == "[":
+            depth += 1
+        elif ch == "]":
+            depth -= 1
+            if depth == 0:
+                end = i + 1
+                break
+    if end:
+        text = text[:end]
+
     try:
         items = json.loads(text.strip())
         if not isinstance(items, list):

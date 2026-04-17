@@ -7,8 +7,8 @@ import os
 from datetime import datetime
 
 # ── MODELS ────────────────────────────────────────────────────────────────────
-FLASH  = "gemini-2.0-flash-lite"  # cheapest: scoring, search, subject line, pivot lens
-PRO    = "gemini-2.5-flash"       # writing tasks: story, essay (upgrade to gemini-2.5-pro for higher quality)
+FLASH  = "gemini-2.5-flash-lite"  # cheapest: scoring, search, subject line, pivot lens
+PRO    = "gemini-2.5-flash"       # writing tasks: story, essay
 
 # ── PIPELINE THRESHOLDS ───────────────────────────────────────────────────────
 RELEVANCE_THRESHOLD   = 6      # min score (1-10) to pass scoring filter

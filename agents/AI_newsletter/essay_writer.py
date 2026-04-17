@@ -84,15 +84,25 @@ def _write_essay(entry: Dict, research_brief: str, prior_coverage: str) -> str:
         research_brief = research_brief,
     )
 
-    response = _get_client().models.generate_content(
-        model=PRO,
-        contents=user,
-        config=types.GenerateContentConfig(
-            system_instruction=ESSAY_WRITE_SYSTEM,
-            max_output_tokens=4000,
-            temperature=0.4,
-        ),
-    )
+    for attempt in range(3):
+        try:
+            response = _get_client().models.generate_content(
+                model=PRO,
+                contents=user,
+                config=types.GenerateContentConfig(
+                    system_instruction=ESSAY_WRITE_SYSTEM,
+                    max_output_tokens=4000,
+                    temperature=0.4,
+                ),
+            )
+            break
+        except Exception as e:
+            if "503" in str(e) or "UNAVAILABLE" in str(e):
+                wait = 30 * (attempt + 1)
+                print(f"[essay] 503 on write, retrying in {wait}s...")
+                time.sleep(wait)
+            else:
+                raise
 
     essay = response.text or ""
     word_count = len(essay.split())

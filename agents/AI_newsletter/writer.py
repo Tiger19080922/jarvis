@@ -77,22 +77,32 @@ def _extract_json(text: str) -> dict:
 
 def _call(model: str, system: str, user: str, max_tokens: int,
           step_name: str, trace=None) -> str:
-    """Single Gemini call with logging."""
-    response = _get_client().models.generate_content(
-        model=model,
-        contents=user,
-        config=types.GenerateContentConfig(
-            system_instruction=system,
-            max_output_tokens=max_tokens,
-            temperature=0.3,
-        ),
-    )
-    text = response.text or ""
-    if trace:
-        trace.span(name=step_name,
-                   input={"chars": len(user)},
-                   output={"chars": len(text)})
-    return text
+    """Single Gemini call with logging. Retries once on 503."""
+    for attempt in range(3):
+        try:
+            response = _get_client().models.generate_content(
+                model=model,
+                contents=user,
+                config=types.GenerateContentConfig(
+                    system_instruction=system,
+                    max_output_tokens=max_tokens,
+                    temperature=0.3,
+                ),
+            )
+            text = response.text or ""
+            if trace:
+                trace.span(name=step_name,
+                           input={"chars": len(user)},
+                           output={"chars": len(text)})
+            return text
+        except Exception as e:
+            if "503" in str(e) or "UNAVAILABLE" in str(e):
+                wait = 30 * (attempt + 1)
+                print(f"[writer] 503 on {step_name}, retrying in {wait}s... (attempt {attempt+1})")
+                time.sleep(wait)
+            else:
+                raise
+    raise RuntimeError(f"[writer] {step_name} failed after 3 attempts")
 
 
 # ─── STEP 1: RESEARCH ────────────────────────────────────────────────────────
