@@ -76,18 +76,22 @@ def _extract_json(text: str) -> dict:
 
 
 def _call(model: str, system: str, user: str, max_tokens: int,
-          step_name: str, trace=None) -> str:
-    """Single Gemini call with logging. Retries once on 503."""
+          step_name: str, trace=None, thinking: bool = False) -> str:
+    """Single Gemini call with logging. Retries once on 503.
+    thinking=False disables the thinking budget to save tokens on structured steps."""
     for attempt in range(3):
         try:
+            cfg = types.GenerateContentConfig(
+                system_instruction=system,
+                max_output_tokens=max_tokens,
+                temperature=0.3,
+            )
+            if not thinking:
+                cfg.thinking_config = types.ThinkingConfig(thinking_budget=0)
             response = _get_client().models.generate_content(
                 model=model,
                 contents=user,
-                config=types.GenerateContentConfig(
-                    system_instruction=system,
-                    max_output_tokens=max_tokens,
-                    temperature=0.3,
-                ),
+                config=cfg,
             )
             text = response.text or ""
             if trace:
@@ -178,9 +182,10 @@ def write_narrative(item: Dict, research_brief: str,
         model=PRO,
         system=NARRATIVE_SYSTEM,
         user=user,
-        max_tokens=2000,
+        max_tokens=3000,
         step_name="narrative",
         trace=trace,
+        thinking=True,   # narrative writing benefits from reasoning
     )
 
     word_count = len(narrative.split())
@@ -204,7 +209,7 @@ def extract_structure(narrative: str, item: Dict, trace=None) -> Dict:
         model=PRO,
         system=EXTRACT_SYSTEM,
         user=user,
-        max_tokens=2000,
+        max_tokens=4000,    # needs room for full JSON — thinking disabled to not waste tokens
         step_name="extract",
         trace=trace,
     )
