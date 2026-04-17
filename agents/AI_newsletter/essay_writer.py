@@ -29,7 +29,8 @@ _client = None
 def _get_client():
     global _client
     if _client is None:
-        _client = genai.Client(api_key=GOOGLE_API_KEY)
+        _client = genai.Client(api_key=GOOGLE_API_KEY,
+                               http_options={"api_version": "v1"})
     return _client
 
 SEARCH_TOOL = types.Tool(google_search=types.GoogleSearch())
