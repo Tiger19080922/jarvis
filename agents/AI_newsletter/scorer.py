@@ -123,8 +123,11 @@ def _score_batch_with_retry(batch: list, b_idx: int, trace=None) -> dict:
 
 
 def score_and_filter(items: List[Dict], trace=None) -> List[Dict]:
-    # Dedup
+    # Step 1: within-run dedup (catches same-run duplicates before memory check)
     before = len(items)
+    items = mem.dedup_batch(items)
+
+    # Step 2: cross-run dedup against memory
     items = [
         i for i in items
         if not mem.is_duplicate(i["title"], category=i.get("category", ""))
