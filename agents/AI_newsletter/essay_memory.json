@@ -1,0 +1,17 @@
+{
+  "essays": [
+    {
+      "date": "2026-04-21T21:15:45.459507",
+      "day_number": 11,
+      "topic": "RAG, Embeddings, and Retrieval",
+      "angle": "RAG vs fine-tuning: the decision framework",
+      "key_arguments": [
+        "RAG provides dynamic, verifiable context; fine-tuning bakes in behavior and stable knowledge.",
+        "The choice between RAG and fine-tuning depends on knowledge volatility and required precision.",
+        "Misapplying RAG or fine-tuning leads to inefficient systems and inflated costs.",
+        "Embeddings capture semantic meaning, enabling relevant context retrieval in RAG.",
+        "Fine-tuning adapts LLM parameters for domain-specific behavior and knowledge."
+      ]
+    }
+  ]
+}
