@@ -12,6 +12,19 @@
         "Embeddings capture semantic meaning, enabling relevant context retrieval in RAG.",
         "Fine-tuning adapts LLM parameters for domain-specific behavior and knowledge."
       ]
+    },
+    {
+      "date": "2026-04-22T21:18:53.690800",
+      "day_number": 12,
+      "topic": "RAG, Embeddings, and Retrieval",
+      "angle": "RAG in India: enterprise knowledge management use cases",
+      "key_arguments": [
+        "RAG is a foundational requirement for Indian enterprises, not just an enhancement.",
+        "RAG bridges LLM general intelligence with an organization's specific knowledge.",
+        "Embeddings capture semantic meaning, enabling intelligent retrieval beyond keywords.",
+        "Chunking strategy and embedding model quality are critical for RAG effectiveness.",
+        "RAG drastically reduces hallucinations by grounding LLM responses in retrieved facts."
+      ]
     }
   ]
 }

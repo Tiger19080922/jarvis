@@ -1,108 +1,6 @@
 {
   "stories": [
     {
-      "title": "Sarvam AI and India's Sovereign AI Strategy Backed by Government Compute Allocation",
-      "url": "https://www.businessworld.in/article/sarvam-ai-350-million-funding-bessemer-nvidia-amazon-2026-600618",
-      "cat": "POLICY",
-      "date": "2026-04-07T23:57:48.422735"
-    },
-    {
-      "title": "Sarvam AI Nears $300-350 Million Funding Round at $1.5-1.55 Billion Valuation",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-02/india-ai-startup-sarvam-raises-funds-at-1-5-billion-valuation",
-      "cat": "FUNDING",
-      "date": "2026-04-07T23:57:48.422735"
-    },
-    {
-      "title": "H2LooP Secures $2 Mn To Scale AI Platform For Embedded Systems",
-      "url": "https://inc42.com/buzz/h2loop-secures-2-mn-to-scale-ai-platform-for-embedded-systems/",
-      "cat": "FUNDING",
-      "date": "2026-04-07T23:57:48.422735"
-    },
-    {
-      "title": "JIIF plans to invest Rs 80-100 Cr in early-stage startups",
-      "url": "https://yourstory.com/2026/04/jiif-aims-to-invest-rs-80-100-crore-in-early-stage-startups",
-      "cat": "FUNDING",
-      "date": "2026-04-07T23:57:48.422735"
-    },
-    {
-      "title": "Govt confirms AI-enabled CCTV cameras will be covered under the DPDP rules",
-      "url": "https://www.medianama.com/2026/04/223-govt-ai-enabled-cctv-cameras-dpdp-rules/",
-      "cat": "POLICY",
-      "date": "2026-04-07T23:57:48.422735"
-    },
-    {
-      "title": "Lowdown: RBI\u2019s new advisory pushes for tighter data use, AI safeguards, vendor checks",
-      "url": "https://www.medianama.com/2026/04/223-rbi-data-protection-cybersecurity-guidelines-advisory-2026/",
-      "cat": "POLICY",
-      "date": "2026-04-07T23:57:48.422735"
-    },
-    {
-      "title": "Centre moves to tighten IT rules, seeks Industry feedback on online content regulation",
-      "url": "https://www.livemint.com/technology/centre-moves-to-tighten-it-rules-seeks-industry-feedback-on-online-content-regulation-11775567272800.html",
-      "cat": "POLICY",
-      "date": "2026-04-07T23:57:48.422735"
-    },
-    {
-      "title": "India's Frugal AI Startups Sarvam and Krutrim Build Sovereign Models",
-      "url": "https://restofworld.org/2026/india-frugal-ai-sarvam-krutrim-sovereign/",
-      "cat": "RESEARCH",
-      "date": "2026-04-07T23:57:48.422735"
-    },
-    {
-      "title": "The AI Effect Or Just A Cover: What\u2019s Behind Big Tech Layoffs This Year?",
-      "url": "https://inc42.com/features/ai-new-cover-for-big-tech-layoffs/",
-      "cat": "RESEARCH",
-      "date": "2026-04-07T23:57:48.422735"
-    },
-    {
-      "title": "Beyond the cloud: NVIDIA explores local AI systems at DevSparks Pune 2026, with RP Tech, an NVIDIA partner",
-      "url": "https://yourstory.com/2026/04/nvidia-explores-local-ai-systems-devsparks-pune-2026-rp-tech-nvidia-partner",
-      "cat": "RESEARCH",
-      "date": "2026-04-07T23:57:48.422735"
-    },
-    {
-      "title": "Private, local, and fully yours: NVIDIA's vision for AI development at DevSparks Pune 2026, with RP Tech, an NVIDIA partner",
-      "url": "https://yourstory.com/2026/04/nvidias-vision-ai-development-devsparks-pune-2026-rp-tech-nvidia-partner",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-07T23:57:48.422735"
-    },
-    {
-      "title": "How two Bengaluru brothers are building a GitHub alternative for the AI age from Finland",
-      "url": "https://yourstory.com/2026/04/bengaluru-brothers-building-github-alternative-ai-age-finland",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-07T23:57:48.422735"
-    },
-    {
-      "title": "Natter raises $23M to replace enterprise surveys with AI-moderated video conversations",
-      "url": "https://thenextweb.com/news/natter-23m-series-a-ai-video-conversations-enterprise",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-07T23:57:48.422735"
-    },
-    {
-      "title": "AI Startup WorkOnGrid Nets \u20b922.5 Cr To Fuel International Expansion",
-      "url": "https://inc42.com/buzz/ai-startup-workongrid-nets-%e2%82%b922-5-cr-to-fuel-international-expansion/",
-      "cat": "FUNDING",
-      "date": "2026-04-08T00:17:40.319829"
-    },
-    {
-      "title": "SatLeo Labs Raises $2.2 Mn To Advance Thermal Satellite Intelligence Platform",
-      "url": "https://inc42.com/buzz/satleo-labs-raises-2-2-mn-to-advance-thermal-satellite-intelligence-platform/",
-      "cat": "RESEARCH",
-      "date": "2026-04-08T00:57:29.088882"
-    },
-    {
-      "title": "Anthropic Formally Opens Bengaluru Office, India Becomes Second-Largest Market",
-      "url": "https://www.crnasia.com/india/news/2026/anthropic-opens-india-office-as-revenue-doubles-enterprise-adoption-of-claude-accelerates",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-08T01:13:12.445314"
-    },
-    {
-      "title": "Sarvam AI Nears $300-350M Funding Round at $1.5B Valuation",
-      "url": "https://www.outlookbusiness.com/corporate/sarvam-ai-350m-funding-round-2026-bessemer-nvidia-amazon",
-      "cat": "FUNDING",
-      "date": "2026-04-08T01:51:12.644427"
-    },
-    {
       "title": "Sarvam AI in talks to raise $250-350 million at $1.5 billion valuation",
       "url": "https://digitalterminal.in/startup/sarvam-ai-hits-15b-valuation-with-fresh-350m-funding-to-boost-indias-ai-ecosystem",
       "cat": "FUNDING",
@@ -677,6 +575,108 @@
       "url": "https://www.livemint.com/technology/tech-news/vercel-data-leak-ceo-confirms-internal-breach-linked-to-ai-tool-as-hackers-claim-to-sell-stolen-data-for-2-million-11776650683210.html",
       "cat": "OTHER",
       "date": "2026-04-21T21:15:47.293227"
+    },
+    {
+      "title": "From data to decisions: What it takes to build real-time, AI-led consumer businesses in India",
+      "url": "https://yourstory.com/2026/04/from-data-to-decisions-what-it-takes-to-build-real-time-ai-led-consumer-businesses-in-india",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "Google unveils 8th gen TPU computing chips, Gemini enterprise AI agent platform at Next 2026",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/gemini-enterprise-agent-tpu-chips-google-cloud-next-2026-10650704/",
+      "cat": "RESEARCH",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "Pichai opens Cloud Next 2026 with $240B backlog, 750M Gemini users, and a plan to turn Search into an agent manager",
+      "url": "https://thenextweb.com/news/google-cloud-next-pichai-agentic-era-scale",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "How Gumo is building an AI co-pilot for travel planning",
+      "url": "https://yourstory.com/2026/04/how-gumo-is-building-an-ai-co-pilot-for-travel-planning",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "Your desk is now an AI lab: RP Tech, an NVIDIA Partner, demos NVIDIA DGX Spark in Bangalore",
+      "url": "https://yourstory.com/2026/04/ai-lab-rp-tech-nvidia-partner-demos-nvidia-dgx-spark",
+      "cat": "RESEARCH",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "ECI orders 3-hour takedown rule for AI and fake content in elections",
+      "url": "https://www.medianama.com/2026/04/223-eci-orders-3-hour-takedown-rule-ai-fake-content-elections/",
+      "cat": "POLICY",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "Google wants Chrome to be your AI colleague, and it is betting 3.8 billion users agree",
+      "url": "https://thenextweb.com/news/google-chrome-enterprise-ai-coworker-agentic-browser",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "Google splits its next TPU in two, and the AI chip war just became a design philosophy fight",
+      "url": "https://thenextweb.com/news/google-ironwood-tpu-inference-cloud-next",
+      "cat": "RESEARCH",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "AI Money Flows, But Not Via India",
+      "url": "https://inc42.com/features/ai-money-flows-but-not-via-india/",
+      "cat": "FUNDING",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "Google expands Gemini-powered Chrome experience to APAC region",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-brings-gemini-powered-chrome-experience-to-7-more-countries-10647804/",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "Trapped in an elevator? AI system at Namo Bharat stations can raise alarm in 60 seconds",
+      "url": "https://www.livemint.com/technology/trapped-in-an-elevator-ai-system-at-namo-bharat-stations-can-raise-alarm-in-60-seconds-11776857570583.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "Morgan Stanley: Agentic AI shifts value from GPUs to CPUs and memory, creating up to $60bn incremental CPU TAM by 2030",
+      "url": "https://www.livemint.com/technology/morgan-stanley-agentic-ai-shifts-value-from-gpus-to-cpus-and-memory-creating-up-to-60bn-incremental-cpu-tam-by-2030-11776844417171.html",
+      "cat": "RESEARCH",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "Google taps Sergey Brin to lead a specialized AI strike team to take on Anthropic's Claude: Report",
+      "url": "https://www.livemint.com/technology/tech-news/google-taps-sergey-brin-to-lead-a-specialized-ai-strike-team-to-take-on-anthropics-claude-report-11776743898618.html",
+      "cat": "RESEARCH",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "VAST Data\u2019s $30 billion valuation is a bet that the data layer is the real bottleneck in AI",
+      "url": "https://thenextweb.com/news/vast-data-1b-raise-30b-valuation-nvidia-ai-storage",
+      "cat": "RESEARCH",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "From lab to market: The financing gap plaguing the deeptech sector",
+      "url": "https://yourstory.com/2026/04/from-lab-to-market-the-financing-gap-plaguing-the-deeptech-sector",
+      "cat": "FUNDING",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "ChatGPT Images 2.0 brings reasoning to AI visuals, can now create full comics",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-images-2-0-brings-reasoning-to-ai-visuals-can-now-create-full-comics-10649407/",
+      "cat": "RESEARCH",
+      "date": "2026-04-22T21:18:55.560723"
+    },
+    {
+      "title": "Mozilla patched 271 Firefox bugs found by Anthropic\u2019s Mythos, and says the zero-day era has an expiration date",
+      "url": "https://thenextweb.com/news/mozilla-firefox-claude-mythos-271-vulnerabilities",
+      "cat": "RESEARCH",
+      "date": "2026-04-22T21:18:55.560723"
     }
   ]
 }
