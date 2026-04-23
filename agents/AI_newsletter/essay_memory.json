@@ -25,6 +25,19 @@
         "Chunking strategy and embedding model quality are critical for RAG effectiveness.",
         "RAG drastically reduces hallucinations by grounding LLM responses in retrieved facts."
       ]
+    },
+    {
+      "date": "2026-04-23T21:17:25.568880",
+      "day_number": 13,
+      "topic": "RAG, Embeddings, and Retrieval",
+      "angle": "Retrieval failure modes: why RAG systems break in production",
+      "key_arguments": [
+        "Sustaining RAG performance requires continuous evaluation and feedback loops.",
+        "Product managers must identify, measure, and mitigate retrieval failure modes.",
+        "Bad retrieval includes scattered evidence and over-retrieval leading to noise.",
+        "Chunking strategy is critical; poorly sized chunks cause fragmentation or dilution.",
+        "Bad embeddings can compromise the retrieval process's effectiveness."
+      ]
     }
   ]
 }
