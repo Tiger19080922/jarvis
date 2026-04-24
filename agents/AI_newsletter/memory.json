@@ -731,6 +731,126 @@
       "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-investigating-of-rogue-access-to-claude-mythos-ai-10650168/",
       "cat": "RESEARCH",
       "date": "2026-04-23T21:17:27.361046"
+    },
+    {
+      "title": "Centre Mulls Stricter AI Governance Framework Amid Rising Risks: Report",
+      "url": "https://inc42.com/buzz/centre-mulls-stricter-ai-governance-framework-amid-rising-risks-report/",
+      "cat": "POLICY",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "Swiggy opens AI commerce stack to external developers with Builders Club",
+      "url": "https://yourstory.com/2026/04/swiggy-opens-ai-commerce-stack-to-external-developers-with-builders-club",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "Parminder Singh Appointed CEO Of Reliance\u2019s AI Subsidiary",
+      "url": "https://inc42.com/buzz/parminder-singh-appointed-ceo-of-reliances-ai-subsidiary/",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "L&T Incorporates AI Data Centre Subsidiary Vyoma.AI",
+      "url": "https://inc42.com/buzz/lt-incorporates-ai-data-centre-subsidiary-vyoma-ai/",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "Bettrlabs is building an AI-powered R&D platform for consumer product innovation",
+      "url": "https://yourstory.com/2026/04/bettrlabs-ai-powered-platform-for-consumer-product-innovation",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "DeepSeek is back: China's AI claims to surpass ChatGPT and Gemini in key benchmarks",
+      "url": "https://www.livemint.com/technology/tech-news/deepseek-is-back-chinas-ai-claims-to-surpass-chatgpt-and-gemini-in-key-benchmarks-11777004433233.html",
+      "cat": "RESEARCH",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "ITI Unveils Strategic Policy Framework for Building an AI-Ready Workforce",
+      "url": "https://www.itic.org/news/releases/iti-unveils-strategic-policy-framework-for-building-an-ai-ready-workforce",
+      "cat": "POLICY",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "AI Cybersecurity startup Deep Algorithm raises Rs 16 Crore funding from Unicorn India Ventures",
+      "url": "https://zeenews.india.com/companies/ai-cybersecurity-startup-deep-algorithm-raises-rs-16-crore-funding-from-unicorn-india-ventures-2877228.html",
+      "cat": "FUNDING",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "SuperOps Lays Off 30% Staff In AI-Led Restructuring Push",
+      "url": "https://inc42.com/buzz/superops-lays-off-30-staff-in-ai-led-restructuring-push/",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "OpenAI rolls out GPT-5.5, highlights speed, accuracy, and real-world use",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-rolls-out-gpt-5-5-highlights-speed-accuracy-and-real-world-use-10653022/",
+      "cat": "RESEARCH",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "Did Anthropic \u2018dumb down\u2019 Claude Code? Post-mortem reveals the three bugs that crippled performance",
+      "url": "https://www.livemint.com/technology/tech-news/did-anthropic-dumb-down-claude-code-post-mortem-reveals-the-three-bugs-that-crippled-performance-11777013226388.html",
+      "cat": "RESEARCH",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "Cohere and Aleph Alpha announce merger in Berlin, creating a $20 billion transatlantic AI company",
+      "url": "https://thenextweb.com/news/cohere-aleph-alpha-merger-20-billion",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "Nasscom's Feedback on the Report on AI Governance Guidelines Development",
+      "url": "https://www.nasscom.in/knowledge-centre/reports/nasscoms-feedback-report-ai-governance-guidelines-development",
+      "cat": "POLICY",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "Egocentric data collection fuels AI robotics growth in India",
+      "url": "https://economictimes.indiatimes.com/tech/startups/egocentric-data-collection-fuels-ai-robotics-growth-in-india/articleshow/100422436.cms",
+      "cat": "RESEARCH",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "APOLLO AI learns from 25 billion medical events to predict future disease",
+      "url": "https://www.news-medical.net/news/20260423/APOLLO-AI-learns-from-25-billion-medical-events-to-predict-future-disease.aspx",
+      "cat": "RESEARCH",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "IISc's Centre for Brain Research Launches \u20b92 Crore AI Challenge for Early Detection of Cognitive Decline",
+      "url": "https://swarajyamag.com/science/iisc-s-centre-for-brain-research-launches-rs-2-crore-ai-challenge-to-detect-cognitive-decline-early",
+      "cat": "RESEARCH",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "You can now ask ChatGPT to find cheap flights with the new Skyscanner integration: step-by-step guide",
+      "url": "https://www.livemint.com/technology/tech-news/you-can-now-ask-chatgpt-to-find-cheap-flights-using-the-new-skyscanner-integration-check-step-by-step-guide-11777018517092.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "Singapore emerging as neutral ground as AI firms navigate Sino-US rivalry",
+      "url": "https://www.livemint.com/technology/singapore-emerging-as-neutral-ground-as-ai-firms-navigate-sino-us-rivalry-11776990691733.html",
+      "cat": "POLICY",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "Indian Researchers Develop Molecular Memristor for Neuromorphic Computing",
+      "url": "https://www.eetimes.com/indian-researchers-develop-molecular-memristor-for-neuromorphic-computing/",
+      "cat": "RESEARCH",
+      "date": "2026-04-24T21:17:32.555838"
+    },
+    {
+      "title": "MemPalace AI memory system launches, gains significant GitHub traction",
+      "url": "https://arxiv.org/abs/2604.18570",
+      "cat": "RESEARCH",
+      "date": "2026-04-24T21:17:32.555838"
     }
   ]
 }

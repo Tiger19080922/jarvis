@@ -38,6 +38,19 @@
         "Chunking strategy is critical; poorly sized chunks cause fragmentation or dilution.",
         "Bad embeddings can compromise the retrieval process's effectiveness."
       ]
+    },
+    {
+      "date": "2026-04-24T21:17:30.632627",
+      "day_number": 14,
+      "topic": "RAG, Embeddings, and Retrieval",
+      "angle": "Week synthesis: RAG as a product architecture decision",
+      "key_arguments": [
+        "RAG is a strategic product architecture decision, not just a technical detail.",
+        "RAG enables dynamic, verifiable knowledge at scale, moving beyond LLM hallucinations.",
+        "Chunking is a critical architectural decision impacting retrieval quality significantly.",
+        "Embeddings capture semantic meaning, enabling efficient similarity searches for retrieval.",
+        "RAG requires a product management focus on data provenance and system evaluation."
+      ]
     }
   ]
 }
