@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jarvis</title>
+<link rel="icon" href="/static/favicon.png" type="image/png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+/* ── mobius ring ──────────────────────────────────────────────── */
+.ring{
+  flex-shrink:0;cursor:pointer;display:block;
+  mix-blend-mode:screen;
+}
+
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;overflow:hidden}
+
+:root{
+  --bg:        #0f0f0f;
+  --surface:   #1a1a1a;
+  --surface2:  #242424;
+  --border:    rgba(255,255,255,0.08);
+  --border-md: rgba(255,255,255,0.13);
+  --text:      #ececec;
+  --muted:     #888;
+  --muted-md:  #aaa;
+  --accent:    #20808d;
+  --accent-lt: rgba(32,128,141,0.15);
+  --font:      'Inter',system-ui,sans-serif;
+  --sidebar-w: 52px;
+  --content-w: 680px;
+}
+
+body{background:var(--bg);font-family:var(--font);color:var(--text);display:flex;height:100vh;overflow:hidden}
+
+/* ── sidebar ──────────────────────────────────────────────────── */
+#sidebar{
+  width:var(--sidebar-w);
+  flex-shrink:0;
+  height:100%;
+  border-right:1px solid var(--border);
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  padding:16px 0 20px;
+  gap:4px;
+  background:var(--bg);
+  z-index:20;
+}
+
+.sb-logo{
+  width:32px;height:32px;
+  margin-bottom:12px;
+}
+
+.sb-btn{
+  width:36px;height:36px;
+  border-radius:8px;
+  border:none;
+  background:transparent;
+  color:var(--muted);
+  cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  transition:background 0.15s, color 0.15s;
+  position:relative;
+}
+.sb-btn:hover{background:var(--surface);color:var(--muted-md)}
+.sb-btn.active{background:var(--surface2);color:var(--text)}
+.sb-btn svg{width:18px;height:18px}
+
+.sb-spacer{flex:1}
+
+/* top-k small control in sidebar */
+.sb-topk{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:4px;
+  padding:8px 0;
+  border-top:1px solid var(--border);
+  width:100%;
+}
+.sb-topk-num{font-size:11px;color:var(--muted);font-weight:500}
+.sb-topk input[type=range]{
+  writing-mode:vertical-lr;
+  direction:rtl;
+  -webkit-appearance:slider-vertical;
+  appearance:auto;
+  width:4px;height:60px;
+  cursor:pointer;
+  accent-color:var(--accent);
+}
+
+/* ── main ─────────────────────────────────────────────────────── */
+#main{flex:1;height:100%;display:flex;flex-direction:column;overflow:hidden;position:relative}
+
+/* ── views ────────────────────────────────────────────────────── */
+.view{display:none;height:100%;flex-direction:column}
+.view.active{display:flex}
+
+/* ══════════════════════════════════════════════
+   HOME VIEW
+══════════════════════════════════════════════ */
+#home-view{
+  align-items:center;
+  justify-content:center;
+  gap:0;
+}
+
+.home-logo{
+  display:flex;align-items:center;gap:12px;
+  margin-bottom:32px;
+}
+.home-logo .icon{
+  width:40px;height:40px;
+  border-radius:10px;
+  background:var(--accent);
+  display:flex;align-items:center;justify-content:center;
+  font-size:20px;
+}
+.home-logo h1{
+  font-size:22px;
+  font-weight:600;
+  letter-spacing:-0.03em;
+  color:var(--text);
+}
+.home-logo p{
+  font-size:13px;
+  color:var(--muted);
+  margin-top:1px;
+}
+
+.home-search-wrap{
+  width:100%;
+  max-width:580px;
+  position:relative;
+}
+
+.search-box{
+  width:100%;
+  background:var(--surface);
+  border:1px solid var(--border-md);
+  border-radius:16px;
+  padding:18px 56px 18px 20px;
+  font-size:15px;
+  font-family:var(--font);
+  color:var(--text);
+  outline:none;
+  resize:none;
+  line-height:1.5;
+  min-height:58px;
+  max-height:160px;
+  display:block;
+  transition:border-color 0.2s, box-shadow 0.2s;
+}
+.search-box::placeholder{color:var(--muted)}
+.search-box:focus{
+  border-color:rgba(32,128,141,0.5);
+  box-shadow:0 0 0 3px rgba(32,128,141,0.08);
+}
+
+.search-send{
+  position:absolute;
+  right:12px;bottom:12px;
+  width:34px;height:34px;
+  border-radius:10px;
+  border:none;
+  background:var(--accent);
+  color:#fff;
+  cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  transition:opacity 0.15s, transform 0.1s;
+}
+.search-send:hover{opacity:0.85}
+.search-send:active{transform:scale(0.93)}
+.search-send svg{width:16px;height:16px}
+
+.home-hints{
+  display:flex;
+  gap:8px;
+  margin-top:16px;
+  flex-wrap:wrap;
+  justify-content:center;
+}
+.hint-chip{
+  background:var(--surface);
+  border:1px solid var(--border);
+  border-radius:20px;
+  padding:6px 14px;
+  font-size:12px;
+  color:var(--muted-md);
+  cursor:pointer;
+  transition:background 0.15s, border-color 0.15s, color 0.15s;
+}
+.hint-chip:hover{
+  background:var(--surface2);
+  border-color:var(--border-md);
+  color:var(--text);
+}
+
+/* ══════════════════════════════════════════════
+   THREAD VIEW
+══════════════════════════════════════════════ */
+#thread-view{flex-direction:column}
+
+#thread-scroll{
+  flex:1;
+  overflow-y:auto;
+  padding:40px 0 20px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+#thread-scroll::-webkit-scrollbar{width:4px}
+#thread-scroll::-webkit-scrollbar-track{background:transparent}
+#thread-scroll::-webkit-scrollbar-thumb{background:rgba(255,255,255,0.1);border-radius:2px}
+#thread-scroll::-webkit-scrollbar-thumb:hover{background:rgba(255,255,255,0.2)}
+
+#thread-content{
+  width:100%;
+  max-width:var(--content-w);
+  display:flex;
+  flex-direction:column;
+  gap:0;
+  padding:0 24px;
+}
+
+/* query heading */
+.thread-query{
+  font-size:24px;
+  font-weight:600;
+  letter-spacing:-0.03em;
+  color:var(--text);
+  line-height:1.3;
+  margin-bottom:24px;
+  animation:fadeIn 0.2s ease;
+}
+@keyframes fadeIn{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+
+/* source cards row */
+.sources-section{
+  margin-bottom:24px;
+  animation:fadeIn 0.25s ease both;
+}
+.sources-label{
+  font-size:11px;
+  font-weight:600;
+  letter-spacing:0.08em;
+  text-transform:uppercase;
+  color:var(--muted);
+  margin-bottom:10px;
+}
+.source-cards{
+  display:flex;
+  gap:8px;
+  flex-wrap:wrap;
+}
+.source-card{
+  background:var(--surface);
+  border:1px solid var(--border);
+  border-radius:10px;
+  padding:10px 12px;
+  flex:1;
+  min-width:140px;
+  max-width:200px;
+  cursor:default;
+  transition:border-color 0.15s, background 0.15s;
+}
+.source-card:hover{background:var(--surface2);border-color:var(--border-md)}
+.source-card-num{
+  font-size:10px;
+  font-weight:600;
+  color:var(--muted);
+  margin-bottom:4px;
+}
+.source-card-name{
+  font-size:12px;
+  font-weight:500;
+  color:var(--muted-md);
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  margin-bottom:3px;
+}
+.source-card-snippet{
+  font-size:11px;
+  color:var(--muted);
+  line-height:1.4;
+  display:-webkit-box;
+  -webkit-line-clamp:2;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
+}
+
+/* answer body */
+.answer-section{
+  animation:fadeIn 0.3s 0.05s ease both;
+}
+.answer-label{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  font-size:11px;
+  font-weight:600;
+  letter-spacing:0.08em;
+  text-transform:uppercase;
+  color:var(--muted);
+  margin-bottom:14px;
+}
+
+.answer-body{
+  font-size:15px;
+  line-height:1.75;
+  color:var(--text);
+  letter-spacing:-0.005em;
+}
+.answer-body .cite{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:18px;height:18px;
+  border-radius:5px;
+  background:var(--surface2);
+  border:1px solid var(--border-md);
+  font-size:10px;
+  font-weight:600;
+  color:var(--muted-md);
+  vertical-align:middle;
+  margin:0 1px;
+  cursor:default;
+  line-height:1;
+}
+
+/* divider between turns */
+.thread-divider{
+  height:1px;
+  background:var(--border);
+  margin:36px 0;
+}
+
+/* thinking / loading state */
+.thinking-row{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  margin-bottom:20px;
+  animation:fadeIn 0.2s ease;
+}
+.thinking-dot{
+  width:7px;height:7px;
+  border-radius:50%;
+  background:var(--muted);
+  animation:blink 1.2s ease infinite;
+}
+.thinking-dot:nth-child(2){animation-delay:0.18s}
+.thinking-dot:nth-child(3){animation-delay:0.36s}
+@keyframes blink{0%,60%,100%{opacity:0.3;transform:scale(0.85)}30%{opacity:1;transform:scale(1)}}
+.thinking-label{font-size:13px;color:var(--muted)}
+
+/* ── follow-up bar ────────────────────────────────────────────── */
+#followup-bar{
+  flex-shrink:0;
+  padding:12px 24px 20px;
+  display:flex;
+  justify-content:center;
+  background:linear-gradient(to top, var(--bg) 75%, transparent);
+}
+#followup-wrap{
+  width:100%;
+  max-width:var(--content-w);
+  position:relative;
+}
+#followup-input{
+  width:100%;
+  background:var(--surface);
+  border:1px solid var(--border-md);
+  border-radius:14px;
+  padding:14px 52px 14px 18px;
+  font-size:14px;
+  font-family:var(--font);
+  color:var(--text);
+  outline:none;
+  resize:none;
+  min-height:50px;
+  max-height:120px;
+  line-height:1.5;
+  transition:border-color 0.2s, box-shadow 0.2s;
+}
+#followup-input::placeholder{color:var(--muted)}
+#followup-input:focus{
+  border-color:rgba(32,128,141,0.5);
+  box-shadow:0 0 0 3px rgba(32,128,141,0.08);
+}
+#followup-send{
+  position:absolute;
+  right:10px;bottom:10px;
+  width:32px;height:32px;
+  border-radius:9px;
+  border:none;
+  background:var(--accent);
+  color:#fff;
+  cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  transition:opacity 0.15s;
+}
+#followup-send:hover{opacity:0.85}
+#followup-send svg{width:15px;height:15px}
+
+/* ══════════════════════════════════════════════
+   EXPLORE VIEW
+══════════════════════════════════════════════ */
+#explore-view{
+  overflow-y:auto;
+  padding:40px 0 48px;
+  align-items:center;
+}
+#explore-view::-webkit-scrollbar{width:4px}
+#explore-view::-webkit-scrollbar-track{background:transparent}
+#explore-view::-webkit-scrollbar-thumb{background:rgba(255,255,255,0.1);border-radius:2px}
+
+#explore-inner{
+  width:100%;
+  max-width:860px;
+  padding:0 32px;
+}
+
+.explore-h{
+  font-size:20px;
+  font-weight:600;
+  letter-spacing:-0.03em;
+  margin-bottom:6px;
+}
+.explore-sub{font-size:13px;color:var(--muted);margin-bottom:28px}
+
+.stat-grid{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:10px;
+  margin-bottom:24px;
+}
+.stat-card{
+  background:var(--surface);
+  border:1px solid var(--border);
+  border-radius:12px;
+  padding:18px 18px 14px;
+  transition:border-color 0.15s;
+}
+.stat-card:hover{border-color:var(--border-md)}
+.stat-lbl{font-size:10px;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.stat-val{font-size:26px;font-weight:600;letter-spacing:-0.04em;color:var(--text)}
+.stat-sub{font-size:11px;color:var(--muted);margin-top:4px}
+
+.chart-row{display:grid;gap:10px;margin-bottom:10px}
+.chart-row.two{grid-template-columns:1fr 1fr}
+.chart-row.one{grid-template-columns:1fr}
+
+.chart-card{
+  background:var(--surface);
+  border:1px solid var(--border);
+  border-radius:12px;
+  padding:20px 20px 14px;
+}
+.chart-lbl{font-size:10px;font-weight:600;letter-spacing:0.1em;text-transform:uppercase;color:var(--muted);margin-bottom:16px}
+.chart-wrap{position:relative}
+.donut-center{
+  position:absolute;top:50%;left:50%;
+  transform:translate(-50%,-50%);
+  text-align:center;pointer-events:none;
+}
+.donut-center .dn{font-size:22px;font-weight:600;letter-spacing:-0.04em;color:var(--text)}
+.donut-center .ds{font-size:10px;color:var(--muted);display:block}
+
+.err-bar{
+  background:rgba(239,68,68,0.08);
+  border:1px solid rgba(239,68,68,0.18);
+  border-radius:8px;
+  padding:10px 14px;
+  font-size:13px;
+  color:#fca5a5;
+  margin-bottom:16px;
+}
+</style>
+</head>
+<body>
+<div id="app" style="display:flex;width:100%;height:100%">
+
+<!-- ── SIDEBAR ───────────────────────────────────────────── -->
+<nav id="sidebar">
+  <img class="sb-logo ring" src="/static/ring.jpg" onclick="goHome()" title="Home" alt="">
+
+  <button class="sb-btn active" id="sb-home" onclick="goHome()" title="Home">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M3 9.5L12 3l9 6.5V20a1 1 0 01-1 1H4a1 1 0 01-1-1V9.5z"/><polyline points="9 22 9 12 15 12 15 22"/>
+    </svg>
+  </button>
+
+  <button class="sb-btn" id="sb-new" onclick="goHome()" title="New search">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 5v14M5 12h14"/>
+    </svg>
+  </button>
+
+  <button class="sb-btn" id="sb-explore" onclick="showExplore()" title="Explore corpus">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/>
+    </svg>
+  </button>
+
+  <div class="sb-spacer"></div>
+
+  <div class="sb-topk">
+    <div class="sb-topk-num" id="topk-num">5</div>
+    <input type="range" id="topk" min="3" max="15" value="5" title="Results per query"
+           oninput="document.getElementById('topk-num').textContent=this.value">
+  </div>
+</nav>
+
+<!-- ── MAIN ──────────────────────────────────────────────── -->
+<main id="main" style="flex:1;height:100%;display:flex;flex-direction:column;overflow:hidden">
+
+  <!-- HOME -->
+  <div class="view active" id="home-view">
+    <div class="home-logo">
+      <img class="ring" src="/static/ring.jpg" style="width:56px;height:56px;margin-bottom:28px" alt="">
+    </div>
+    <div class="home-search-wrap">
+      <textarea class="search-box" id="home-input" placeholder="Ask anything…" rows="1"
+        onkeydown="homeKey(event)" oninput="autoResize(this)"></textarea>
+      <button class="search-send" onclick="submitHome()" title="Search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/>
+        </svg>
+      </button>
+    </div>
+    <div class="home-hints">
+      <div class="hint-chip" onclick="useHint(this)">What do I know about carbon markets?</div>
+      <div class="hint-chip" onclick="useHint(this)">Elevator business strategy</div>
+      <div class="hint-chip" onclick="useHint(this)">My AI agent architecture notes</div>
+      <div class="hint-chip" onclick="useHint(this)">India renewable energy policy</div>
+    </div>
+  </div>
+
+  <!-- THREAD -->
+  <div class="view" id="thread-view">
+    <div id="thread-scroll">
+      <div id="thread-content"></div>
+    </div>
+    <div id="followup-bar">
+      <div id="followup-wrap">
+        <textarea id="followup-input" placeholder="Ask a follow-up…" rows="1"
+          onkeydown="followupKey(event)" oninput="autoResize(this)"></textarea>
+        <button id="followup-send" onclick="submitFollowup()" title="Send">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- EXPLORE -->
+  <div class="view" id="explore-view">
+    <div id="explore-inner">
+      <div class="explore-h">Knowledge Explorer</div>
+      <div class="explore-sub">Everything in your second brain, mapped.</div>
+      <div id="explore-err" class="err-bar" style="display:none"></div>
+      <div class="stat-grid">
+        <div class="stat-card"><div class="stat-lbl">Documents</div><div class="stat-val" id="s-total">—</div><div class="stat-sub">indexed entries</div></div>
+        <div class="stat-card"><div class="stat-lbl">Chunks</div><div class="stat-val" id="s-chunks">—</div><div class="stat-sub">embedded vectors</div></div>
+        <div class="stat-card"><div class="stat-lbl">Unique Tags</div><div class="stat-val" id="s-tags">—</div><div class="stat-sub">across all docs</div></div>
+        <div class="stat-card"><div class="stat-lbl">Top Domain</div><div class="stat-val" id="s-domain" style="font-size:17px;margin-top:4px">—</div><div class="stat-sub">most documents</div></div>
+      </div>
+      <div class="chart-row two">
+        <div class="chart-card"><div class="chart-lbl">By Domain</div><div class="chart-wrap" style="height:200px"><canvas id="chart-cat"></canvas><div class="donut-center"><span class="dn" id="dn-cat">—</span><span class="ds">domains</span></div></div></div>
+        <div class="chart-card"><div class="chart-lbl">By Content Type</div><div class="chart-wrap" style="height:200px"><canvas id="chart-type"></canvas><div class="donut-center"><span class="dn" id="dn-type">—</span><span class="ds">types</span></div></div></div>
+      </div>
+      <div class="chart-row one" style="margin-top:10px">
+        <div class="chart-card"><div class="chart-lbl">Top 20 Tags</div><div style="height:300px"><canvas id="chart-tags"></canvas></div></div>
+      </div>
+      <div class="chart-row one" style="margin-top:10px">
+        <div class="chart-card"><div class="chart-lbl">Ingestion Timeline</div><div style="height:140px"><canvas id="chart-tl"></canvas></div></div>
+      </div>
+    </div>
+  </div>
+
+</main>
+</div>
+
+<script>
+// ── state ──────────────────────────────────────────────────────
+let busy = false;
+let corpusDone = false;
+const charts = {};
+
+// ── helpers ────────────────────────────────────────────────────
+function autoResize(el){
+  el.style.height='auto';
+  el.style.height=Math.min(el.scrollHeight,160)+'px';
+}
+function esc(s){
+  return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+function topK(){return parseInt(document.getElementById('topk').value)}
+
+// ── view switchers ─────────────────────────────────────────────
+function setActive(view){
+  document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
+  document.getElementById(view+'-view').classList.add('active');
+  document.querySelectorAll('.sb-btn').forEach(b=>b.classList.remove('active'));
+}
+
+function goHome(){
+  setActive('home');
+  document.getElementById('sb-home').classList.add('active');
+  setTimeout(()=>document.getElementById('home-input').focus(),50);
+}
+
+function showExplore(){
+  setActive('explore');
+  document.getElementById('sb-explore').classList.add('active');
+  if(!corpusDone) loadCorpus();
+}
+
+function goThread(){
+  setActive('thread');
+  document.getElementById('sb-home').classList.add('active');
+}
+
+// ── home submit ────────────────────────────────────────────────
+function homeKey(e){
+  if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();submitHome()}
+}
+function useHint(el){
+  document.getElementById('home-input').value=el.textContent;
+  submitHome();
+}
+function submitHome(){
+  const q=document.getElementById('home-input').value.trim();
+  if(!q||busy) return;
+  document.getElementById('home-input').value='';
+  document.getElementById('home-input').style.height='auto';
+  document.getElementById('thread-content').innerHTML='';
+  goThread();
+  runQuery(q);
+}
+
+// ── follow-up ──────────────────────────────────────────────────
+function followupKey(e){
+  if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();submitFollowup()}
+}
+function submitFollowup(){
+  const inp=document.getElementById('followup-input');
+  const q=inp.value.trim();
+  if(!q||busy) return;
+  inp.value='';inp.style.height='auto';
+  runQuery(q);
+}
+
+// ── query pipeline ─────────────────────────────────────────────
+async function runQuery(query){
+  busy=true;
+  const tc=document.getElementById('thread-content');
+
+  // divider between turns
+  if(tc.children.length>0){
+    const div=document.createElement('div');
+    div.className='thread-divider';
+    tc.appendChild(div);
+  }
+
+  // query heading
+  const qh=document.createElement('div');
+  qh.className='thread-query';
+  qh.textContent=query;
+  tc.appendChild(qh);
+
+  // thinking
+  const thinking=document.createElement('div');
+  thinking.className='thinking-row';
+  thinking.innerHTML=`<div class="thinking-dot"></div><div class="thinking-dot"></div><div class="thinking-dot"></div><span class="thinking-label">Searching your second brain…</span>`;
+  tc.appendChild(thinking);
+  scrollBottom();
+
+  try{
+    const res=await fetch('/api/chat',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({query,top_k:topK()})
+    });
+    thinking.remove();
+
+    if(!res.ok){
+      const e=await res.json().catch(()=>({detail:'Server error'}));
+      appendError(tc, e.detail||'Something went wrong.');
+    } else {
+      const d=await res.json();
+      appendResult(tc, d.answer, d.sources||[]);
+    }
+  } catch(e){
+    thinking.remove();
+    appendError(tc,'Could not reach the server.');
+  }
+
+  busy=false;
+  scrollBottom();
+}
+
+function appendResult(tc, answer, sources){
+  // sources section
+  if(sources.length>0){
+    const ss=document.createElement('div');
+    ss.className='sources-section';
+    ss.innerHTML=`<div class="sources-label">Sources</div><div class="source-cards">${
+      sources.map((s,i)=>`
+        <div class="source-card">
+          <div class="source-card-num">${i+1}</div>
+          <div class="source-card-name">${esc(s.name)}</div>
+          <div class="source-card-snippet">${esc(s.snippet)}</div>
+        </div>`).join('')
+    }</div>`;
+    tc.appendChild(ss);
+  }
+
+  // answer section — replace [1],[2] citation markers with styled spans
+  const formatted = answer.replace(/\[(\d+)\]/g,
+    '<span class="cite">$1</span>');
+
+  const as=document.createElement('div');
+  as.className='answer-section';
+  as.innerHTML=`
+    <div class="answer-label"><img class="ring" src="/static/ring.jpg" style="width:16px;height:16px;display:inline-block;vertical-align:middle;margin-right:6px" alt=""> Answer</div>
+    <div class="answer-body">${formatted}</div>
+  `;
+  tc.appendChild(as);
+}
+
+function appendError(tc, msg){
+  const el=document.createElement('div');
+  el.className='answer-section';
+  el.innerHTML=`<div class="answer-body" style="color:var(--muted)">⚠ ${esc(msg)}</div>`;
+  tc.appendChild(el);
+}
+
+function scrollBottom(){
+  const sc=document.getElementById('thread-scroll');
+  sc.scrollTop=sc.scrollHeight;
+}
+
+// ── explore ────────────────────────────────────────────────────
+const TOOLTIP={
+  backgroundColor:'rgba(10,10,10,0.95)',
+  borderColor:'rgba(255,255,255,0.1)',
+  borderWidth:1,
+  titleColor:'#ececec',
+  bodyColor:'#888',
+  padding:10,
+  cornerRadius:8,
+};
+
+async function loadCorpus(){
+  try{
+    const r=await fetch('/api/corpus');
+    if(!r.ok) throw new Error('Server error');
+    const d=await r.json();
+
+    document.getElementById('s-total').textContent=d.total;
+    document.getElementById('s-chunks').textContent=d.chunks.toLocaleString();
+    document.getElementById('s-tags').textContent=d.unique_tags;
+    document.getElementById('s-domain').textContent=d.top_domain;
+
+    buildDonut('chart-cat',d.categories,'dn-cat','domains');
+    buildDonut('chart-type',d.types,'dn-type','types');
+    buildTags(d.top_tags);
+    if(d.timeline?.length) buildTimeline(d.timeline);
+
+    corpusDone=true;
+  } catch(e){
+    const el=document.getElementById('explore-err');
+    el.textContent='Could not load corpus: '+e.message;
+    el.style.display='block';
+  }
+}
+
+function buildDonut(id, items, centerId, centerLabel){
+  document.getElementById(centerId).textContent=items.length;
+  const ctx=document.getElementById(id).getContext('2d');
+  if(charts[id]) charts[id].destroy();
+  charts[id]=new Chart(ctx,{
+    type:'doughnut',
+    data:{
+      labels:items.map(i=>i.label),
+      datasets:[{
+        data:items.map(i=>i.count),
+        backgroundColor:items.map(i=>i.color+'bb'),
+        borderColor:items.map(i=>i.color+'44'),
+        borderWidth:2,
+        hoverOffset:5,
+      }]
+    },
+    options:{
+      cutout:'65%',
+      layout:{padding:6},
+      plugins:{
+        legend:{position:'right',labels:{color:'#666',font:{family:'Inter',size:10},boxWidth:8,padding:10}},
+        tooltip:{...TOOLTIP},
+      }
+    }
+  });
+}
+
+function buildTags(tags){
+  const labels=tags.map(t=>t.tag).reverse();
+  const counts=tags.map(t=>t.count).reverse();
+  const max=Math.max(...counts);
+  const ctx=document.getElementById('chart-tags').getContext('2d');
+  if(charts['tags']) charts['tags'].destroy();
+  charts['tags']=new Chart(ctx,{
+    type:'bar',
+    data:{
+      labels,
+      datasets:[{
+        data:counts,
+        backgroundColor:counts.map(c=>`rgba(32,128,141,${(0.3+0.7*c/max).toFixed(2)})`),
+        borderColor:'transparent',
+        borderRadius:4,
+      }]
+    },
+    options:{
+      indexAxis:'y',
+      plugins:{legend:{display:false},tooltip:{...TOOLTIP}},
+      scales:{
+        x:{grid:{color:'rgba(255,255,255,0.04)'},ticks:{color:'#555',font:{size:10}},border:{display:false}},
+        y:{grid:{display:false},ticks:{color:'#888',font:{size:10}},border:{display:false}}
+      }
+    }
+  });
+}
+
+function buildTimeline(tl){
+  const labels=tl.map(t=>t.date);
+  const counts=tl.map(t=>t.count);
+  const ctx=document.getElementById('chart-tl').getContext('2d');
+  if(charts['tl']) charts['tl'].destroy();
+  charts['tl']=new Chart(ctx,{
+    type:'bar',
+    data:{
+      labels,
+      datasets:[{
+        data:counts,
+        backgroundColor:'rgba(32,128,141,0.6)',
+        borderColor:'transparent',
+        borderRadius:3,
+      }]
+    },
+    options:{
+      plugins:{legend:{display:false},tooltip:{...TOOLTIP}},
+      scales:{
+        x:{grid:{display:false},ticks:{color:'#555',font:{size:10}},border:{display:false}},
+        y:{grid:{color:'rgba(255,255,255,0.04)'},ticks:{color:'#888',font:{size:10}},border:{display:false}}
+      }
+    }
+  });
+}
+
+// init
+setTimeout(()=>document.getElementById('home-input').focus(),100);
+</script>
+</body>
+</html>

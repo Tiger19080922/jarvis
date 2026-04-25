@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.jarvis.secondbrain.watcher</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/bharukashiv/jarvis/.venv/bin/python</string>
+        <string>-u</string>
+        <string>/Users/bharukashiv/jarvis/agents/agent03/watcher.py</string>
+        <string>--source</string>
+        <string>/Users/bharukashiv/Documents</string>
+        <string>--source</string>
+        <string>/Users/bharukashiv/jarvis/outputs</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/bharukashiv/jarvis/agents/agent03</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PYTHONPATH</key>
+        <string>/Users/bharukashiv/jarvis</string>
+        <key>PATH</key>
+        <string>/Users/bharukashiv/jarvis/.venv/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+        <key>HOME</key>
+        <string>/Users/bharukashiv</string>
+    </dict>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>KeepAlive</key>
+    <true/>
+
+    <key>ThrottleInterval</key>
+    <integer>10</integer>
+
+    <key>StandardOutPath</key>
+    <string>/Users/bharukashiv/jarvis/logs/watcher.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/bharukashiv/jarvis/logs/watcher_error.log</string>
+</dict>
+</plist>

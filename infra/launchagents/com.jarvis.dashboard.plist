@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.jarvis.dashboard</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/bharukashiv/jarvis/.venv/bin/uvicorn</string>
+        <string>dashboard.server:app</string>
+        <string>--host</string>
+        <string>0.0.0.0</string>
+        <string>--port</string>
+        <string>8501</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/bharukashiv/jarvis</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PYTHONPATH</key>
+        <string>/Users/bharukashiv/jarvis</string>
+        <key>PATH</key>
+        <string>/Users/bharukashiv/jarvis/.venv/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+        <key>HOME</key>
+        <string>/Users/bharukashiv</string>
+        <key>GOOGLE_API_KEY</key>
+        <string>REPLACE_WITH_YOUR_GOOGLE_API_KEY</string>
+    </dict>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>KeepAlive</key>
+    <true/>
+
+    <key>ThrottleInterval</key>
+    <integer>10</integer>
+
+    <key>StandardOutPath</key>
+    <string>/Users/bharukashiv/jarvis/logs/dashboard.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/bharukashiv/jarvis/logs/dashboard.log</string>
+</dict>
+</plist>
