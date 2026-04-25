@@ -51,6 +51,18 @@
         "Embeddings capture semantic meaning, enabling efficient similarity searches for retrieval.",
         "RAG requires a product management focus on data provenance and system evaluation."
       ]
+    },
+    {
+      "date": "2026-04-25T21:07:42.803683",
+      "day_number": 15,
+      "topic": "AI Agents and Orchestration",
+      "angle": "What AI agents actually are \u2014 beyond the hype",
+      "key_arguments": [
+        "AI agents are autonomous and goal-directed, not just advanced chatbots.",
+        "Agents operate on a continuous 'perceive, reason, act' loop.",
+        "Tool use enables AI agents to interact with the real world beyond text generation.",
+        "Function calling is a specific implementation of tool use for structured external actions."
+      ]
     }
   ]
 }
