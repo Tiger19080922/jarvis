@@ -1,18 +1,6 @@
 {
   "stories": [
     {
-      "title": "Sarvam AI in talks to raise $250-350 million at $1.5 billion valuation",
-      "url": "https://digitalterminal.in/startup/sarvam-ai-hits-15b-valuation-with-fresh-350m-funding-to-boost-indias-ai-ecosystem",
-      "cat": "FUNDING",
-      "date": "2026-04-11T23:25:56.827315"
-    },
-    {
-      "title": "AI Infrastructure Investment in India Accelerates with Sarvam and Krutrim Leading Sovereign Push",
-      "url": "https://asanify.com/blog/news/ai-infrastructure-india-investment-april-11-2026/",
-      "cat": "FUNDING",
-      "date": "2026-04-12T04:38:18.697919"
-    },
-    {
       "title": "Sarvam AI Nears $350M Funding, Igniting India's Foundational AI Race",
       "url": "https://www.whalesbook.com/news/English/tech/Sarvam-AI-Nears-dollar350M-Funding-Igniting-Indias-Foundational-AI-Race/69d88f83e0ea10058db5895f",
       "cat": "FUNDING",
@@ -863,6 +851,24 @@
       "url": "https://yourstory.com/2026/04/-ai-powered-rd-platform-for-consumer-products-",
       "cat": "ENTERPRISE",
       "date": "2026-04-25T21:07:44.513507"
+    },
+    {
+      "title": "India rolls out governance guidelines to drive safe AI",
+      "url": "https://coingeek.com/india-rolls-out-governance-guidelines-to-drive-safe-ai/",
+      "cat": "POLICY",
+      "date": "2026-04-26T21:08:11.880073"
+    },
+    {
+      "title": "Making AI to explain its actions",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESBQnnEVKVvwS3CTvm3mTe9-vfKS4uiqBehGbwMvKssq94J1MzxZ9EAzm9zlcurC8xZpdoMZXyOrAS_D0uTCtgSuMvrKZuBDwLD6kdDvBT9V5bj0ak2ziWfDn-dkYZH3cKx36PPr7fcMncm4NmUYY=",
+      "cat": "RESEARCH",
+      "date": "2026-04-26T21:08:11.880073"
+    },
+    {
+      "title": "Can AI solve India's dementia crisis? Bengaluru IISc launches Rs 2 crore challenge to track brain aging",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERRY2cUsnbUVKeB2QkUXkHIWtrG-2r-DLnufqhNw0Jl2TA08gidFUcHUpvLaUm_U_NN8vEj6KGDbHBqVFpdXUE61PXebN-zB9fWNoZPzNvHHnFD7lGtIdlzgD_0qfRDCCujuEFzVTULXG43732WuyqgvNRrzr1sKtzIE9jRg1ojTWbMGBHY0ZgQBj_lPAd4g6dqXJZPymKcuz-kTcPd2SdLQLmLBQ94e35AUM-_Xd99L-89Omk2_OjYcPFx4lv9ywv41jgfY3JhFvRvbaoEWIJRQsnA0RnGC_ZM2BD4lM=5",
+      "cat": "RESEARCH",
+      "date": "2026-04-26T21:08:11.880073"
     }
   ]
 }

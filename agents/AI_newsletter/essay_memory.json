@@ -63,6 +63,19 @@
         "Tool use enables AI agents to interact with the real world beyond text generation.",
         "Function calling is a specific implementation of tool use for structured external actions."
       ]
+    },
+    {
+      "date": "2026-04-26T21:08:10.342269",
+      "day_number": 16,
+      "topic": "AI Agents and Orchestration",
+      "angle": "Planning and reasoning loops: how agents decide what to do",
+      "key_arguments": [
+        "Iterative planning and reflective reasoning are key to impactful AI automation.",
+        "AI agents require structured, adaptive thought processes for complex tasks.",
+        "Chain-of-Thought (CoT) provides explicit intermediate reasoning steps.",
+        "ReAct (Reasoning + Acting) enables dynamic adaptation through iterative loops.",
+        "Plan-and-Execute offers efficiency for predictable workflows via upfront planning."
+      ]
     }
   ]
 }
