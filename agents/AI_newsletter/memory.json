@@ -1,12 +1,6 @@
 {
   "stories": [
     {
-      "title": "Sarvam AI Nears $350M Funding, Igniting India's Foundational AI Race",
-      "url": "https://www.whalesbook.com/news/English/tech/Sarvam-AI-Nears-dollar350M-Funding-Igniting-Indias-Foundational-AI-Race/69d88f83e0ea10058db5895f",
-      "cat": "FUNDING",
-      "date": "2026-04-12T21:11:45.684156"
-    },
-    {
       "title": "Faster breast cancer detection; Tekion\u2019s AI-native pivot",
       "url": "https://yourstory.com/2026/04/daily-capsule-faster-breast-cancer-detection-tekion-ai-pivot",
       "cat": "ENTERPRISE",
@@ -869,6 +863,66 @@
       "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERRY2cUsnbUVKeB2QkUXkHIWtrG-2r-DLnufqhNw0Jl2TA08gidFUcHUpvLaUm_U_NN8vEj6KGDbHBqVFpdXUE61PXebN-zB9fWNoZPzNvHHnFD7lGtIdlzgD_0qfRDCCujuEFzVTULXG43732WuyqgvNRrzr1sKtzIE9jRg1ojTWbMGBHY0ZgQBj_lPAd4g6dqXJZPymKcuz-kTcPd2SdLQLmLBQ94e35AUM-_Xd99L-89Omk2_OjYcPFx4lv9ywv41jgfY3JhFvRvbaoEWIJRQsnA0RnGC_ZM2BD4lM=5",
       "cat": "RESEARCH",
       "date": "2026-04-26T21:08:11.880073"
+    },
+    {
+      "title": "Claude Mythos puts India on alert: CERT-In, telcos, banks assess unprecedented cyber risks",
+      "url": "https://www.medianama.com/2026/04/223-claude-mythos-india-cert-in-telcos-banks-cyber-risks/",
+      "cat": "RESEARCH",
+      "date": "2026-04-27T21:38:23.744187"
+    },
+    {
+      "title": "Announcing Inc42 AI Summit 2026: 600+ Founders & Leaders, Zero Fluff, All About Shipping AI In India",
+      "url": "https://inc42.com/buzz/announcing-inc42-ai-summit-2026-600-founders-leaders-zero-fluff-all-about-shipping-ai-in-india/",
+      "cat": "OTHER",
+      "date": "2026-04-27T21:38:23.744187"
+    },
+    {
+      "title": "Karnataka Drafting Responsible AI Framework To Embrace \u2018I-Governance\u2019: Priyank Kharge",
+      "url": "https://inc42.com/features/karnataka-drafting-responsible-ai-framework-to-embrace-i-governance-priyank-kharge/",
+      "cat": "POLICY",
+      "date": "2026-04-27T21:38:23.744187"
+    },
+    {
+      "title": "Jamtara was the trailer; the real story is AI-powered fraud",
+      "url": "https://yourstory.com/2026/04/jamtara-was-just-the-trailer-fraud-runs-on-ai-now",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-27T21:38:23.744187"
+    },
+    {
+      "title": "Mint Explainer | As India forms AI policy panel, what it means for startups",
+      "url": "https://www.livemint.com/technology/tech-news/mint-explainer-as-india-forms-ai-policy-panel-what-it-means-for-startups-11777189683588.html",
+      "cat": "POLICY",
+      "date": "2026-04-27T21:38:23.744187"
+    },
+    {
+      "title": "The End Of SEO? How AI Is Reshaping Brand Discovery On The Web",
+      "url": "https://inc42.com/features/the-end-of-seo-how-ai-is-reshaping-brand-discovery-on-the-web/",
+      "cat": "OTHER",
+      "date": "2026-04-27T21:38:23.744187"
+    },
+    {
+      "title": "CERT-In outlines safeguards for Indian orgs, MSMEs amid Mythos AI cybersecurity risk concerns",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/cert-in-safeguards-msmes-mythos-ai-cybersecurity-risk-10657982/",
+      "cat": "POLICY",
+      "date": "2026-04-27T21:38:23.744187"
+    },
+    {
+      "title": "DeepSeek unveils new, low-cost V4 AI models: Here\u2019s what you need to know",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/deepseek-new-low-cost-v4-ai-models-what-to-know-10656402/",
+      "cat": "RESEARCH",
+      "date": "2026-04-27T21:38:23.744187"
+    },
+    {
+      "title": "Anthropic secretly created a Claude-powered marketplace where AI agents bought and sold goods for humans",
+      "url": "https://www.livemint.com/technology/tech-news/anthropic-secretly-created-a-claude-powered-marketplace-where-ai-agents-bought-and-sold-goods-for-humans-11777170055496.html",
+      "cat": "RESEARCH",
+      "date": "2026-04-27T21:38:23.744187"
+    },
+    {
+      "title": "ChatGPT GPT-5.5 vs Claude Opus 4.7 vs Gemini 3.1 Pro: How does OpenAI's latest model compare against rivals?",
+      "url": "https://www.livemint.com/technology/tech-news/chatgpt-gpt-5-5-vs-claude-opus-4-7-vs-gemini-3-1-pro-how-does-openais-latest-model-compare-against-rivals-11777164489135.html",
+      "cat": "RESEARCH",
+      "date": "2026-04-27T21:38:23.744187"
     }
   ]
 }
