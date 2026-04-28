@@ -89,6 +89,19 @@
         "Architectural patterns like Orchestrator-Worker and Sequential Pipeline structure agent collaboration.",
         "Robust multi-agent design anticipates and contains errors to prevent systemic breakdowns."
       ]
+    },
+    {
+      "date": "2026-04-28T21:42:01.034114",
+      "day_number": 18,
+      "topic": "AI Agents and Orchestration",
+      "angle": "Agent failure modes: why agents break and how PMs design around them",
+      "key_arguments": [
+        "AI product success hinges on graceful failure, not just functionality.",
+        "Autonomous agents introduce unique failure modes beyond traditional software bugs.",
+        "Hallucinated tool calls occur when agents invoke non-existent or incorrect tools.",
+        "Infinite loops arise from repetitive, unproductive agent actions without progress.",
+        "Context overflow is a memory failure where agent's context exceeds model limits."
+      ]
     }
   ]
 }

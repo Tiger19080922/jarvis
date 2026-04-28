@@ -1,78 +1,6 @@
 {
   "stories": [
     {
-      "title": "Faster breast cancer detection; Tekion\u2019s AI-native pivot",
-      "url": "https://yourstory.com/2026/04/daily-capsule-faster-breast-cancer-detection-tekion-ai-pivot",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-14T01:10:09.244014"
-    },
-    {
-      "title": "How Shipway is rewriting the economics of D2C shipping",
-      "url": "https://yourstory.com/2026/04/shipway-ai-d2c-shipping-logistics-india",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-14T01:10:09.244014"
-    },
-    {
-      "title": "Round raises $6M to automate the finance workflows that still require a human to press a button",
-      "url": "https://thenextweb.com/news/round-6m-seed-ai-finance-automation-treasury-payroll",
-      "cat": "FUNDING",
-      "date": "2026-04-14T01:10:09.244014"
-    },
-    {
-      "title": "Developer partially bypasses Google\u2019s AI watermark, undermining detection India\u2019s deepfake rules rely on",
-      "url": "https://www.medianama.com/2026/04/223-google-gemini-synthid-ai-watermark-bypass/",
-      "cat": "POLICY",
-      "date": "2026-04-14T01:10:09.244014"
-    },
-    {
-      "title": "YouTube\u2019s AI avatar tool for Shorts raises questions around India\u2019s deepfake rules, personality rights",
-      "url": "https://www.medianama.com/2026/04/223-youtube-ai-avatar-tool-shorts-concerns-deepfake-rules-personality-rights/",
-      "cat": "POLICY",
-      "date": "2026-04-14T01:10:09.244014"
-    },
-    {
-      "title": "Anthropic introduces Claude AI integration for Microsoft Word users",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-ai-integration-microsoft-word-10633786/",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-14T01:10:09.244014"
-    },
-    {
-      "title": "Nesto raises \u20ac11m from Expedition to scale AI workforce management for restaurant groups",
-      "url": "https://thenextweb.com/news/nesto-expedition-growth-equity-restaurant-workforce-ai",
-      "cat": "FUNDING",
-      "date": "2026-04-14T01:10:09.244014"
-    },
-    {
-      "title": "Scope Of Startup India FoF 2.0 Expanded To Support Deeptech, Manufacturing Investments",
-      "url": "https://inc42.com/buzz/scope-of-startup-india-fof-2-0-expanded-to-support-deeptech-manufacturing-investments/",
-      "cat": "POLICY",
-      "date": "2026-04-14T01:10:09.244014"
-    },
-    {
-      "title": "Rethinking education for an AI-driven world; OG Capital bets on execution",
-      "url": "https://yourstory.com/2026/04/rethinking-education-ai-driven-world-og-capital-bets-execution",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-14T01:10:09.244014"
-    },
-    {
-      "title": "UK regulators rush to assess risks of latest Anthropic AI model: Report",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/uk-regulators-rush-to-assess-risks-of-latest-anthropic-ai-model-report-10633422/",
-      "cat": "POLICY",
-      "date": "2026-04-14T01:10:09.244014"
-    },
-    {
-      "title": "What is Project Houdini? How Amazon plans to build data centres faster by cutting thousands of labour hours",
-      "url": "https://www.livemint.com/technology/tech-news/what-is-project-houdini-how-amazon-plans-to-build-data-centres-faster-by-cutting-thousands-of-labour-hours-11776041385072.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-14T01:10:09.244014"
-    },
-    {
-      "title": "UK regulators rush to assess risks of latest Anthropic AI model, FT reports",
-      "url": "https://www.livemint.com/technology/uk-regulators-rush-to-assess-risks-of-latest-anthropic-ai-model-ft-reports-11776019892627.html",
-      "cat": "POLICY",
-      "date": "2026-04-14T01:10:09.244014"
-    },
-    {
       "title": "Centre Sets Up AI Governance Body To Align Policy Across Ministries",
       "url": "https://inc42.com/buzz/centre-sets-up-ai-governance-body-to-align-policy-across-ministries/",
       "cat": "POLICY",
@@ -923,6 +851,132 @@
       "url": "https://www.livemint.com/technology/tech-news/chatgpt-gpt-5-5-vs-claude-opus-4-7-vs-gemini-3-1-pro-how-does-openais-latest-model-compare-against-rivals-11777164489135.html",
       "cat": "RESEARCH",
       "date": "2026-04-27T21:38:23.744187"
+    },
+    {
+      "title": "Nvidia is no longer just selling the shovels. Nemotron 3 Nano Omni is the company\u2019s most aggressive move into AI models.",
+      "url": "https://thenextweb.com/news/nvidia-nemotron-nano-omni-multimodal-agent-edge",
+      "cat": "RESEARCH",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "HyugaLife raises Rs 100 Cr in Series A led by IvyCap Ventures",
+      "url": "https://yourstory.com/2026/04/funding-hyugalife-rs-100-crore-series-a-ivycap-ventures",
+      "cat": "FUNDING",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "Google breaks ground on AI Hub in Visakhapatnam",
+      "url": "https://yourstory.com/2026/04/google-breaks-ground-on-ai-hub-in-visakhapatnam",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "Google signed the Pentagon\u2019s classified AI deal and walked away from its drone swarm contest on the same day.",
+      "url": "https://thenextweb.com/news/google-classified-ai-pentagon-drone-swarm-exit",
+      "cat": "POLICY",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "OpenAI\u2019s models are now available everywhere. The question is whether everywhere is enough.",
+      "url": "https://thenextweb.com/news/amazon-aws-openai-models-microsoft-exclusivity-ends",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "Beyond silicon: These shape-shifting molecules could be the future of AI hardware",
+      "url": "https://www.iisc.ac.in/beyond-silicon-these-shape-shifting-molecules-could-be-the-future-of-ai-hardware/",
+      "cat": "RESEARCH",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "Unicommerce Bets On AI, Acquisitions In FY27 Amid Rising Ecommerce Complexity",
+      "url": "https://inc42.com/buzz/unicommerce-bets-on-ai-acquisitions-in-fy27-amid-rising-ecommerce-complexity/",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "\u2018No warning, no confirmation\u2019: How an AI agent deleted a startup\u2019s critical data",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/how-an-ai-agent-deleted-a-startups-critical-data-10660538/",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "Amazon tells its engineers to avoid the 'bleeding edge' in new 6-point AI adoption guidelines",
+      "url": "https://www.livemint.com/technology/tech-news/amazon-tells-its-engineers-to-avoid-the-bleeding-edge-in-new-6-point-ai-adoption-guidelines-11777367806526.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "Former Meta executive warns \u2018nothing would ever be the same\u2019, builds AI tools to help Gen Z find work",
+      "url": "https://www.livemint.com/technology/tech-news/former-meta-executive-warns-nothing-would-ever-be-the-same-builds-ai-tools-to-help-gen-z-find-work-11777256317659.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "OpenAI called the growth report clickbait. The market disagreed by tens of billions of dollars.",
+      "url": "https://thenextweb.com/news/openai-growth-fears-firing-all-cylinders",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "Musk told the jury the OpenAI case is simple. The consequences of his testimony are anything but.",
+      "url": "https://thenextweb.com/news/musk-openai-testimony-charity-precedent",
+      "cat": "OTHER",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "Amazon tried selling office software and failed. Now it is betting that office software itself is obsolete.",
+      "url": "https://thenextweb.com/news/amazon-tried-selling-office-software-and-failed-now-it-is-betting-that-office-software-itself-is-obsolete",
+      "cat": "ENTERPRISE",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "Yardi School of Artificial Intelligence - IIT Delhi",
+      "url": "https://scai.iitd.ac.in/",
+      "cat": "RESEARCH",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "Mojro Closes Series A Round At $5.5 Mn With Additional $2.5 Mn Funding",
+      "url": "https://inc42.com/buzz/mojro-closes-series-a-round-at-5-5-mn-with-additional-2-5-mn-funding/",
+      "cat": "FUNDING",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "Can MeitY issue binding rules via advisories? Experts raise alarm over draft IT Rules #NAMA",
+      "url": "https://www.medianama.com/2026/04/223-meity-binding-advisories-experts-alarm-draft-it-rules/",
+      "cat": "POLICY",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "How 2019 election code of ethics  became India\u2019s three-hour content takedown mandate #NAMA",
+      "url": "https://www.medianama.com/2026/04/223-2019-election-code-ethics-india-3hr-content-takedown-mandate/",
+      "cat": "POLICY",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "\u2018judge, jury, executioner\u2019: experts warn of Inter-Departmental Committee (IDC) overreach under New draft IT Rules",
+      "url": "https://www.medianama.com/2026/04/223-india-it-rules-idc-oversight-free-speech-concerns/",
+      "cat": "POLICY",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "OpenAI loosens Microsoft ties, opens door to Amazon and Google Cloud",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-loosens-microsoft-ties-opens-door-to-amazon-and-google-cloud-10659389/",
+      "cat": "OTHER",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "Nearly half of governments to deploy AI at scale, but face execution hurdles: KPMG report",
+      "url": "https://www.livemint.com/technology/nearly-half-of-governments-to-deploy-ai-at-scale-but-face-execution-hurdles-kpmg-report-11777296917029.html",
+      "cat": "POLICY",
+      "date": "2026-04-28T21:42:02.530352"
+    },
+    {
+      "title": "Artificial Intelligence - arXiv",
+      "url": "https://arxiv.org/list/cs.AI/2604",
+      "cat": "RESEARCH",
+      "date": "2026-04-28T21:42:02.530352"
     }
   ]
 }
