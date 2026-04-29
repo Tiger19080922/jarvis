@@ -102,6 +102,18 @@
         "Infinite loops arise from repetitive, unproductive agent actions without progress.",
         "Context overflow is a memory failure where agent's context exceeds model limits."
       ]
+    },
+    {
+      "date": "2026-04-29T21:44:28.195113",
+      "day_number": 19,
+      "topic": "AI Agents and Orchestration",
+      "angle": "Agent frameworks: LangGraph, CrewAI, Claude agent SDK",
+      "key_arguments": [
+        "AI agent frameworks are crucial for reliability and scalability, not just API calls.",
+        "Orchestration frameworks manage components and sequence actions for coherent system behavior.",
+        "LangGraph's state management and cycles enable complex, iterative agent workflows.",
+        "CrewAI uses role-based design for effective multi-agent collaboration and specialization."
+      ]
     }
   ]
 }
