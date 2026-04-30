@@ -114,6 +114,19 @@
         "LangGraph's state management and cycles enable complex, iterative agent workflows.",
         "CrewAI uses role-based design for effective multi-agent collaboration and specialization."
       ]
+    },
+    {
+      "date": "2026-04-30T21:37:41.552247",
+      "day_number": 20,
+      "topic": "AI Agents and Orchestration",
+      "angle": "Agents in India: what is being built and what is hype",
+      "key_arguments": [
+        "AI agents' value in India hinges on handling low-trust and multilingual data.",
+        "Enterprise AI agents automate tasks by integrating with existing business systems.",
+        "Document processing agents extract and validate information from unstructured data.",
+        "Customer support agents resolve complex queries autonomously using knowledge bases and CRMs.",
+        "Compliance agents monitor operations for regulatory adherence and flag anomalies."
+      ]
     }
   ]
 }
