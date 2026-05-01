@@ -1,150 +1,6 @@
 {
   "stories": [
     {
-      "title": "Centre Sets Up AI Governance Body To Align Policy Across Ministries",
-      "url": "https://inc42.com/buzz/centre-sets-up-ai-governance-body-to-align-policy-across-ministries/",
-      "cat": "POLICY",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "Karnataka approves AI Centre of Excellence in Bengalurus Electronics City",
-      "url": "https://www.livemint.com/technology/karnataka-approves-ai-centre-of-excellence-in-bengalurus-electronics-city-11776419208909.html",
-      "cat": "POLICY",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "IndiaAI Mission: 262K AI Papers Surge & 38K GPUs",
-      "url": "https://academicjobs.com/jobs/indiaai-mission-262k-ai-papers-surge-38k-gpus-boost-university-innovation",
-      "cat": "POLICY",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "Ola Krutrim\u2019s \u2018Kruti\u2019 AI Chatbot Goes Offline",
-      "url": "https://inc42.com/buzz/ola-krutrims-kruti-ai-chatbot-goes-offline/",
-      "cat": "RESEARCH",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "AI Startups To Watch: 5 Indian AI Startups That Caught Our Eye In April",
-      "url": "https://inc42.com/startups/ai-startups-to-watch-5-indian-ai-startups-that-caught-our-eye-in-april/",
-      "cat": "RESEARCH",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "Reworking the economics of farming, with OpenAI in the loop",
-      "url": "https://yourstory.com/2026/04/reworking-economics-farming--openai-in-loop",
-      "cat": "RESEARCH",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "Microsoft to replicate Azure's cloud business strategy of flexibility to win long-term AI deals with clients",
-      "url": "https://www.livemint.com/technology/tech-news/microsoft-azure-strategy-flexibility-clients-ai-deals-cloud-business-11776412280955.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "DeepL launches real-time voice-to-voice translation in 40+ languages",
-      "url": "https://thenextweb.com/news/deepl-voice-to-voice-real-time-spoken-translation",
-      "cat": "RESEARCH",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "IIT and Princeton Researchers Harness AI to Transform Wireless Chip Design",
-      "url": "https://indiaai.gov.in/article/iit-and-princeton-researchers-harness-ai-to-transform-wireless-chip-design",
-      "cat": "RESEARCH",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "Indian Institute of Science develops new AI model to boost mixed reality object detection",
-      "url": "https://www.iisc.ac.in/iiscs-ai-for-mixed-reality/",
-      "cat": "RESEARCH",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "Meet The 10 Startups Selected For Second Cohort Of IndiaAI Startups Programme",
-      "url": "https://inc42.com/buzz/meet-the-10-startups-selected-for-second-cohort-of-indiaai-startups-programme/",
-      "cat": "POLICY",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "OpenAI launches AI model GPT-Rosalind for life sciences research",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-launches-ai-model-gpt-rosalind-for-life-sciences-research-10640863/",
-      "cat": "RESEARCH",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "Cadence, Nvidia working together on developing AI for robotics",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/cadence-nvidia-working-together-on-developing-ai-for-robotics-10639193/",
-      "cat": "RESEARCH",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "Meet Happy Oyster: Alibaba launches new AI video model that turns text prompts into playable 3D worlds",
-      "url": "https://www.livemint.com/technology/tech-news/meet-happy-oyster-alibaba-launches-new-ai-video-model-that-turns-text-prompts-into-playable-3d-worlds-11776321902774.html",
-      "cat": "RESEARCH",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "\u2018Your job is changing on you\u2019: LinkedIn says AI isn't killing hiring, but will rewrite your skillset by 2030",
-      "url": "https://www.livemint.com/technology/tech-news/your-job-s-changing-on-you-linkedin-data-reveals-ai-isnt-stealing-jobs-yet-but-it-will-rewrite-your-skillset-by-203-11776316655729.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "Google brings the Gemini app to Mac, Sundar Pichai says it was built by AI",
-      "url": "https://www.livemint.com/technology/tech-news/google-brings-the-gemini-app-to-mac-sundar-pichai-says-it-was-built-by-ai-11776303113440.html",
-      "cat": "RESEARCH",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "Canva becomes the design layer inside Claude with new Anthropic partnership",
-      "url": "https://thenextweb.com/news/canva-anthropic-claude-design-ai-powered-visual-suite",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "Dropbox brings its files, Dash search, and Reclaim calendar into ChatGPT with three new apps",
-      "url": "https://thenextweb.com/news/dropbox-chatgpt-apps-files-dash",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "OpenAI launches GPT-Rosalind, a specialised AI model for drug discovery and life sciences research",
-      "url": "https://thenextweb.com/news/openai-gpt-rosalind-life-sciences-drug-discovery-ai-model",
-      "cat": "RESEARCH",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "As DPDPA Kicks In, Are Startups Ready For Privacy Compliance Burden?",
-      "url": "https://inc42.com/features/india-dpdpa-startups-privacy-compliance-costs-burden-law/",
-      "cat": "POLICY",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "Freshworks to host webinar on tackling IT complexity in the age of AI",
-      "url": "https://yourstory.com/2026/04/freshworks-webinar-tackling-complexity-in-the-age-of-ai",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "Why replacing workers with AI could hurt companies too",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/why-replacing-workers-with-ai-could-hurt-companies-too-10639862/",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "AI is a gold mine for spammers and scammers, but Google is using it as a tool to fight back",
-      "url": "https://www.livemint.com/technology/ai-is-a-gold-mine-for-spammers-and-scammers-but-google-is-using-it-as-a-tool-to-fight-back-11776351750379.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
-      "title": "Publications - Kotak IISc AI\u2013ML Centre - Indian Institute of Science",
-      "url": "https://aiml.iisc.ac.in/publications/",
-      "cat": "RESEARCH",
-      "date": "2026-04-17T18:30:03.950998"
-    },
-    {
       "title": "MeitY Unveils India AI Governance Guidelines under IndiaAI Mission to Ensure Safe, Inclusive, and Responsible Adoption of Artificial Intelligence across Sectors",
       "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2013919",
       "cat": "POLICY",
@@ -1133,6 +989,60 @@
       "url": "https://thenextweb.com/news/ai-integration-demands-integrity-not-just-innovation-amy-trahey-on-building-accountability-into-an-ai-driven-world",
       "cat": "OTHER",
       "date": "2026-04-30T21:37:43.010900"
+    },
+    {
+      "title": "India in talks with US, Anthropic for Mythos access; no Indian firms in Project Glasswing yet",
+      "url": "https://www.medianama.com/2026/04/223-india-anthropic-claude-mythos-project-glasswing-access/",
+      "cat": "POLICY",
+      "date": "2026-05-01T21:18:51.469107"
+    },
+    {
+      "title": "LLM-based recommenders, ads, and AI agents: Inside Meta\u2019s growth strategy in Q1 FY26 earnings call",
+      "url": "https://www.medianama.com/2026/05/223-llm-based-recommenders-ads-ai-agents-metas-growth-strategy-q1-fy26-earnings-call/",
+      "cat": "RESEARCH",
+      "date": "2026-05-01T21:18:51.469107"
+    },
+    {
+      "title": "India faces cybersecurity talent crunch as AI, cloud drive demand: Report",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/india-cybersecurity-skills-gap-ai-demand-report-10665764/",
+      "cat": "OTHER",
+      "date": "2026-05-01T21:18:51.469107"
+    },
+    {
+      "title": "Alphabet to ramp up AI spending; Kimbal raises $22M funding",
+      "url": "https://yourstory.com/2026/04/alphabet-to-ramp-up-ai-spending-kimbal-raises-22m-funding",
+      "cat": "FUNDING",
+      "date": "2026-05-01T21:18:51.469107"
+    },
+    {
+      "title": "Big Tech Q1 2026 earnings: Key takeaways on AI spending, cloud growth, and more",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/big-tech-q1-fy2026-earnings-ai-cloud-growth-capex-roundup-10666191/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-01T21:18:51.469107"
+    },
+    {
+      "title": "India tops ChatGPT Images 2.0 users as AI visuals go mainstream",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/india-tops-chatgpt-images-2-0-users-as-ai-visuals-go-mainstream-10664028/",
+      "cat": "RESEARCH",
+      "date": "2026-05-01T21:18:51.469107"
+    },
+    {
+      "title": "Google Gemini adds file generation feature for documents and spreadsheets",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-gemini-adds-file-generation-feature-for-documents-and-spreadsheets-10665606/",
+      "cat": "RESEARCH",
+      "date": "2026-05-01T21:18:51.469107"
+    },
+    {
+      "title": "Australian banks warned frontier AI could create larger, faster cyber attacks",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/australian-banks-warned-frontier-ai-could-create-larger-faster-cyber-attacks-10663454/",
+      "cat": "RESEARCH",
+      "date": "2026-05-01T21:18:51.469107"
+    },
+    {
+      "title": "Nebius paid $643 million for 20 people because inference is where the money is",
+      "url": "https://thenextweb.com/news/nebius-eigen-ai-inference-optimization",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-01T21:18:51.469107"
     }
   ]
 }

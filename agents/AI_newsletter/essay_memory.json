@@ -127,6 +127,19 @@
         "Customer support agents resolve complex queries autonomously using knowledge bases and CRMs.",
         "Compliance agents monitor operations for regulatory adherence and flag anomalies."
       ]
+    },
+    {
+      "date": "2026-05-01T21:18:50.026820",
+      "day_number": 21,
+      "topic": "AI Agents and Orchestration",
+      "angle": "Week synthesis: your agent-building experience as a PM signal",
+      "key_arguments": [
+        "Building AI agents is the strongest signal for an AI PM role.",
+        "AI PMs need to understand AI product mechanics and operational realities.",
+        "Product strategy for AI requires understanding why AI is superior for a problem.",
+        "Failure mitigation is crucial due to AI's probabilistic nature.",
+        "Understanding the user's intent layer is paramount for AI agent design."
+      ]
     }
   ]
 }
