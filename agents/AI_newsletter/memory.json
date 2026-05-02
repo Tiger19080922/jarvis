@@ -1,120 +1,6 @@
 {
   "stories": [
     {
-      "title": "MeitY Unveils India AI Governance Guidelines under IndiaAI Mission to Ensure Safe, Inclusive, and Responsible Adoption of Artificial Intelligence across Sectors",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2013919",
-      "cat": "POLICY",
-      "date": "2026-04-18T02:27:45.045463"
-    },
-    {
-      "title": "MeitY Releases India AI Governance Guidelines with Deliberate Focus on Enabling Innovation over Restraint",
-      "url": "https://www.azbpartners.com/legal-corner/meity-releases-india-ai-governance-guidelines-with-deliberate-focus-on-enabling-innovation-over-restraint/",
-      "cat": "POLICY",
-      "date": "2026-04-18T02:27:45.045463"
-    },
-    {
-      "title": "India's AI Governance Guidelines: A Pragmatic Framework Rooted in Collaboration",
-      "url": "https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqVvCsO7lzASoWYbHrObEndmu1z4f7a8uwrfcmdVTQeFM3Dx0sIl6QAJ0j-8BSf0Lp3RH_Dsin7OgzDDZ_0iDktKdO6SIlSorRd4pBnUO_6V0WI6xTY2d2Od2vNHJl17dH0Oxv3oWIxNjEwh8LN6aMxGvlXmp8bfMiMhCbNaxCcAur0obE18Sa17oOo54S1pNC95sKaLVT0LkBfONaVOxNl_xD8lQ-CvfreXOx5pzqHLz9Y1unWcQ-uYk=",
-      "cat": "POLICY",
-      "date": "2026-04-18T02:27:45.045463"
-    },
-    {
-      "title": "MeitY unveils India's Approach towards regulating Artificial Intelligence",
-      "url": "https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8OS9oYTyCWXSv6RHLYqm1ADHz2ICFH242f3eUBEkPJUkcmsDHemdhcQKIQCe09DlQ-q269Ng-ieSazgVxKn7oWwzBuQqemCkPh2hOZkuMKSQtGQiUvEtYDhzbaaZPG3bkBGtQrPdDDATTUg8ZnLEpRVk1aGBbNKxV3GSe9sHu7m8USttK9ResiR4vfdjhkDQjrGvupn_neAC4asGYCWhPesA=",
-      "cat": "POLICY",
-      "date": "2026-04-18T02:27:45.045463"
-    },
-    {
-      "title": "AIGEG: MeitY\u2019s new AI governance body excludes regulators recommended by its own AI guidelines",
-      "url": "https://www.medianama.com/2026/04/223-aigeg-meitys-ai-governance-body-excludes-regulators-recommended-ai-guidelines/",
-      "cat": "POLICY",
-      "date": "2026-04-18T02:27:45.045463"
-    },
-    {
-      "title": "Sarvam AI raises $300M funding",
-      "url": "https://venture5.com/news/sarvam-ai-raises-300m-funding",
-      "cat": "FUNDING",
-      "date": "2026-04-18T21:08:27.416857"
-    },
-    {
-      "title": "Indian AI Startup Sarvam To Get $300M Funding From NVIDIA, Accel, HCLTech",
-      "url": "https://www.youtube.com/watch?v=T4k1Hh66X9Y",
-      "cat": "FUNDING",
-      "date": "2026-04-18T21:08:27.416857"
-    },
-    {
-      "title": "IndiaAI Mission selects 10 startups as part of its second cohort",
-      "url": "https://yourstory.com/2026/04/indiaai-mission-selects-10-startups-second-cohort",
-      "cat": "POLICY",
-      "date": "2026-04-18T21:08:27.416857"
-    },
-    {
-      "title": "\u2018India is at the forefront of AI use\u2019: Robert Kawalsky on Canva AI 2.0 launch",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/india-is-at-the-forefront-of-ai-use-robert-kawalsky-on-canva-ai-2-0-launch-10641530/",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-18T21:08:27.416857"
-    },
-    {
-      "title": "Krutrim AI funding news",
-      "url": "https://economictimes.indiatimes.com/tech/funding/ola-founder-bhavish-aggarwals-krutrim-ai-turns-unicorn-with-50-million-funding-from-matrix-others/articleshow/107175937.cms",
-      "cat": "FUNDING",
-      "date": "2026-04-18T21:08:27.416857"
-    },
-    {
-      "title": "LPL Financial\u2019s GCC in Hyderabad; QAI Ventures\u2019 focus on quantum AI startups",
-      "url": "https://yourstory.com/2026/04/lpl-financials-gcc-hyderabad-qai-ventures-focus-on-quantum-ai-startups",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-18T21:08:27.416857"
-    },
-    {
-      "title": "Anthropic taps Peter Thiel-backed Persona for Claude ID checks, raising DPDP concerns",
-      "url": "https://www.medianama.com/2026/04/223-anthropic-persona-identity-verification-claude-privacy-concerns/",
-      "cat": "POLICY",
-      "date": "2026-04-18T21:08:27.416857"
-    },
-    {
-      "title": "Claude Design debut marks Anthropic\u2019s expansion into visual creation",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/claude-design-debut-marks-anthropics-expansion-into-visual-creation-10642605/",
-      "cat": "RESEARCH",
-      "date": "2026-04-18T21:08:27.416857"
-    },
-    {
-      "title": "OpenAI expands Codex beyond coding with new AI capabilities",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-expands-codex-beyond-coding-with-new-ai-capabilities-10641645/",
-      "cat": "RESEARCH",
-      "date": "2026-04-18T21:08:27.416857"
-    },
-    {
-      "title": "White House chief of staff to meet with Anthropic CEO over its new AI technology",
-      "url": "https://www.livemint.com/technology/white-house-chief-of-staff-to-meet-with-anthropic-ceo-over-its-new-ai-technology-11776451301214.html",
-      "cat": "POLICY",
-      "date": "2026-04-18T21:08:27.416857"
-    },
-    {
-      "title": "Ola\u2019s Krutrim quietly shuts down its agentic AI assistant \u2018Kruti\u2019",
-      "url": "https://www.medianama.com/2026/04/223-olas-krutrim-shuts-down-agentic-ai-assistant-kruti/",
-      "cat": "RESEARCH",
-      "date": "2026-04-18T21:08:27.416857"
-    },
-    {
-      "title": "Meta may slash 8,000 jobs on May 20 as AI reshapes workforce: Report",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/meta-may-slash-8000-jobs-on-may-20-as-ai-reshapes-workforce-report-10642662/",
-      "cat": "OTHER",
-      "date": "2026-04-18T21:08:27.416857"
-    },
-    {
-      "title": "Nvidia\u2019s Huang warns DeepSeek running on Huawei chips would be \u2018horrible\u2019 for the US",
-      "url": "https://thenextweb.com/news/nvidia-huang-deepseek-huawei-chips-horrible-outcome",
-      "cat": "OTHER",
-      "date": "2026-04-18T21:08:27.416857"
-    },
-    {
-      "title": "VC firm funds Indian AI startups' shift to US",
-      "url": "https://www.business-standard.com/magazines/business-standard/magazines/vc-firm-funds-indian-ai-startups-shift-to-us-126041700051_1.html",
-      "cat": "FUNDING",
-      "date": "2026-04-18T21:08:27.416857"
-    },
-    {
       "title": "Centre sets up expert panel to steer AI governance framework",
       "url": "https://timesofindia.indiatimes.com/india/centre-sets-up-expert-panel-to-steer-ai-governance-framework/articleshow/109372670.cms",
       "cat": "POLICY",
@@ -1043,6 +929,66 @@
       "url": "https://thenextweb.com/news/nebius-eigen-ai-inference-optimization",
       "cat": "ENTERPRISE",
       "date": "2026-05-01T21:18:51.469107"
+    },
+    {
+      "title": "Indian AI startups raised $3.94 billion in just three months",
+      "url": "https://www.analyticsinsight.net/how-indian-ai-startups-raised-3-94-billion-in-just-three-months/",
+      "cat": "FUNDING",
+      "date": "2026-05-02T21:11:40.067435"
+    },
+    {
+      "title": "MeitY Unveils India AI Governance Guidelines under IndiaAI Mission to Ensure Safe, Inclusive, and Responsible Adoption of Artificial Intelligence across Sectors",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2019226",
+      "cat": "POLICY",
+      "date": "2026-05-02T21:11:40.067435"
+    },
+    {
+      "title": "Defence Ministry's \u20b9300 Crore Sarvam Deal - India Cuts the Cord on Foreign AI",
+      "url": "https://www.youtube.com/watch?v=10vN_fT21vM",
+      "cat": "FUNDING",
+      "date": "2026-05-02T21:11:40.067435"
+    },
+    {
+      "title": "How RoshAi Is Driving Autonomy In Ports And Mining Operations",
+      "url": "https://inc42.com/startups/how-roshai-is-driving-autonomy-in-ports-and-mining-operations/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-02T21:11:40.067435"
+    },
+    {
+      "title": "The company that built TikTok\u2019s algorithm is now designing drugs for diseases pharma called undruggable",
+      "url": "https://thenextweb.com/news/bytedance-anew-labs-ai-drug-discovery",
+      "cat": "RESEARCH",
+      "date": "2026-05-02T21:11:40.067435"
+    },
+    {
+      "title": "Sarvam AI partners EkStep, AI4Bharat to deploy multilingual voice AI agents across India",
+      "url": "https://www.livemint.com/companies/news/sarvam-partners-ekstep-ai4bharat-to-deploy-multilingual-voice-ai-agents-across-india-11710243050387.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-02T21:11:40.067435"
+    },
+    {
+      "title": "Palo Alto Networks To Acquire Portkey To Boost AI Security Play",
+      "url": "https://inc42.com/buzz/palo-alto-networks-to-acquire-portkey-to-boost-ai-security-play/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-02T21:11:40.067435"
+    },
+    {
+      "title": "\u2018Data governance is equal to trust\u2019: Qlik\u2019s Varun Babbar on AI\u2019s shift from experimentation to scale",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/data-governance-trust-qlik-ai-shift-varun-babbar-10667572/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-02T21:11:40.067435"
+    },
+    {
+      "title": "Fintech startup Oolka raises $14 million to expand AI tools for credit and personal finance",
+      "url": "https://www.business-standard.com/content/press-releases/fintech-startup-oolka-raises-14-million-to-expand-ai-tools-for-credit-and-personal-finance-126050100763_1.html",
+      "cat": "FUNDING",
+      "date": "2026-05-02T21:11:40.067435"
+    },
+    {
+      "title": "OpenAI introduces security feature removing passwords, SMS and email recovery",
+      "url": "https://www.medianama.com/2026/05/223-openai-advanced-passwordles-security-chatgpt-accounts/",
+      "cat": "RESEARCH",
+      "date": "2026-05-02T21:11:40.067435"
     }
   ]
 }

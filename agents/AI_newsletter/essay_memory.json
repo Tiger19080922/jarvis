@@ -140,6 +140,19 @@
         "Failure mitigation is crucial due to AI's probabilistic nature.",
         "Understanding the user's intent layer is paramount for AI agent design."
       ]
+    },
+    {
+      "date": "2026-05-02T21:11:38.579836",
+      "day_number": 22,
+      "topic": "AI Product Management Frameworks",
+      "angle": "How to write an AI product spec",
+      "key_arguments": [
+        "AI product specs manage uncertainty, not define fixed rules.",
+        "AI specs focus on desired behavior and probabilistic outcomes.",
+        "Problem definition and objective are crucial for AI product scope.",
+        "Model selection rationale justifies the AI approach chosen.",
+        "Evaluation criteria and success metrics define AI performance."
+      ]
     }
   ]
 }
