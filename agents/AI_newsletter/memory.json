@@ -1,72 +1,6 @@
 {
   "stories": [
     {
-      "title": "Centre sets up expert panel to steer AI governance framework",
-      "url": "https://timesofindia.indiatimes.com/india/centre-sets-up-expert-panel-to-steer-ai-governance-framework/articleshow/109372670.cms",
-      "cat": "POLICY",
-      "date": "2026-04-19T21:06:59.256285"
-    },
-    {
-      "title": "MeitY's IndiaAI Mission Picks 10 Cutting\u2011Edge Startups for International Scale\u2011Up in Paris",
-      "url": "https://www.indianweb2.com/meitys-indiaai-mission-picks-10-cutting-edge-startups-for-international-scale-up-in-paris/",
-      "cat": "FUNDING",
-      "date": "2026-04-19T21:06:59.256285"
-    },
-    {
-      "title": "'Be very good domain experts': What Sridhar Vembu told Zoho engineers on surviving the AI era",
-      "url": "https://www.livemint.com/technology/tech-news/be-very-good-domain-experts-what-sridhar-vembu-told-zoho-engineers-on-surviving-the-ai-era-11776583292632.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-19T21:06:59.256285"
-    },
-    {
-      "title": "Govt Forms New Interministerial High-Level AI Governance Body",
-      "url": "https://www.ndtv.com/video/news/india-s-ai-strategy-gains-pace-as-govt-forms-high-level-interministerial-body-672594",
-      "cat": "POLICY",
-      "date": "2026-04-19T21:06:59.256285"
-    },
-    {
-      "title": "What is Headless 360, Salesforce\u2019s new suite of tools for third-party AI agents?",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-headless-360-salesforce-third-party-ai-agents-10644848/",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-19T21:06:59.256285"
-    },
-    {
-      "title": "Palantir, Thales, and a startup are competing to build the FAA\u2019s predictive air traffic AI",
-      "url": "https://thenextweb.com/news/palantir-thales-air-space-intelligence-faa-smart-ai-air-traffic",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-19T21:06:59.256285"
-    },
-    {
-      "title": "Anthropic\u2019s Claude Opus 4.7, explained; Steep decline in VC funding",
-      "url": "https://yourstory.com/2026/04/anthropics-claude-opus-47-explained",
-      "cat": "RESEARCH",
-      "date": "2026-04-19T21:06:59.256285"
-    },
-    {
-      "title": "OpenAI sees executive departures amid enterprise pivot, pullback from \u2018side quests\u2019",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-exits-enterprise-pivot-sora-10644520/",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-19T21:06:59.256285"
-    },
-    {
-      "title": "Google makes Gemini\u2019s notebooks feature free for all",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-makes-geminis-notebooks-feature-free-for-all-10643580/",
-      "cat": "RESEARCH",
-      "date": "2026-04-19T21:06:59.256285"
-    },
-    {
-      "title": "Stanford\u2019s AI Index finds China has nearly closed the performance gap with the US despite spending 23 times less",
-      "url": "https://thenextweb.com/news/stanford-ai-index-2026-china-us-performance-gap",
-      "cat": "RESEARCH",
-      "date": "2026-04-19T21:06:59.256285"
-    },
-    {
-      "title": "Automotive Innovation & AI Forum 2026 | nasscom",
-      "url": "https://nasscom.in/events/automotive-innovation-ai-forum-2026",
-      "cat": "OTHER",
-      "date": "2026-04-19T21:06:59.256285"
-    },
-    {
       "title": "Sarvam AI Eyes $350M Raise at $1.5B Valuation Boost",
       "url": "https://www.asia.business-outlook.com/news/sarvam-ai-eyes-350m-raise-at-15b-valuation-boost",
       "cat": "FUNDING",
@@ -989,6 +923,30 @@
       "url": "https://www.medianama.com/2026/05/223-openai-advanced-passwordles-security-chatgpt-accounts/",
       "cat": "RESEARCH",
       "date": "2026-05-02T21:11:40.067435"
+    },
+    {
+      "title": "Indian Institute of Science develops new AI model to boost mixed reality object detection",
+      "url": "https://www.business-standard.com/content/press-releases-business/indian-institute-of-science-develops-new-ai-model-to-boost-mixed-reality-object-detection-125041300653_1.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-03T21:13:37.262410"
+    },
+    {
+      "title": "IISc Launches AI Challenge for Healthy Brain Aging Research with Rs 2 Crore Prize",
+      "url": "https://indianexpress.com/article/cities/bangalore/can-ai-solve-indias-dementia-crisis-bengaluru-iisc-launches-rs-2-crore-challenge-to-track-brain-aging-10235063/",
+      "cat": "RESEARCH",
+      "date": "2026-05-03T21:13:37.262410"
+    },
+    {
+      "title": "OpenAI updates ChatGPT privacy policy to introduce ad tracking via cookies: How to opt out",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-chatgpt-privacy-policy-update-cookies-opt-out-10668538/",
+      "cat": "POLICY",
+      "date": "2026-05-03T21:13:37.262410"
+    },
+    {
+      "title": "OpenAI ignored employee pleas to report a violent ChatGPT user months before a deadly mass shooting",
+      "url": "https://www.livemint.com/technology/tech-news/openai-ignored-employee-pleas-to-report-a-violent-chatgpt-user-months-before-a-deadly-mass-shooting-11777781762876.html",
+      "cat": "POLICY",
+      "date": "2026-05-03T21:13:37.262410"
     }
   ]
 }

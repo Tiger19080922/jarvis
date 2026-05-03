@@ -153,6 +153,19 @@
         "Model selection rationale justifies the AI approach chosen.",
         "Evaluation criteria and success metrics define AI performance."
       ]
+    },
+    {
+      "date": "2026-05-03T21:13:36.075735",
+      "day_number": 23,
+      "topic": "AI Product Management Frameworks",
+      "angle": "Evaluation design: the PM's most important AI skill",
+      "key_arguments": [
+        "Evaluation design is the AI PM's core, non-delegable skill.",
+        "AI's probabilistic nature requires PMs, not engineers, to judge output quality.",
+        "Evaluation design translates product vision into measurable AI behavior.",
+        "Eval sets, including golden and adversarial examples, are crucial for testing.",
+        "Mastery of evaluation design impacts product success and career trajectory."
+      ]
     }
   ]
 }
