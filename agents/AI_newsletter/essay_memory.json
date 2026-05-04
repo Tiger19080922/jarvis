@@ -166,6 +166,18 @@
         "Eval sets, including golden and adversarial examples, are crucial for testing.",
         "Mastery of evaluation design impacts product success and career trajectory."
       ]
+    },
+    {
+      "date": "2026-05-04T21:41:22.641898",
+      "day_number": 24,
+      "topic": "AI Product Management Frameworks",
+      "angle": "Trust, safety, and the PM's accountability",
+      "key_arguments": [
+        "AI trust and safety is a product design challenge, not compliance.",
+        "The PM is directly accountable for anticipating and mitigating AI harms.",
+        "Proactive safety is a strategic differentiator, not a cost center.",
+        "AI harms include factual errors, bias, privacy violations, and misuse."
+      ]
     }
   ]
 }
