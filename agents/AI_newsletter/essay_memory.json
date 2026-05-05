@@ -178,6 +178,18 @@
         "Proactive safety is a strategic differentiator, not a cost center.",
         "AI harms include factual errors, bias, privacy violations, and misuse."
       ]
+    },
+    {
+      "date": "2026-05-05T21:40:17.009549",
+      "day_number": 25,
+      "topic": "AI Product Management Frameworks",
+      "angle": "AI product metrics: beyond accuracy",
+      "key_arguments": [
+        "AI product success depends on user task completion, not just technical accuracy.",
+        "Task Completion Rate (TCR) measures AI's ability to fulfill user objectives.",
+        "Fallback Rate indicates AI autonomy and efficiency.",
+        "User Correction Rate (UCR) reveals gaps between AI output and user expectations."
+      ]
     }
   ]
 }

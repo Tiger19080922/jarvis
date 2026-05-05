@@ -1,84 +1,6 @@
 {
   "stories": [
     {
-      "title": "ANI v OpenAI: Not Everything an LLM Does is Copyright Infringement",
-      "url": "https://www.medianama.com/2026/04/223-ani-vs-openai-ai-copyright-case-india/",
-      "cat": "POLICY",
-      "date": "2026-04-21T21:15:47.293227"
-    },
-    {
-      "title": "Government Constitutes AI Governance and Economic Group (AIGEG) to Lead India's National AI Governance Strategy",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2214657",
-      "cat": "POLICY",
-      "date": "2026-04-21T21:15:47.293227"
-    },
-    {
-      "title": "NudgeBee Raises $3 Mn To Automate Cloud Operations With AI Agents",
-      "url": "https://inc42.com/buzz/nudgebee-raises-3-mn-to-automate-cloud-operations-with-ai-agents/",
-      "cat": "FUNDING",
-      "date": "2026-04-21T21:15:47.293227"
-    },
-    {
-      "title": "AI co NudgeBee secures funding; Startups reimagining breast cancer treatment in India",
-      "url": "https://yourstory.com/2026/04/ai-co-nudgebee-secures-funding",
-      "cat": "FUNDING",
-      "date": "2026-04-21T21:15:47.293227"
-    },
-    {
-      "title": "GitHub freezes new Copilot sign-ups as agentic AI breaks the economics of flat-rate developer subscriptions",
-      "url": "https://thenextweb.com/news/github-copilot-signup-pause-agentic-ai-usage-limits",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-21T21:15:47.293227"
-    },
-    {
-      "title": "Govt body plans legal framework for AI companies, tech oversight",
-      "url": "https://www.business-standard.com/industry/technology/govt-body-plans-legal-framework-for-ai-companies-tech-oversight-126042000435_1.html",
-      "cat": "POLICY",
-      "date": "2026-04-21T21:15:47.293227"
-    },
-    {
-      "title": "Adobe introduces CX Enterprise at Summit 2026, bets big on agentic AI for CX",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/adobe-introduces-cx-enterprise-at-summit-2026-bets-big-on-agentic-ai-for-cx-10647837/",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-21T21:15:47.293227"
-    },
-    {
-      "title": "OpenAI recruits Cognizant and CGI to take Codex into enterprise software shops worldwide",
-      "url": "https://thenextweb.com/news/openai-codex-enterprise-partners-cognizant-cgi",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-21T21:15:47.293227"
-    },
-    {
-      "title": "Trust, Safety and Governance Take Centre Stage at Agentic AI Roundtable during India AI Impact Summit 2026",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2215761",
-      "cat": "POLICY",
-      "date": "2026-04-21T21:15:47.293227"
-    },
-    {
-      "title": "Google brings Gemini-powered Chrome experience to 7 more countries",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-brings-gemini-powered-chrome-experience-to-7-more-countries-10647804/",
-      "cat": "RESEARCH",
-      "date": "2026-04-21T21:15:47.293227"
-    },
-    {
-      "title": "Vercel confirms data breach linked to third-party AI tool: All you need to know",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/vercel-confirms-data-breach-ai-tool-all-you-need-to-know-10646331/",
-      "cat": "OTHER",
-      "date": "2026-04-21T21:15:47.293227"
-    },
-    {
-      "title": "I integrated Google Gemini into my daily workflow and saw real productivity gains",
-      "url": "https://www.livemint.com/technology/howusinggoogle-geminidailyimprovedmyproductivity-11776662972570.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-21T21:15:47.293227"
-    },
-    {
-      "title": "Vercel data leak: CEO confirms internal breach linked to AI tool as hackers claim to sell stolen data for $2 million",
-      "url": "https://www.livemint.com/technology/tech-news/vercel-data-leak-ceo-confirms-internal-breach-linked-to-ai-tool-as-hackers-claim-to-sell-stolen-data-for-2-million-11776650683210.html",
-      "cat": "OTHER",
-      "date": "2026-04-21T21:15:47.293227"
-    },
-    {
       "title": "From data to decisions: What it takes to build real-time, AI-led consumer businesses in India",
       "url": "https://yourstory.com/2026/04/from-data-to-decisions-what-it-takes-to-build-real-time-ai-led-consumer-businesses-in-india",
       "cat": "ENTERPRISE",
@@ -911,6 +833,102 @@
       "url": "https://arxiv.org/abs/2502.16487",
       "cat": "RESEARCH",
       "date": "2026-05-04T21:41:23.793202"
+    },
+    {
+      "title": "Curium Life: AI platform for surgical intelligence",
+      "url": "https://yourstory.com/2026/04/curium-life-surgical-ai",
+      "cat": "RESEARCH",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "Perceptyne: AI robots for factory automation",
+      "url": "https://yourstory.com/2026/04/perceptyne-robots-factory-automation",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "What OpenAI, Anthropic\u2019s new enterprise AI services ventures mean for Indian IT firms",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-anthropic-enterprise-ai-services-ventures-it-sector-10674418/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "IIT Delhi develops AI agent that conducts real scientific experiments",
+      "url": "https://www.thehindu.com/sci-tech/technology/iit-delhi-develops-ai-agent-that-conducts-real-scientific-experiments/article69077437.ece",
+      "cat": "RESEARCH",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "IIT Madras releases dataset to detect biases in LLMs, tools for AI evaluation",
+      "url": "https://www.thehindu.com/sci-tech/technology/iit-madras-releases-dataset-to-detect-ai-biases-in-llms-tools-for-ai-evaluation/article69003217.ece",
+      "cat": "RESEARCH",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "Jurisphere.ai Bags $2.2 Mn To Build AI-Powered Lawyer Marketplace",
+      "url": "https://inc42.com/buzz/jurisphere-ai-bags-2-2-mn-to-build-ai-powered-lawyer-marketplace/",
+      "cat": "FUNDING",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "Krutrim pivots to AI cloud, pauses chip and AI model work",
+      "url": "https://www.medianama.com/2026/05/223-krutrim-ai-cloud-chip-ai-model-work/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "Anthropic ships ten financial-services agents and pulls Moody\u2019s inside Claude. The bank-software business is being rewritten.",
+      "url": "https://thenextweb.com/news/anthropic-financial-services-agents-claude-opus-4-7-fis",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "IIT Kanpur's BODH AI could make hospital data gathering safer, surer: Here's how it protects patients",
+      "url": "https://indianexpress.com/article/technology/tech-news-updates/iit-kanpurs-bodh-ai-could-make-hospital-data-gathering-safer-surer-protects-patients-10240716/",
+      "cat": "RESEARCH",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "Why Sarvam want its AI data centers in space satellites?",
+      "url": "https://www.medianama.com/2026/05/223-why-sarvam-want-its-ai-data-centers-in-space-satellites/",
+      "cat": "RESEARCH",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "\u2018A computer in space\u2019\u2014 what is Pathfinder, India\u2019s first orbital data centre",
+      "url": "https://theprint.in/feature/a-computer-in-space-what-is-pathfinder-indias-first-orbital-data-centre/2922031/",
+      "cat": "RESEARCH",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "IISc releases a report on `Emerging AI Tools for Education and Research: Perspective and Policies for IISc'",
+      "url": "https://iisc.ac.in/emerging-ai-tools-for-education-and-research-perspective-and-policies-for-iisc/",
+      "cat": "POLICY",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "IIT Bombay Racing Driverless: Autonomous Driving Stack for Formula Student AI",
+      "url": "https://arxiv.org/abs/2408.06113",
+      "cat": "RESEARCH",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "White House considers vetting AI models before they are released",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/white-house-considers-vetting-ai-models-before-they-are-released-10673526/",
+      "cat": "POLICY",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "OpenAI's ChatGPT phone fast-tracked, launch timeline and key specs leaked in new report",
+      "url": "https://www.livemint.com/technology/tech-news/openais-first-smartphone-launch-fast-tracked-launch-timeline-and-key-specs-leaked-in-new-report-11777972280842.html",
+      "cat": "OTHER",
+      "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "Indian researchers develop AI to detect industrial corrosion",
+      "url": "https://www.indiatoday.in/science/story/indian-researchers-develop-ai-to-detect-industrial-corrosion-2615759-2025-07-23",
+      "cat": "RESEARCH",
+      "date": "2026-05-05T21:40:18.619588"
     }
   ]
 }
