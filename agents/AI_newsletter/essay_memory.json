@@ -190,6 +190,18 @@
         "Fallback Rate indicates AI autonomy and efficiency.",
         "User Correction Rate (UCR) reveals gaps between AI output and user expectations."
       ]
+    },
+    {
+      "date": "2026-05-06T21:44:56.010578",
+      "day_number": 26,
+      "topic": "AI Product Management Frameworks",
+      "angle": "Human-in-the-loop design patterns",
+      "key_arguments": [
+        "HITL is a permanent, dynamic design pattern, not a temporary fix.",
+        "HITL combines AI speed with human judgment and ethical reasoning.",
+        "Task accuracy and time investment determine automation vs. HITL.",
+        "Approve-Before-Act is for high-stakes tasks; Review-After-Act for correctable errors."
+      ]
     }
   ]
 }

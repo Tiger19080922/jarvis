@@ -1,108 +1,6 @@
 {
   "stories": [
     {
-      "title": "From data to decisions: What it takes to build real-time, AI-led consumer businesses in India",
-      "url": "https://yourstory.com/2026/04/from-data-to-decisions-what-it-takes-to-build-real-time-ai-led-consumer-businesses-in-india",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "Google unveils 8th gen TPU computing chips, Gemini enterprise AI agent platform at Next 2026",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/gemini-enterprise-agent-tpu-chips-google-cloud-next-2026-10650704/",
-      "cat": "RESEARCH",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "Pichai opens Cloud Next 2026 with $240B backlog, 750M Gemini users, and a plan to turn Search into an agent manager",
-      "url": "https://thenextweb.com/news/google-cloud-next-pichai-agentic-era-scale",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "How Gumo is building an AI co-pilot for travel planning",
-      "url": "https://yourstory.com/2026/04/how-gumo-is-building-an-ai-co-pilot-for-travel-planning",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "Your desk is now an AI lab: RP Tech, an NVIDIA Partner, demos NVIDIA DGX Spark in Bangalore",
-      "url": "https://yourstory.com/2026/04/ai-lab-rp-tech-nvidia-partner-demos-nvidia-dgx-spark",
-      "cat": "RESEARCH",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "ECI orders 3-hour takedown rule for AI and fake content in elections",
-      "url": "https://www.medianama.com/2026/04/223-eci-orders-3-hour-takedown-rule-ai-fake-content-elections/",
-      "cat": "POLICY",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "Google wants Chrome to be your AI colleague, and it is betting 3.8 billion users agree",
-      "url": "https://thenextweb.com/news/google-chrome-enterprise-ai-coworker-agentic-browser",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "Google splits its next TPU in two, and the AI chip war just became a design philosophy fight",
-      "url": "https://thenextweb.com/news/google-ironwood-tpu-inference-cloud-next",
-      "cat": "RESEARCH",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "AI Money Flows, But Not Via India",
-      "url": "https://inc42.com/features/ai-money-flows-but-not-via-india/",
-      "cat": "FUNDING",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "Google expands Gemini-powered Chrome experience to APAC region",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-brings-gemini-powered-chrome-experience-to-7-more-countries-10647804/",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "Trapped in an elevator? AI system at Namo Bharat stations can raise alarm in 60 seconds",
-      "url": "https://www.livemint.com/technology/trapped-in-an-elevator-ai-system-at-namo-bharat-stations-can-raise-alarm-in-60-seconds-11776857570583.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "Morgan Stanley: Agentic AI shifts value from GPUs to CPUs and memory, creating up to $60bn incremental CPU TAM by 2030",
-      "url": "https://www.livemint.com/technology/morgan-stanley-agentic-ai-shifts-value-from-gpus-to-cpus-and-memory-creating-up-to-60bn-incremental-cpu-tam-by-2030-11776844417171.html",
-      "cat": "RESEARCH",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "Google taps Sergey Brin to lead a specialized AI strike team to take on Anthropic's Claude: Report",
-      "url": "https://www.livemint.com/technology/tech-news/google-taps-sergey-brin-to-lead-a-specialized-ai-strike-team-to-take-on-anthropics-claude-report-11776743898618.html",
-      "cat": "RESEARCH",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "VAST Data\u2019s $30 billion valuation is a bet that the data layer is the real bottleneck in AI",
-      "url": "https://thenextweb.com/news/vast-data-1b-raise-30b-valuation-nvidia-ai-storage",
-      "cat": "RESEARCH",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "From lab to market: The financing gap plaguing the deeptech sector",
-      "url": "https://yourstory.com/2026/04/from-lab-to-market-the-financing-gap-plaguing-the-deeptech-sector",
-      "cat": "FUNDING",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "ChatGPT Images 2.0 brings reasoning to AI visuals, can now create full comics",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-images-2-0-brings-reasoning-to-ai-visuals-can-now-create-full-comics-10649407/",
-      "cat": "RESEARCH",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
-      "title": "Mozilla patched 271 Firefox bugs found by Anthropic\u2019s Mythos, and says the zero-day era has an expiration date",
-      "url": "https://thenextweb.com/news/mozilla-firefox-claude-mythos-271-vulnerabilities",
-      "cat": "RESEARCH",
-      "date": "2026-04-22T21:18:55.560723"
-    },
-    {
       "title": "OpenAI bets on agentic AI with new workspace agents in ChatGPT",
       "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-bets-on-agentic-ai-with-new-workspace-agents-in-chatgpt-10652256/",
       "cat": "RESEARCH",
@@ -929,6 +827,66 @@
       "url": "https://www.indiatoday.in/science/story/indian-researchers-develop-ai-to-detect-industrial-corrosion-2615759-2025-07-23",
       "cat": "RESEARCH",
       "date": "2026-05-05T21:40:18.619588"
+    },
+    {
+      "title": "Major publishers like Macmillan allege Meta used pirated books to train its Llama model",
+      "url": "https://www.medianama.com/2026/05/223-publishers-meta-pirated-books-train-llama-model/",
+      "cat": "RESEARCH",
+      "date": "2026-05-06T21:44:57.423381"
+    },
+    {
+      "title": "OpenAI rolls out GPT-5.5 Instant with improved accuracy, sets it as ChatGPT default",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-rolls-out-gpt-5-5-instant-with-improved-accuracy-sets-it-as-chatgpt-default-10675229/",
+      "cat": "RESEARCH",
+      "date": "2026-05-06T21:44:57.423381"
+    },
+    {
+      "title": "Freshworks to cut 11% staff, registers 16% rise in revenue",
+      "url": "https://yourstory.com/2026/05/freshworks-to-cut-11-staff-registers-16-rise-in-revenue",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-06T21:44:57.423381"
+    },
+    {
+      "title": "Google sunsets Project Mariner as AI agent race shifts to OpenClaw-style tools: Report",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-sunsets-project-mariner-ai-agent-race-report-10676237/",
+      "cat": "RESEARCH",
+      "date": "2026-05-06T21:44:57.423381"
+    },
+    {
+      "title": "Google brings Gemini AI to cars, replacing Assistant in major upgrade",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-brings-gemini-ai-to-cars-replacing-assistant-in-major-upgrade-10675601/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-06T21:44:57.423381"
+    },
+    {
+      "title": "Paytm Posts \u20b9183 Cr Profit In Q4, Revenue Up 18% To \u20b92,264 Cr",
+      "url": "https://inc42.com/buzz/paytm-posts-%e2%82%b9183-cr-profit-in-q4-revenue-up-18-to-%e2%82%b92264-cr/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-06T21:44:57.423381"
+    },
+    {
+      "title": "SEBI forms task force, orders immediate cybersecurity overhaul amid Claude Mythos concerns",
+      "url": "https://www.medianama.com/2026/05/223-sebi-claude-mythos-circular-orders-cybersecurity-overhaul/",
+      "cat": "POLICY",
+      "date": "2026-05-06T21:44:57.423381"
+    },
+    {
+      "title": "Exclusive: Robotics Startup General Autonomy Raises \u20b932 Cr At \u20b9280 Cr Valuation",
+      "url": "https://inc42.com/buzz/exclusive-robotics-startup-general-autonomy-raises-%e2%82%b932-cr-at-%e2%82%b9280-cr-valuation/",
+      "cat": "FUNDING",
+      "date": "2026-05-06T21:44:57.423381"
+    },
+    {
+      "title": "Netradyne Acquires Fleet Management Company Moove To Expand In Europe",
+      "url": "https://inc42.com/buzz/netradyne-acquires-fleet-management-company-moove-to-expand-in-europe/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-06T21:44:57.423381"
+    },
+    {
+      "title": "Adobe and OpenAI integrate ChatGPT ads into GenStudio for Performance Marketing",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/adobe-and-openai-integrate-chatgpt-ads-into-genstudio-for-performance-marketing-10676252/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-06T21:44:57.423381"
     }
   ]
 }
