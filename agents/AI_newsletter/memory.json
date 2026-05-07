@@ -1,60 +1,6 @@
 {
   "stories": [
     {
-      "title": "OpenAI bets on agentic AI with new workspace agents in ChatGPT",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-bets-on-agentic-ai-with-new-workspace-agents-in-chatgpt-10652256/",
-      "cat": "RESEARCH",
-      "date": "2026-04-23T21:17:27.361046"
-    },
-    {
-      "title": "Google\u2019s \u2018Workspace Intelligence\u2019 layer is turning your docs and sheets into proactive AI assistants",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/googles-workspace-intelligence-layer-is-turning-your-docs-and-sheets-into-proactive-ai-assistants-10651517/",
-      "cat": "RESEARCH",
-      "date": "2026-04-23T21:17:27.361046"
-    },
-    {
-      "title": "YouTube expands AI likeness detection tool to celebrities amid deepfake surge",
-      "url": "https://www.medianama.com/2026/04/223-youtube-ai-likeness-detection-tool-celebrities-deepfake/",
-      "cat": "RESEARCH",
-      "date": "2026-04-23T21:17:27.361046"
-    },
-    {
-      "title": "Rilian raises $17.5 million to bring agentic AI to sovereign defence",
-      "url": "https://thenextweb.com/news/rilian-raises-17-5-million-to-bring-agentic-ai-to-sovereign-defence",
-      "cat": "FUNDING",
-      "date": "2026-04-23T21:17:27.361046"
-    },
-    {
-      "title": "OpenAI briefs US agencies, Five Eyes on new cybersecurity product: Report",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-briefs-us-agencies-five-eyes-on-new-cybersecurity-product-report-10650455/",
-      "cat": "RESEARCH",
-      "date": "2026-04-23T21:17:27.361046"
-    },
-    {
-      "title": "India needs digital identity for every device and stronger AI-led cyber defence to curb threats: Experts",
-      "url": "https://www.livemint.com/technology/india-needs-digital-identity-for-every-device-and-stronger-ai-led-cyber-defence-to-curb-threats-experts-11776951208130.html",
-      "cat": "POLICY",
-      "date": "2026-04-23T21:17:27.361046"
-    },
-    {
-      "title": "Claim Clarity on the role of specialized AI in advancing workers\u2019 compensation decision precision",
-      "url": "https://thenextweb.com/news/ai-workers-compensation-claims-healthcare",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-23T21:17:27.361046"
-    },
-    {
-      "title": "Anthropic\u2019s Mythos AI accessed without approval via third-party vendor route: Report",
-      "url": "https://www.medianama.com/2026/04/223-anthropic-mythos-ai-approval-third-party-vendor/",
-      "cat": "RESEARCH",
-      "date": "2026-04-23T21:17:27.361046"
-    },
-    {
-      "title": "Anthropic investigating claims of unauthorised access to \u2018high-risk\u2019 Claude Mythos: Report",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-investigating-of-rogue-access-to-claude-mythos-ai-10650168/",
-      "cat": "RESEARCH",
-      "date": "2026-04-23T21:17:27.361046"
-    },
-    {
       "title": "Centre Mulls Stricter AI Governance Framework Amid Rising Risks: Report",
       "url": "https://inc42.com/buzz/centre-mulls-stricter-ai-governance-framework-amid-rising-risks-report/",
       "cat": "POLICY",
@@ -887,6 +833,108 @@
       "url": "https://indianexpress.com/article/technology/artificial-intelligence/adobe-and-openai-integrate-chatgpt-ads-into-genstudio-for-performance-marketing-10676252/",
       "cat": "ENTERPRISE",
       "date": "2026-05-06T21:44:57.423381"
+    },
+    {
+      "title": "Supreme Court asks Bar Council to form AI expert panel after trial court cites fake judgments",
+      "url": "https://www.medianama.com/2026/05/223-supreme-court-seeks-ai-panel-over-fake-judgments/",
+      "cat": "POLICY",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "Meet Remy: Google is creating a \u201824/7 personal agent\u2019 to manage your digital life, says report",
+      "url": "https://www.livemint.com/technology/tech-news/meet-remy-google-is-creating-a-24-7-personal-agent-to-manage-your-digital-life-says-report-11778033309461.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "The rise of AI Orchestration Layers: BadCo.AI on guiding a more connected car buying experience",
+      "url": "https://thenextweb.com/news/ai-orchestration-car-buying-badco-ai",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "Paytm Bets On AI Makeover To Drive FY27 Momentum",
+      "url": "https://inc42.com/buzz/paytm-bets-on-ai-makeover-to-drive-fy27-momentum/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "Chiratae Ventures commits $10M for 5 deeptech startups",
+      "url": "https://yourstory.com/2026/05/chiratae-ventures-commits-10-million-5-deeptech-startups",
+      "cat": "FUNDING",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "Lisa Ray on menopause and women\u2019s health; Proshort brings AI sales coaching",
+      "url": "https://yourstory.com/2026/05/lisa-ray-menopause-womens-health-proshort-ai-sales-coach",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "Samsung targets Indian enterprises with new AI-powered Business Experience Studios",
+      "url": "https://www.livemint.com/technology/tech-news/samsung-targets-indian-enterprises-with-new-ai-powered-business-experience-studios-11778156352349.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "Claude can now 'dream' as Anthropic races to build \u2018self improving\u2019 AI agents",
+      "url": "https://www.livemint.com/technology/tech-news/claude-can-now-dream-as-anthropic-races-to-build-self-improving-ai-agents-11778119736191.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "ChatGPT becomes smarter, less verbose and better at remembering you with new GPT-5.5 Instant update",
+      "url": "https://www.livemint.com/technology/tech-news/chatgpt-becomes-smarter-less-verbose-and-better-at-remembering-you-with-new-gpt-5-5-instant-update-11778027475461.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "Neuromorphic Computing Hackathon at IISc Bangalore",
+      "url": "https://www.fintechbiznews.com/technology/iisc-ltm-drive-ai-awareness-neuromorphic-computing-hackathon-march-2026-8782.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "InMobi Acquires San Francisco-Based App Analytics Platform MobileAction",
+      "url": "https://inc42.com/buzz/inmobi-acquires-san-francisco-based-app-analytics-platform-mobileaction/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "Exclusive: Robotics Startup Alphadroid Raises $3.8 Mn From Alkemi, Others",
+      "url": "https://inc42.com/buzz/exclusive-robotics-startup-alphadroid-raises-3-8-mn-from-alkemi-others/",
+      "cat": "FUNDING",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "Google adds forums, direct links, subscription news to AI Search despite accuracy concerns",
+      "url": "https://www.medianama.com/2026/05/223-google-forums-direct-links-subscription-news-ai-search/",
+      "cat": "RESEARCH",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "Google adds Reddit and community discussions to AI-powered search results",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-adds-reddit-and-community-discussions-to-ai-powered-search-results-10677073/",
+      "cat": "RESEARCH",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "Google\u2019s $100 Fitbit Air has no screen. The product it is actually selling is a $10-a-month AI health coach.",
+      "url": "https://thenextweb.com/news/google-fitbit-air-screenless-whoop-health-coach",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "AI Challenge for Healthy Brain Aging | 2026",
+      "url": "https://www.iisc.ac.in/events/ai-challenge-for-healthy-brain-aging-2026/",
+      "cat": "RESEARCH",
+      "date": "2026-05-07T21:35:43.216245"
+    },
+    {
+      "title": "Preprints | Wadhwani School of Data Science and Artificial Intelligence",
+      "url": "https://dsai.iitm.ac.in/preprints/",
+      "cat": "RESEARCH",
+      "date": "2026-05-07T21:35:43.216245"
     }
   ]
 }

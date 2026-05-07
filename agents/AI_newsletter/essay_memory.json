@@ -202,6 +202,18 @@
         "Task accuracy and time investment determine automation vs. HITL.",
         "Approve-Before-Act is for high-stakes tasks; Review-After-Act for correctable errors."
       ]
+    },
+    {
+      "date": "2026-05-07T21:35:41.892642",
+      "day_number": 27,
+      "topic": "AI Product Management Frameworks",
+      "angle": "Feedback loops: how AI products get better over time",
+      "key_arguments": [
+        "AI product moats are built on self-improving feedback loops, not initial models.",
+        "The data flywheel, driven by user engagement, is the core strategic differentiator.",
+        "Feedback loops capture user interaction data to continuously refine AI models.",
+        "Explicit feedback is precise but sparse; implicit feedback is abundant but noisy."
+      ]
     }
   ]
 }
