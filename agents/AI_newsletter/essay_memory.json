@@ -214,6 +214,19 @@
         "Feedback loops capture user interaction data to continuously refine AI models.",
         "Explicit feedback is precise but sparse; implicit feedback is abundant but noisy."
       ]
+    },
+    {
+      "date": "2026-05-08T21:38:06.314945",
+      "day_number": 28,
+      "topic": "AI Product Management Frameworks",
+      "angle": "Week synthesis: the AI PM skill stack",
+      "key_arguments": [
+        "AI PMs need probabilistic judgment for non-deterministic outcomes.",
+        "Systemic uncertainty management is key to designing adaptive AI products.",
+        "AI products are 'grown' and require continuous adaptation, not fixed delivery.",
+        "Shift from deterministic features to adaptive system orchestration is critical.",
+        "Evaluation must measure probabilistic performance, not just single accuracy scores."
+      ]
     }
   ]
 }
