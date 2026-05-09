@@ -1,18 +1,6 @@
 {
   "stories": [
     {
-      "title": "India sees fastest global growth in AI hiring at 59.5%: LinkedIn report",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/india-sees-fastest-global-growth-in-ai-hiring-at-59-5-linkedin-report-10655284/",
-      "cat": "RESEARCH",
-      "date": "2026-04-25T21:07:44.513507"
-    },
-    {
-      "title": "AI-powered R&D platform for consumer products; Demand for AI talent spikes in India",
-      "url": "https://yourstory.com/2026/04/-ai-powered-rd-platform-for-consumer-products-",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-25T21:07:44.513507"
-    },
-    {
       "title": "India rolls out governance guidelines to drive safe AI",
       "url": "https://coingeek.com/india-rolls-out-governance-guidelines-to-drive-safe-ai/",
       "cat": "POLICY",
@@ -863,6 +851,66 @@
       "url": "https://thenextweb.com/news/hugging-face-clawhub-malware-ai-supply-chain",
       "cat": "OTHER",
       "date": "2026-05-08T21:38:07.459158"
+    },
+    {
+      "title": "DesignX: OS and AI layer for factory decisions",
+      "url": "https://yourstory.com/2026/05/designx-factory-os-vish-ai",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-09T21:13:22.981997"
+    },
+    {
+      "title": "Anthropic\u2019s Mythos found thousands of zero-day vulnerabilities. The Fed chair called the banks.",
+      "url": "https://thenextweb.com/news/anthropic-mythos-cybersecurity-banks-vulnerability",
+      "cat": "RESEARCH",
+      "date": "2026-05-09T21:13:22.981997"
+    },
+    {
+      "title": "A manual pentest costs 50,000 dollars. Intruder built an AI that does it in minutes.",
+      "url": "https://thenextweb.com/news/intruder-ai-pentesting-cybersecurity-knowbe4",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-09T21:13:22.981997"
+    },
+    {
+      "title": "Akamai\u2019s stock had its best day in 22 years. It took one AI contract.",
+      "url": "https://thenextweb.com/news/akamai-anthropic-cloud-deal-ai-infrastructure",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-09T21:13:22.981997"
+    },
+    {
+      "title": "Fashinza Cofounder Pawan Gupta Steps Down, Eyes New Venture In AI Space",
+      "url": "https://inc42.com/buzz/fashinza-cofounder-pawan-gupta-steps-down-eyes-new-venture-in-ai-space/",
+      "cat": "OTHER",
+      "date": "2026-05-09T21:13:22.981997"
+    },
+    {
+      "title": "Delhi HC to pass blocking orders on Shashi Tharoor deepfakes praising Pakistan",
+      "url": "https://www.medianama.com/2026/05/223-delhi-hc-pass-blocking-orders-shashi-tharoor-deepfakes-praising-pakistan/",
+      "cat": "POLICY",
+      "date": "2026-05-09T21:13:22.981997"
+    },
+    {
+      "title": "Google built a 99 dollar AI health coach. Whoop responded with real doctors.",
+      "url": "https://thenextweb.com/news/whoop-doctors-fitbit-air-google-health-ai",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-09T21:13:22.981997"
+    },
+    {
+      "title": "OpenAI rolls out \u2018Trusted Contact\u2019 feature in ChatGPT to flag self-harm risks",
+      "url": "https://www.medianama.com/2026/05/223-openai-trusted-contact-chatgpt-self-harm-risks/",
+      "cat": "RESEARCH",
+      "date": "2026-05-09T21:13:22.981997"
+    },
+    {
+      "title": "EU bans AI nudification apps, delays high-risk AI enforcement to 2027",
+      "url": "https://www.medianama.com/2026/05/223-eu-ai-nudification-apps-delays-ai-enforcement-2027/",
+      "cat": "POLICY",
+      "date": "2026-05-09T21:13:22.981997"
+    },
+    {
+      "title": "Publications - Kotak IISc AI\u2013ML Centre - Indian Institute of Science",
+      "url": "https://iisc.ac.in/publications/",
+      "cat": "RESEARCH",
+      "date": "2026-05-09T21:13:22.981997"
     }
   ]
 }

@@ -227,6 +227,18 @@
         "Shift from deterministic features to adaptive system orchestration is critical.",
         "Evaluation must measure probabilistic performance, not just single accuracy scores."
       ]
+    },
+    {
+      "date": "2026-05-09T21:13:21.331056",
+      "day_number": 29,
+      "topic": "India AI Ecosystem: Startups and Founders",
+      "angle": "Sarvam AI: building India's sovereign model",
+      "key_arguments": [
+        "Sovereign AI means national control over AI infrastructure and foundational models.",
+        "Global LLMs fail to serve India's linguistic diversity and cultural nuances.",
+        "Sarvam AI builds foundational Indic language models trained from scratch on Indian data.",
+        "Indigenous AI development is crucial for India's digital future and autonomy."
+      ]
     }
   ]
 }
