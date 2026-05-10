@@ -1,24 +1,6 @@
 {
   "stories": [
     {
-      "title": "India rolls out governance guidelines to drive safe AI",
-      "url": "https://coingeek.com/india-rolls-out-governance-guidelines-to-drive-safe-ai/",
-      "cat": "POLICY",
-      "date": "2026-04-26T21:08:11.880073"
-    },
-    {
-      "title": "Making AI to explain its actions",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESBQnnEVKVvwS3CTvm3mTe9-vfKS4uiqBehGbwMvKssq94J1MzxZ9EAzm9zlcurC8xZpdoMZXyOrAS_D0uTCtgSuMvrKZuBDwLD6kdDvBT9V5bj0ak2ziWfDn-dkYZH3cKx36PPr7fcMncm4NmUYY=",
-      "cat": "RESEARCH",
-      "date": "2026-04-26T21:08:11.880073"
-    },
-    {
-      "title": "Can AI solve India's dementia crisis? Bengaluru IISc launches Rs 2 crore challenge to track brain aging",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERRY2cUsnbUVKeB2QkUXkHIWtrG-2r-DLnufqhNw0Jl2TA08gidFUcHUpvLaUm_U_NN8vEj6KGDbHBqVFpdXUE61PXebN-zB9fWNoZPzNvHHnFD7lGtIdlzgD_0qfRDCCujuEFzVTULXG43732WuyqgvNRrzr1sKtzIE9jRg1ojTWbMGBHY0ZgQBj_lPAd4g6dqXJZPymKcuz-kTcPd2SdLQLmLBQ94e35AUM-_Xd99L-89Omk2_OjYcPFx4lv9ywv41jgfY3JhFvRvbaoEWIJRQsnA0RnGC_ZM2BD4lM=5",
-      "cat": "RESEARCH",
-      "date": "2026-04-26T21:08:11.880073"
-    },
-    {
       "title": "Claude Mythos puts India on alert: CERT-In, telcos, banks assess unprecedented cyber risks",
       "url": "https://www.medianama.com/2026/04/223-claude-mythos-india-cert-in-telcos-banks-cyber-risks/",
       "cat": "RESEARCH",
@@ -911,6 +893,42 @@
       "url": "https://iisc.ac.in/publications/",
       "cat": "RESEARCH",
       "date": "2026-05-09T21:13:22.981997"
+    },
+    {
+      "title": "Sarvam AI Hits $1.5B Valuation with $300M-$350M Funding Round",
+      "url": "https://www.techinasia.com/india-sarvam-ai-eyes-350m-round-backed-by-nvidia-amazon",
+      "cat": "FUNDING",
+      "date": "2026-05-10T21:15:17.204832"
+    },
+    {
+      "title": "Krutrim pivots to AI cloud, clocks Rs 300 Cr revenue in FY26",
+      "url": "https://entrackr.com/2026/05/krutrim-pivots-to-ai-cloud-clocks-rs-300-cr-revenue-in-fy26/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-10T21:15:17.204832"
+    },
+    {
+      "title": "Krutrim reports first profit, triples revenue as it pivots to AI cloud",
+      "url": "https://www.business-standard.com/companies/start-ups/krutrim-reports-first-profit-triples-revenue-as-it-pivots-to-ai-cloud-126050400404_1.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-10T21:15:17.204832"
+    },
+    {
+      "title": "Can Bhavish Aggarwal Drag Ola Krutrim Out Of The Rut?",
+      "url": "https://inc42.com/features/bhavish-aggarwal-ola-krutrim-ai-ambitions-rut/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-10T21:15:17.204832"
+    },
+    {
+      "title": "Alibaba to integrate Qwen AI with Taobao, launch agentic shopping",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/alibaba-to-integrate-qwen-ai-with-taobao-launch-agentic-shopping-10681900/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-10T21:15:17.204832"
+    },
+    {
+      "title": "AI for children should not bypass human validation: Vineet Nayar, Founder, Sampark Foundation",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/vineet-nayar-hcl-sampark-foundation-rural-education-ai-impact-10679795/",
+      "cat": "POLICY",
+      "date": "2026-05-10T21:15:17.204832"
     }
   ]
 }
