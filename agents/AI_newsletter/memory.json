@@ -1,66 +1,6 @@
 {
   "stories": [
     {
-      "title": "Claude Mythos puts India on alert: CERT-In, telcos, banks assess unprecedented cyber risks",
-      "url": "https://www.medianama.com/2026/04/223-claude-mythos-india-cert-in-telcos-banks-cyber-risks/",
-      "cat": "RESEARCH",
-      "date": "2026-04-27T21:38:23.744187"
-    },
-    {
-      "title": "Announcing Inc42 AI Summit 2026: 600+ Founders & Leaders, Zero Fluff, All About Shipping AI In India",
-      "url": "https://inc42.com/buzz/announcing-inc42-ai-summit-2026-600-founders-leaders-zero-fluff-all-about-shipping-ai-in-india/",
-      "cat": "OTHER",
-      "date": "2026-04-27T21:38:23.744187"
-    },
-    {
-      "title": "Karnataka Drafting Responsible AI Framework To Embrace \u2018I-Governance\u2019: Priyank Kharge",
-      "url": "https://inc42.com/features/karnataka-drafting-responsible-ai-framework-to-embrace-i-governance-priyank-kharge/",
-      "cat": "POLICY",
-      "date": "2026-04-27T21:38:23.744187"
-    },
-    {
-      "title": "Jamtara was the trailer; the real story is AI-powered fraud",
-      "url": "https://yourstory.com/2026/04/jamtara-was-just-the-trailer-fraud-runs-on-ai-now",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-27T21:38:23.744187"
-    },
-    {
-      "title": "Mint Explainer | As India forms AI policy panel, what it means for startups",
-      "url": "https://www.livemint.com/technology/tech-news/mint-explainer-as-india-forms-ai-policy-panel-what-it-means-for-startups-11777189683588.html",
-      "cat": "POLICY",
-      "date": "2026-04-27T21:38:23.744187"
-    },
-    {
-      "title": "The End Of SEO? How AI Is Reshaping Brand Discovery On The Web",
-      "url": "https://inc42.com/features/the-end-of-seo-how-ai-is-reshaping-brand-discovery-on-the-web/",
-      "cat": "OTHER",
-      "date": "2026-04-27T21:38:23.744187"
-    },
-    {
-      "title": "CERT-In outlines safeguards for Indian orgs, MSMEs amid Mythos AI cybersecurity risk concerns",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/cert-in-safeguards-msmes-mythos-ai-cybersecurity-risk-10657982/",
-      "cat": "POLICY",
-      "date": "2026-04-27T21:38:23.744187"
-    },
-    {
-      "title": "DeepSeek unveils new, low-cost V4 AI models: Here\u2019s what you need to know",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/deepseek-new-low-cost-v4-ai-models-what-to-know-10656402/",
-      "cat": "RESEARCH",
-      "date": "2026-04-27T21:38:23.744187"
-    },
-    {
-      "title": "Anthropic secretly created a Claude-powered marketplace where AI agents bought and sold goods for humans",
-      "url": "https://www.livemint.com/technology/tech-news/anthropic-secretly-created-a-claude-powered-marketplace-where-ai-agents-bought-and-sold-goods-for-humans-11777170055496.html",
-      "cat": "RESEARCH",
-      "date": "2026-04-27T21:38:23.744187"
-    },
-    {
-      "title": "ChatGPT GPT-5.5 vs Claude Opus 4.7 vs Gemini 3.1 Pro: How does OpenAI's latest model compare against rivals?",
-      "url": "https://www.livemint.com/technology/tech-news/chatgpt-gpt-5-5-vs-claude-opus-4-7-vs-gemini-3-1-pro-how-does-openais-latest-model-compare-against-rivals-11777164489135.html",
-      "cat": "RESEARCH",
-      "date": "2026-04-27T21:38:23.744187"
-    },
-    {
       "title": "Nvidia is no longer just selling the shovels. Nemotron 3 Nano Omni is the company\u2019s most aggressive move into AI models.",
       "url": "https://thenextweb.com/news/nvidia-nemotron-nano-omni-multimodal-agent-edge",
       "cat": "RESEARCH",
@@ -929,6 +869,90 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/vineet-nayar-hcl-sampark-foundation-rural-education-ai-impact-10679795/",
       "cat": "POLICY",
       "date": "2026-05-10T21:15:17.204832"
+    },
+    {
+      "title": "India pushes for sovereign control over AI cybersecurity systems: report",
+      "url": "https://www.medianama.com/2026/05/223-india-pushes-sovereign-control-ai-cybersecurity-systems-report/",
+      "cat": "POLICY",
+      "date": "2026-05-11T21:54:09.877304"
+    },
+    {
+      "title": "MeitY Unveils India AI Governance Guidelines under IndiaAI Mission",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2021792",
+      "cat": "POLICY",
+      "date": "2026-05-11T21:54:09.877304"
+    },
+    {
+      "title": "India Constitutes AIGEG to Coordinate AI Policy",
+      "url": "https://letsdatascience.com/india-constitutes-aigeg-to-coordinate-ai-policy",
+      "cat": "POLICY",
+      "date": "2026-05-11T21:54:09.877304"
+    },
+    {
+      "title": "India Notifies 2026 IT Rules to Regulate AI and Deepfakes",
+      "url": "https://blog.okanagan.edu/tech-news/india-notifies-2026-it-rules-to-regulate-ai-and-deepfakes-key-changes-explained/",
+      "cat": "POLICY",
+      "date": "2026-05-11T21:54:09.877304"
+    },
+    {
+      "title": "Google Mulling Manufacturing AI Servers In India: Ashwini Vaishnaw",
+      "url": "https://inc42.com/buzz/google-mulling-manufacturing-ai-servers-in-india-ashwini-vaishnaw/",
+      "cat": "POLICY",
+      "date": "2026-05-11T21:54:09.877304"
+    },
+    {
+      "title": "AI jobs growing almost by 15-20 per cent: Vaishnaw",
+      "url": "https://www.livemint.com/technology/ai-jobs-growing-almost-by-15-20-per-cent-vaishnaw-11778515714007.html",
+      "cat": "POLICY",
+      "date": "2026-05-11T21:54:09.877304"
+    },
+    {
+      "title": "ONGC Mulls New \u20b9200 Cr Fund To Back Energy & AI Startups",
+      "url": "https://inc42.com/buzz/ongc-mulls-new-%e2%82%b9200-cr-fund-to-back-energy-ai-startups/",
+      "cat": "FUNDING",
+      "date": "2026-05-11T21:54:09.877304"
+    },
+    {
+      "title": "ONGC Startup Fund opens advisory roles to strengthen India's energy VC push",
+      "url": "https://yourstory.com/2026/05/ongc-startup-fund-opens-advisory-roles",
+      "cat": "FUNDING",
+      "date": "2026-05-11T21:54:09.877304"
+    },
+    {
+      "title": "NASSCOM CoE Strengthens India's AI Innovation Ecosystem",
+      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2022240",
+      "cat": "POLICY",
+      "date": "2026-05-11T21:54:09.877304"
+    },
+    {
+      "title": "Fractal Q4: Profit Doubles YoY To \u20b9116 Cr",
+      "url": "https://inc42.com/buzz/fractal-q4-profit-doubles-yoy-to-%e2%82%b9116-cr/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-11T21:54:09.877304"
+    },
+    {
+      "title": "Delhi High Court passes interim order protecting entrepreneur Aman Gupta\u2019s personality rights",
+      "url": "https://www.medianama.com/2026/05/223-delhi-high-court-deepfake-order-aman-gupta/",
+      "cat": "POLICY",
+      "date": "2026-05-11T21:54:09.877304"
+    },
+    {
+      "title": "Researchers asked ChatGPT, Gemini and Claude which jobs are most exposed to AI. The chatbots wildly diagree",
+      "url": "https://www.livemint.com/technology/tech-news/researchers-asked-chatgpt-gemini-and-claude-which-jobs-are-most-exposed-to-ai-the-chatbots-wildly-diagree-11778476586377.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-11T21:54:09.877304"
+    },
+    {
+      "title": "You can now control Google Chrome with OpenAI's Codex: Here's how to set it up",
+      "url": "https://www.livemint.com/technology/tech-news/how-to-control-google-chrome-with-openais-codex-check-step-by-step-guide-11778385114513.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-11T21:54:09.877304"
+    },
+    {
+      "title": "Notice:-Expression of Interest (EOI) for (AI-CoE) in UT Ladakh under India AI Mission.",
+      "url": "https://ladakh.nic.in/notice-expression-of-interest-eoi-for-ai-coe-in-ut-ladakh-under-india-ai-mission/",
+      "cat": "POLICY",
+      "date": "2026-05-11T21:54:09.877304"
     }
   ]
 }
