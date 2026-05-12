@@ -264,6 +264,19 @@
         "Balancing innovation with stability determines market leadership.",
         "Failure to adapt risks obsolescence against new and existing competitors."
       ]
+    },
+    {
+      "date": "2026-05-12T21:53:39.972654",
+      "day_number": 32,
+      "topic": "India AI Ecosystem: Startups and Founders",
+      "angle": "AI in Indian enterprise: BFSI, healthcare, and retail",
+      "key_arguments": [
+        "Indian enterprise AI is hyper-verticalized, not general adoption.",
+        "Success requires domain-specific agents solving acute business problems.",
+        "Generic AI struggles against purpose-built, sector-specific solutions.",
+        "Verticalization focuses on granular pain points and bespoke data.",
+        "Agentic AI orchestrates tools and data for specific enterprise goals."
+      ]
     }
   ]
 }
