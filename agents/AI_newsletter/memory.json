@@ -1,96 +1,6 @@
 {
   "stories": [
     {
-      "title": "OpenAI\u2019s next bet: Smartphones with AI agents that replace apps and challenge the iPhone",
-      "url": "https://indianexpress.com/article/technology/mobile-tabs/openais-next-bet-smartphones-with-ai-agents-that-replace-apps-and-challenge-the-apple-iphone-1065954-10659543/",
-      "cat": "RESEARCH",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
-      "title": "Amazon unveils AI tools to automate hiring and supply chain decisions",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/amazon-targets-mass-hiring-with-agentic-software-goal-to-humanize-ai-10661410/",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
-      "title": "Qualcomm surges on report of OpenAI tie-up for AI smartphone processors",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/qualcomm-surges-on-report-of-openai-tie-up-for-ai-smartphone-processors-10659466/",
-      "cat": "FUNDING",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
-      "title": "AI recruiting startup Dex raises $5.3m seed to match AI engineers with the companies that need them most",
-      "url": "https://thenextweb.com/news/ai-recruiting-startup-dex-raises-5-3m-seed-to-match-ai-engineers-with-the-companies-that-need-them-most",
-      "cat": "FUNDING",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
-      "title": "Anthropic lets users plug Claude directly into Adobe, Autodesk creative suite",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-brings-claude-into-creative-workflows-with-new-ai-connectors-10662410/",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
-      "title": "Amazon introduces \u2018Join the Chat\u2019 AI tool for voice-based shopping help",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/amazon-introduces-join-the-chat-ai-tool-for-voice-based-shopping-help-10661872/",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
-      "title": "Goa govt unveils draft AI policy with aim to position state as global hub for high-tech innovation",
-      "url": "https://www.livemint.com/technology/goa-govt-unveils-draft-ai-policy-with-aim-to-position-state-as-global-hub-for-high-tech-innovation-11777468156601.html",
-      "cat": "POLICY",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
-      "title": "Cognizant to acquire AI infrastructure specialist Astreya for $600 million",
-      "url": "https://thenextweb.com/news/cognizant-astreya-600-million-acquisition-ai-infrastructure",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
-      "title": "All3 raises $25m to automate construction with legged robots and AI design software",
-      "url": "https://thenextweb.com/news/all3-25m-seed-construction-robots-ai-housing",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
-      "title": "YouTube tests AI-powered search with guided answers and video results",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/youtube-tests-ai-powered-search-with-guided-answers-and-video-results-10662363/",
-      "cat": "RESEARCH",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
-      "title": "What does AGI mean for OpenAI now? Sam Altman lays out 5 key principles",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-does-agi-mean-openai-sam-altman-10660737/",
-      "cat": "RESEARCH",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
-      "title": "Tech Launches Today (April 28, 2026): Lenovo Idea Tab Pro Gen 2, Poco C81 Pro, Firefly AI assistant, and more",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/tech-and-gadget-launches-april-28-2026-lenovo-idea-tab-pro-gen-2-poco-c81-pro-adobes-firefly-ai-assistant-10660580/",
-      "cat": "RESEARCH",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
-      "title": "Samsung Galaxy Glasses leak hints at AI-first smart eyewear, possible 2026 debut",
-      "url": "https://indianexpress.com/article/technology/gadgets/samsung-galaxy-glasses-leak-hints-at-ai-first-smart-eyewear-possible-2026-debut-10659590/",
-      "cat": "RESEARCH",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
-      "title": "LG Electronics and Nvidia are in talks on robotics, AI data centres, and mobility",
-      "url": "https://thenextweb.com/news/lg-electronics-nvidia-talks-robotics-ai-data-centres",
-      "cat": "ENTERPRISE",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
-      "title": "EU and Parliament fail to agree on AI Act changes after 12 hours of talks, pushing deal to next month",
-      "url": "https://thenextweb.com/news/eu-ai-act-omnibus-deal-fails-april-2026-talks",
-      "cat": "POLICY",
-      "date": "2026-04-29T21:44:29.344638"
-    },
-    {
       "title": "Maharashtra Approves AI Policy, Eyes \u20b910,000 Cr Investments",
       "url": "https://inc42.com/buzz/maharashtra-approves-ai-policy-eyes-%e2%82%b910000-cr-investments/",
       "cat": "POLICY",
@@ -905,6 +815,66 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/whoop-on-demand-clinician-access-new-health-ai-features-10683529/",
       "cat": "ENTERPRISE",
       "date": "2026-05-12T21:53:41.417046"
+    },
+    {
+      "title": "Meet LiteFold, a biotech startup using proprietary AI to speed up drug discovery",
+      "url": "https://yourstory.com/2026/05/litefold-biotech-startup-using-proprietary-ai-speed-up-drug-discovery",
+      "cat": "RESEARCH",
+      "date": "2026-05-13T21:55:58.489580"
+    },
+    {
+      "title": "IPL\u2019s TV slump and changing viewer habits; An AI scientist to speed up drug discovery",
+      "url": "https://yourstory.com/2026/05/ipl-tv-slump-viewer-habits-ai-scientist-speed-up-drug-discovery",
+      "cat": "RESEARCH",
+      "date": "2026-05-13T21:55:58.489580"
+    },
+    {
+      "title": "Cybersecurity focused AI startup Exaforce raises $125 M in Series B funding round",
+      "url": "https://yourstory.com/2026/05/cybersecurity-ai-startup-exaforce-raises-series-b-funding-round",
+      "cat": "FUNDING",
+      "date": "2026-05-13T21:55:58.489580"
+    },
+    {
+      "title": "Google is turning Android into agentic AI system with Gemini Intelligence: Check features and release date",
+      "url": "https://www.livemint.com/technology/tech-news/google-is-turning-android-into-agentic-ai-system-with-gemini-intelligence-check-features-and-release-date-11778645240833.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-13T21:55:58.489580"
+    },
+    {
+      "title": "What is Gemini Intelligence and how it will let AI agents control your Android phone",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-gemini-intelligence-ai-agents-android-10687347/",
+      "cat": "RESEARCH",
+      "date": "2026-05-13T21:55:58.489580"
+    },
+    {
+      "title": "Who Will Bell The Consumer AI Cat?",
+      "url": "https://inc42.com/features/who-will-bell-the-consumer-ai-cat/",
+      "cat": "RESEARCH",
+      "date": "2026-05-13T21:55:58.489580"
+    },
+    {
+      "title": "Android 17 set to arrives with AirDrop-style sharing, AI widgets, and more",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/android-17-set-to-arrives-with-airdrop-style-sharing-ai-widgets-and-more-10687077/",
+      "cat": "RESEARCH",
+      "date": "2026-05-13T21:55:58.489580"
+    },
+    {
+      "title": "Spain pushes ahead with social media, AI rules despite Big Tech lobbying pressure",
+      "url": "https://www.livemint.com/technology/spain-pushes-ahead-with-social-media-ai-rules-despite-big-tech-lobbying-pressure-11778652120841.html",
+      "cat": "POLICY",
+      "date": "2026-05-13T21:55:58.489580"
+    },
+    {
+      "title": "From Googlebook to Gemini in Chrome: Top 5 biggest announcements from Android Show 2026",
+      "url": "https://www.livemint.com/technology/tech-news/from-googlebook-to-gemini-in-chrome-top-5-biggest-announcements-from-android-show-2026-11778635593772.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-13T21:55:58.489580"
+    },
+    {
+      "title": "Corti opens its clinical-AI stack to startups as Europe\u2019s regulatory bill rises",
+      "url": "https://thenextweb.com/news/corti-startup-acceleration-clinical-ai",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-13T21:55:58.489580"
     }
   ]
 }
