@@ -1,60 +1,6 @@
 {
   "stories": [
     {
-      "title": "India in talks with US, Anthropic for Mythos access; no Indian firms in Project Glasswing yet",
-      "url": "https://www.medianama.com/2026/04/223-india-anthropic-claude-mythos-project-glasswing-access/",
-      "cat": "POLICY",
-      "date": "2026-05-01T21:18:51.469107"
-    },
-    {
-      "title": "LLM-based recommenders, ads, and AI agents: Inside Meta\u2019s growth strategy in Q1 FY26 earnings call",
-      "url": "https://www.medianama.com/2026/05/223-llm-based-recommenders-ads-ai-agents-metas-growth-strategy-q1-fy26-earnings-call/",
-      "cat": "RESEARCH",
-      "date": "2026-05-01T21:18:51.469107"
-    },
-    {
-      "title": "India faces cybersecurity talent crunch as AI, cloud drive demand: Report",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/india-cybersecurity-skills-gap-ai-demand-report-10665764/",
-      "cat": "OTHER",
-      "date": "2026-05-01T21:18:51.469107"
-    },
-    {
-      "title": "Alphabet to ramp up AI spending; Kimbal raises $22M funding",
-      "url": "https://yourstory.com/2026/04/alphabet-to-ramp-up-ai-spending-kimbal-raises-22m-funding",
-      "cat": "FUNDING",
-      "date": "2026-05-01T21:18:51.469107"
-    },
-    {
-      "title": "Big Tech Q1 2026 earnings: Key takeaways on AI spending, cloud growth, and more",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/big-tech-q1-fy2026-earnings-ai-cloud-growth-capex-roundup-10666191/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-01T21:18:51.469107"
-    },
-    {
-      "title": "India tops ChatGPT Images 2.0 users as AI visuals go mainstream",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/india-tops-chatgpt-images-2-0-users-as-ai-visuals-go-mainstream-10664028/",
-      "cat": "RESEARCH",
-      "date": "2026-05-01T21:18:51.469107"
-    },
-    {
-      "title": "Google Gemini adds file generation feature for documents and spreadsheets",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-gemini-adds-file-generation-feature-for-documents-and-spreadsheets-10665606/",
-      "cat": "RESEARCH",
-      "date": "2026-05-01T21:18:51.469107"
-    },
-    {
-      "title": "Australian banks warned frontier AI could create larger, faster cyber attacks",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/australian-banks-warned-frontier-ai-could-create-larger-faster-cyber-attacks-10663454/",
-      "cat": "RESEARCH",
-      "date": "2026-05-01T21:18:51.469107"
-    },
-    {
-      "title": "Nebius paid $643 million for 20 people because inference is where the money is",
-      "url": "https://thenextweb.com/news/nebius-eigen-ai-inference-optimization",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-01T21:18:51.469107"
-    },
-    {
       "title": "Indian AI startups raised $3.94 billion in just three months",
       "url": "https://www.analyticsinsight.net/how-indian-ai-startups-raised-3-94-billion-in-just-three-months/",
       "cat": "FUNDING",
@@ -863,6 +809,60 @@
       "url": "https://indianexpress.com/article/cities/bangalore/iiscs-centre-for-brain-research-launches-ai-challenge-to-track-brain-aging-10051885/",
       "cat": "RESEARCH",
       "date": "2026-05-14T21:48:00.548200"
+    },
+    {
+      "title": "Inside Anthropic's $30 Billion Run Rate: How the AI Lab Is Betting Its Future on Compute",
+      "url": "https://yourstory.com/2026/05/anthropic-30-billion-revenue-claude-ai-compute-strategy",
+      "cat": "RESEARCH",
+      "date": "2026-05-15T21:37:48.991171"
+    },
+    {
+      "title": "Anthropic launches new suite of Claude AI automation tools for small businesses",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-launches-claude-ai-tools-small-businesses-10689428/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-15T21:37:48.991171"
+    },
+    {
+      "title": "Anthropic and the Gates Foundation are betting $200 million that AI can do more than make money",
+      "url": "https://thenextweb.com/news/anthropic-gates-foundation-ai-health-education-partnership",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-15T21:37:48.991171"
+    },
+    {
+      "title": "Oracle\u2019s Palanivel Saravanan On Building AI-Ready Infrastructure For Startups to Scale",
+      "url": "https://inc42.com/features/oracles-palanivel-saravanan-on-building-ai-ready-infrastructure-for-startups-to-scale/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-15T21:37:48.991171"
+    },
+    {
+      "title": "Govt releases first cheques under Rs 1 lakh crore RDI Fund, five deep tech startups make the cut",
+      "url": "https://yourstory.com/2026/05/india-rdi-fund-first-deep-tech-startups-funding",
+      "cat": "POLICY",
+      "date": "2026-05-15T21:37:48.991171"
+    },
+    {
+      "title": "OpenAI brings coding tool Codex\u00a0to\u00a0ChatGPT phone app",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-brings-coding-tool-codex-to-chatgpt-phone-app-10691044/",
+      "cat": "RESEARCH",
+      "date": "2026-05-15T21:37:48.991171"
+    },
+    {
+      "title": "Amazon replaces Rufus with a new AI shopping assistant powered by Alexa+",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/amazon-replaces-rufus-with-a-new-ai-shopping-assistant-powered-by-alexa-10688825/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-15T21:37:48.991171"
+    },
+    {
+      "title": "China\u2019s tech giants are replacing the search bar with AI agents that shop for you",
+      "url": "https://thenextweb.com/news/chinas-tech-giants-are-replacing-the-search-bar-with-ai-agents-that-shop-for-you",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-15T21:37:48.991171"
+    },
+    {
+      "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In May",
+      "url": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-may/",
+      "cat": "OTHER",
+      "date": "2026-05-15T21:37:48.991171"
     }
   ]
 }

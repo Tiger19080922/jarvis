@@ -301,6 +301,19 @@
         "Solely wrapping global LLMs with applications leads to commoditization.",
         "Building AI moats requires investment in localized data or go-to-market strategy."
       ]
+    },
+    {
+      "date": "2026-05-15T21:37:47.968146",
+      "day_number": 35,
+      "topic": "India AI Ecosystem: Startups and Founders",
+      "angle": "Week synthesis: your India AI market map",
+      "key_arguments": [
+        "India's AI market will fragment into hyper-verticalized agentic solutions.",
+        "Success hinges on proprietary Indic data, not generalist models.",
+        "Direct enterprise distribution is crucial for capturing value.",
+        "Focusing on the 'last mile' of AI application is key.",
+        "India's diversity drives this unique market structure."
+      ]
     }
   ]
 }
