@@ -1,66 +1,6 @@
 {
   "stories": [
     {
-      "title": "Indian AI startups raised $3.94 billion in just three months",
-      "url": "https://www.analyticsinsight.net/how-indian-ai-startups-raised-3-94-billion-in-just-three-months/",
-      "cat": "FUNDING",
-      "date": "2026-05-02T21:11:40.067435"
-    },
-    {
-      "title": "MeitY Unveils India AI Governance Guidelines under IndiaAI Mission to Ensure Safe, Inclusive, and Responsible Adoption of Artificial Intelligence across Sectors",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2019226",
-      "cat": "POLICY",
-      "date": "2026-05-02T21:11:40.067435"
-    },
-    {
-      "title": "Defence Ministry's \u20b9300 Crore Sarvam Deal - India Cuts the Cord on Foreign AI",
-      "url": "https://www.youtube.com/watch?v=10vN_fT21vM",
-      "cat": "FUNDING",
-      "date": "2026-05-02T21:11:40.067435"
-    },
-    {
-      "title": "How RoshAi Is Driving Autonomy In Ports And Mining Operations",
-      "url": "https://inc42.com/startups/how-roshai-is-driving-autonomy-in-ports-and-mining-operations/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-02T21:11:40.067435"
-    },
-    {
-      "title": "The company that built TikTok\u2019s algorithm is now designing drugs for diseases pharma called undruggable",
-      "url": "https://thenextweb.com/news/bytedance-anew-labs-ai-drug-discovery",
-      "cat": "RESEARCH",
-      "date": "2026-05-02T21:11:40.067435"
-    },
-    {
-      "title": "Sarvam AI partners EkStep, AI4Bharat to deploy multilingual voice AI agents across India",
-      "url": "https://www.livemint.com/companies/news/sarvam-partners-ekstep-ai4bharat-to-deploy-multilingual-voice-ai-agents-across-india-11710243050387.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-02T21:11:40.067435"
-    },
-    {
-      "title": "Palo Alto Networks To Acquire Portkey To Boost AI Security Play",
-      "url": "https://inc42.com/buzz/palo-alto-networks-to-acquire-portkey-to-boost-ai-security-play/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-02T21:11:40.067435"
-    },
-    {
-      "title": "\u2018Data governance is equal to trust\u2019: Qlik\u2019s Varun Babbar on AI\u2019s shift from experimentation to scale",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/data-governance-trust-qlik-ai-shift-varun-babbar-10667572/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-02T21:11:40.067435"
-    },
-    {
-      "title": "Fintech startup Oolka raises $14 million to expand AI tools for credit and personal finance",
-      "url": "https://www.business-standard.com/content/press-releases/fintech-startup-oolka-raises-14-million-to-expand-ai-tools-for-credit-and-personal-finance-126050100763_1.html",
-      "cat": "FUNDING",
-      "date": "2026-05-02T21:11:40.067435"
-    },
-    {
-      "title": "OpenAI introduces security feature removing passwords, SMS and email recovery",
-      "url": "https://www.medianama.com/2026/05/223-openai-advanced-passwordles-security-chatgpt-accounts/",
-      "cat": "RESEARCH",
-      "date": "2026-05-02T21:11:40.067435"
-    },
-    {
       "title": "Indian Institute of Science develops new AI model to boost mixed reality object detection",
       "url": "https://www.business-standard.com/content/press-releases-business/indian-institute-of-science-develops-new-ai-model-to-boost-mixed-reality-object-detection-125041300653_1.html",
       "cat": "RESEARCH",
@@ -863,6 +803,36 @@
       "url": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-may/",
       "cat": "OTHER",
       "date": "2026-05-15T21:37:48.991171"
+    },
+    {
+      "title": "Mobavenue AI Q4: PAT Zooms 60% To  \u20b98.4 Cr, Revenue Increases 42%",
+      "url": "https://inc42.com/buzz/mobavenue-ai-q4-pat-zooms-60-to-%e2%82%b98-4-cr-revenue-increases-42/",
+      "cat": "FUNDING",
+      "date": "2026-05-16T21:15:08.113272"
+    },
+    {
+      "title": "Stripe\u2019s John Collison says agentic commerce will completely transform online shopping",
+      "url": "https://thenextweb.com/news/stripe-collison-agentic-commerce-reshape-internet",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-16T21:15:08.113272"
+    },
+    {
+      "title": "Why UAE President Gifted Cerebras AI Superchip To PM Narendra Modi",
+      "url": "https://inc42.com/buzz/why-uae-president-gifted-cerebras-ai-superchip-to-pm-narendra-modi/",
+      "cat": "OTHER",
+      "date": "2026-05-16T21:15:08.113272"
+    },
+    {
+      "title": "What is Weights.gg? OpenAI quietly acquired a startup famous for AI deepfake voices",
+      "url": "https://www.livemint.com/technology/tech-news/what-is-weights-gg-openai-quietly-acquired-a-startup-famous-for-ai-deepfake-voices-11778902720868.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-16T21:15:08.113272"
+    },
+    {
+      "title": "Most CEOs think their boards are rushing AI, and BCG\u2019s survey shows why",
+      "url": "https://thenextweb.com/news/bcg-ceos-boards-rushing-ai-transformation-survey",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-16T21:15:08.113272"
     }
   ]
 }
