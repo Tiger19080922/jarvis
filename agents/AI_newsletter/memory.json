@@ -1,30 +1,6 @@
 {
   "stories": [
     {
-      "title": "Indian Institute of Science develops new AI model to boost mixed reality object detection",
-      "url": "https://www.business-standard.com/content/press-releases-business/indian-institute-of-science-develops-new-ai-model-to-boost-mixed-reality-object-detection-125041300653_1.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-03T21:13:37.262410"
-    },
-    {
-      "title": "IISc Launches AI Challenge for Healthy Brain Aging Research with Rs 2 Crore Prize",
-      "url": "https://indianexpress.com/article/cities/bangalore/can-ai-solve-indias-dementia-crisis-bengaluru-iisc-launches-rs-2-crore-challenge-to-track-brain-aging-10235063/",
-      "cat": "RESEARCH",
-      "date": "2026-05-03T21:13:37.262410"
-    },
-    {
-      "title": "OpenAI updates ChatGPT privacy policy to introduce ad tracking via cookies: How to opt out",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-chatgpt-privacy-policy-update-cookies-opt-out-10668538/",
-      "cat": "POLICY",
-      "date": "2026-05-03T21:13:37.262410"
-    },
-    {
-      "title": "OpenAI ignored employee pleas to report a violent ChatGPT user months before a deadly mass shooting",
-      "url": "https://www.livemint.com/technology/tech-news/openai-ignored-employee-pleas-to-report-a-violent-chatgpt-user-months-before-a-deadly-mass-shooting-11777781762876.html",
-      "cat": "POLICY",
-      "date": "2026-05-03T21:13:37.262410"
-    },
-    {
       "title": "Constems AI: Vision AI for real-time retail execution",
       "url": "https://yourstory.com/2026/05/constems-ai-vision-execution",
       "cat": "ENTERPRISE",
@@ -833,6 +809,48 @@
       "url": "https://thenextweb.com/news/bcg-ceos-boards-rushing-ai-transformation-survey",
       "cat": "ENTERPRISE",
       "date": "2026-05-16T21:15:08.113272"
+    },
+    {
+      "title": "Why NVIDIA and HCLTech are betting millions on India's Sarvam AI",
+      "url": "https://www.financialexpress.com/industry/tech/why-nvidia-and-hcltech-are-betting-millions-on-indias-sarvam-ai/3470113/",
+      "cat": "FUNDING",
+      "date": "2026-05-17T21:30:16.421703"
+    },
+    {
+      "title": "The Mythos Stress Test: Can Indian Fintechs, Banks Fend Off AI-Native Cyber Threats?",
+      "url": "https://inc42.com/features/the-mythos-stress-test-can-indian-fintechs-banks-fend-off-ai-native-cyber-threats/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-17T21:30:16.421703"
+    },
+    {
+      "title": "EY withdraws report over AI hallucination errors, fake data and citations",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/ey-withdraws-report-over-ai-hallucination-errors-fake-data-and-citations-10694245/",
+      "cat": "RESEARCH",
+      "date": "2026-05-17T21:30:16.421703"
+    },
+    {
+      "title": "YouTube rolls out likeness detection for all over-18 users to combat AI deepfakes",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/youtube-likeness-detection-all-users-ai-deepfakes-10694032/",
+      "cat": "POLICY",
+      "date": "2026-05-17T21:30:16.421703"
+    },
+    {
+      "title": "OpenAI bought company that offered AI tools for cloning voices",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-bought-company-that-offered-ai-tools-for-cloning-voices-10693684/",
+      "cat": "RESEARCH",
+      "date": "2026-05-17T21:30:16.421703"
+    },
+    {
+      "title": "You can now connect bank accounts, track spending and ask personal finance questions to ChatGPT",
+      "url": "https://www.livemint.com/technology/tech-news/you-can-now-connect-bank-accounts-track-spending-and-ask-personal-finance-questions-to-chatgpt-11778893110633.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-17T21:30:16.421703"
+    },
+    {
+      "title": "GM, Ford, and Stellantis have cut 20,000 white-collar jobs. AI is about to accelerate the trend.",
+      "url": "https://thenextweb.com/news/detroit-three-automakers-20000-white-collar-jobs-ai",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-17T21:30:16.421703"
     }
   ]
 }

@@ -327,6 +327,19 @@
         "Startup Financing pillar offers early-stage capital and incubator support.",
         "Focus on developing sovereign large multimodal models for global competitiveness."
       ]
+    },
+    {
+      "date": "2026-05-17T21:30:13.611349",
+      "day_number": 37,
+      "topic": "India AI Policy, Infrastructure, and Capital",
+      "angle": "GPU access in India: the infrastructure gap",
+      "key_arguments": [
+        "GPU access is the primary constraint for India's AI ambitions.",
+        "India is rapidly closing its compute infrastructure gap.",
+        "The focus is shifting from hardware acquisition to intelligent resource orchestration.",
+        "AI development requires massive parallel processing, best handled by GPUs.",
+        "Hyperscalers play a crucial role in providing AI compute infrastructure."
+      ]
     }
   ]
 }
