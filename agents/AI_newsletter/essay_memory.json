@@ -340,6 +340,19 @@
         "AI development requires massive parallel processing, best handled by GPUs.",
         "Hyperscalers play a crucial role in providing AI compute infrastructure."
       ]
+    },
+    {
+      "date": "2026-05-18T21:50:26.226411",
+      "day_number": 38,
+      "topic": "India AI Policy, Infrastructure, and Capital",
+      "angle": "India's AI regulatory approach: principles-based vs rules-based",
+      "key_arguments": [
+        "India's principles-based AI regulation offers a competitive advantage for domestic innovation.",
+        "The DPDP Act mandates a consent-based regime for personal data processing.",
+        "Companies must adopt a privacy-by-design strategy for AI product development.",
+        "Flexibility in principles-based regulation requires self-governance and ethical understanding.",
+        "Failure to internalize regulatory expectations leads to market exclusion."
+      ]
     }
   ]
 }

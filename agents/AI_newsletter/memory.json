@@ -1,54 +1,6 @@
 {
   "stories": [
     {
-      "title": "Constems AI: Vision AI for real-time retail execution",
-      "url": "https://yourstory.com/2026/05/constems-ai-vision-execution",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-04T21:41:23.793202"
-    },
-    {
-      "title": "Tsavorite Raises $5 Mn To Build Full-Stack AI Compute Platform",
-      "url": "https://inc42.com/buzz/tsavorite-raises-5-mn-to-build-full-stack-ai-compute-platform/",
-      "cat": "FUNDING",
-      "date": "2026-05-04T21:41:23.793202"
-    },
-    {
-      "title": "How NVIDIA DGX Spark is making sovereign AI a local reality",
-      "url": "https://yourstory.com/2026/04/nvidia-dgx-spark-making-sovereign-ai-local-reality",
-      "cat": "RESEARCH",
-      "date": "2026-05-04T21:41:23.793202"
-    },
-    {
-      "title": "Pavestone invests $5M in AI compute startup Tsavorite",
-      "url": "https://yourstory.com/2026/05/pavestone-backs-ai-compute-startup-tsavorite-with-5-million",
-      "cat": "FUNDING",
-      "date": "2026-05-04T21:41:23.793202"
-    },
-    {
-      "title": "Anthropic launches Claude Security for enterprises, but stops short of Mythos-level capabilities",
-      "url": "https://www.medianama.com/2026/05/223-anthropics-claude-security-amid-mythos-concerns/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-04T21:41:23.793202"
-    },
-    {
-      "title": "Fake Allu Arjun AI chatbots still live despite Delhi HC order in personality rights case",
-      "url": "https://www.medianama.com/2026/05/223-fake-allu-arjun-ai-chatbots-live-delhi-hc-personality-rights/",
-      "cat": "OTHER",
-      "date": "2026-05-04T21:41:23.793202"
-    },
-    {
-      "title": "In emergency room trials, Harvard study finds AI outperformed doctors with 67% accuracy",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/harvard-study-ai-doctors-emergency-room-trial-findings-10671938/",
-      "cat": "RESEARCH",
-      "date": "2026-05-04T21:41:23.793202"
-    },
-    {
-      "title": "All That Glitters is Not Novel: Plagiarism in AI Generated Research",
-      "url": "https://arxiv.org/abs/2502.16487",
-      "cat": "RESEARCH",
-      "date": "2026-05-04T21:41:23.793202"
-    },
-    {
       "title": "Curium Life: AI platform for surgical intelligence",
       "url": "https://yourstory.com/2026/04/curium-life-surgical-ai",
       "cat": "RESEARCH",
@@ -851,6 +803,48 @@
       "url": "https://thenextweb.com/news/detroit-three-automakers-20000-white-collar-jobs-ai",
       "cat": "ENTERPRISE",
       "date": "2026-05-17T21:30:16.421703"
+    },
+    {
+      "title": "Q4FY26: Nazara is betting big on AI and gaming as NODWIN eyes IPO and divestments planned",
+      "url": "https://www.medianama.com/2026/05/223-q4fy26-nazara-ai-and-gaming-nodwin-eyes-ipo-divestments-planned/",
+      "cat": "FUNDING",
+      "date": "2026-05-18T21:50:27.320015"
+    },
+    {
+      "title": "Silicon Road Ventures launches Rs 150 cr India AI fund for commerce startups",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/silicon-road-ventures-launches-rs-150-cr-india-ai-fund-for-commerce-startups/articleshow/110229987.cms",
+      "cat": "FUNDING",
+      "date": "2026-05-18T21:50:27.320015"
+    },
+    {
+      "title": "\u2018AI is no longer a feature, but the operating model for modern enterprises\u2019: Michael Dell\u2019s big push to win over corporate clients at a Las Vegas conference",
+      "url": "https://indianexpress.com/article/technology/ai-is-no-longer-a-feature-but-the-operating-model-for-modern-enterprises-michael-dells-big-push-to-win-over-corporate-clients-at-a-las-vegas-conference-10696562/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-18T21:50:27.320015"
+    },
+    {
+      "title": "ChatGPT Images 2.0 crosses one billion AI visuals in India: 10 most popular prompts users are trying",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-images-2-0-one-billion-ai-visuals-india-openai-10695796/",
+      "cat": "RESEARCH",
+      "date": "2026-05-18T21:50:27.320015"
+    },
+    {
+      "title": "arXiv Enforces Stricter Rules on AI-Generated Research, Threatens One-Year Ban for Violations",
+      "url": "https://www.etvbharat.com/english/national/state/telangana/arxiv-enforces-stricter-rules-on-ai-generated-research-threatens-one-year-ban-for-violations/national20260518143015808080808",
+      "cat": "RESEARCH",
+      "date": "2026-05-18T21:50:27.320015"
+    },
+    {
+      "title": "arXiv Cracks Down on AI-Generated Papers, Threatening Bans",
+      "url": "https://www.pcmag.com/news/arxiv-cracks-down-on-ai-generated-papers-threatening-bans",
+      "cat": "RESEARCH",
+      "date": "2026-05-18T21:50:27.320015"
+    },
+    {
+      "title": "arXiv Tightens Policies on AI-Generated Research",
+      "url": "https://www.hindustantimes.com/technology/arxiv-tightens-policies-on-ai-generated-research-181687796034232.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-18T21:50:27.320015"
     }
   ]
 }
