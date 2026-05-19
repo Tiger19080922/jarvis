@@ -1,102 +1,6 @@
 {
   "stories": [
     {
-      "title": "Curium Life: AI platform for surgical intelligence",
-      "url": "https://yourstory.com/2026/04/curium-life-surgical-ai",
-      "cat": "RESEARCH",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "Perceptyne: AI robots for factory automation",
-      "url": "https://yourstory.com/2026/04/perceptyne-robots-factory-automation",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "What OpenAI, Anthropic\u2019s new enterprise AI services ventures mean for Indian IT firms",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-anthropic-enterprise-ai-services-ventures-it-sector-10674418/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "IIT Delhi develops AI agent that conducts real scientific experiments",
-      "url": "https://www.thehindu.com/sci-tech/technology/iit-delhi-develops-ai-agent-that-conducts-real-scientific-experiments/article69077437.ece",
-      "cat": "RESEARCH",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "IIT Madras releases dataset to detect biases in LLMs, tools for AI evaluation",
-      "url": "https://www.thehindu.com/sci-tech/technology/iit-madras-releases-dataset-to-detect-ai-biases-in-llms-tools-for-ai-evaluation/article69003217.ece",
-      "cat": "RESEARCH",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "Jurisphere.ai Bags $2.2 Mn To Build AI-Powered Lawyer Marketplace",
-      "url": "https://inc42.com/buzz/jurisphere-ai-bags-2-2-mn-to-build-ai-powered-lawyer-marketplace/",
-      "cat": "FUNDING",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "Krutrim pivots to AI cloud, pauses chip and AI model work",
-      "url": "https://www.medianama.com/2026/05/223-krutrim-ai-cloud-chip-ai-model-work/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "Anthropic ships ten financial-services agents and pulls Moody\u2019s inside Claude. The bank-software business is being rewritten.",
-      "url": "https://thenextweb.com/news/anthropic-financial-services-agents-claude-opus-4-7-fis",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "IIT Kanpur's BODH AI could make hospital data gathering safer, surer: Here's how it protects patients",
-      "url": "https://indianexpress.com/article/technology/tech-news-updates/iit-kanpurs-bodh-ai-could-make-hospital-data-gathering-safer-surer-protects-patients-10240716/",
-      "cat": "RESEARCH",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "Why Sarvam want its AI data centers in space satellites?",
-      "url": "https://www.medianama.com/2026/05/223-why-sarvam-want-its-ai-data-centers-in-space-satellites/",
-      "cat": "RESEARCH",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "\u2018A computer in space\u2019\u2014 what is Pathfinder, India\u2019s first orbital data centre",
-      "url": "https://theprint.in/feature/a-computer-in-space-what-is-pathfinder-indias-first-orbital-data-centre/2922031/",
-      "cat": "RESEARCH",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "IISc releases a report on `Emerging AI Tools for Education and Research: Perspective and Policies for IISc'",
-      "url": "https://iisc.ac.in/emerging-ai-tools-for-education-and-research-perspective-and-policies-for-iisc/",
-      "cat": "POLICY",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "IIT Bombay Racing Driverless: Autonomous Driving Stack for Formula Student AI",
-      "url": "https://arxiv.org/abs/2408.06113",
-      "cat": "RESEARCH",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "White House considers vetting AI models before they are released",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/white-house-considers-vetting-ai-models-before-they-are-released-10673526/",
-      "cat": "POLICY",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "OpenAI's ChatGPT phone fast-tracked, launch timeline and key specs leaked in new report",
-      "url": "https://www.livemint.com/technology/tech-news/openais-first-smartphone-launch-fast-tracked-launch-timeline-and-key-specs-leaked-in-new-report-11777972280842.html",
-      "cat": "OTHER",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
-      "title": "Indian researchers develop AI to detect industrial corrosion",
-      "url": "https://www.indiatoday.in/science/story/indian-researchers-develop-ai-to-detect-industrial-corrosion-2615759-2025-07-23",
-      "cat": "RESEARCH",
-      "date": "2026-05-05T21:40:18.619588"
-    },
-    {
       "title": "Major publishers like Macmillan allege Meta used pirated books to train its Llama model",
       "url": "https://www.medianama.com/2026/05/223-publishers-meta-pirated-books-train-llama-model/",
       "cat": "RESEARCH",
@@ -845,6 +749,114 @@
       "url": "https://www.hindustantimes.com/technology/arxiv-tightens-policies-on-ai-generated-research-181687796034232.html",
       "cat": "RESEARCH",
       "date": "2026-05-18T21:50:27.320015"
+    },
+    {
+      "title": "Google just replaced the search box with an AI agent, and the web will never be the same",
+      "url": "https://thenextweb.com/news/google-search-ai-overhaul-information-agents-io-2026",
+      "cat": "RESEARCH",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "Google\u2019s Gemini 3.5 Flash doesn\u2019t just write code, it builds entire operating systems",
+      "url": "https://thenextweb.com/news/google-gemini-3-5-flash-agentic-ai-coding-io-2026",
+      "cat": "RESEARCH",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "Numerize's bet on agentic OS for restaurants - The intelligence layer F&B always wanted!",
+      "url": "https://yourstory.com/2026/05/numerizes-agentic-os-restaurants-intelligence-layer",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "Zuckerberg reshapes Meta around AI as company moves thousands of employees into AI roles ahead of layoffs",
+      "url": "https://www.livemint.com/technology/tech-news/zuckerberg-reshapes-meta-around-ai-as-company-moves-thousands-of-employees-into-ai-roles-ahead-of-planned-layoffs-11779207952726.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "Google wants you to talk to Docs, Keep, and Gmail instead of typing",
+      "url": "https://thenextweb.com/news/google-wants-you-to-talk-to-docs-keep-and-gmail-instead-of-typing",
+      "cat": "RESEARCH",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "Google wants you to talk to your Gmail inbox, and it might actually work",
+      "url": "https://thenextweb.com/news/google-gmail-live-ai-voice-search-inbox",
+      "cat": "RESEARCH",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "Google wants Search to work while you sleep, and its new information agents are the plan",
+      "url": "https://thenextweb.com/news/google-wants-search-to-work-while-you-sleep-and-its-new-information-agents-are-the-plan",
+      "cat": "RESEARCH",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "India Elevates Emphasis on Foundational AI Research",
+      "url": "https://letsdatascience.com/india-elevates-emphasis-on-foundational-ai-research/",
+      "cat": "POLICY",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "India\u2019s insurance regulator orders firms to strengthen defences against AI-powered attacks by May 22",
+      "url": "https://www.medianama.com/2026/05/223-irdai-cybersecurity-warning-ai-threats/",
+      "cat": "POLICY",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "Google kicks off I/O conference with AI upgrades for coders, consumers",
+      "url": "https://www.livemint.com/technology/google-kicks-off-i-o-conference-with-ai-upgrades-for-coders-consumers-11779211350557.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "Google I/O 2026 kicks off today: Where to watch Sundar Pichai's keynote live in India and what to expect",
+      "url": "https://www.livemint.com/technology/tech-news/google-i-o-2026-kicks-off-today-where-to-watch-sundar-pichais-keynote-live-in-india-and-what-to-expect-11779190505379.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "From Aluminium OS to Gemini Omni: The biggest AI upgrades expected at Google I/O 2026",
+      "url": "https://www.livemint.com/technology/tech-news/from-aluminium-os-to-gemini-omni-the-biggest-ai-upgrades-expected-at-google-i-o-2026-11779088631880.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "Sam Altman says India created over 1 billion images with ChatGPT Images 2.0: Here are top trends and prompts",
+      "url": "https://www.livemint.com/technology/tech-news/sam-altman-says-india-created-over-1-billion-images-with-chatgpt-images-2-0-here-are-top-top-trends-and-prompts-11779077229353.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "Google DeepMind plugs Street View into its world model, and you can explore simulated cities today",
+      "url": "https://thenextweb.com/news/google-deepmind-genie-street-view-world-model-simulation",
+      "cat": "RESEARCH",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "No value should be assigned to purely AI generated content: Saregama to streaming platforms",
+      "url": "https://www.medianama.com/2026/05/223-no-value-assigned-purely-ai-generated-content-saregama-streaming-platforms/",
+      "cat": "RESEARCH",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "Microsoft's biggest India data center on track to go live in mid-2026, executive says",
+      "url": "https://www.livemint.com/technology/microsofts-biggest-india-data-center-on-track-to-go-live-in-mid-2026-executive-says-11779195079165.html",
+      "cat": "OTHER",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "ChatGPT voice conversations are exploding in India: 10 weird, useful and viral use cases",
+      "url": "https://www.livemint.com/technology/chatgpt-voice-conversations-are-exploding-in-india-10-weird-useful-and-viral-use-cases-11779177341905.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "Google partners with Warby Parker and Gentle Monster for Gemini-powered smart glasses",
+      "url": "https://thenextweb.com/news/google-audio-glasses-warby-parker-gentle-monster-gemini-io-2026",
+      "cat": "OTHER",
+      "date": "2026-05-19T21:58:48.316510"
     }
   ]
 }
