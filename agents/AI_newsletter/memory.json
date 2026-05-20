@@ -1,66 +1,6 @@
 {
   "stories": [
     {
-      "title": "Major publishers like Macmillan allege Meta used pirated books to train its Llama model",
-      "url": "https://www.medianama.com/2026/05/223-publishers-meta-pirated-books-train-llama-model/",
-      "cat": "RESEARCH",
-      "date": "2026-05-06T21:44:57.423381"
-    },
-    {
-      "title": "OpenAI rolls out GPT-5.5 Instant with improved accuracy, sets it as ChatGPT default",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-rolls-out-gpt-5-5-instant-with-improved-accuracy-sets-it-as-chatgpt-default-10675229/",
-      "cat": "RESEARCH",
-      "date": "2026-05-06T21:44:57.423381"
-    },
-    {
-      "title": "Freshworks to cut 11% staff, registers 16% rise in revenue",
-      "url": "https://yourstory.com/2026/05/freshworks-to-cut-11-staff-registers-16-rise-in-revenue",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-06T21:44:57.423381"
-    },
-    {
-      "title": "Google sunsets Project Mariner as AI agent race shifts to OpenClaw-style tools: Report",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-sunsets-project-mariner-ai-agent-race-report-10676237/",
-      "cat": "RESEARCH",
-      "date": "2026-05-06T21:44:57.423381"
-    },
-    {
-      "title": "Google brings Gemini AI to cars, replacing Assistant in major upgrade",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-brings-gemini-ai-to-cars-replacing-assistant-in-major-upgrade-10675601/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-06T21:44:57.423381"
-    },
-    {
-      "title": "Paytm Posts \u20b9183 Cr Profit In Q4, Revenue Up 18% To \u20b92,264 Cr",
-      "url": "https://inc42.com/buzz/paytm-posts-%e2%82%b9183-cr-profit-in-q4-revenue-up-18-to-%e2%82%b92264-cr/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-06T21:44:57.423381"
-    },
-    {
-      "title": "SEBI forms task force, orders immediate cybersecurity overhaul amid Claude Mythos concerns",
-      "url": "https://www.medianama.com/2026/05/223-sebi-claude-mythos-circular-orders-cybersecurity-overhaul/",
-      "cat": "POLICY",
-      "date": "2026-05-06T21:44:57.423381"
-    },
-    {
-      "title": "Exclusive: Robotics Startup General Autonomy Raises \u20b932 Cr At \u20b9280 Cr Valuation",
-      "url": "https://inc42.com/buzz/exclusive-robotics-startup-general-autonomy-raises-%e2%82%b932-cr-at-%e2%82%b9280-cr-valuation/",
-      "cat": "FUNDING",
-      "date": "2026-05-06T21:44:57.423381"
-    },
-    {
-      "title": "Netradyne Acquires Fleet Management Company Moove To Expand In Europe",
-      "url": "https://inc42.com/buzz/netradyne-acquires-fleet-management-company-moove-to-expand-in-europe/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-06T21:44:57.423381"
-    },
-    {
-      "title": "Adobe and OpenAI integrate ChatGPT ads into GenStudio for Performance Marketing",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/adobe-and-openai-integrate-chatgpt-ads-into-genstudio-for-performance-marketing-10676252/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-06T21:44:57.423381"
-    },
-    {
       "title": "Supreme Court asks Bar Council to form AI expert panel after trial court cites fake judgments",
       "url": "https://www.medianama.com/2026/05/223-supreme-court-seeks-ai-panel-over-fake-judgments/",
       "cat": "POLICY",
@@ -857,6 +797,114 @@
       "url": "https://thenextweb.com/news/google-audio-glasses-warby-parker-gentle-monster-gemini-io-2026",
       "cat": "OTHER",
       "date": "2026-05-19T21:58:48.316510"
+    },
+    {
+      "title": "India needs dedicated AI law as current legal framework inadequate to tackle emerging risks: Cyber Expert Pavan Duggal",
+      "url": "https://www.livemint.com/technology/india-needs-dedicated-ai-law-as-current-legal-framework-inadequate-to-tackle-emerging-risks-cyber-expert-pavan-duggal-11779291223146.html",
+      "cat": "POLICY",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "MeitY Unveils India AI Governance Guidelines under IndiaAI Mission to Ensure Safe, Inclusive, and Responsible Adoption of Artificial Intelligence across Sectors",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2020867",
+      "cat": "POLICY",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "India weighs stricter regulatory framework for artificial intelligence",
+      "url": "https://www.communicationstoday.co.in/india-weighs-stricter-regulatory-framework-for-artificial-intelligence/",
+      "cat": "POLICY",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "India's AI Governance Guidelines: A Pragmatic Framework Rooted in Collaboration",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1qtiEZBCBkWIO2AheHFDfSf56c-tnyxFJbMeAmk2VM7boB-ks4KlMDzB5jd0ggjgsZqpUUOZOfiITctYQSj0zDNeNY4oa3xUN7bxmmUBpBAlHjgXRDOIYBN7dh48RpBCcUnrdUDpvSEXxEOfrAVM-3XZB3MPEBR89Us9GS6uFejcvhL0oFtXc-Nh3U017sjnEsiWjHBBCQW229KOCOOnu7L346vHgf5FxCIKV76QvSSDElymXx2xIark=",
+      "cat": "POLICY",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "Google I/O 2026: From AI agents to smart glasses, here are the biggest announcements",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-i-o-2026-gemini-biggest-annoucements-10698450/",
+      "cat": "RESEARCH",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "Indian students ditch YouTube: ChatGPT becomes the 'Swiss Army knife' for exams, viva prep, coding and placements",
+      "url": "https://www.livemint.com/technology/indian-students-ditch-youtube-chatgpt-becomes-the-swiss-army-knife-for-exams-viva-prep-coding-and-placements-11779246355843.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "Gemini Omni Flash adds multimodal AI video creation to Google ecosystem",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-launches-gemini-omni-flash-for-ai-powered-video-generation-10699778/",
+      "cat": "RESEARCH",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "Microsoft\u2019s unveils new Surface laptops aimed at business and AI workflows",
+      "url": "https://indianexpress.com/article/technology/gadgets/microsofts-unveils-new-surface-laptops-aimed-at-business-and-ai-workflows-10699163/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "\u2018As vital as energy and defence\u2019: Countries rushing to build AI infrastructure, says Michael Dell",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/as-vital-as-energy-and-defence-countries-rushing-to-build-ai-infrastructure-says-michael-dell-10698925/",
+      "cat": "POLICY",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "Cursor launches Composer 2.5 model for long-running AI coding tasks at cheaper token cost",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/cursor-launches-composer-2-5-model-long-running-ai-coding-tasks-10697239/",
+      "cat": "RESEARCH",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "7 AI-powered scams Indians are falling for in 2026: Deepfakes, fake HR calls and more",
+      "url": "https://www.livemint.com/technology/7-ai-powered-scams-indians-are-falling-for-in-2026-deepfakes-fake-hr-calls-and-more-11779242136292.html",
+      "cat": "OTHER",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "Bharat Digital Samvad: \u2018Anyone can switch it off,\u2019 warn panelists against big tech cloud and AI systems",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/bharat-digital-samvad-foreign-cloud-ai-systems-panel-discussions-10699911/",
+      "cat": "POLICY",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "OpenAI takes on AI cyber threats with Daybreak: Here\u2019s what it means",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-daybreak-ai-cybersecurity-anthropic-mythos-10697672/",
+      "cat": "OTHER",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "\u2018AI agents are not inherently malicious but can be relentless\u2019: Dell Chief Security Officer John Scimone",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-agents-are-not-inherently-malicious-but-can-be-relentless-dell-chief-security-officer-john-scimone-10697348/",
+      "cat": "OTHER",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "SandboxAQ partners with Anthropic to bring scientific AI tools to Claude",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/sandboxaq-partners-with-anthropic-to-bring-scientific-ai-tools-to-claude-10697123/",
+      "cat": "RESEARCH",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "Singapore in talks with tech firms about adding nutrition labels to AI products, minister says",
+      "url": "https://www.livemint.com/technology/singapore-in-talks-with-tech-firms-about-adding-nutrition-labels-to-ai-products-minister-says-11779271205703.html",
+      "cat": "POLICY",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "Primer secures $100M Series C to fuel US expansion and autonomous AI payments",
+      "url": "https://thenextweb.com/news/primer-secures-100m-series-c-autonomous-ai-payments",
+      "cat": "FUNDING",
+      "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "Figma builds its own AI assistant that can design alongside you on the canvas",
+      "url": "https://thenextweb.com/news/figma-builds-its-own-ai-assistant-that-can-design-alongside-you-on-the-canvas",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-20T22:15:07.417662"
     }
   ]
 }
