@@ -1,108 +1,6 @@
 {
   "stories": [
     {
-      "title": "Supreme Court asks Bar Council to form AI expert panel after trial court cites fake judgments",
-      "url": "https://www.medianama.com/2026/05/223-supreme-court-seeks-ai-panel-over-fake-judgments/",
-      "cat": "POLICY",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "Meet Remy: Google is creating a \u201824/7 personal agent\u2019 to manage your digital life, says report",
-      "url": "https://www.livemint.com/technology/tech-news/meet-remy-google-is-creating-a-24-7-personal-agent-to-manage-your-digital-life-says-report-11778033309461.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "The rise of AI Orchestration Layers: BadCo.AI on guiding a more connected car buying experience",
-      "url": "https://thenextweb.com/news/ai-orchestration-car-buying-badco-ai",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "Paytm Bets On AI Makeover To Drive FY27 Momentum",
-      "url": "https://inc42.com/buzz/paytm-bets-on-ai-makeover-to-drive-fy27-momentum/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "Chiratae Ventures commits $10M for 5 deeptech startups",
-      "url": "https://yourstory.com/2026/05/chiratae-ventures-commits-10-million-5-deeptech-startups",
-      "cat": "FUNDING",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "Lisa Ray on menopause and women\u2019s health; Proshort brings AI sales coaching",
-      "url": "https://yourstory.com/2026/05/lisa-ray-menopause-womens-health-proshort-ai-sales-coach",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "Samsung targets Indian enterprises with new AI-powered Business Experience Studios",
-      "url": "https://www.livemint.com/technology/tech-news/samsung-targets-indian-enterprises-with-new-ai-powered-business-experience-studios-11778156352349.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "Claude can now 'dream' as Anthropic races to build \u2018self improving\u2019 AI agents",
-      "url": "https://www.livemint.com/technology/tech-news/claude-can-now-dream-as-anthropic-races-to-build-self-improving-ai-agents-11778119736191.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "ChatGPT becomes smarter, less verbose and better at remembering you with new GPT-5.5 Instant update",
-      "url": "https://www.livemint.com/technology/tech-news/chatgpt-becomes-smarter-less-verbose-and-better-at-remembering-you-with-new-gpt-5-5-instant-update-11778027475461.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "Neuromorphic Computing Hackathon at IISc Bangalore",
-      "url": "https://www.fintechbiznews.com/technology/iisc-ltm-drive-ai-awareness-neuromorphic-computing-hackathon-march-2026-8782.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "InMobi Acquires San Francisco-Based App Analytics Platform MobileAction",
-      "url": "https://inc42.com/buzz/inmobi-acquires-san-francisco-based-app-analytics-platform-mobileaction/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "Exclusive: Robotics Startup Alphadroid Raises $3.8 Mn From Alkemi, Others",
-      "url": "https://inc42.com/buzz/exclusive-robotics-startup-alphadroid-raises-3-8-mn-from-alkemi-others/",
-      "cat": "FUNDING",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "Google adds forums, direct links, subscription news to AI Search despite accuracy concerns",
-      "url": "https://www.medianama.com/2026/05/223-google-forums-direct-links-subscription-news-ai-search/",
-      "cat": "RESEARCH",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "Google adds Reddit and community discussions to AI-powered search results",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-adds-reddit-and-community-discussions-to-ai-powered-search-results-10677073/",
-      "cat": "RESEARCH",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "Google\u2019s $100 Fitbit Air has no screen. The product it is actually selling is a $10-a-month AI health coach.",
-      "url": "https://thenextweb.com/news/google-fitbit-air-screenless-whoop-health-coach",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "AI Challenge for Healthy Brain Aging | 2026",
-      "url": "https://www.iisc.ac.in/events/ai-challenge-for-healthy-brain-aging-2026/",
-      "cat": "RESEARCH",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
-      "title": "Preprints | Wadhwani School of Data Science and Artificial Intelligence",
-      "url": "https://dsai.iitm.ac.in/preprints/",
-      "cat": "RESEARCH",
-      "date": "2026-05-07T21:35:43.216245"
-    },
-    {
       "title": "Cloudflare beat earnings, cut 1,100 jobs because AI agents do the work now, and lost a quarter of its stock price in a day",
       "url": "https://thenextweb.com/news/cloudflare-layoffs-agentic-ai-earnings-stock",
       "cat": "ENTERPRISE",
@@ -905,6 +803,102 @@
       "url": "https://thenextweb.com/news/figma-builds-its-own-ai-assistant-that-can-design-alongside-you-on-the-canvas",
       "cat": "ENTERPRISE",
       "date": "2026-05-20T22:15:07.417662"
+    },
+    {
+      "title": "Innovaccer Buys CaduceusHealth To Expand AI-Led Revenue Cycle Management",
+      "url": "https://inc42.com/buzz/innovaccer-buys-caduceushealth-to-expand-ai-led-revenue-cycle-management/",
+      "cat": "FUNDING",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "India\u2019s AI Inference Problem, Anscer Bags \u20b945 Cr & More",
+      "url": "https://inc42.com/buzz/indias-ai-inference-problem-anscer-bags-%e2%82%b945-cr-more/",
+      "cat": "FUNDING",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "Anscer Robotics raises $5.4M in Series A funding round led by IAN Alpha Fund",
+      "url": "https://yourstory.com/2026/05/anscer-robotics-series-a-funding-round-led-by-ian-alpha-fund",
+      "cat": "FUNDING",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "MakeMyTrip Q4FY26: Myra scales to 80,000 daily conversations, now a full transaction agent",
+      "url": "https://www.medianama.com/2026/05/223-makemytrip-q4fy26-myra-80000-daily-conversations-transaction-agent/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "IIT Madras Researchers to tackle fundamental challenges in computing, cryptography and AI",
+      "url": "https://www.iitm.ac.in/latest-news/iitm-news/iit-madras-researchers-to-tackle-fundamental-challenges-in-computing-cryptography-and-ai/",
+      "cat": "RESEARCH",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "Agent Traps: Enterprise Agentic AI Wave Brings In New Threats",
+      "url": "https://inc42.com/features/agent-traps-enterprise-agentic-ai-wave-brings-in-new-threats/",
+      "cat": "RESEARCH",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "CCI Clears Blackstone\u2019s Investment In AI Cloud Startup Neysa",
+      "url": "https://inc42.com/buzz/cci-clears-blackstones-investment-in-ai-cloud-startup-neysa/",
+      "cat": "FUNDING",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "Cancer treatment has a new frontier. AI is predicting better drug cocktails",
+      "url": "https://theprint.in/science/cancer-treatment-artificial-intelligence-predicting-better-drug-cocktails/2936451/",
+      "cat": "RESEARCH",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "\u2018Indians among most avid users\u2019: Team behind ChatGPT Images 2.0 on multilingual AI image generation",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/india-most-avid-users-openai-team-images-2-0-ai-interview-10701359/",
+      "cat": "RESEARCH",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "Google wants you to chat with ads now: AI Mode gets conversational ads and highlighted answers",
+      "url": "https://www.livemint.com/technology/tech-news/google-wants-you-to-chat-with-ads-now-ai-mode-gets-conversational-ads-and-highlighted-answers-11779332439317.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "White House to issue an executive order on govt review of advanced AI models before launch",
+      "url": "https://www.livemint.com/technology/white-house-to-issue-an-executive-order-on-govt-review-of-advanced-ai-models-before-launch-11779330912164.html",
+      "cat": "POLICY",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "Shastra VC Launches $100 Mn Fund to Back Deeptech Startups",
+      "url": "https://inc42.com/buzz/shastra-vc-launches-100-mn-fund-to-back-deeptech-startups/",
+      "cat": "FUNDING",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "NVIDIA\u2019s Huang says world will have \u2018billions of agents\u2019 as AI boom lifts fiscal results",
+      "url": "https://yourstory.com/2026/05/nvidia-jensen-huang-world-billions-of-agents-ai-drives-q1-earnings",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "Piper Serica launches Rs 800 Cr Bharat Tech Fund",
+      "url": "https://yourstory.com/2026/05/piper-serica-launches-rs-800-crore-bharat-tech-fund",
+      "cat": "FUNDING",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "\u2018AI moves fast, government doesn\u2019t\u2019: Dell CTO John Roese on why AI strategies need to focus on long-term vision rather than regulating specific technologies",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-moves-fast-government-doesnt-dell-cto-john-roese-on-why-ai-strategies-need-to-focus-on-long-term-vision-rather-than-regulating-specific-technologies-10700961/",
+      "cat": "POLICY",
+      "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "HHS launches AI initiative to detect fraud and waste in federal health programmes",
+      "url": "https://thenextweb.com/news/hhs-ai-fraud-detection-federal-health-programs",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-21T22:00:46.383486"
     }
   ]
 }

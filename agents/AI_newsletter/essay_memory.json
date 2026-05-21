@@ -378,6 +378,18 @@
         "Geographic arbitrage benefits both employers and Indian AI professionals.",
         "India's domestic AI startup ecosystem is rapidly expanding."
       ]
+    },
+    {
+      "date": "2026-05-21T22:00:45.149010",
+      "day_number": 41,
+      "topic": "India AI Policy, Infrastructure, and Capital",
+      "angle": "Public digital infrastructure as an AI moat",
+      "key_arguments": [
+        "India's DPI stack creates a state-backed data moat for AI innovation.",
+        "DPI significantly reduces the cost of building, distributing, and scaling AI products.",
+        "Interoperability and consented data enable unprecedented AI accuracy and personalization.",
+        "DPI offers a unique national asset altering the AI startup competitive landscape."
+      ]
     }
   ]
 }
