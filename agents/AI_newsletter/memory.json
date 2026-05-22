@@ -1,54 +1,6 @@
 {
   "stories": [
     {
-      "title": "Cloudflare beat earnings, cut 1,100 jobs because AI agents do the work now, and lost a quarter of its stock price in a day",
-      "url": "https://thenextweb.com/news/cloudflare-layoffs-agentic-ai-earnings-stock",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-08T21:38:07.459158"
-    },
-    {
-      "title": "India chases 'DeepSeek moment' with homegrown AI models",
-      "url": "https://www.thehindu.com/news/national/india-chases-deepseek-moment-with-homegrown-ai-models/article67854564.ece",
-      "cat": "RESEARCH",
-      "date": "2026-05-08T21:38:07.459158"
-    },
-    {
-      "title": "Paytm bets on agentic AI and wealthtech for future growth: Q4 FY26 earnings call",
-      "url": "https://www.medianama.com/2026/05/223-paytm-agentic-ai-wealthtech-growth-q4-fy26/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-08T21:38:07.459158"
-    },
-    {
-      "title": "IISc launches \u20b92 crore AI challenge for early detection of cognitive decline",
-      "url": "https://www.thehindu.com/news/cities/bangalore/iisc-centre-for-brain-research-launches-2-crore-ai-challenge-for-early-detection-of-cognitive-decline/article68097629.ece",
-      "cat": "RESEARCH",
-      "date": "2026-05-08T21:38:07.459158"
-    },
-    {
-      "title": "Google Chrome downloads 4GB Gemini AI model onto your devices without permission: Report",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-chrome-downloads-4gb-gemini-ai-model-onto-your-devices-without-permission-report-10677956/",
-      "cat": "RESEARCH",
-      "date": "2026-05-08T21:38:07.459158"
-    },
-    {
-      "title": "ChatGPT vs NotebookLM vs Claude: Which AI tool is best for creating PowerPoint presentations in 2026?",
-      "url": "https://www.livemint.com/technology/chatgpt-vs-notebooklm-vs-claude-which-ai-tool-is-best-for-creating-powerpoint-presentations-in-2026-11778215793632.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-08T21:38:07.459158"
-    },
-    {
-      "title": "Google Chrome secretly installed a 4GB Gemini AI model on your computer: here's what we know",
-      "url": "https://www.livemint.com/technology/tech-news/google-chrome-secretly-installed-a-4gb-gemini-ai-model-on-your-computer-heres-what-we-know-11778115625396.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-08T21:38:07.459158"
-    },
-    {
-      "title": "The AI industry\u2019s model and agent skill repositories are full of malware. The infrastructure built to accelerate development is now the vector for compromising it.",
-      "url": "https://thenextweb.com/news/hugging-face-clawhub-malware-ai-supply-chain",
-      "cat": "OTHER",
-      "date": "2026-05-08T21:38:07.459158"
-    },
-    {
       "title": "DesignX: OS and AI layer for factory decisions",
       "url": "https://yourstory.com/2026/05/designx-factory-os-vish-ai",
       "cat": "ENTERPRISE",
@@ -899,6 +851,54 @@
       "url": "https://thenextweb.com/news/hhs-ai-fraud-detection-federal-health-programs",
       "cat": "ENTERPRISE",
       "date": "2026-05-21T22:00:46.383486"
+    },
+    {
+      "title": "NASSCOM CoE bets on real-world deployment to scale India's innovation ecosystem",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk7MQdXr6R7D7iQtzCK1zVFzwlPlPYdvGFSgYatwGPWyWoPvtspjoAAKsqvOtFdkzxPpld7aRlkSthcL8V-J48gtSvoy67yDIySbxo3G3odcvqEuQdgW00A0hVX_cPgB1tD0F7IqcaQtbuRITGi-bUiDflMk8OaEGRZP6MMo3w1YBgGDnIsPPoaKix8SbJro1kEJvmIsweUzIkso9XV3nJ90GLjfeyMFffEeRJt8QtoqsH0Gmys41doUOKOaT1J7eacaYMQz_0Wb5BwR5juWGyqNat4BHHq6U65_oGNKXmtBE71A==",
+      "cat": "POLICY",
+      "date": "2026-05-22T21:46:28.110155"
+    },
+    {
+      "title": "Lenskart rolls out AI glasses amid mounting privacy concerns: Q4 FY26 earnings call",
+      "url": "https://www.medianama.com/2026/05/223-lenskart-ai-glasses-amid-mounting-privacy-concerns-q4-fy26-earnings-call/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-22T21:46:28.110155"
+    },
+    {
+      "title": "AI for Good Hackathon: How APJ innovators showcased real-world impact with Snowflake and AI",
+      "url": "https://yourstory.com/2026/05/ai-hackathon-apj-innovators-showcased-real-world-impact-snowflake-ai",
+      "cat": "RESEARCH",
+      "date": "2026-05-22T21:46:28.110155"
+    },
+    {
+      "title": "OpenAI claims AI breakthrough, says its model solved 80-year-old math problem",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-claims-ai-breakthrough-says-its-model-solved-80-year-old-math-problem-10700933/",
+      "cat": "RESEARCH",
+      "date": "2026-05-22T21:46:28.110155"
+    },
+    {
+      "title": "Kawasaki Heavy ties up with Nvidia on physical AI, and the rideable robot horse gets a foundation model",
+      "url": "https://thenextweb.com/news/kawasaki-nvidia-physical-ai-corleo-san-jose",
+      "cat": "RESEARCH",
+      "date": "2026-05-22T21:46:28.110155"
+    },
+    {
+      "title": "Calcutta HC refuses to order OpenAI to show IndiaMart links on ChatGPT: what this means",
+      "url": "https://www.medianama.com/2026/05/223-calcutta-hc-rejects-indiamart-plea-against-chatgpt-link-exclusion/",
+      "cat": "POLICY",
+      "date": "2026-05-22T21:46:28.110155"
+    },
+    {
+      "title": "Lowdown: How the EU decides which AI systems are \u201chigh-risk\u201d under the AI Act",
+      "url": "https://www.medianama.com/2026/05/223-eu-ai-act-high-risk-guidelines-explained/",
+      "cat": "POLICY",
+      "date": "2026-05-22T21:46:28.110155"
+    },
+    {
+      "title": "The Rise of LLMs Is Not an Accident",
+      "url": "https://thenextweb.com/news/ai-era-consumer-trust-verification-marketing-shift",
+      "cat": "RESEARCH",
+      "date": "2026-05-22T21:46:28.110155"
     }
   ]
 }
