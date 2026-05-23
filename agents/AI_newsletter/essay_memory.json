@@ -403,6 +403,19 @@
         "This model enables hyper-personalized, low-cost AI applications for emerging markets.",
         "India's approach challenges existing data ownership and AI development paradigms."
       ]
+    },
+    {
+      "date": "2026-05-23T21:29:28.662168",
+      "day_number": 43,
+      "topic": "VC Mental Models for AI Investing",
+      "angle": "Why most AI wrappers fail: the defensibility problem",
+      "key_arguments": [
+        "AI wrappers are not sustainable businesses due to lack of competitive advantage.",
+        "Venture capital focuses on distribution, data, and workflow integration, not just AI applications.",
+        "Wrappers are built on commoditized foundation models, making them easily replicable.",
+        "Lack of proprietary data and deep workflow integration weakens wrapper defensibility.",
+        "Foundation model updates benefit all wrappers, erasing individual differentiation."
+      ]
     }
   ]
 }

@@ -1,66 +1,6 @@
 {
   "stories": [
     {
-      "title": "DesignX: OS and AI layer for factory decisions",
-      "url": "https://yourstory.com/2026/05/designx-factory-os-vish-ai",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-09T21:13:22.981997"
-    },
-    {
-      "title": "Anthropic\u2019s Mythos found thousands of zero-day vulnerabilities. The Fed chair called the banks.",
-      "url": "https://thenextweb.com/news/anthropic-mythos-cybersecurity-banks-vulnerability",
-      "cat": "RESEARCH",
-      "date": "2026-05-09T21:13:22.981997"
-    },
-    {
-      "title": "A manual pentest costs 50,000 dollars. Intruder built an AI that does it in minutes.",
-      "url": "https://thenextweb.com/news/intruder-ai-pentesting-cybersecurity-knowbe4",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-09T21:13:22.981997"
-    },
-    {
-      "title": "Akamai\u2019s stock had its best day in 22 years. It took one AI contract.",
-      "url": "https://thenextweb.com/news/akamai-anthropic-cloud-deal-ai-infrastructure",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-09T21:13:22.981997"
-    },
-    {
-      "title": "Fashinza Cofounder Pawan Gupta Steps Down, Eyes New Venture In AI Space",
-      "url": "https://inc42.com/buzz/fashinza-cofounder-pawan-gupta-steps-down-eyes-new-venture-in-ai-space/",
-      "cat": "OTHER",
-      "date": "2026-05-09T21:13:22.981997"
-    },
-    {
-      "title": "Delhi HC to pass blocking orders on Shashi Tharoor deepfakes praising Pakistan",
-      "url": "https://www.medianama.com/2026/05/223-delhi-hc-pass-blocking-orders-shashi-tharoor-deepfakes-praising-pakistan/",
-      "cat": "POLICY",
-      "date": "2026-05-09T21:13:22.981997"
-    },
-    {
-      "title": "Google built a 99 dollar AI health coach. Whoop responded with real doctors.",
-      "url": "https://thenextweb.com/news/whoop-doctors-fitbit-air-google-health-ai",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-09T21:13:22.981997"
-    },
-    {
-      "title": "OpenAI rolls out \u2018Trusted Contact\u2019 feature in ChatGPT to flag self-harm risks",
-      "url": "https://www.medianama.com/2026/05/223-openai-trusted-contact-chatgpt-self-harm-risks/",
-      "cat": "RESEARCH",
-      "date": "2026-05-09T21:13:22.981997"
-    },
-    {
-      "title": "EU bans AI nudification apps, delays high-risk AI enforcement to 2027",
-      "url": "https://www.medianama.com/2026/05/223-eu-ai-nudification-apps-delays-ai-enforcement-2027/",
-      "cat": "POLICY",
-      "date": "2026-05-09T21:13:22.981997"
-    },
-    {
-      "title": "Publications - Kotak IISc AI\u2013ML Centre - Indian Institute of Science",
-      "url": "https://iisc.ac.in/publications/",
-      "cat": "RESEARCH",
-      "date": "2026-05-09T21:13:22.981997"
-    },
-    {
       "title": "Sarvam AI Hits $1.5B Valuation with $300M-$350M Funding Round",
       "url": "https://www.techinasia.com/india-sarvam-ai-eyes-350m-round-backed-by-nvidia-amazon",
       "cat": "FUNDING",
@@ -899,6 +839,54 @@
       "url": "https://thenextweb.com/news/ai-era-consumer-trust-verification-marketing-shift",
       "cat": "RESEARCH",
       "date": "2026-05-22T21:46:28.110155"
+    },
+    {
+      "title": "Berlin\u2019s Peec AI more than doubled revenue to $10M ARR in six months. Its product helps brands show up in ChatGPT.",
+      "url": "https://thenextweb.com/news/peec-ai-berlin-10-million-arr-geo-ai-search",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-23T21:29:29.570731"
+    },
+    {
+      "title": "Why Forward Deployed Engineers Are Becoming AI\u2019s Hottest Jobs",
+      "url": "https://inc42.com/features/why-forward-deployed-engineers-are-becoming-ais-hottest-jobs/",
+      "cat": "OTHER",
+      "date": "2026-05-23T21:29:29.570731"
+    },
+    {
+      "title": "Spotify and UMG strike landmark deal to let fans create licensed AI covers and remixes",
+      "url": "https://www.medianama.com/2026/05/223-spotify-umg-fans-create-licensed-ai-covers-remixes/",
+      "cat": "RESEARCH",
+      "date": "2026-05-23T21:29:29.570731"
+    },
+    {
+      "title": "Anthropic says Claude Mythos found over 10,000 major software vulnerabilities in a month",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-mythos-security-bugs-10703971/",
+      "cat": "RESEARCH",
+      "date": "2026-05-23T21:29:29.570731"
+    },
+    {
+      "title": "Anthropic\u2019s Claude Mythos found 10,000 critical vulnerabilities in one month. The patches can\u2019t keep up.",
+      "url": "https://thenextweb.com/news/anthropic-glasswing-claude-mythos-10000-vulnerabilities",
+      "cat": "RESEARCH",
+      "date": "2026-05-23T21:29:29.570731"
+    },
+    {
+      "title": "India's AI Ecosystem: Everything, Everywhere, All at Once",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQJBxeQLuLWAQ-9szyfzDClw1fbHMWHVQjPrFlZLCC81Kpt00WuwfHjdm-yAkXZeDOMxrdVEWrVVVYe6lS91pPHDOAvBfQAFRPJNxHb6mIXXLFrwsLbDM_Ufk226sYn_pjW5vUTTxOklZ_zIkt6muMhVI6Wblvk3t3D7cbIko9ICxAFQNaw_wAS0qRn5DI",
+      "cat": "POLICY",
+      "date": "2026-05-23T21:29:29.570731"
+    },
+    {
+      "title": "How AI Is Turning China\u2019s Micro-Dramas Into a Multi-Billion-Dollar Market",
+      "url": "https://yourstory.com/2026/05/china-ai-generated-short-drama-market-2026",
+      "cat": "RESEARCH",
+      "date": "2026-05-23T21:29:29.570731"
+    },
+    {
+      "title": "SEO teams are tracking keywords. But are they tracking what ChatGPT says about their brand?",
+      "url": "https://thenextweb.com/news/moz-pro-ai-visibility-chatgpt-gemini-tracking",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-23T21:29:29.570731"
     }
   ]
 }
