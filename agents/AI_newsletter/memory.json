@@ -1,42 +1,6 @@
 {
   "stories": [
     {
-      "title": "Sarvam AI Hits $1.5B Valuation with $300M-$350M Funding Round",
-      "url": "https://www.techinasia.com/india-sarvam-ai-eyes-350m-round-backed-by-nvidia-amazon",
-      "cat": "FUNDING",
-      "date": "2026-05-10T21:15:17.204832"
-    },
-    {
-      "title": "Krutrim pivots to AI cloud, clocks Rs 300 Cr revenue in FY26",
-      "url": "https://entrackr.com/2026/05/krutrim-pivots-to-ai-cloud-clocks-rs-300-cr-revenue-in-fy26/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-10T21:15:17.204832"
-    },
-    {
-      "title": "Krutrim reports first profit, triples revenue as it pivots to AI cloud",
-      "url": "https://www.business-standard.com/companies/start-ups/krutrim-reports-first-profit-triples-revenue-as-it-pivots-to-ai-cloud-126050400404_1.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-10T21:15:17.204832"
-    },
-    {
-      "title": "Can Bhavish Aggarwal Drag Ola Krutrim Out Of The Rut?",
-      "url": "https://inc42.com/features/bhavish-aggarwal-ola-krutrim-ai-ambitions-rut/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-10T21:15:17.204832"
-    },
-    {
-      "title": "Alibaba to integrate Qwen AI with Taobao, launch agentic shopping",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/alibaba-to-integrate-qwen-ai-with-taobao-launch-agentic-shopping-10681900/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-10T21:15:17.204832"
-    },
-    {
-      "title": "AI for children should not bypass human validation: Vineet Nayar, Founder, Sampark Foundation",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/vineet-nayar-hcl-sampark-foundation-rural-education-ai-impact-10679795/",
-      "cat": "POLICY",
-      "date": "2026-05-10T21:15:17.204832"
-    },
-    {
       "title": "India pushes for sovereign control over AI cybersecurity systems: report",
       "url": "https://www.medianama.com/2026/05/223-india-pushes-sovereign-control-ai-cybersecurity-systems-report/",
       "cat": "POLICY",
@@ -887,6 +851,66 @@
       "url": "https://thenextweb.com/news/moz-pro-ai-visibility-chatgpt-gemini-tracking",
       "cat": "ENTERPRISE",
       "date": "2026-05-23T21:29:29.570731"
+    },
+    {
+      "title": "Government Constitutes AI Governance and Economic Group (AIGEG) to Lead India's National AI Governance Strategy",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2023668",
+      "cat": "POLICY",
+      "date": "2026-05-24T21:31:55.030897"
+    },
+    {
+      "title": "AI set to disrupt up to 28% of back-office and data roles in India over the next three years: Report",
+      "url": "https://www.livemint.com/technology/tech-news/ai-set-to-disrupt-up-to-28-of-back-office-and-data-roles-in-india-over-the-next-three-years-report-11779587989988.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-24T21:31:55.030897"
+    },
+    {
+      "title": "Former Citadel quants raised $78M for the AI operating system Wall Street\u2019s wealth managers didn\u2019t have",
+      "url": "https://thenextweb.com/news/moment-78-million-citadel-quants-ai-trading-wealth-management",
+      "cat": "FUNDING",
+      "date": "2026-05-24T21:31:55.030897"
+    },
+    {
+      "title": "How Google is starting to win the AI race",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/how-google-is-starting-to-win-the-ai-race-10705165/",
+      "cat": "RESEARCH",
+      "date": "2026-05-24T21:31:55.030897"
+    },
+    {
+      "title": "Why Mythos could be launching sooner than you think? Leaked code exposes preparations for Claude Mythos 1",
+      "url": "https://www.livemint.com/technology/tech-news/why-mythos-could-be-launching-sooner-than-you-think-leaked-code-exposes-preparations-for-claude-mythos-1-11779614598093.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-24T21:31:55.030897"
+    },
+    {
+      "title": "WWDC 2026: Apple registers new \u2018gen AI\u2019 web domain as Siri gears up for its biggest upgrade in years",
+      "url": "https://www.livemint.com/technology/tech-news/wwdc-2026-apple-registers-new-gen-ai-web-domain-as-siri-gears-up-for-its-biggest-upgrade-in-years-11779584057825.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-24T21:31:55.030897"
+    },
+    {
+      "title": "The AI security gap nobody wants to admit is already here",
+      "url": "https://thenextweb.com/news/ai-security-gap-claude-code-leak",
+      "cat": "OTHER",
+      "date": "2026-05-24T21:31:55.030897"
+    },
+    {
+      "title": "OpenAI launches free AI image verification tool amid deepfake surge",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-free-ai-image-verification-tool-deepfakes-10705570/",
+      "cat": "RESEARCH",
+      "date": "2026-05-24T21:31:55.030897"
+    },
+    {
+      "title": "China\u2019s DeepSeek to make permanent 75% price cut on flagship V4\u2011Pro AI model",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/chinas-deepseek-to-make-permanent-75-price-cut-on-flagship-v4%e2%80%91pro-ai-model-10705158/",
+      "cat": "RESEARCH",
+      "date": "2026-05-24T21:31:55.030897"
+    },
+    {
+      "title": "McKinsey built a free AI tool so candidates stop paying $500/hour interview coaches",
+      "url": "https://thenextweb.com/news/mckinsey-ai-interview-practice-tool-lilli-consulting",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-24T21:31:55.030897"
     }
   ]
 }

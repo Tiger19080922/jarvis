@@ -416,6 +416,19 @@
         "Lack of proprietary data and deep workflow integration weakens wrapper defensibility.",
         "Foundation model updates benefit all wrappers, erasing individual differentiation."
       ]
+    },
+    {
+      "date": "2026-05-24T21:31:53.616962",
+      "day_number": 44,
+      "topic": "VC Mental Models for AI Investing",
+      "angle": "The three moats in AI: data, workflow, and distribution",
+      "key_arguments": [
+        "Sustainable AI advantage comes from data, workflow, and distribution moats.",
+        "A data moat requires proprietary, business-metric-improving data, not just volume.",
+        "Workflow moats embed AI deeply, making switching prohibitively costly and disruptive.",
+        "Distribution moats leverage sales, brand, or network effects for market penetration.",
+        "Enduring AI value stems from deep customer relationships and high switching costs."
+      ]
     }
   ]
 }
