@@ -429,6 +429,19 @@
         "Distribution moats leverage sales, brand, or network effects for market penetration.",
         "Enduring AI value stems from deep customer relationships and high switching costs."
       ]
+    },
+    {
+      "date": "2026-05-25T21:49:00.563824",
+      "day_number": 45,
+      "topic": "VC Mental Models for AI Investing",
+      "angle": "How top VCs evaluate AI founding teams",
+      "key_arguments": [
+        "Venture capitalists seek founders with both technical depth and go-to-market foresight.",
+        "Technical depth means understanding AI models, data, and optimization, not just using APIs.",
+        "Go-to-market foresight involves customer acquisition, distribution, and revenue generation strategies.",
+        "AI economics, including inference costs and unit economics, is crucial for scaling.",
+        "The balance between technical depth and GTM foresight evolves with startup stage."
+      ]
     }
   ]
 }
