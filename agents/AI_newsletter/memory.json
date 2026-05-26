@@ -1,168 +1,6 @@
 {
   "stories": [
     {
-      "title": "India pushes for sovereign control over AI cybersecurity systems: report",
-      "url": "https://www.medianama.com/2026/05/223-india-pushes-sovereign-control-ai-cybersecurity-systems-report/",
-      "cat": "POLICY",
-      "date": "2026-05-11T21:54:09.877304"
-    },
-    {
-      "title": "MeitY Unveils India AI Governance Guidelines under IndiaAI Mission",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2021792",
-      "cat": "POLICY",
-      "date": "2026-05-11T21:54:09.877304"
-    },
-    {
-      "title": "India Constitutes AIGEG to Coordinate AI Policy",
-      "url": "https://letsdatascience.com/india-constitutes-aigeg-to-coordinate-ai-policy",
-      "cat": "POLICY",
-      "date": "2026-05-11T21:54:09.877304"
-    },
-    {
-      "title": "India Notifies 2026 IT Rules to Regulate AI and Deepfakes",
-      "url": "https://blog.okanagan.edu/tech-news/india-notifies-2026-it-rules-to-regulate-ai-and-deepfakes-key-changes-explained/",
-      "cat": "POLICY",
-      "date": "2026-05-11T21:54:09.877304"
-    },
-    {
-      "title": "Google Mulling Manufacturing AI Servers In India: Ashwini Vaishnaw",
-      "url": "https://inc42.com/buzz/google-mulling-manufacturing-ai-servers-in-india-ashwini-vaishnaw/",
-      "cat": "POLICY",
-      "date": "2026-05-11T21:54:09.877304"
-    },
-    {
-      "title": "AI jobs growing almost by 15-20 per cent: Vaishnaw",
-      "url": "https://www.livemint.com/technology/ai-jobs-growing-almost-by-15-20-per-cent-vaishnaw-11778515714007.html",
-      "cat": "POLICY",
-      "date": "2026-05-11T21:54:09.877304"
-    },
-    {
-      "title": "ONGC Mulls New \u20b9200 Cr Fund To Back Energy & AI Startups",
-      "url": "https://inc42.com/buzz/ongc-mulls-new-%e2%82%b9200-cr-fund-to-back-energy-ai-startups/",
-      "cat": "FUNDING",
-      "date": "2026-05-11T21:54:09.877304"
-    },
-    {
-      "title": "ONGC Startup Fund opens advisory roles to strengthen India's energy VC push",
-      "url": "https://yourstory.com/2026/05/ongc-startup-fund-opens-advisory-roles",
-      "cat": "FUNDING",
-      "date": "2026-05-11T21:54:09.877304"
-    },
-    {
-      "title": "NASSCOM CoE Strengthens India's AI Innovation Ecosystem",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2022240",
-      "cat": "POLICY",
-      "date": "2026-05-11T21:54:09.877304"
-    },
-    {
-      "title": "Fractal Q4: Profit Doubles YoY To \u20b9116 Cr",
-      "url": "https://inc42.com/buzz/fractal-q4-profit-doubles-yoy-to-%e2%82%b9116-cr/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-11T21:54:09.877304"
-    },
-    {
-      "title": "Delhi High Court passes interim order protecting entrepreneur Aman Gupta\u2019s personality rights",
-      "url": "https://www.medianama.com/2026/05/223-delhi-high-court-deepfake-order-aman-gupta/",
-      "cat": "POLICY",
-      "date": "2026-05-11T21:54:09.877304"
-    },
-    {
-      "title": "Researchers asked ChatGPT, Gemini and Claude which jobs are most exposed to AI. The chatbots wildly diagree",
-      "url": "https://www.livemint.com/technology/tech-news/researchers-asked-chatgpt-gemini-and-claude-which-jobs-are-most-exposed-to-ai-the-chatbots-wildly-diagree-11778476586377.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-11T21:54:09.877304"
-    },
-    {
-      "title": "You can now control Google Chrome with OpenAI's Codex: Here's how to set it up",
-      "url": "https://www.livemint.com/technology/tech-news/how-to-control-google-chrome-with-openais-codex-check-step-by-step-guide-11778385114513.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-11T21:54:09.877304"
-    },
-    {
-      "title": "Notice:-Expression of Interest (EOI) for (AI-CoE) in UT Ladakh under India AI Mission.",
-      "url": "https://ladakh.nic.in/notice-expression-of-interest-eoi-for-ai-coe-in-ut-ladakh-under-india-ai-mission/",
-      "cat": "POLICY",
-      "date": "2026-05-11T21:54:09.877304"
-    },
-    {
-      "title": "Why Agentic AI could be the next big shift for startups, education, and healthcare",
-      "url": "https://yourstory.com/2026/05/agentic-ai-next-big-shift-startups-education-healthcare",
-      "cat": "RESEARCH",
-      "date": "2026-05-12T21:53:41.417046"
-    },
-    {
-      "title": "Swish Club Rebrands To SwishX, Pivots To AI For Pharma",
-      "url": "https://inc42.com/buzz/swish-club-rebrands-to-swishx-pivots-to-ai-for-pharma/",
-      "cat": "FUNDING",
-      "date": "2026-05-12T21:53:41.417046"
-    },
-    {
-      "title": "Google found the first AI-generated zero-day exploit. It stopped the attack before it started.",
-      "url": "https://thenextweb.com/news/google-ai-zero-day-exploit-cybersecurity-arms-race",
-      "cat": "RESEARCH",
-      "date": "2026-05-12T21:53:41.417046"
-    },
-    {
-      "title": "Semiconductor Startup HrdWyr Raises $13 Mn To Build AI-Native Chips",
-      "url": "https://inc42.com/buzz/semiconductor-startup-hrdwyr-raises-13-mn-to-build-ai-native-chips/",
-      "cat": "FUNDING",
-      "date": "2026-05-12T21:53:41.417046"
-    },
-    {
-      "title": "AI will transform insurance claims, Paisabazaar\u2019s debt broking foray: PB Fintech Q4FY26",
-      "url": "https://www.medianama.com/2026/05/223-ai-insurance-claims-paisabazaar-debt-broking-pb-fintech/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-12T21:53:41.417046"
-    },
-    {
-      "title": "Google intercepts a massive cyberattack powered by first-ever AI-generated zero-day exploit",
-      "url": "https://www.livemint.com/technology/tech-news/google-intercepts-a-massive-cyberattack-powered-by-first-ever-ai-generated-zero-day-exploit-11778555397404.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-12T21:53:41.417046"
-    },
-    {
-      "title": "GM is firing 600 IT workers and hiring AI engineers. It calls it transformation, not termination.",
-      "url": "https://thenextweb.com/news/gm-layoffs-ai-skills-swap-auto-industry",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-12T21:53:41.417046"
-    },
-    {
-      "title": "OpenAI launches Daybreak to take on Anthropic\u2019s Mythos in cyber defence",
-      "url": "https://thenextweb.com/news/openai-daybreak-anthropic-mythos-cyber-defence",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-12T21:53:41.417046"
-    },
-    {
-      "title": "Making AI to explain its actions",
-      "url": "https://cds.iisc.ac.in/insights/making-ai-to-explain-its-actions/",
-      "cat": "RESEARCH",
-      "date": "2026-05-12T21:53:41.417046"
-    },
-    {
-      "title": "Fractal Analytics Jumps 6% To Hit All-Time High After Q4 Profit Soars",
-      "url": "https://inc42.com/buzz/fractal-analytics-jumps-6-to-hit-all-time-high-after-q4-profit-soars/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-12T21:53:41.417046"
-    },
-    {
-      "title": "Google Android Show 2026: From Gemini Intelligence to Googlebook, a look at key announcements",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-android-show-2026-from-gemini-intelligence-to-googlebook-a-look-at-key-announcements-10686314/",
-      "cat": "RESEARCH",
-      "date": "2026-05-12T21:53:41.417046"
-    },
-    {
-      "title": "Google Android Show 2026 Live Updates: New Googlebook laptops, Gemini Intelligence, Android Auto updates, and more",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-android-show-2026-live-updates-google-to-preview-android-17-gemini-upgrades-and-more-ahead-of-i-o-2026-10685237/",
-      "cat": "RESEARCH",
-      "date": "2026-05-12T21:53:41.417046"
-    },
-    {
-      "title": "Whoop launches on-demand clinician access, new health AI features amid rising competition",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/whoop-on-demand-clinician-access-new-health-ai-features-10683529/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-12T21:53:41.417046"
-    },
-    {
       "title": "Meet LiteFold, a biotech startup using proprietary AI to speed up drug discovery",
       "url": "https://yourstory.com/2026/05/litefold-biotech-startup-using-proprietary-ai-speed-up-drug-discovery",
       "cat": "RESEARCH",
@@ -977,6 +815,30 @@
       "url": "https://thenextweb.com/news/microsoft-claude-code-retreat-ai-cost",
       "cat": "ENTERPRISE",
       "date": "2026-05-25T21:49:01.716175"
+    },
+    {
+      "title": "AI to grab a third of India's influencer budgets, but biggies to go bigger",
+      "url": "https://www.livemint.com/technology/ai-influencer-marketing-advertising-budgets-11779594109263.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-26T22:09:42.111968"
+    },
+    {
+      "title": "Wall Street is paying $25,000 a day for AI trainers who used to work there",
+      "url": "https://thenextweb.com/news/ai-trainers-wall-street-25000-day-sinisterra-wang",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-26T22:09:42.111968"
+    },
+    {
+      "title": "Google I/O 2026 adds Search Live and AI Mode to Google Search",
+      "url": "https://www.medianama.com/2026/05/223-google-search-redesign-ai-mode-2026/",
+      "cat": "RESEARCH",
+      "date": "2026-05-26T22:09:42.111968"
+    },
+    {
+      "title": "xAI told staff to stop mingling with Cursor employees, weeks after they started working together",
+      "url": "https://thenextweb.com/news/xai-cursor-gun-jumping-antitrust-spacex-ipo",
+      "cat": "OTHER",
+      "date": "2026-05-26T22:09:42.111968"
     }
   ]
 }

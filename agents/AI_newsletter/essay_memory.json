@@ -442,6 +442,19 @@
         "AI economics, including inference costs and unit economics, is crucial for scaling.",
         "The balance between technical depth and GTM foresight evolves with startup stage."
       ]
+    },
+    {
+      "date": "2026-05-26T22:09:40.704766",
+      "day_number": 46,
+      "topic": "VC Mental Models for AI Investing",
+      "angle": "AI market sizing: why TAM analysis is different for AI",
+      "key_arguments": [
+        "AI redefines TAM by shifting focus from software budgets to labor budgets.",
+        "Traditional TAM calculations underestimate AI's market potential.",
+        "AI automates entire workflows, displacing human-delivered services.",
+        "AI necessitates a shift from per-seat pricing to value-based pricing.",
+        "AI converts services markets into software opportunities."
+      ]
     }
   ]
 }
