@@ -1,66 +1,6 @@
 {
   "stories": [
     {
-      "title": "Meet LiteFold, a biotech startup using proprietary AI to speed up drug discovery",
-      "url": "https://yourstory.com/2026/05/litefold-biotech-startup-using-proprietary-ai-speed-up-drug-discovery",
-      "cat": "RESEARCH",
-      "date": "2026-05-13T21:55:58.489580"
-    },
-    {
-      "title": "IPL\u2019s TV slump and changing viewer habits; An AI scientist to speed up drug discovery",
-      "url": "https://yourstory.com/2026/05/ipl-tv-slump-viewer-habits-ai-scientist-speed-up-drug-discovery",
-      "cat": "RESEARCH",
-      "date": "2026-05-13T21:55:58.489580"
-    },
-    {
-      "title": "Cybersecurity focused AI startup Exaforce raises $125 M in Series B funding round",
-      "url": "https://yourstory.com/2026/05/cybersecurity-ai-startup-exaforce-raises-series-b-funding-round",
-      "cat": "FUNDING",
-      "date": "2026-05-13T21:55:58.489580"
-    },
-    {
-      "title": "Google is turning Android into agentic AI system with Gemini Intelligence: Check features and release date",
-      "url": "https://www.livemint.com/technology/tech-news/google-is-turning-android-into-agentic-ai-system-with-gemini-intelligence-check-features-and-release-date-11778645240833.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-13T21:55:58.489580"
-    },
-    {
-      "title": "What is Gemini Intelligence and how it will let AI agents control your Android phone",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-gemini-intelligence-ai-agents-android-10687347/",
-      "cat": "RESEARCH",
-      "date": "2026-05-13T21:55:58.489580"
-    },
-    {
-      "title": "Who Will Bell The Consumer AI Cat?",
-      "url": "https://inc42.com/features/who-will-bell-the-consumer-ai-cat/",
-      "cat": "RESEARCH",
-      "date": "2026-05-13T21:55:58.489580"
-    },
-    {
-      "title": "Android 17 set to arrives with AirDrop-style sharing, AI widgets, and more",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/android-17-set-to-arrives-with-airdrop-style-sharing-ai-widgets-and-more-10687077/",
-      "cat": "RESEARCH",
-      "date": "2026-05-13T21:55:58.489580"
-    },
-    {
-      "title": "Spain pushes ahead with social media, AI rules despite Big Tech lobbying pressure",
-      "url": "https://www.livemint.com/technology/spain-pushes-ahead-with-social-media-ai-rules-despite-big-tech-lobbying-pressure-11778652120841.html",
-      "cat": "POLICY",
-      "date": "2026-05-13T21:55:58.489580"
-    },
-    {
-      "title": "From Googlebook to Gemini in Chrome: Top 5 biggest announcements from Android Show 2026",
-      "url": "https://www.livemint.com/technology/tech-news/from-googlebook-to-gemini-in-chrome-top-5-biggest-announcements-from-android-show-2026-11778635593772.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-13T21:55:58.489580"
-    },
-    {
-      "title": "Corti opens its clinical-AI stack to startups as Europe\u2019s regulatory bill rises",
-      "url": "https://thenextweb.com/news/corti-startup-acceleration-clinical-ai",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-13T21:55:58.489580"
-    },
-    {
       "title": "The next decade of enterprise AI: Seven trends redefining business",
       "url": "https://yourstory.com/2026/05/the-next-decade-of-enterprise-ai-seven-trends-redefining-business",
       "cat": "ENTERPRISE",
@@ -839,6 +779,84 @@
       "url": "https://thenextweb.com/news/xai-cursor-gun-jumping-antitrust-spacex-ipo",
       "cat": "OTHER",
       "date": "2026-05-26T22:09:42.111968"
+    },
+    {
+      "title": "Unveiling The Inc42 AI Summit 2026 Agenda: Decoding Playbooks Shaping India\u2019s AI Future",
+      "url": "https://inc42.com/buzz/unveiling-the-inc42-ai-summit-2026-agenda-decoding-playbooks-shaping-indias-ai-future/",
+      "cat": "OTHER",
+      "date": "2026-05-27T22:21:35.762494"
+    },
+    {
+      "title": "Inside Human Archive: The Y Combinator Startup Recording Indian Workers To Train The World\u2019s Robots",
+      "url": "https://inc42.com/startups/inside-human-archive-the-startup-recording-indian-workers-to-train-the-worlds-robots/",
+      "cat": "RESEARCH",
+      "date": "2026-05-27T22:21:35.762494"
+    },
+    {
+      "title": "Bharat Innovates 2026: From a Bengaluru Lab to Nice. Meet the Startup Bringing AI-Powered Diagnostics to Underserved India",
+      "url": "https://yourstory.com/2026/05/bharat-innovates-2026-ai-powered-diagnostics-to-underserved",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-27T22:21:35.762494"
+    },
+    {
+      "title": "AI to turbocharge patent creation at India tech hubs, executives say",
+      "url": "https://www.livemint.com/technology/ai-to-turbocharge-patent-creation-at-india-tech-hubs-executives-say-11779849183323.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-27T22:21:35.762494"
+    },
+    {
+      "title": "Anthropic Ropes In Ex-Microsoft Sangeeta Bavi To Helm Startups, Growth In India",
+      "url": "https://inc42.com/buzz/anthropic-ropes-in-ex-microsoft-sangeeta-bavi-to-helm-startups-growth-in-india/",
+      "cat": "OTHER",
+      "date": "2026-05-27T22:21:35.762494"
+    },
+    {
+      "title": "India\u2019s Sovereign AI Reality Check",
+      "url": "https://inc42.com/features/indias-sovereign-ai-reality-check/",
+      "cat": "POLICY",
+      "date": "2026-05-27T22:21:35.762494"
+    },
+    {
+      "title": "Cognition just raised $1 billion at a $26 billion valuation, and 90% of its own code is written by its AI",
+      "url": "https://thenextweb.com/news/cognition-just-raised-1-billion-at-a-26-billion-valuation-and-90-of-its-own-code-is-written-by-its-ai",
+      "cat": "FUNDING",
+      "date": "2026-05-27T22:21:35.762494"
+    },
+    {
+      "title": "How VCs are redefining success metrics in early-stage investing",
+      "url": "https://yourstory.com/2026/05/how-vcs-are-redefining-success-metrics-in-early-stage-investing",
+      "cat": "FUNDING",
+      "date": "2026-05-27T22:21:35.762494"
+    },
+    {
+      "title": "Perplexity most reliable AI chatbot for work tasks, ChatGPT ranks sixth: Report",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/perplexity-most-reliable-ai-chatbot-for-work-tasks-chatgpt-ranks-sixth-report-10709760/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-27T22:21:35.762494"
+    },
+    {
+      "title": "Talkdesk wants its AI agents to call your customers before they call you",
+      "url": "https://thenextweb.com/news/talkdesk-proactive-ai-agents-retail-financial-services",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-27T22:21:35.762494"
+    },
+    {
+      "title": "Daylight expands MDR into Claude Enterprise to address emerging AI security risks",
+      "url": "https://thenextweb.com/news/daylight-mdr-claude-enterprise-ai-security",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-27T22:21:35.762494"
+    },
+    {
+      "title": "Himalaya Wealth Managers Launches \u20b9500 Cr Fund To Back Growth Stage Deeptech SMEs",
+      "url": "https://inc42.com/buzz/himalaya-wealth-managers-launches-%e2%82%b9500-cr-fund-to-back-growth-stage-deeptech-smes/",
+      "cat": "FUNDING",
+      "date": "2026-05-27T22:21:35.762494"
+    },
+    {
+      "title": "Spotify is using AI to turn long-form magazine articles into audiobooks: here's how it works",
+      "url": "https://www.livemint.com/technology/tech-news/spotify-is-using-ai-to-turn-long-form-magazine-articles-into-audiobooks-heres-how-it-works-11779848068093.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-27T22:21:35.762494"
     }
   ]
 }

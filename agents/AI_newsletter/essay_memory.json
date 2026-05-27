@@ -455,6 +455,19 @@
         "AI necessitates a shift from per-seat pricing to value-based pricing.",
         "AI converts services markets into software opportunities."
       ]
+    },
+    {
+      "date": "2026-05-27T22:21:34.673272",
+      "day_number": 47,
+      "topic": "VC Mental Models for AI Investing",
+      "angle": "Pricing and monetisation models in AI",
+      "key_arguments": [
+        "AI inference costs create a fundamental difference in gross margins compared to traditional SaaS.",
+        "Traditional per-seat pricing is unsustainable for AI due to variable inference costs.",
+        "Usage-based pricing can lead to unpredictable customer bills.",
+        "Outcome-based pricing aligns revenue directly with value delivered and solves AI's margin compression.",
+        "Outcome-based pricing shifts financial risk to the AI provider, requiring deep customer workflow understanding."
+      ]
     }
   ]
 }
