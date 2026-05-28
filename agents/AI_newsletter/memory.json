@@ -1,60 +1,6 @@
 {
   "stories": [
     {
-      "title": "The next decade of enterprise AI: Seven trends redefining business",
-      "url": "https://yourstory.com/2026/05/the-next-decade-of-enterprise-ai-seven-trends-redefining-business",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-14T21:48:00.548200"
-    },
-    {
-      "title": "The new startup stack: From data pipelines to agentic AI systems",
-      "url": "https://yourstory.com/2026/05/startup-stack-data-pipelines-agentic-ai-systems",
-      "cat": "RESEARCH",
-      "date": "2026-05-14T21:48:00.548200"
-    },
-    {
-      "title": "India targets deepfakes and AI-generated content: key changes under MeitY's 2026 amendments to the IT Rules",
-      "url": "https://www.freshfields.com/en-gb/insights/alerts/2026/india-targets-deepfakes-and-ai-generated-content/",
-      "cat": "POLICY",
-      "date": "2026-05-14T21:48:00.548200"
-    },
-    {
-      "title": "US-Based Numero Acquires Royu To Expand Its AI Finance Platform",
-      "url": "https://inc42.com/buzz/us-based-numero-acquires-royu-to-expand-its-ai-finance-platform/",
-      "cat": "FUNDING",
-      "date": "2026-05-14T21:48:00.548200"
-    },
-    {
-      "title": "Numero AI acquires Royu in cash-and-stock deal",
-      "url": "https://yourstory.com/2026/05/numero-ai-acquires-royu-in-cash-cum-stock-deal",
-      "cat": "FUNDING",
-      "date": "2026-05-14T21:48:00.548200"
-    },
-    {
-      "title": "Over 12 lakh chemists to shut shops on May 20 over fake AI prescriptions",
-      "url": "https://www.medianama.com/2026/05/223-chemist-strike-against-e-pharmacies-may-20-ai-generated-prescriptions/",
-      "cat": "POLICY",
-      "date": "2026-05-14T21:48:00.548200"
-    },
-    {
-      "title": "OpenAI backs kids safety law, says AI must avoid social media\u2019s failures",
-      "url": "https://www.medianama.com/2026/05/223-openai-backs-kids-online-safety-act-ai-not-repeat-social-media-mistakes/",
-      "cat": "POLICY",
-      "date": "2026-05-14T21:48:00.548200"
-    },
-    {
-      "title": "Will AI kill apps? Here\u2019s what Apple developers said ahead of WWDC 2026",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/ai-apps-what-apple-developers-said-wwdc-2026-10689832/",
-      "cat": "RESEARCH",
-      "date": "2026-05-14T21:48:00.548200"
-    },
-    {
-      "title": "Can AI solve India's dementia crisis? Bengaluru IISc launches Rs 2 crore challenge to track brain aging",
-      "url": "https://indianexpress.com/article/cities/bangalore/iiscs-centre-for-brain-research-launches-ai-challenge-to-track-brain-aging-10051885/",
-      "cat": "RESEARCH",
-      "date": "2026-05-14T21:48:00.548200"
-    },
-    {
       "title": "Inside Anthropic's $30 Billion Run Rate: How the AI Lab Is Betting Its Future on Compute",
       "url": "https://yourstory.com/2026/05/anthropic-30-billion-revenue-claude-ai-compute-strategy",
       "cat": "RESEARCH",
@@ -857,6 +803,54 @@
       "url": "https://www.livemint.com/technology/tech-news/spotify-is-using-ai-to-turn-long-form-magazine-articles-into-audiobooks-heres-how-it-works-11779848068093.html",
       "cat": "ENTERPRISE",
       "date": "2026-05-27T22:21:35.762494"
+    },
+    {
+      "title": "Morgan Stanley doubles its forecast: European banks could shed 20% of jobs on AI",
+      "url": "https://thenextweb.com/news/european-banks-20-percent-jobs-ai-morgan-stanley",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-28T22:20:46.858893"
+    },
+    {
+      "title": "Anthropic\u2019s Claude Opus 4.8 is its most honest AI model yet, and Mythos is coming in weeks",
+      "url": "https://thenextweb.com/news/anthropics-claude-opus-4-8-is-its-most-honest-ai-model-yet-and-mythos-is-coming-in-weeks",
+      "cat": "RESEARCH",
+      "date": "2026-05-28T22:20:46.858893"
+    },
+    {
+      "title": "Anthropic\u2019s Milan office lands with Generali, Pirelli and Enel as named Italian customers",
+      "url": "https://thenextweb.com/news/anthropic-milan-office-italy-enterprise-customers",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-28T22:20:46.858893"
+    },
+    {
+      "title": "Microsoft Copilot, ChatGPT to Gemini: The AI productivity tools reshaping office work in 2026",
+      "url": "https://www.livemint.com/technology/microsoft-copilot-chatgpt-to-gemini-the-ai-productivity-tools-reshaping-office-work-in-2026-11779948152966.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-28T22:20:46.858893"
+    },
+    {
+      "title": "Wix is cutting 20% of its workforce as a strong shekel and AI competition squeeze the website builder from both sides",
+      "url": "https://thenextweb.com/news/wix-is-cutting-20-of-its-workforce-as-a-strong-shekel-and-ai-competition-squeeze-the-website-builder-from-both-sides",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-28T22:20:46.858893"
+    },
+    {
+      "title": "One Tech Tip: Your next job interview could be with an AI bot",
+      "url": "https://www.livemint.com/technology/one-tech-tip-your-next-job-interview-could-be-with-an-ai-bot-11779940983460.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-28T22:20:46.858893"
+    },
+    {
+      "title": "CapCut, Runway, Descript, Adobe Premiere Pro: Top 5 AI-powered video editing apps creators use in 2026",
+      "url": "https://www.livemint.com/technology/capcut-runway-descript-adobe-premiere-pro-opus-clip-top-5-ai-powered-video-editing-apps-2026-11779869867212.html",
+      "cat": "OTHER",
+      "date": "2026-05-28T22:20:46.858893"
+    },
+    {
+      "title": "The hybrid model: why the smartest finance teams aren\u2019t going all-in on AI",
+      "url": "https://thenextweb.com/news/hybrid-model-smartest-finance-teams-ai",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-28T22:20:46.858893"
     }
   ]
 }

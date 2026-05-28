@@ -468,6 +468,18 @@
         "Outcome-based pricing aligns revenue directly with value delivered and solves AI's margin compression.",
         "Outcome-based pricing shifts financial risk to the AI provider, requiring deep customer workflow understanding."
       ]
+    },
+    {
+      "date": "2026-05-28T22:20:45.390028",
+      "day_number": 48,
+      "topic": "VC Mental Models for AI Investing",
+      "angle": "The a16z and NFX AI theses: what they believe and why",
+      "key_arguments": [
+        "AI investing value lies in infrastructure rewiring, not superficial applications.",
+        "Look beyond AI features to underlying architecture and market dynamics for advantage.",
+        "AI-native companies are fundamentally dependent on AI; AI-enabled companies enhance existing models.",
+        "Network effects remain a potent strategy for defensibility in the AI era."
+      ]
     }
   ]
 }
