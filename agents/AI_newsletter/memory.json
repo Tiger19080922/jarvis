@@ -1,60 +1,6 @@
 {
   "stories": [
     {
-      "title": "Inside Anthropic's $30 Billion Run Rate: How the AI Lab Is Betting Its Future on Compute",
-      "url": "https://yourstory.com/2026/05/anthropic-30-billion-revenue-claude-ai-compute-strategy",
-      "cat": "RESEARCH",
-      "date": "2026-05-15T21:37:48.991171"
-    },
-    {
-      "title": "Anthropic launches new suite of Claude AI automation tools for small businesses",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-launches-claude-ai-tools-small-businesses-10689428/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-15T21:37:48.991171"
-    },
-    {
-      "title": "Anthropic and the Gates Foundation are betting $200 million that AI can do more than make money",
-      "url": "https://thenextweb.com/news/anthropic-gates-foundation-ai-health-education-partnership",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-15T21:37:48.991171"
-    },
-    {
-      "title": "Oracle\u2019s Palanivel Saravanan On Building AI-Ready Infrastructure For Startups to Scale",
-      "url": "https://inc42.com/features/oracles-palanivel-saravanan-on-building-ai-ready-infrastructure-for-startups-to-scale/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-15T21:37:48.991171"
-    },
-    {
-      "title": "Govt releases first cheques under Rs 1 lakh crore RDI Fund, five deep tech startups make the cut",
-      "url": "https://yourstory.com/2026/05/india-rdi-fund-first-deep-tech-startups-funding",
-      "cat": "POLICY",
-      "date": "2026-05-15T21:37:48.991171"
-    },
-    {
-      "title": "OpenAI brings coding tool Codex\u00a0to\u00a0ChatGPT phone app",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-brings-coding-tool-codex-to-chatgpt-phone-app-10691044/",
-      "cat": "RESEARCH",
-      "date": "2026-05-15T21:37:48.991171"
-    },
-    {
-      "title": "Amazon replaces Rufus with a new AI shopping assistant powered by Alexa+",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/amazon-replaces-rufus-with-a-new-ai-shopping-assistant-powered-by-alexa-10688825/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-15T21:37:48.991171"
-    },
-    {
-      "title": "China\u2019s tech giants are replacing the search bar with AI agents that shop for you",
-      "url": "https://thenextweb.com/news/chinas-tech-giants-are-replacing-the-search-bar-with-ai-agents-that-shop-for-you",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-15T21:37:48.991171"
-    },
-    {
-      "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In May",
-      "url": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-may/",
-      "cat": "OTHER",
-      "date": "2026-05-15T21:37:48.991171"
-    },
-    {
       "title": "Mobavenue AI Q4: PAT Zooms 60% To  \u20b98.4 Cr, Revenue Increases 42%",
       "url": "https://inc42.com/buzz/mobavenue-ai-q4-pat-zooms-60-to-%e2%82%b98-4-cr-revenue-increases-42/",
       "cat": "FUNDING",
@@ -851,6 +797,66 @@
       "url": "https://thenextweb.com/news/hybrid-model-smartest-finance-teams-ai",
       "cat": "ENTERPRISE",
       "date": "2026-05-28T22:20:46.858893"
+    },
+    {
+      "title": "India\u2019s mid-market firms lead in AI adoption but face rising complexity costs: Freshworks Report",
+      "url": "https://yourstory.com/2026/05/indias-mid-market-firms-lead-ai-adoption-face-rising-complexity-costs-freshworks-report",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-29T22:16:10.513186"
+    },
+    {
+      "title": "Q4FY26: Meesho uses voice AI Vaani to expand in rural India, eyes future ad price hikes",
+      "url": "https://www.medianama.com/2026/05/223-meesho-uses-ai-across-shopping-ads-logistics/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-29T22:16:10.513186"
+    },
+    {
+      "title": "India emerges as a key Codex market with 27x user growth: OpenAI",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/india-emerges-as-a-key-codex-market-with-27x-user-growth-openai-10714611/",
+      "cat": "RESEARCH",
+      "date": "2026-05-29T22:16:10.513186"
+    },
+    {
+      "title": "Reliance bets big on AI to drive next phase of growth for entertainment business",
+      "url": "https://yourstory.com/2026/05/reliance-bets-big-on-ai-next-phase-growth-entertainment-business",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-29T22:16:10.513186"
+    },
+    {
+      "title": "AWS launches AI shopping assistant for retailers, cites 3.5x higher conversion rates",
+      "url": "https://www.medianama.com/2026/05/223-aws-launches-ai-shopping-assistant-retailers-cites-3-5x-higher-conversion-rates/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-29T22:16:10.513186"
+    },
+    {
+      "title": "Cloud war intensifies as Google ties enterprise deals to in-house AI",
+      "url": "https://www.livemint.com/technology/google-cloud-gemini-ai-enterprise-cloud-deals-cloud-computing-india-microsoft-amazon-11779961916199.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-29T22:16:10.513186"
+    },
+    {
+      "title": "IISc launches Wadhwani Innovation Centre in Bengaluru to boost quantum and deeptech ecosystem",
+      "url": "https://yourstory.com/2026/05/iisc-wadhwani-innovation-centre-bengaluru-quantum-deeptech-ecosystem",
+      "cat": "RESEARCH",
+      "date": "2026-05-29T22:16:10.513186"
+    },
+    {
+      "title": "PhysicsWallah makes U-turn on school, leans on AI for growth: Q4 FY26 earnings",
+      "url": "https://www.medianama.com/2026/05/223-physicswallah-u-turn-school-ai-for-growth-q4-fy26/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-29T22:16:10.513186"
+    },
+    {
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-4_AMfl-Vnu9izXB9n1Haj_n08B5qCUK218Xn7avYHzibgB1rsGo-s642vPN3oXUWpMxcfwRdfr_YEapGygoXK5H-MJFXteLl9QmDyAJuP9M8qmQkQCW80VMaLVri8GyF-hOySgkX1yRSE-Dzlu7EizpNcBJ_ydOdlmwYgFVFqIWSEWXYT3HIUN2Cp2pnk1OIe_4=",
+      "cat": "RESEARCH",
+      "date": "2026-05-29T22:16:10.513186"
+    },
+    {
+      "title": "ArXiv Tightens AI Paper Rules Amid Rise In Fabricated Scientific Citations",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIglub5WD8lSRi9lnPFZCwui6bxY2UWuWFshRAdUoadY5eI2cdjF5GnraOyPo33Eb8unO_6VYsbq9JDVir36Afa3Z1PSX19vObVbGiQFW9ngMkHkgZEGlyQBRwlBptRz8lUztim9Bi46eg69IUKGnovcrtRXZiaVxc3bMPWovhmji5kGCknvSE7yBCkk5Puqymu1HA--O2DFvJq0O-UvaXp3RTrp_ZVQnDKIEx6Q==",
+      "cat": "RESEARCH",
+      "date": "2026-05-29T22:16:10.513186"
     }
   ]
 }
