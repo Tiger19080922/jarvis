@@ -493,6 +493,18 @@
         "Focus on interconnectedness of components, not isolated strengths.",
         "Identify structural advantage beyond technological novelty."
       ]
+    },
+    {
+      "date": "2026-05-30T21:36:54.910394",
+      "day_number": 50,
+      "topic": "AI Business Models and Unit Economics",
+      "angle": "How AI changes the economics of software",
+      "key_arguments": [
+        "AI collapses unit economics of traditional SaaS.",
+        "AI-native companies achieve unprecedented revenue per employee.",
+        "Plummeting AI inference costs enable lower pricing.",
+        "AI agents automate tasks, acting as scalable digital employees."
+      ]
     }
   ]
 }
