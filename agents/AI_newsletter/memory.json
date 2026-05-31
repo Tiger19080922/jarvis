@@ -1,48 +1,6 @@
 {
   "stories": [
     {
-      "title": "Why NVIDIA and HCLTech are betting millions on India's Sarvam AI",
-      "url": "https://www.financialexpress.com/industry/tech/why-nvidia-and-hcltech-are-betting-millions-on-indias-sarvam-ai/3470113/",
-      "cat": "FUNDING",
-      "date": "2026-05-17T21:30:16.421703"
-    },
-    {
-      "title": "The Mythos Stress Test: Can Indian Fintechs, Banks Fend Off AI-Native Cyber Threats?",
-      "url": "https://inc42.com/features/the-mythos-stress-test-can-indian-fintechs-banks-fend-off-ai-native-cyber-threats/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-17T21:30:16.421703"
-    },
-    {
-      "title": "EY withdraws report over AI hallucination errors, fake data and citations",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/ey-withdraws-report-over-ai-hallucination-errors-fake-data-and-citations-10694245/",
-      "cat": "RESEARCH",
-      "date": "2026-05-17T21:30:16.421703"
-    },
-    {
-      "title": "YouTube rolls out likeness detection for all over-18 users to combat AI deepfakes",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/youtube-likeness-detection-all-users-ai-deepfakes-10694032/",
-      "cat": "POLICY",
-      "date": "2026-05-17T21:30:16.421703"
-    },
-    {
-      "title": "OpenAI bought company that offered AI tools for cloning voices",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-bought-company-that-offered-ai-tools-for-cloning-voices-10693684/",
-      "cat": "RESEARCH",
-      "date": "2026-05-17T21:30:16.421703"
-    },
-    {
-      "title": "You can now connect bank accounts, track spending and ask personal finance questions to ChatGPT",
-      "url": "https://www.livemint.com/technology/tech-news/you-can-now-connect-bank-accounts-track-spending-and-ask-personal-finance-questions-to-chatgpt-11778893110633.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-17T21:30:16.421703"
-    },
-    {
-      "title": "GM, Ford, and Stellantis have cut 20,000 white-collar jobs. AI is about to accelerate the trend.",
-      "url": "https://thenextweb.com/news/detroit-three-automakers-20000-white-collar-jobs-ai",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-17T21:30:16.421703"
-    },
-    {
       "title": "Q4FY26: Nazara is betting big on AI and gaming as NODWIN eyes IPO and divestments planned",
       "url": "https://www.medianama.com/2026/05/223-q4fy26-nazara-ai-and-gaming-nodwin-eyes-ipo-divestments-planned/",
       "cat": "FUNDING",
@@ -881,6 +839,48 @@
       "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXPltwM67v4WBL76IIxx4JFNwyLd0Z1FHy96rnyZ6Y_frYeUaszALBEBsfRjwviRhx1i3cc2ECf7FVp5lguAA_JUmNuaE0QAQAgj4Bqu9i8AoR7EG8_v00D1t_8TfCtR-vXIgvyujHLVq4HESs_RBT0QJvDm0olma7MyQC6hhvc4vTLuFaZO9zYgUQe9y_tf4EIusvhXxrGOoayAkmQN8pLJX8nNJ6AEXKOhwYqj0Jv5zBTV8hxt3HYKTrNdqc2jTfPmaV9bSXKAMKF4o4sI2E9uIY78DpOJLSUEHgYX9Y3RyCeLIrRCc=",
       "cat": "ENTERPRISE",
       "date": "2026-05-30T21:36:55.978080"
+    },
+    {
+      "title": "India uniquely positioned to lead next phase of AI deployment: Microsoft executive",
+      "url": "https://www.linkedin.com/pulse/india-uniquely-positioned-lead-next-phase-ai-deployment-microsoft-executive-w8oie",
+      "cat": "POLICY",
+      "date": "2026-05-31T21:35:30.600115"
+    },
+    {
+      "title": "India Enterprise AI Adoption 2026: What 100 CIOs Actually Said",
+      "url": "https://neomarketintelligence.com/reports/india-enterprise-ai-adoption-2026-what-100-cios-actually-said/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-31T21:35:30.600115"
+    },
+    {
+      "title": "BFSI firms set to see AI-led decision making & real-time fraud detection",
+      "url": "https://www.google.com/search?q=BFSI+firms+set+to+see+AI-led+decision+making+%26+real-time+fraud+detection+May+31+2026",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-31T21:35:30.600115"
+    },
+    {
+      "title": "India Global Corporate Hubs Accelerate Artificial Intelligence Adoption Across Industries",
+      "url": "https://www.businesswire.com/news/home/20260529005243/en/India-Global-Corporate-Hubs-Accelerate-Artificial-Intelligence-Adoption-Across-Industries",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-31T21:35:30.600115"
+    },
+    {
+      "title": "\u2018I\u2019m cancelling\u2019: As Microsoft\u2019s GitHub Copilot moves to token-based billing, developers fear rising AI costs",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/microsoft-github-copilot-token-billing-ai-costs-rising-10716800/",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-31T21:35:30.600115"
+    },
+    {
+      "title": "\u2018Goodbye, Copilot\u2019: Microsoft faces backlash as Github Copilot ends flat-rate AI pricing from June 1",
+      "url": "https://www.livemint.com/technology/tech-news/goodbye-copilot-microsoft-faces-backlash-as-github-copilot-ends-flat-rate-ai-pricing-from-june-1-11780213914806.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-05-31T21:35:30.600115"
+    },
+    {
+      "title": "India leads global shift to AI-led healthcare adoption, says BCG study",
+      "url": "https://www.business-standard.com/industry/news/india-leads-global-shift-to-ai-led-healthcare-adoption-says-bcg-study-126042100082_1.html",
+      "cat": "RESEARCH",
+      "date": "2026-05-31T21:35:30.600115"
     }
   ]
 }
