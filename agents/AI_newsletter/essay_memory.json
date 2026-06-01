@@ -518,6 +518,18 @@
         "Subscription commitments offer predictable revenue for AI providers.",
         "Innovative AI tech fails if its cost structure is unmanageable."
       ]
+    },
+    {
+      "date": "2026-06-01T22:45:15.828998",
+      "day_number": 52,
+      "topic": "AI Business Models and Unit Economics",
+      "angle": "Gross margins in AI: the inference cost problem",
+      "key_arguments": [
+        "AI companies face inherently higher, persistent inference costs than SaaS.",
+        "The economic engine of AI businesses has less leverage than SaaS.",
+        "Pursuing SaaS-like gross margins in AI is unrealistic.",
+        "Cost efficiency must be a primary focus for AI ventures from inception."
+      ]
     }
   ]
 }

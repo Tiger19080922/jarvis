@@ -1,48 +1,6 @@
 {
   "stories": [
     {
-      "title": "Q4FY26: Nazara is betting big on AI and gaming as NODWIN eyes IPO and divestments planned",
-      "url": "https://www.medianama.com/2026/05/223-q4fy26-nazara-ai-and-gaming-nodwin-eyes-ipo-divestments-planned/",
-      "cat": "FUNDING",
-      "date": "2026-05-18T21:50:27.320015"
-    },
-    {
-      "title": "Silicon Road Ventures launches Rs 150 cr India AI fund for commerce startups",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/silicon-road-ventures-launches-rs-150-cr-india-ai-fund-for-commerce-startups/articleshow/110229987.cms",
-      "cat": "FUNDING",
-      "date": "2026-05-18T21:50:27.320015"
-    },
-    {
-      "title": "\u2018AI is no longer a feature, but the operating model for modern enterprises\u2019: Michael Dell\u2019s big push to win over corporate clients at a Las Vegas conference",
-      "url": "https://indianexpress.com/article/technology/ai-is-no-longer-a-feature-but-the-operating-model-for-modern-enterprises-michael-dells-big-push-to-win-over-corporate-clients-at-a-las-vegas-conference-10696562/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-18T21:50:27.320015"
-    },
-    {
-      "title": "ChatGPT Images 2.0 crosses one billion AI visuals in India: 10 most popular prompts users are trying",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-images-2-0-one-billion-ai-visuals-india-openai-10695796/",
-      "cat": "RESEARCH",
-      "date": "2026-05-18T21:50:27.320015"
-    },
-    {
-      "title": "arXiv Enforces Stricter Rules on AI-Generated Research, Threatens One-Year Ban for Violations",
-      "url": "https://www.etvbharat.com/english/national/state/telangana/arxiv-enforces-stricter-rules-on-ai-generated-research-threatens-one-year-ban-for-violations/national20260518143015808080808",
-      "cat": "RESEARCH",
-      "date": "2026-05-18T21:50:27.320015"
-    },
-    {
-      "title": "arXiv Cracks Down on AI-Generated Papers, Threatening Bans",
-      "url": "https://www.pcmag.com/news/arxiv-cracks-down-on-ai-generated-papers-threatening-bans",
-      "cat": "RESEARCH",
-      "date": "2026-05-18T21:50:27.320015"
-    },
-    {
-      "title": "arXiv Tightens Policies on AI-Generated Research",
-      "url": "https://www.hindustantimes.com/technology/arxiv-tightens-policies-on-ai-generated-research-181687796034232.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-18T21:50:27.320015"
-    },
-    {
       "title": "Google just replaced the search box with an AI agent, and the web will never be the same",
       "url": "https://thenextweb.com/news/google-search-ai-overhaul-information-agents-io-2026",
       "cat": "RESEARCH",
@@ -881,6 +839,30 @@
       "url": "https://www.business-standard.com/industry/news/india-leads-global-shift-to-ai-led-healthcare-adoption-says-bcg-study-126042100082_1.html",
       "cat": "RESEARCH",
       "date": "2026-05-31T21:35:30.600115"
+    },
+    {
+      "title": "Cars24 To Invest $20 Mn In Early Stage AI Startups",
+      "url": "https://inc42.com/buzz/cars24-to-invest-20-mn-in-early-stage-ai-startups/",
+      "cat": "FUNDING",
+      "date": "2026-06-01T22:45:17.394542"
+    },
+    {
+      "title": "IDFC FIRST Bank CEO V Vaidyanathan On How AI Will Make Banking Predictive",
+      "url": "https://inc42.com/buzz/idfc-first-bank-ceo-v-vaidyanathan-on-how-ai-will-make-banking-predictive/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-01T22:45:17.394542"
+    },
+    {
+      "title": "Sarvam cuts Vision AI model API prices by 67% as document digitisation crosses 35 million pages",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/sarvam-cuts-vision-ai-prices-document-digitisation-10717999/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-01T22:45:17.394542"
+    },
+    {
+      "title": "LVX Bets On AI To Transform Private Market Dealmaking",
+      "url": "https://inc42.com/buzz/lvx-bets-on-ai-to-transform-private-market-dealmaking/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-01T22:45:17.394542"
     }
   ]
 }
