@@ -530,6 +530,19 @@
         "Pursuing SaaS-like gross margins in AI is unrealistic.",
         "Cost efficiency must be a primary focus for AI ventures from inception."
       ]
+    },
+    {
+      "date": "2026-06-02T22:38:50.218125",
+      "day_number": 53,
+      "topic": "AI Business Models and Unit Economics",
+      "angle": "Enterprise AI sales: why pilots stall",
+      "key_arguments": [
+        "Enterprise AI pilots fail due to non-technical hurdles like procurement and legal.",
+        "Vendors underestimate and fail to address institutional challenges in AI sales.",
+        "Pilot purgatory occurs when AI pilots stall due to structural issues, not tech.",
+        "An AI Governance Framework is crucial for vendors to manage enterprise AI risks.",
+        "Agentic AI's complexity adds further challenges to the enterprise AI sales cycle."
+      ]
     }
   ]
 }

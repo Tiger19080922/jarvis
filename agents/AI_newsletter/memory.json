@@ -1,114 +1,6 @@
 {
   "stories": [
     {
-      "title": "Google just replaced the search box with an AI agent, and the web will never be the same",
-      "url": "https://thenextweb.com/news/google-search-ai-overhaul-information-agents-io-2026",
-      "cat": "RESEARCH",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "Google\u2019s Gemini 3.5 Flash doesn\u2019t just write code, it builds entire operating systems",
-      "url": "https://thenextweb.com/news/google-gemini-3-5-flash-agentic-ai-coding-io-2026",
-      "cat": "RESEARCH",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "Numerize's bet on agentic OS for restaurants - The intelligence layer F&B always wanted!",
-      "url": "https://yourstory.com/2026/05/numerizes-agentic-os-restaurants-intelligence-layer",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "Zuckerberg reshapes Meta around AI as company moves thousands of employees into AI roles ahead of layoffs",
-      "url": "https://www.livemint.com/technology/tech-news/zuckerberg-reshapes-meta-around-ai-as-company-moves-thousands-of-employees-into-ai-roles-ahead-of-planned-layoffs-11779207952726.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "Google wants you to talk to Docs, Keep, and Gmail instead of typing",
-      "url": "https://thenextweb.com/news/google-wants-you-to-talk-to-docs-keep-and-gmail-instead-of-typing",
-      "cat": "RESEARCH",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "Google wants you to talk to your Gmail inbox, and it might actually work",
-      "url": "https://thenextweb.com/news/google-gmail-live-ai-voice-search-inbox",
-      "cat": "RESEARCH",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "Google wants Search to work while you sleep, and its new information agents are the plan",
-      "url": "https://thenextweb.com/news/google-wants-search-to-work-while-you-sleep-and-its-new-information-agents-are-the-plan",
-      "cat": "RESEARCH",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "India Elevates Emphasis on Foundational AI Research",
-      "url": "https://letsdatascience.com/india-elevates-emphasis-on-foundational-ai-research/",
-      "cat": "POLICY",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "India\u2019s insurance regulator orders firms to strengthen defences against AI-powered attacks by May 22",
-      "url": "https://www.medianama.com/2026/05/223-irdai-cybersecurity-warning-ai-threats/",
-      "cat": "POLICY",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "Google kicks off I/O conference with AI upgrades for coders, consumers",
-      "url": "https://www.livemint.com/technology/google-kicks-off-i-o-conference-with-ai-upgrades-for-coders-consumers-11779211350557.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "Google I/O 2026 kicks off today: Where to watch Sundar Pichai's keynote live in India and what to expect",
-      "url": "https://www.livemint.com/technology/tech-news/google-i-o-2026-kicks-off-today-where-to-watch-sundar-pichais-keynote-live-in-india-and-what-to-expect-11779190505379.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "From Aluminium OS to Gemini Omni: The biggest AI upgrades expected at Google I/O 2026",
-      "url": "https://www.livemint.com/technology/tech-news/from-aluminium-os-to-gemini-omni-the-biggest-ai-upgrades-expected-at-google-i-o-2026-11779088631880.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "Sam Altman says India created over 1 billion images with ChatGPT Images 2.0: Here are top trends and prompts",
-      "url": "https://www.livemint.com/technology/tech-news/sam-altman-says-india-created-over-1-billion-images-with-chatgpt-images-2-0-here-are-top-top-trends-and-prompts-11779077229353.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "Google DeepMind plugs Street View into its world model, and you can explore simulated cities today",
-      "url": "https://thenextweb.com/news/google-deepmind-genie-street-view-world-model-simulation",
-      "cat": "RESEARCH",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "No value should be assigned to purely AI generated content: Saregama to streaming platforms",
-      "url": "https://www.medianama.com/2026/05/223-no-value-assigned-purely-ai-generated-content-saregama-streaming-platforms/",
-      "cat": "RESEARCH",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "Microsoft's biggest India data center on track to go live in mid-2026, executive says",
-      "url": "https://www.livemint.com/technology/microsofts-biggest-india-data-center-on-track-to-go-live-in-mid-2026-executive-says-11779195079165.html",
-      "cat": "OTHER",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "ChatGPT voice conversations are exploding in India: 10 weird, useful and viral use cases",
-      "url": "https://www.livemint.com/technology/chatgpt-voice-conversations-are-exploding-in-india-10-weird-useful-and-viral-use-cases-11779177341905.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
-      "title": "Google partners with Warby Parker and Gentle Monster for Gemini-powered smart glasses",
-      "url": "https://thenextweb.com/news/google-audio-glasses-warby-parker-gentle-monster-gemini-io-2026",
-      "cat": "OTHER",
-      "date": "2026-05-19T21:58:48.316510"
-    },
-    {
       "title": "India needs dedicated AI law as current legal framework inadequate to tackle emerging risks: Cyber Expert Pavan Duggal",
       "url": "https://www.livemint.com/technology/india-needs-dedicated-ai-law-as-current-legal-framework-inadequate-to-tackle-emerging-risks-cyber-expert-pavan-duggal-11779291223146.html",
       "cat": "POLICY",
@@ -863,6 +755,114 @@
       "url": "https://inc42.com/buzz/lvx-bets-on-ai-to-transform-private-market-dealmaking/",
       "cat": "ENTERPRISE",
       "date": "2026-06-01T22:45:17.394542"
+    },
+    {
+      "title": "Exclusive: Sarvam AI To Open Voice AI Agents Platform For Public Use",
+      "url": "https://inc42.com/buzz/exclusive-sarvam-ai-to-open-voice-ai-agents-platform-for-public-use/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "Edtech Startup ProLearn Bags \u20b930 Cr To Tailor AI Learning For Students",
+      "url": "https://inc42.com/buzz/edtech-startup-prolearn-bags-%e2%82%b930-cr-to-tailor-ai-learning-for-students/",
+      "cat": "FUNDING",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "India to emerge as a leading hub of AI-driven advertising: Redseer report",
+      "url": "https://yourstory.com/2026/06/ai-to-drive-next-wave-of-growth-in-global-advertising-redseer-report",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "Govt unlikely to dilute AI labeling rule for social media platforms: reports",
+      "url": "https://www.medianama.com/2026/06/223-govt-dilute-ai-labeling-rule-social-media/",
+      "cat": "POLICY",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "ASCI releases draft synthetic media guidelines for ads, certain uses to be prohibited entirely",
+      "url": "https://www.medianama.com/2026/06/223-asci-draft-synthetic-media-guidelines-ads-uses-prohibited-entirely/",
+      "cat": "POLICY",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "OpenAI is turning Codex from a coding tool into an enterprise work platform, and non-developers are adopting it 3x faster than engineers",
+      "url": "https://thenextweb.com/news/openai-codex-enterprise-plugins-sites-non-developers",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "Exclusive: Blume-Backed Interview Kickstart Lays Off Nearly 50 Employees Amid AI Automation Push",
+      "url": "https://inc42.com/buzz/blume-backed-interview-kickstart-lays-off-nearly-50-employees-amid-ai-automation-push/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "Indian startup leaders, UK minister discuss future of AI collaboration",
+      "url": "https://yourstory.com/2026/06/indian-startup-leaders-uk-minister-discuss-future-of-ai-cooperation",
+      "cat": "POLICY",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "Delhi High Court orders takedown of AI deepfakes of Varun Dhawan, restrains unauthorised merchandise sale",
+      "url": "https://www.medianama.com/2026/06/223-delhi-high-court-takedown-ai-deepfakes-varun-dhawan-restrains-unauthorised-merchandise-sale/",
+      "cat": "POLICY",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "Perplexity built an \u201cair-traffic controller\u201d that decides in real time whether your AI query runs on your PC or in the cloud",
+      "url": "https://thenextweb.com/news/perplexity-ai-split-compute-pc-cloud-inference-cost",
+      "cat": "RESEARCH",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "Microsoft just announced a new operating system for devices that don\u2019t run apps, only AI agents",
+      "url": "https://thenextweb.com/news/microsoft-project-solara-agent-first-devices-build-2026",
+      "cat": "RESEARCH",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "Meta restricts Human Rights Forum\u2019s Instagram posts on Google\u2019s AI data center in Andhra",
+      "url": "https://www.medianama.com/2026/06/223-meta-human-rights-forum-instagram-googles-ai-data-center-andhra/",
+      "cat": "POLICY",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "Aggregators outpace Domino\u2019s delivery growth as Jubilant launches GenAI chatbot: Q4FY26",
+      "url": "https://www.medianama.com/2026/06/223-jubilant-foodworks-q4fy26-genai-chatbot-delivery-growth/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "OpenAI's Sam Altman backtracks on AI job-loss fears, says top AI adopters are hiring more workers",
+      "url": "https://www.livemint.com/technology/tech-news/openais-sam-altman-backtracks-on-ai-job-loss-fears-says-top-ai-adopters-are-hiring-more-workers-11780416122443.html",
+      "cat": "RESEARCH",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "AI startup CEO Dan Shipper spent $13,000 on OpenAI Codex in a month, and isn't worried",
+      "url": "https://www.livemint.com/technology/ai-startup-ceo-dan-shipper-spent-13-000-on-openai-codex-in-a-month-and-isnt-worried-11780288562711.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "AI bots ignore evidence. Can we trust them with science?",
+      "url": "https://www.livemint.com/science/ai-bots-ignore-evidence-can-we-trust-them-with-science-11716801228435.html",
+      "cat": "RESEARCH",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "Emerging Research Reveals Psychosocial Twists About AI Chatbots And Human Minds",
+      "url": "https://www.benzinga.com/news/26/05/39066955/emerging-research-reveals-psychosocial-twists-about-ai-chatbots-and-human-minds",
+      "cat": "RESEARCH",
+      "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "Publications - Kotak IISc AI\u2013ML Centre - Indian Institute of Science",
+      "url": "https://aiml.iisc.ac.in/publications/",
+      "cat": "RESEARCH",
+      "date": "2026-06-02T22:38:51.127680"
     }
   ]
 }
