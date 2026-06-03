@@ -1,114 +1,6 @@
 {
   "stories": [
     {
-      "title": "India needs dedicated AI law as current legal framework inadequate to tackle emerging risks: Cyber Expert Pavan Duggal",
-      "url": "https://www.livemint.com/technology/india-needs-dedicated-ai-law-as-current-legal-framework-inadequate-to-tackle-emerging-risks-cyber-expert-pavan-duggal-11779291223146.html",
-      "cat": "POLICY",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "MeitY Unveils India AI Governance Guidelines under IndiaAI Mission to Ensure Safe, Inclusive, and Responsible Adoption of Artificial Intelligence across Sectors",
-      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2020867",
-      "cat": "POLICY",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "India weighs stricter regulatory framework for artificial intelligence",
-      "url": "https://www.communicationstoday.co.in/india-weighs-stricter-regulatory-framework-for-artificial-intelligence/",
-      "cat": "POLICY",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "India's AI Governance Guidelines: A Pragmatic Framework Rooted in Collaboration",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1qtiEZBCBkWIO2AheHFDfSf56c-tnyxFJbMeAmk2VM7boB-ks4KlMDzB5jd0ggjgsZqpUUOZOfiITctYQSj0zDNeNY4oa3xUN7bxmmUBpBAlHjgXRDOIYBN7dh48RpBCcUnrdUDpvSEXxEOfrAVM-3XZB3MPEBR89Us9GS6uFejcvhL0oFtXc-Nh3U017sjnEsiWjHBBCQW229KOCOOnu7L346vHgf5FxCIKV76QvSSDElymXx2xIark=",
-      "cat": "POLICY",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "Google I/O 2026: From AI agents to smart glasses, here are the biggest announcements",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-i-o-2026-gemini-biggest-annoucements-10698450/",
-      "cat": "RESEARCH",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "Indian students ditch YouTube: ChatGPT becomes the 'Swiss Army knife' for exams, viva prep, coding and placements",
-      "url": "https://www.livemint.com/technology/indian-students-ditch-youtube-chatgpt-becomes-the-swiss-army-knife-for-exams-viva-prep-coding-and-placements-11779246355843.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "Gemini Omni Flash adds multimodal AI video creation to Google ecosystem",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-launches-gemini-omni-flash-for-ai-powered-video-generation-10699778/",
-      "cat": "RESEARCH",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "Microsoft\u2019s unveils new Surface laptops aimed at business and AI workflows",
-      "url": "https://indianexpress.com/article/technology/gadgets/microsofts-unveils-new-surface-laptops-aimed-at-business-and-ai-workflows-10699163/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "\u2018As vital as energy and defence\u2019: Countries rushing to build AI infrastructure, says Michael Dell",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/as-vital-as-energy-and-defence-countries-rushing-to-build-ai-infrastructure-says-michael-dell-10698925/",
-      "cat": "POLICY",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "Cursor launches Composer 2.5 model for long-running AI coding tasks at cheaper token cost",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/cursor-launches-composer-2-5-model-long-running-ai-coding-tasks-10697239/",
-      "cat": "RESEARCH",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "7 AI-powered scams Indians are falling for in 2026: Deepfakes, fake HR calls and more",
-      "url": "https://www.livemint.com/technology/7-ai-powered-scams-indians-are-falling-for-in-2026-deepfakes-fake-hr-calls-and-more-11779242136292.html",
-      "cat": "OTHER",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "Bharat Digital Samvad: \u2018Anyone can switch it off,\u2019 warn panelists against big tech cloud and AI systems",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/bharat-digital-samvad-foreign-cloud-ai-systems-panel-discussions-10699911/",
-      "cat": "POLICY",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "OpenAI takes on AI cyber threats with Daybreak: Here\u2019s what it means",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-daybreak-ai-cybersecurity-anthropic-mythos-10697672/",
-      "cat": "OTHER",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "\u2018AI agents are not inherently malicious but can be relentless\u2019: Dell Chief Security Officer John Scimone",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-agents-are-not-inherently-malicious-but-can-be-relentless-dell-chief-security-officer-john-scimone-10697348/",
-      "cat": "OTHER",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "SandboxAQ partners with Anthropic to bring scientific AI tools to Claude",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/sandboxaq-partners-with-anthropic-to-bring-scientific-ai-tools-to-claude-10697123/",
-      "cat": "RESEARCH",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "Singapore in talks with tech firms about adding nutrition labels to AI products, minister says",
-      "url": "https://www.livemint.com/technology/singapore-in-talks-with-tech-firms-about-adding-nutrition-labels-to-ai-products-minister-says-11779271205703.html",
-      "cat": "POLICY",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "Primer secures $100M Series C to fuel US expansion and autonomous AI payments",
-      "url": "https://thenextweb.com/news/primer-secures-100m-series-c-autonomous-ai-payments",
-      "cat": "FUNDING",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
-      "title": "Figma builds its own AI assistant that can design alongside you on the canvas",
-      "url": "https://thenextweb.com/news/figma-builds-its-own-ai-assistant-that-can-design-alongside-you-on-the-canvas",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-20T22:15:07.417662"
-    },
-    {
       "title": "Innovaccer Buys CaduceusHealth To Expand AI-Led Revenue Cycle Management",
       "url": "https://inc42.com/buzz/innovaccer-buys-caduceushealth-to-expand-ai-led-revenue-cycle-management/",
       "cat": "FUNDING",
@@ -863,6 +755,114 @@
       "url": "https://aiml.iisc.ac.in/publications/",
       "cat": "RESEARCH",
       "date": "2026-06-02T22:38:51.127680"
+    },
+    {
+      "title": "JioHotstar expands AI team, plans new generative entertainment division",
+      "url": "https://www.medianama.com/2026/06/223-jiohotstar-expands-ai-team-builds-new-ai-division/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "India Gets Access to Anthropic\u2019s Mythos AI Model Under Project Glasswing",
+      "url": "https://inc42.com/buzz/india-gets-access-to-anthropics-mythos-ai-model-under-project-glasswing/",
+      "cat": "RESEARCH",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "Android to warn users of AI-Powered fake calls",
+      "url": "https://www.medianama.com/2026/06/223-android-warn-users-ai-powered-fake-calls/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "Meta launches AI-powered Business Agent to help companies automate customer support, sales and marketing",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-launches-ai-powered-business-agent-to-help-companies-automate-customer-support-sales-and-marketing-10722489/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "Microsoft launches Scout, an AI agent that works for you even when you\u2019re offline",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/microsoft-launches-scout-an-ai-agent-that-works-for-you-even-when-youre-offline-10721742/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "At Build 2026, Microsoft doubles down on proprietary AI models to win every layer of the AI stack",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/at-build-2026-microsoft-doubles-down-on-proprietary-ai-models-to-win-every-layer-of-the-ai-stack-10721249/",
+      "cat": "RESEARCH",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "India spending big on AI, but lacks talent to deploy it, says SBI chairman",
+      "url": "https://www.livemint.com/technology/sbi-chairman-cs-setty-ai-talent-shortage-india-artificial-intelligence-11780471692881.html",
+      "cat": "POLICY",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "MeitY Unveils India AI Governance Guidelines under IndiaAI Mission to Ensure Safe, Inclusive, and Responsible Adoption of Artificial Intelligence across Sectors",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2027203",
+      "cat": "POLICY",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "Cracking The Enterprise AI Sales Code",
+      "url": "https://inc42.com/features/cracking-the-enterprise-ai-sales-code/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "Sarvam\u2019s Voice Stack, Layoffs At Interview Kickstart & More",
+      "url": "https://inc42.com/buzz/sarvams-voice-stack-layoffs-at-interview-kickstart-more/",
+      "cat": "RESEARCH",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "VC funding dries in May; Fertility treatment with compassion",
+      "url": "https://yourstory.com/2026/06/vc-funding-dries-in-may-fertility-treatment-with-compassion",
+      "cat": "FUNDING",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "Claude AI down: Users report problems accessing chatbot and API",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/claude-ai-down-users-report-problems-accessing-chatbot-and-api-10720495/",
+      "cat": "OTHER",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "99% of CEOs expect AI-driven job cuts within 2 years, survey finds",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/99-of-ceos-expect-ai-driven-job-cuts-within-2-years-survey-finds-10720137/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "India gets access to Claude Mythos, Anthropic's AI that discovered critical bugs in Linux, Firefox and OpenBSD",
+      "url": "https://www.livemint.com/technology/tech-news/india-gets-access-to-claude-mythos-anthropics-powerful-ai-that-found-critical-bugs-in-linux-firefox-and-openbsd-11780457010179.html",
+      "cat": "RESEARCH",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "India's AI Governance Guidelines: A Pragmatic Framework Rooted in Collaboration",
+      "url": "https://www.nasscom.in/research-reports/indias-ai-governance-guidelines-pragmatic-framework-rooted-collaboration",
+      "cat": "POLICY",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "BharatGen Research Papers | AI Research for Indian Languages",
+      "url": "https://bharatgen.ai/papers/",
+      "cat": "RESEARCH",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "US govt seeks \u2018voluntary\u2019 access to frontier AI models before release",
+      "url": "https://www.medianama.com/2026/06/223-us-govt-voluntary-access-frontier-ai-models-before-release/",
+      "cat": "POLICY",
+      "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "Trump signs executive order seeking oversight of AI models",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/trump-signs-executive-order-seeking-oversight-of-ai-models-10721296/",
+      "cat": "POLICY",
+      "date": "2026-06-03T22:41:29.318031"
     }
   ]
 }
