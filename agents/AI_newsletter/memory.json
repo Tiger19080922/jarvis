@@ -1,426 +1,6 @@
 {
   "stories": [
     {
-      "title": "Innovaccer Buys CaduceusHealth To Expand AI-Led Revenue Cycle Management",
-      "url": "https://inc42.com/buzz/innovaccer-buys-caduceushealth-to-expand-ai-led-revenue-cycle-management/",
-      "cat": "FUNDING",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "India\u2019s AI Inference Problem, Anscer Bags \u20b945 Cr & More",
-      "url": "https://inc42.com/buzz/indias-ai-inference-problem-anscer-bags-%e2%82%b945-cr-more/",
-      "cat": "FUNDING",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "Anscer Robotics raises $5.4M in Series A funding round led by IAN Alpha Fund",
-      "url": "https://yourstory.com/2026/05/anscer-robotics-series-a-funding-round-led-by-ian-alpha-fund",
-      "cat": "FUNDING",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "MakeMyTrip Q4FY26: Myra scales to 80,000 daily conversations, now a full transaction agent",
-      "url": "https://www.medianama.com/2026/05/223-makemytrip-q4fy26-myra-80000-daily-conversations-transaction-agent/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "IIT Madras Researchers to tackle fundamental challenges in computing, cryptography and AI",
-      "url": "https://www.iitm.ac.in/latest-news/iitm-news/iit-madras-researchers-to-tackle-fundamental-challenges-in-computing-cryptography-and-ai/",
-      "cat": "RESEARCH",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "Agent Traps: Enterprise Agentic AI Wave Brings In New Threats",
-      "url": "https://inc42.com/features/agent-traps-enterprise-agentic-ai-wave-brings-in-new-threats/",
-      "cat": "RESEARCH",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "CCI Clears Blackstone\u2019s Investment In AI Cloud Startup Neysa",
-      "url": "https://inc42.com/buzz/cci-clears-blackstones-investment-in-ai-cloud-startup-neysa/",
-      "cat": "FUNDING",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "Cancer treatment has a new frontier. AI is predicting better drug cocktails",
-      "url": "https://theprint.in/science/cancer-treatment-artificial-intelligence-predicting-better-drug-cocktails/2936451/",
-      "cat": "RESEARCH",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "\u2018Indians among most avid users\u2019: Team behind ChatGPT Images 2.0 on multilingual AI image generation",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/india-most-avid-users-openai-team-images-2-0-ai-interview-10701359/",
-      "cat": "RESEARCH",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "Google wants you to chat with ads now: AI Mode gets conversational ads and highlighted answers",
-      "url": "https://www.livemint.com/technology/tech-news/google-wants-you-to-chat-with-ads-now-ai-mode-gets-conversational-ads-and-highlighted-answers-11779332439317.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "White House to issue an executive order on govt review of advanced AI models before launch",
-      "url": "https://www.livemint.com/technology/white-house-to-issue-an-executive-order-on-govt-review-of-advanced-ai-models-before-launch-11779330912164.html",
-      "cat": "POLICY",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "Shastra VC Launches $100 Mn Fund to Back Deeptech Startups",
-      "url": "https://inc42.com/buzz/shastra-vc-launches-100-mn-fund-to-back-deeptech-startups/",
-      "cat": "FUNDING",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "NVIDIA\u2019s Huang says world will have \u2018billions of agents\u2019 as AI boom lifts fiscal results",
-      "url": "https://yourstory.com/2026/05/nvidia-jensen-huang-world-billions-of-agents-ai-drives-q1-earnings",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "Piper Serica launches Rs 800 Cr Bharat Tech Fund",
-      "url": "https://yourstory.com/2026/05/piper-serica-launches-rs-800-crore-bharat-tech-fund",
-      "cat": "FUNDING",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "\u2018AI moves fast, government doesn\u2019t\u2019: Dell CTO John Roese on why AI strategies need to focus on long-term vision rather than regulating specific technologies",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-moves-fast-government-doesnt-dell-cto-john-roese-on-why-ai-strategies-need-to-focus-on-long-term-vision-rather-than-regulating-specific-technologies-10700961/",
-      "cat": "POLICY",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "HHS launches AI initiative to detect fraud and waste in federal health programmes",
-      "url": "https://thenextweb.com/news/hhs-ai-fraud-detection-federal-health-programs",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-21T22:00:46.383486"
-    },
-    {
-      "title": "NASSCOM CoE bets on real-world deployment to scale India's innovation ecosystem",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk7MQdXr6R7D7iQtzCK1zVFzwlPlPYdvGFSgYatwGPWyWoPvtspjoAAKsqvOtFdkzxPpld7aRlkSthcL8V-J48gtSvoy67yDIySbxo3G3odcvqEuQdgW00A0hVX_cPgB1tD0F7IqcaQtbuRITGi-bUiDflMk8OaEGRZP6MMo3w1YBgGDnIsPPoaKix8SbJro1kEJvmIsweUzIkso9XV3nJ90GLjfeyMFffEeRJt8QtoqsH0Gmys41doUOKOaT1J7eacaYMQz_0Wb5BwR5juWGyqNat4BHHq6U65_oGNKXmtBE71A==",
-      "cat": "POLICY",
-      "date": "2026-05-22T21:46:28.110155"
-    },
-    {
-      "title": "Lenskart rolls out AI glasses amid mounting privacy concerns: Q4 FY26 earnings call",
-      "url": "https://www.medianama.com/2026/05/223-lenskart-ai-glasses-amid-mounting-privacy-concerns-q4-fy26-earnings-call/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-22T21:46:28.110155"
-    },
-    {
-      "title": "AI for Good Hackathon: How APJ innovators showcased real-world impact with Snowflake and AI",
-      "url": "https://yourstory.com/2026/05/ai-hackathon-apj-innovators-showcased-real-world-impact-snowflake-ai",
-      "cat": "RESEARCH",
-      "date": "2026-05-22T21:46:28.110155"
-    },
-    {
-      "title": "OpenAI claims AI breakthrough, says its model solved 80-year-old math problem",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-claims-ai-breakthrough-says-its-model-solved-80-year-old-math-problem-10700933/",
-      "cat": "RESEARCH",
-      "date": "2026-05-22T21:46:28.110155"
-    },
-    {
-      "title": "Kawasaki Heavy ties up with Nvidia on physical AI, and the rideable robot horse gets a foundation model",
-      "url": "https://thenextweb.com/news/kawasaki-nvidia-physical-ai-corleo-san-jose",
-      "cat": "RESEARCH",
-      "date": "2026-05-22T21:46:28.110155"
-    },
-    {
-      "title": "Calcutta HC refuses to order OpenAI to show IndiaMart links on ChatGPT: what this means",
-      "url": "https://www.medianama.com/2026/05/223-calcutta-hc-rejects-indiamart-plea-against-chatgpt-link-exclusion/",
-      "cat": "POLICY",
-      "date": "2026-05-22T21:46:28.110155"
-    },
-    {
-      "title": "Lowdown: How the EU decides which AI systems are \u201chigh-risk\u201d under the AI Act",
-      "url": "https://www.medianama.com/2026/05/223-eu-ai-act-high-risk-guidelines-explained/",
-      "cat": "POLICY",
-      "date": "2026-05-22T21:46:28.110155"
-    },
-    {
-      "title": "The Rise of LLMs Is Not an Accident",
-      "url": "https://thenextweb.com/news/ai-era-consumer-trust-verification-marketing-shift",
-      "cat": "RESEARCH",
-      "date": "2026-05-22T21:46:28.110155"
-    },
-    {
-      "title": "Berlin\u2019s Peec AI more than doubled revenue to $10M ARR in six months. Its product helps brands show up in ChatGPT.",
-      "url": "https://thenextweb.com/news/peec-ai-berlin-10-million-arr-geo-ai-search",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-23T21:29:29.570731"
-    },
-    {
-      "title": "Why Forward Deployed Engineers Are Becoming AI\u2019s Hottest Jobs",
-      "url": "https://inc42.com/features/why-forward-deployed-engineers-are-becoming-ais-hottest-jobs/",
-      "cat": "OTHER",
-      "date": "2026-05-23T21:29:29.570731"
-    },
-    {
-      "title": "Spotify and UMG strike landmark deal to let fans create licensed AI covers and remixes",
-      "url": "https://www.medianama.com/2026/05/223-spotify-umg-fans-create-licensed-ai-covers-remixes/",
-      "cat": "RESEARCH",
-      "date": "2026-05-23T21:29:29.570731"
-    },
-    {
-      "title": "Anthropic says Claude Mythos found over 10,000 major software vulnerabilities in a month",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-mythos-security-bugs-10703971/",
-      "cat": "RESEARCH",
-      "date": "2026-05-23T21:29:29.570731"
-    },
-    {
-      "title": "Anthropic\u2019s Claude Mythos found 10,000 critical vulnerabilities in one month. The patches can\u2019t keep up.",
-      "url": "https://thenextweb.com/news/anthropic-glasswing-claude-mythos-10000-vulnerabilities",
-      "cat": "RESEARCH",
-      "date": "2026-05-23T21:29:29.570731"
-    },
-    {
-      "title": "India's AI Ecosystem: Everything, Everywhere, All at Once",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQJBxeQLuLWAQ-9szyfzDClw1fbHMWHVQjPrFlZLCC81Kpt00WuwfHjdm-yAkXZeDOMxrdVEWrVVVYe6lS91pPHDOAvBfQAFRPJNxHb6mIXXLFrwsLbDM_Ufk226sYn_pjW5vUTTxOklZ_zIkt6muMhVI6Wblvk3t3D7cbIko9ICxAFQNaw_wAS0qRn5DI",
-      "cat": "POLICY",
-      "date": "2026-05-23T21:29:29.570731"
-    },
-    {
-      "title": "How AI Is Turning China\u2019s Micro-Dramas Into a Multi-Billion-Dollar Market",
-      "url": "https://yourstory.com/2026/05/china-ai-generated-short-drama-market-2026",
-      "cat": "RESEARCH",
-      "date": "2026-05-23T21:29:29.570731"
-    },
-    {
-      "title": "SEO teams are tracking keywords. But are they tracking what ChatGPT says about their brand?",
-      "url": "https://thenextweb.com/news/moz-pro-ai-visibility-chatgpt-gemini-tracking",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-23T21:29:29.570731"
-    },
-    {
-      "title": "Government Constitutes AI Governance and Economic Group (AIGEG) to Lead India's National AI Governance Strategy",
-      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2023668",
-      "cat": "POLICY",
-      "date": "2026-05-24T21:31:55.030897"
-    },
-    {
-      "title": "AI set to disrupt up to 28% of back-office and data roles in India over the next three years: Report",
-      "url": "https://www.livemint.com/technology/tech-news/ai-set-to-disrupt-up-to-28-of-back-office-and-data-roles-in-india-over-the-next-three-years-report-11779587989988.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-24T21:31:55.030897"
-    },
-    {
-      "title": "Former Citadel quants raised $78M for the AI operating system Wall Street\u2019s wealth managers didn\u2019t have",
-      "url": "https://thenextweb.com/news/moment-78-million-citadel-quants-ai-trading-wealth-management",
-      "cat": "FUNDING",
-      "date": "2026-05-24T21:31:55.030897"
-    },
-    {
-      "title": "How Google is starting to win the AI race",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/how-google-is-starting-to-win-the-ai-race-10705165/",
-      "cat": "RESEARCH",
-      "date": "2026-05-24T21:31:55.030897"
-    },
-    {
-      "title": "Why Mythos could be launching sooner than you think? Leaked code exposes preparations for Claude Mythos 1",
-      "url": "https://www.livemint.com/technology/tech-news/why-mythos-could-be-launching-sooner-than-you-think-leaked-code-exposes-preparations-for-claude-mythos-1-11779614598093.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-24T21:31:55.030897"
-    },
-    {
-      "title": "WWDC 2026: Apple registers new \u2018gen AI\u2019 web domain as Siri gears up for its biggest upgrade in years",
-      "url": "https://www.livemint.com/technology/tech-news/wwdc-2026-apple-registers-new-gen-ai-web-domain-as-siri-gears-up-for-its-biggest-upgrade-in-years-11779584057825.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-24T21:31:55.030897"
-    },
-    {
-      "title": "The AI security gap nobody wants to admit is already here",
-      "url": "https://thenextweb.com/news/ai-security-gap-claude-code-leak",
-      "cat": "OTHER",
-      "date": "2026-05-24T21:31:55.030897"
-    },
-    {
-      "title": "OpenAI launches free AI image verification tool amid deepfake surge",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-free-ai-image-verification-tool-deepfakes-10705570/",
-      "cat": "RESEARCH",
-      "date": "2026-05-24T21:31:55.030897"
-    },
-    {
-      "title": "China\u2019s DeepSeek to make permanent 75% price cut on flagship V4\u2011Pro AI model",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/chinas-deepseek-to-make-permanent-75-price-cut-on-flagship-v4%e2%80%91pro-ai-model-10705158/",
-      "cat": "RESEARCH",
-      "date": "2026-05-24T21:31:55.030897"
-    },
-    {
-      "title": "McKinsey built a free AI tool so candidates stop paying $500/hour interview coaches",
-      "url": "https://thenextweb.com/news/mckinsey-ai-interview-practice-tool-lilli-consulting",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-24T21:31:55.030897"
-    },
-    {
-      "title": "AI can boost productivity, governance, financial inclusion in India, says MeitY's S Krishnan",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ3Ovb-3firsKGT9MXBS89SYPp9EyW4Gz_pNNcYgTHBRv02nJI13ExmtANi6miY1laIDyt4aprnxPgzx4H8ZlgNY9r4o5Lj2b9tidZYuzKg9EBR5c-hn_K-MvVlqR7HndMS2guOVyHcsQsszu5gkkUcULjZBjdSXkypsalkE6F_WDrY-ZQjQtHGwvBjki_zg5RNPDbCAGmHiZmL9zBFVDIoa3zKxx2-Vo4cN2j6ihPbi5eiIarQIOcbmEyDt6ouZcmO9oSvDDC9Q==",
-      "cat": "POLICY",
-      "date": "2026-05-25T21:49:01.716175"
-    },
-    {
-      "title": "India Tightens AI and Telecom Rules",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqBuc_z97y1vJ5jFZW0fQsuGGNNxRxBH97HXzi1TcYXkuQ5PdFTgh0ikhq7m3hEU-xd6EuCSTZtPB0aoGGVWJtUuDU2iXzEfobQ0l7Zijc4SJ9TnAaLfekDkPYfOwG4uxZxuX-KTIGijlE13PQTx_E_ui5rKoRCD0iA7mx",
-      "cat": "POLICY",
-      "date": "2026-05-25T21:49:01.716175"
-    },
-    {
-      "title": "Here are all the major products Google announced at I/O 2026",
-      "url": "https://www.medianama.com/2026/05/223-major-products-google-announced-i-o-2026/",
-      "cat": "RESEARCH",
-      "date": "2026-05-25T21:49:01.716175"
-    },
-    {
-      "title": "Sovereign AI could become India\u2019s edge against US and China: Dell\u2019s Satish Iyer",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/sovereign-ai-india-edge-dell-satish-iyer-interview-10707062/",
-      "cat": "POLICY",
-      "date": "2026-05-25T21:49:01.716175"
-    },
-    {
-      "title": "India\u2019s AI ambitions hinge on turning 200 million workers into 350 million",
-      "url": "https://thenextweb.com/news/india-ai-workforce-reskilling-ibm-patel",
-      "cat": "POLICY",
-      "date": "2026-05-25T21:49:01.716175"
-    },
-    {
-      "title": "Frammer AI partners with Cineverse to scale AI-generated short-form video",
-      "url": "https://yourstory.com/2026/05/frammer-ai-cineverse-ai-short-form-video-partnership",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-25T21:49:01.716175"
-    },
-    {
-      "title": "India's  \u20b912 trillion data centre gamble may not be enough",
-      "url": "https://www.livemint.com/technology/indias-12-trillion-data-centre-gamble-may-not-be-enough-11779681349510.html",
-      "cat": "POLICY",
-      "date": "2026-05-25T21:49:01.716175"
-    },
-    {
-      "title": "PerPlant raises \u20ac1M to put AI cameras on tractors, and 200,000 hectares in the bank",
-      "url": "https://thenextweb.com/news/perplant-1m-seed-precision-spraying-copenhagen",
-      "cat": "FUNDING",
-      "date": "2026-05-25T21:49:01.716175"
-    },
-    {
-      "title": "Astrotalk building spiritual commerce; Using AI to plan a holiday",
-      "url": "https://yourstory.com/2026/05/astrotalk-building-spiritual-commerce",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-25T21:49:01.716175"
-    },
-    {
-      "title": "Reallusion bets that 3D artists directing AI models will beat text prompts for professional filmmaking",
-      "url": "https://thenextweb.com/news/reallusion-ai-studio-bytedance-seedance-3d-video",
-      "cat": "RESEARCH",
-      "date": "2026-05-25T21:49:01.716175"
-    },
-    {
-      "title": "Microsoft\u2019s quiet Claude Code retreat and the real cost of enterprise AI",
-      "url": "https://thenextweb.com/news/microsoft-claude-code-retreat-ai-cost",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-25T21:49:01.716175"
-    },
-    {
-      "title": "AI to grab a third of India's influencer budgets, but biggies to go bigger",
-      "url": "https://www.livemint.com/technology/ai-influencer-marketing-advertising-budgets-11779594109263.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-26T22:09:42.111968"
-    },
-    {
-      "title": "Wall Street is paying $25,000 a day for AI trainers who used to work there",
-      "url": "https://thenextweb.com/news/ai-trainers-wall-street-25000-day-sinisterra-wang",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-26T22:09:42.111968"
-    },
-    {
-      "title": "Google I/O 2026 adds Search Live and AI Mode to Google Search",
-      "url": "https://www.medianama.com/2026/05/223-google-search-redesign-ai-mode-2026/",
-      "cat": "RESEARCH",
-      "date": "2026-05-26T22:09:42.111968"
-    },
-    {
-      "title": "xAI told staff to stop mingling with Cursor employees, weeks after they started working together",
-      "url": "https://thenextweb.com/news/xai-cursor-gun-jumping-antitrust-spacex-ipo",
-      "cat": "OTHER",
-      "date": "2026-05-26T22:09:42.111968"
-    },
-    {
-      "title": "Unveiling The Inc42 AI Summit 2026 Agenda: Decoding Playbooks Shaping India\u2019s AI Future",
-      "url": "https://inc42.com/buzz/unveiling-the-inc42-ai-summit-2026-agenda-decoding-playbooks-shaping-indias-ai-future/",
-      "cat": "OTHER",
-      "date": "2026-05-27T22:21:35.762494"
-    },
-    {
-      "title": "Inside Human Archive: The Y Combinator Startup Recording Indian Workers To Train The World\u2019s Robots",
-      "url": "https://inc42.com/startups/inside-human-archive-the-startup-recording-indian-workers-to-train-the-worlds-robots/",
-      "cat": "RESEARCH",
-      "date": "2026-05-27T22:21:35.762494"
-    },
-    {
-      "title": "Bharat Innovates 2026: From a Bengaluru Lab to Nice. Meet the Startup Bringing AI-Powered Diagnostics to Underserved India",
-      "url": "https://yourstory.com/2026/05/bharat-innovates-2026-ai-powered-diagnostics-to-underserved",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-27T22:21:35.762494"
-    },
-    {
-      "title": "AI to turbocharge patent creation at India tech hubs, executives say",
-      "url": "https://www.livemint.com/technology/ai-to-turbocharge-patent-creation-at-india-tech-hubs-executives-say-11779849183323.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-27T22:21:35.762494"
-    },
-    {
-      "title": "Anthropic Ropes In Ex-Microsoft Sangeeta Bavi To Helm Startups, Growth In India",
-      "url": "https://inc42.com/buzz/anthropic-ropes-in-ex-microsoft-sangeeta-bavi-to-helm-startups-growth-in-india/",
-      "cat": "OTHER",
-      "date": "2026-05-27T22:21:35.762494"
-    },
-    {
-      "title": "India\u2019s Sovereign AI Reality Check",
-      "url": "https://inc42.com/features/indias-sovereign-ai-reality-check/",
-      "cat": "POLICY",
-      "date": "2026-05-27T22:21:35.762494"
-    },
-    {
-      "title": "Cognition just raised $1 billion at a $26 billion valuation, and 90% of its own code is written by its AI",
-      "url": "https://thenextweb.com/news/cognition-just-raised-1-billion-at-a-26-billion-valuation-and-90-of-its-own-code-is-written-by-its-ai",
-      "cat": "FUNDING",
-      "date": "2026-05-27T22:21:35.762494"
-    },
-    {
-      "title": "How VCs are redefining success metrics in early-stage investing",
-      "url": "https://yourstory.com/2026/05/how-vcs-are-redefining-success-metrics-in-early-stage-investing",
-      "cat": "FUNDING",
-      "date": "2026-05-27T22:21:35.762494"
-    },
-    {
-      "title": "Perplexity most reliable AI chatbot for work tasks, ChatGPT ranks sixth: Report",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/perplexity-most-reliable-ai-chatbot-for-work-tasks-chatgpt-ranks-sixth-report-10709760/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-27T22:21:35.762494"
-    },
-    {
-      "title": "Talkdesk wants its AI agents to call your customers before they call you",
-      "url": "https://thenextweb.com/news/talkdesk-proactive-ai-agents-retail-financial-services",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-27T22:21:35.762494"
-    },
-    {
-      "title": "Daylight expands MDR into Claude Enterprise to address emerging AI security risks",
-      "url": "https://thenextweb.com/news/daylight-mdr-claude-enterprise-ai-security",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-27T22:21:35.762494"
-    },
-    {
-      "title": "Himalaya Wealth Managers Launches \u20b9500 Cr Fund To Back Growth Stage Deeptech SMEs",
-      "url": "https://inc42.com/buzz/himalaya-wealth-managers-launches-%e2%82%b9500-cr-fund-to-back-growth-stage-deeptech-smes/",
-      "cat": "FUNDING",
-      "date": "2026-05-27T22:21:35.762494"
-    },
-    {
-      "title": "Spotify is using AI to turn long-form magazine articles into audiobooks: here's how it works",
-      "url": "https://www.livemint.com/technology/tech-news/spotify-is-using-ai-to-turn-long-form-magazine-articles-into-audiobooks-heres-how-it-works-11779848068093.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-27T22:21:35.762494"
-    },
-    {
       "title": "Morgan Stanley doubles its forecast: European banks could shed 20% of jobs on AI",
       "url": "https://thenextweb.com/news/european-banks-20-percent-jobs-ai-morgan-stanley",
       "cat": "ENTERPRISE",
@@ -863,6 +443,78 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/trump-signs-executive-order-seeking-oversight-of-ai-models-10721296/",
       "cat": "POLICY",
       "date": "2026-06-03T22:41:29.318031"
+    },
+    {
+      "title": "The interface that refuses to meet you halfway: Plivo on why voice AI is a different problem entirely",
+      "url": "https://yourstory.com/2026/06/plivo-voice-ai-different-problem-entirely",
+      "cat": "RESEARCH",
+      "date": "2026-06-10T22:31:10.341103"
+    },
+    {
+      "title": "Google rolls out Gemini 3.5 Live Translate with support for over 70 languages",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-rolls-out-gemini-3-5-live-translate-with-support-for-over-70-languages-10732649/",
+      "cat": "RESEARCH",
+      "date": "2026-06-10T22:31:10.341103"
+    },
+    {
+      "title": "RIL, Meta partner to develop 168 MW AI enabled data centre in Jamnagar",
+      "url": "https://yourstory.com/2026/06/ril-meta-develop-168-mw-ai-enabled-data-centre-jamnagar",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-10T22:31:10.341103"
+    },
+    {
+      "title": "Anthropic opens Mythos-class AI to the public, but keeps high-risk capabilities behind guardrails",
+      "url": "https://www.medianama.com/2026/06/223-anthropic-mythos-class-ai-public-data-retention/",
+      "cat": "RESEARCH",
+      "date": "2026-06-10T22:31:10.341103"
+    },
+    {
+      "title": "Apple rebuilds Siri from the ground up, but gaps remain",
+      "url": "https://www.medianama.com/2026/06/223-apple-rebuilds-siri-but-challenges-remain/",
+      "cat": "RESEARCH",
+      "date": "2026-06-10T22:31:10.341103"
+    },
+    {
+      "title": "Anthropic releases Claude Fable 5 with guardrails, bringing Mythos-level AI to users for first time",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-fable-5-guardrail-mythos-level-ai-models-10732350/",
+      "cat": "RESEARCH",
+      "date": "2026-06-10T22:31:10.341103"
+    },
+    {
+      "title": "Snowflake expands AI offerings with new development and governance tools",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/snowflake-expands-ai-offerings-with-new-development-and-governance-tools-10731488/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-10T22:31:10.341103"
+    },
+    {
+      "title": "Google updates NotebookLM with smarter research tools, new export formats, Gemini 3.5 integration",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-updates-notebooklm-with-smarter-research-tools-new-export-formats-gemini-3-5-integration-10731255/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-10T22:31:10.341103"
+    },
+    {
+      "title": "NEURA Robotics raises up to $1.4B in record robotics round backed by Nvidia, Amazon, and Tether",
+      "url": "https://thenextweb.com/news/neura-robotics-1-4b-series-c-physical-ai",
+      "cat": "FUNDING",
+      "date": "2026-06-10T22:31:10.341103"
+    },
+    {
+      "title": "As AI becomes less human, Apple is thinking beyond the bots",
+      "url": "https://indianexpress.com/article/technology/opinion-technology/as-ai-becomes-less-human-apple-is-thinking-beyond-the-bots-10732410/",
+      "cat": "RESEARCH",
+      "date": "2026-06-10T22:31:10.341103"
+    },
+    {
+      "title": "AI is boosting accuracy for clinicians, Philips North America CEO says",
+      "url": "https://www.livemint.com/technology/ai-is-boosting-accuracy-for-clinicians-philips-north-america-ceo-says-11781031830735.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-10T22:31:10.341103"
+    },
+    {
+      "title": "Researchers tricked an OpenClaw AI agent into leaking AWS keys and customer data with a phishing email",
+      "url": "https://thenextweb.com/news/openclaw-ai-agent-phishing-varonis-pinchy",
+      "cat": "RESEARCH",
+      "date": "2026-06-10T22:31:10.341103"
     }
   ]
 }
