@@ -568,6 +568,19 @@
         "Agent-first and answer engine are emerging AI interaction paradigms.",
         "Domain specificity enhances AI's value within particular industries."
       ]
+    },
+    {
+      "date": "2026-06-11T22:26:35.084891",
+      "day_number": 62,
+      "topic": "Global Product Case Studies I: Cursor, Perplexity, Harvey",
+      "angle": "India lens: can these playbooks work in the Indian market",
+      "key_arguments": [
+        "Global AI playbooks require radical localization for India, not adaptation.",
+        "Products must be designed around India's talent, language, and regulations.",
+        "AI-first IDEs integrate AI as a co-pilot, not an add-on.",
+        "AI answer engines use RAG to synthesize and cite information.",
+        "Domain-specific AI excels by training on specialized industry data."
+      ]
     }
   ]
 }

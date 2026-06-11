@@ -1,54 +1,6 @@
 {
   "stories": [
     {
-      "title": "Morgan Stanley doubles its forecast: European banks could shed 20% of jobs on AI",
-      "url": "https://thenextweb.com/news/european-banks-20-percent-jobs-ai-morgan-stanley",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-28T22:20:46.858893"
-    },
-    {
-      "title": "Anthropic\u2019s Claude Opus 4.8 is its most honest AI model yet, and Mythos is coming in weeks",
-      "url": "https://thenextweb.com/news/anthropics-claude-opus-4-8-is-its-most-honest-ai-model-yet-and-mythos-is-coming-in-weeks",
-      "cat": "RESEARCH",
-      "date": "2026-05-28T22:20:46.858893"
-    },
-    {
-      "title": "Anthropic\u2019s Milan office lands with Generali, Pirelli and Enel as named Italian customers",
-      "url": "https://thenextweb.com/news/anthropic-milan-office-italy-enterprise-customers",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-28T22:20:46.858893"
-    },
-    {
-      "title": "Microsoft Copilot, ChatGPT to Gemini: The AI productivity tools reshaping office work in 2026",
-      "url": "https://www.livemint.com/technology/microsoft-copilot-chatgpt-to-gemini-the-ai-productivity-tools-reshaping-office-work-in-2026-11779948152966.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-28T22:20:46.858893"
-    },
-    {
-      "title": "Wix is cutting 20% of its workforce as a strong shekel and AI competition squeeze the website builder from both sides",
-      "url": "https://thenextweb.com/news/wix-is-cutting-20-of-its-workforce-as-a-strong-shekel-and-ai-competition-squeeze-the-website-builder-from-both-sides",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-28T22:20:46.858893"
-    },
-    {
-      "title": "One Tech Tip: Your next job interview could be with an AI bot",
-      "url": "https://www.livemint.com/technology/one-tech-tip-your-next-job-interview-could-be-with-an-ai-bot-11779940983460.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-28T22:20:46.858893"
-    },
-    {
-      "title": "CapCut, Runway, Descript, Adobe Premiere Pro: Top 5 AI-powered video editing apps creators use in 2026",
-      "url": "https://www.livemint.com/technology/capcut-runway-descript-adobe-premiere-pro-opus-clip-top-5-ai-powered-video-editing-apps-2026-11779869867212.html",
-      "cat": "OTHER",
-      "date": "2026-05-28T22:20:46.858893"
-    },
-    {
-      "title": "The hybrid model: why the smartest finance teams aren\u2019t going all-in on AI",
-      "url": "https://thenextweb.com/news/hybrid-model-smartest-finance-teams-ai",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-28T22:20:46.858893"
-    },
-    {
       "title": "India\u2019s mid-market firms lead in AI adoption but face rising complexity costs: Freshworks Report",
       "url": "https://yourstory.com/2026/05/indias-mid-market-firms-lead-ai-adoption-face-rising-complexity-costs-freshworks-report",
       "cat": "ENTERPRISE",
@@ -515,6 +467,114 @@
       "url": "https://thenextweb.com/news/openclaw-ai-agent-phishing-varonis-pinchy",
       "cat": "RESEARCH",
       "date": "2026-06-10T22:31:10.341103"
+    },
+    {
+      "title": "Inc42 AI Summit 2026: The Playbook For Building Agentic AI Systems That Deliver ROI",
+      "url": "https://inc42.com/buzz/inc42-ai-summit-2026-the-playbook-for-building-agentic-ai-systems-that-deliver-roi/",
+      "cat": "OTHER",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "India AI Governance Guidelines released to foster safe, inclusive, and responsible AI adoption",
+      "url": "https://meity.gov.in/press-releases/meity-unveils-india-ai-governance-guidelines-under-indiaai-mission-ensure-safe",
+      "cat": "POLICY",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "Rivvun AI Bags $7.5 Mn To Help Enterprises Reduce Revenue Leakages",
+      "url": "https://inc42.com/buzz/rivvun-ai-bags-7-5-mn-to-help-enterprise-reduce-revenue-leakages/",
+      "cat": "FUNDING",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "Zoho Launches In-House Server \u2018Nathu La\u2019 To Lower AI Inference Costs",
+      "url": "https://inc42.com/buzz/zoho-launches-in-house-server-nathu-la-to-lower-ai-inference-costs/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "AI World Very Different From IT Act Era, New Law Required: Ashwini Vaishnaw",
+      "url": "https://inc42.com/buzz/ai-world-very-different-from-it-act-era-new-law-required-ashwini-vaishnaw/",
+      "cat": "POLICY",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "AI\u2019s Biggest Opportunity Lies In Paying For Outcomes, Not Tokens",
+      "url": "https://inc42.com/resources/ais-biggest-opportunity-lies-in-paying-for-outcomes-not-tokens/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "How OneAssist\u2019s AI Stack Is Giving Older Smartphones An Insured Future",
+      "url": "https://inc42.com/features/how-oneassists-ai-stack-is-giving-older-smartphones-an-insured-future/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "Meta Partners Reliance To Set Up First Data Centre In India",
+      "url": "https://inc42.com/buzz/meta-partners-reliance-to-set-up-first-data-centre-in-india/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "Anthropic wants tougher AI rules, new safety framework seeks stronger government oversight",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-wants-tougher-ai-rules-10734024/",
+      "cat": "POLICY",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "Canada introduces bill to ban social media for children under 16, regulate AI chatbots",
+      "url": "https://indianexpress.com/article/technology/canada-introduces-bill-to-ban-social-media-for-children-under-16-regulate-ai-chatbots-10733964/",
+      "cat": "POLICY",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "Could AI face social media-style bans? Anthropic President Daniela Amodei reveals: \u2018If we project some of challenges\u2026\u2019",
+      "url": "https://www.livemint.com/technology/could-ai-face-social-media-style-bans-anthropic-president-daniela-amodei-reveals-if-we-project-some-of-challenges-11781191916130.html",
+      "cat": "POLICY",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei wants AI models regulated like airplanes",
+      "url": "https://www.livemint.com/technology/tech-news/anthropic-ceo-dario-amodei-wants-ai-models-regulated-like-airplanes-11781144518441.html",
+      "cat": "POLICY",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "Barcelona\u2019s THEKER raises \u20ac73M to deploy AI-native factory robots that learn on the job",
+      "url": "https://thenextweb.com/news/theker-barcelona-73m-series-a-ai-robotics",
+      "cat": "FUNDING",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "Bezos\u2019s Prometheus raises $12 billion at $41 billion valuation to build AI that engineers physical products",
+      "url": "https://thenextweb.com/news/bezos-prometheus-ai-41-billion-valuation-12b-raise",
+      "cat": "FUNDING",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "India's IT Secretary Signals Stricter Government Controls for AI and Biometric Devices",
+      "url": "https://www.business-standard.com/technology/tech-news/india-s-it-secretary-signals-stricter-government-controls-for-ai-biometric-devices-126060600162_1",
+      "cat": "POLICY",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "Who Gets Hired In An AI-First World?",
+      "url": "https://inc42.com/features/who-gets-hired-in-an-ai-first-world/",
+      "cat": "OTHER",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "What is HRM-Text, a new frontier-level AI model built from scratch for just $1,500?",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-hrm-text-low-cost-ai-model-10734501/",
+      "cat": "RESEARCH",
+      "date": "2026-06-11T22:26:36.484426"
+    },
+    {
+      "title": "AI needs judgment, not a job description: Michael Ronis on the future of recruitment",
+      "url": "https://thenextweb.com/news/ai-needs-judgment-not-job-description-michael-ronis-recruitment",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-11T22:26:36.484426"
     }
   ]
 }
