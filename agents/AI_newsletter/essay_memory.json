@@ -581,6 +581,19 @@
         "AI answer engines use RAG to synthesize and cite information.",
         "Domain-specific AI excels by training on specialized industry data."
       ]
+    },
+    {
+      "date": "2026-06-12T22:10:56.710476",
+      "day_number": 63,
+      "topic": "Global Product Case Studies I: Cursor, Perplexity, Harvey",
+      "angle": "Week synthesis: reverse-engineering AI product decisions",
+      "key_arguments": [
+        "PBMD framework dissects competitive advantage in AI products.",
+        "Problem: Define precise user pain points, not general dissatisfaction.",
+        "Bet: A company's core hypothesis about future market or technology.",
+        "Moat: Sustainable advantage beyond commoditized AI models.",
+        "PBMD enables defensible product strategies and market prediction."
+      ]
     }
   ]
 }
