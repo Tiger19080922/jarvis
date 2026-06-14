@@ -1,48 +1,6 @@
 {
   "stories": [
     {
-      "title": "India uniquely positioned to lead next phase of AI deployment: Microsoft executive",
-      "url": "https://www.linkedin.com/pulse/india-uniquely-positioned-lead-next-phase-ai-deployment-microsoft-executive-w8oie",
-      "cat": "POLICY",
-      "date": "2026-05-31T21:35:30.600115"
-    },
-    {
-      "title": "India Enterprise AI Adoption 2026: What 100 CIOs Actually Said",
-      "url": "https://neomarketintelligence.com/reports/india-enterprise-ai-adoption-2026-what-100-cios-actually-said/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-31T21:35:30.600115"
-    },
-    {
-      "title": "BFSI firms set to see AI-led decision making & real-time fraud detection",
-      "url": "https://www.google.com/search?q=BFSI+firms+set+to+see+AI-led+decision+making+%26+real-time+fraud+detection+May+31+2026",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-31T21:35:30.600115"
-    },
-    {
-      "title": "India Global Corporate Hubs Accelerate Artificial Intelligence Adoption Across Industries",
-      "url": "https://www.businesswire.com/news/home/20260529005243/en/India-Global-Corporate-Hubs-Accelerate-Artificial-Intelligence-Adoption-Across-Industries",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-31T21:35:30.600115"
-    },
-    {
-      "title": "\u2018I\u2019m cancelling\u2019: As Microsoft\u2019s GitHub Copilot moves to token-based billing, developers fear rising AI costs",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/microsoft-github-copilot-token-billing-ai-costs-rising-10716800/",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-31T21:35:30.600115"
-    },
-    {
-      "title": "\u2018Goodbye, Copilot\u2019: Microsoft faces backlash as Github Copilot ends flat-rate AI pricing from June 1",
-      "url": "https://www.livemint.com/technology/tech-news/goodbye-copilot-microsoft-faces-backlash-as-github-copilot-ends-flat-rate-ai-pricing-from-june-1-11780213914806.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-05-31T21:35:30.600115"
-    },
-    {
-      "title": "India leads global shift to AI-led healthcare adoption, says BCG study",
-      "url": "https://www.business-standard.com/industry/news/india-leads-global-shift-to-ai-led-healthcare-adoption-says-bcg-study-126042100082_1.html",
-      "cat": "RESEARCH",
-      "date": "2026-05-31T21:35:30.600115"
-    },
-    {
       "title": "Cars24 To Invest $20 Mn In Early Stage AI Startups",
       "url": "https://inc42.com/buzz/cars24-to-invest-20-mn-in-early-stage-ai-startups/",
       "cat": "FUNDING",
@@ -629,6 +587,48 @@
       "url": "https://www.thehindubusinessline.com/info-tech/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/article60712911.ece",
       "cat": "RESEARCH",
       "date": "2026-06-13T21:48:29.697179"
+    },
+    {
+      "title": "How Zoho Labs pivoted to inference engineering",
+      "url": "https://yourstory.com/2026/06/devsparks-2026-zoho-labs-inference-engineering-open-weight-models-ramprakash-ramamoorthy",
+      "cat": "RESEARCH",
+      "date": "2026-06-14T21:55:02.895761"
+    },
+    {
+      "title": "Anthropic\u2019s model shutdown just handed India\u2019s sovereign AI movement its strongest argument yet",
+      "url": "https://thenextweb.com/news/india-sovereign-ai-anthropic-fable-suspension-debate",
+      "cat": "POLICY",
+      "date": "2026-06-14T21:55:02.895761"
+    },
+    {
+      "title": "Why Jayant Chaudhary sees AI as India's open door, not its threat",
+      "url": "https://yourstory.com/2026/06/jayant-chaudhary-ai-india-skilling-opportunity-skill-india-assistant",
+      "cat": "POLICY",
+      "date": "2026-06-14T21:55:02.895761"
+    },
+    {
+      "title": "Built to assist, not replace: inside Intercall\u2019s real-time AI for professional interpreters",
+      "url": "https://thenextweb.com/news/intercall-real-time-ai-professional-interpreters",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-14T21:55:02.895761"
+    },
+    {
+      "title": "Deployable Artificial Intelligence - IOE-IITM Research Initiatives",
+      "url": "https://www.example.com/iitm-deployable-ai",
+      "cat": "RESEARCH",
+      "date": "2026-06-14T21:55:02.895761"
+    },
+    {
+      "title": "Anthropic halts access to new AI models after US order: How Indian tech leaders are responding",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-halts-access-new-ai-models-india-reactions-10738998/",
+      "cat": "POLICY",
+      "date": "2026-06-14T21:55:02.895761"
+    },
+    {
+      "title": "KPMG retracts agentic AI study after researchers flag hallucinations, fake citations",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/kpmg-retracts-ai-study-hallucinations-fake-citations-10738768/",
+      "cat": "RESEARCH",
+      "date": "2026-06-14T21:55:02.895761"
     }
   ]
 }

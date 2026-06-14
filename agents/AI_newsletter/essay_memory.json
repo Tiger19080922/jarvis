@@ -607,6 +607,18 @@
         "The goal is to become an AI operating system, integrating across the tech stack.",
         "This strategy de-risks AI adoption by solving immediate pain points."
       ]
+    },
+    {
+      "date": "2026-06-14T21:55:01.654124",
+      "day_number": 65,
+      "topic": "Global Product Case Studies II: Glean, Notion AI, Midjourney",
+      "angle": "Notion AI: integrating AI into a beloved product without breaking it",
+      "key_arguments": [
+        "AI integration should prioritize context and user control, not raw power.",
+        "Embedded intelligence enhances existing workflows, avoiding disruptive replacement.",
+        "Partnering with AI providers (buy) allows focus on integration and user experience.",
+        "Seamless augmentation, not standalone features, delivers true AI value."
+      ]
     }
   ]
 }
