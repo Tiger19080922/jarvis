@@ -1,114 +1,6 @@
 {
   "stories": [
     {
-      "title": "Exclusive: Sarvam AI To Open Voice AI Agents Platform For Public Use",
-      "url": "https://inc42.com/buzz/exclusive-sarvam-ai-to-open-voice-ai-agents-platform-for-public-use/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "Edtech Startup ProLearn Bags \u20b930 Cr To Tailor AI Learning For Students",
-      "url": "https://inc42.com/buzz/edtech-startup-prolearn-bags-%e2%82%b930-cr-to-tailor-ai-learning-for-students/",
-      "cat": "FUNDING",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "India to emerge as a leading hub of AI-driven advertising: Redseer report",
-      "url": "https://yourstory.com/2026/06/ai-to-drive-next-wave-of-growth-in-global-advertising-redseer-report",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "Govt unlikely to dilute AI labeling rule for social media platforms: reports",
-      "url": "https://www.medianama.com/2026/06/223-govt-dilute-ai-labeling-rule-social-media/",
-      "cat": "POLICY",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "ASCI releases draft synthetic media guidelines for ads, certain uses to be prohibited entirely",
-      "url": "https://www.medianama.com/2026/06/223-asci-draft-synthetic-media-guidelines-ads-uses-prohibited-entirely/",
-      "cat": "POLICY",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "OpenAI is turning Codex from a coding tool into an enterprise work platform, and non-developers are adopting it 3x faster than engineers",
-      "url": "https://thenextweb.com/news/openai-codex-enterprise-plugins-sites-non-developers",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "Exclusive: Blume-Backed Interview Kickstart Lays Off Nearly 50 Employees Amid AI Automation Push",
-      "url": "https://inc42.com/buzz/blume-backed-interview-kickstart-lays-off-nearly-50-employees-amid-ai-automation-push/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "Indian startup leaders, UK minister discuss future of AI collaboration",
-      "url": "https://yourstory.com/2026/06/indian-startup-leaders-uk-minister-discuss-future-of-ai-cooperation",
-      "cat": "POLICY",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "Delhi High Court orders takedown of AI deepfakes of Varun Dhawan, restrains unauthorised merchandise sale",
-      "url": "https://www.medianama.com/2026/06/223-delhi-high-court-takedown-ai-deepfakes-varun-dhawan-restrains-unauthorised-merchandise-sale/",
-      "cat": "POLICY",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "Perplexity built an \u201cair-traffic controller\u201d that decides in real time whether your AI query runs on your PC or in the cloud",
-      "url": "https://thenextweb.com/news/perplexity-ai-split-compute-pc-cloud-inference-cost",
-      "cat": "RESEARCH",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "Microsoft just announced a new operating system for devices that don\u2019t run apps, only AI agents",
-      "url": "https://thenextweb.com/news/microsoft-project-solara-agent-first-devices-build-2026",
-      "cat": "RESEARCH",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "Meta restricts Human Rights Forum\u2019s Instagram posts on Google\u2019s AI data center in Andhra",
-      "url": "https://www.medianama.com/2026/06/223-meta-human-rights-forum-instagram-googles-ai-data-center-andhra/",
-      "cat": "POLICY",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "Aggregators outpace Domino\u2019s delivery growth as Jubilant launches GenAI chatbot: Q4FY26",
-      "url": "https://www.medianama.com/2026/06/223-jubilant-foodworks-q4fy26-genai-chatbot-delivery-growth/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "OpenAI's Sam Altman backtracks on AI job-loss fears, says top AI adopters are hiring more workers",
-      "url": "https://www.livemint.com/technology/tech-news/openais-sam-altman-backtracks-on-ai-job-loss-fears-says-top-ai-adopters-are-hiring-more-workers-11780416122443.html",
-      "cat": "RESEARCH",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "AI startup CEO Dan Shipper spent $13,000 on OpenAI Codex in a month, and isn't worried",
-      "url": "https://www.livemint.com/technology/ai-startup-ceo-dan-shipper-spent-13-000-on-openai-codex-in-a-month-and-isnt-worried-11780288562711.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "AI bots ignore evidence. Can we trust them with science?",
-      "url": "https://www.livemint.com/science/ai-bots-ignore-evidence-can-we-trust-them-with-science-11716801228435.html",
-      "cat": "RESEARCH",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "Emerging Research Reveals Psychosocial Twists About AI Chatbots And Human Minds",
-      "url": "https://www.benzinga.com/news/26/05/39066955/emerging-research-reveals-psychosocial-twists-about-ai-chatbots-and-human-minds",
-      "cat": "RESEARCH",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
-      "title": "Publications - Kotak IISc AI\u2013ML Centre - Indian Institute of Science",
-      "url": "https://aiml.iisc.ac.in/publications/",
-      "cat": "RESEARCH",
-      "date": "2026-06-02T22:38:51.127680"
-    },
-    {
       "title": "JioHotstar expands AI team, plans new generative entertainment division",
       "url": "https://www.medianama.com/2026/06/223-jiohotstar-expands-ai-team-builds-new-ai-division/",
       "cat": "ENTERPRISE",
@@ -779,6 +671,120 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-brings-ai-mode-to-facebook-drawing-on-public-content-across-the-platform-10741815/",
       "cat": "ENTERPRISE",
       "date": "2026-06-16T22:34:27.542567"
+    },
+    {
+      "title": "Nykaa taps OpenAI for conversational shopping across beauty and fashion",
+      "url": "https://www.medianama.com/2026/06/223-nykaa-openai-conversational-shopping-beauty-fashion/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "Nasscom To Launch AI Curriculum Taskforce to Build India's AI Talent Ecosystem",
+      "url": "https://nasscom.in/media/press-releases/nasscom-launch-ai-curriculum-taskforce-build-indias-ai-talent-ecosystem",
+      "cat": "POLICY",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "AI startup Pramaana Labs raises $27 million in seed funding led by Khosla Ventures",
+      "url": "https://economictimes.indiatimes.com/tech/startups/ai-startup-pramaana-labs-raises-27-million-in-seed-funding-led-by-khosla-ventures/articleshow/101021570.cms",
+      "cat": "FUNDING",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "Pramaana Labs Raises $27 Mn To Build AI Verification Layer",
+      "url": "https://inc42.com/buzz/pramaana-labs-raises-27-mn-to-build-ai-verification-layer/",
+      "cat": "FUNDING",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "Gnani.ai Doubles Down On Sovereign Voice AI Models With Prisma v2.5 Launch",
+      "url": "https://inc42.com/buzz/gnani-ai-doubles-down-on-sovereign-voice-ai-models-with-prisma-v2-5-launch/",
+      "cat": "RESEARCH",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "ChatGPT\u2019s AI market share drops below 50% as Gemini and Claude gain users: Report",
+      "url": "https://www.medianama.com/2026/06/223-chatgpts-ai-market-share-drops-below-50-gemini-claude-gain-users-report/",
+      "cat": "RESEARCH",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "ChatGPT market share falls below 50% for first time, but remains top AI assistant: Report",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/chatgpt-market-share-falls-below-50-for-first-time-but-remains-top-ai-assistant-report-10743662/",
+      "cat": "RESEARCH",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "Behavox raises $175 million from BlackRock\u2019s HPS to expand its AI compliance platform",
+      "url": "https://thenextweb.com/news/behavox-175m-hps-blackrock-ai-compliance",
+      "cat": "FUNDING",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "India Tightens Oversight On AI-Generated Content Under IT Rules",
+      "url": "https://www.mondaq.com/india/it-internet/1505014/india-tightens-oversight-on-ai-generated-content-under-it-rules",
+      "cat": "POLICY",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "Home Minister Amit Shah Calls For AI-Led Revamp Of National Cybercrime Helpline",
+      "url": "https://inc42.com/buzz/home-minister-amit-shah-calls-for-ai-led-revamp-of-national-cybercrime-helpline/",
+      "cat": "POLICY",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "How Equip is using AI to change the way companies hire",
+      "url": "https://yourstory.com/2026/06/equip-ai-hiring-platform-recruitment-india-jayanth-neelakanta",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "Microsoft expands Copilot Cowork with pay-as-you-go pricing, explores cheaper AI models",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/microsoft-expands-copilot-cowork-with-pay-as-you-go-pricing-10744163/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "Anthropic pauses token-based pricing for Claude Agent SDK amid concerns over AI usage costs",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-pauses-token-pricing-claude-agent-sdk-ai-10744115/",
+      "cat": "RESEARCH",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "Mint Explainer: Big Tech seeks to sell cheaper AI. Can India benefit?",
+      "url": "https://www.livemint.com/technology/tech-news/big-tech-cheaper-ai-india-benefit-chatgpt-google-amazon-microsoft-nvidia-sarvam-avataar-11781670704618.html",
+      "cat": "POLICY",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "June Pixel Drop brings AI video tools, smarter multitasking, and Android 17",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/june-pixel-drop-brings-ai-video-tools-smarter-multitasking-and-android-17-10744470/",
+      "cat": "RESEARCH",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "Gmail\u2019s AI summaries are now available globally: Here\u2019s how to turn them off",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/gmails-ai-summaries-are-now-available-globally-heres-how-to-turn-them-off-10744180/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "The Latest: G7 summit focuses on contentious future of AI and US dominance of the industry",
+      "url": "https://www.livemint.com/technology/the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry-11781681700182.html",
+      "cat": "POLICY",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "WWDC 2026: Apple reveals devices eligible for iOS 27, iPadOS 27, macOS 27 Golden Gate and watchOS 27",
+      "url": "https://www.livemint.com/technology/tech-news/wwdc-2026-apple-reveals-devices-eligible-for-ios-27-ipados-27-macos-27-golden-gate-and-watchos-27-11781617451321.html",
+      "cat": "RESEARCH",
+      "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "China pitches free AI for the developing world as the G7 debates who gets access to American models",
+      "url": "https://thenextweb.com/news/china-ai-global-cooperation-vs-g7-export-controls",
+      "cat": "POLICY",
+      "date": "2026-06-17T22:24:11.943879"
     }
   ]
 }
