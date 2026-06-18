@@ -1,114 +1,6 @@
 {
   "stories": [
     {
-      "title": "JioHotstar expands AI team, plans new generative entertainment division",
-      "url": "https://www.medianama.com/2026/06/223-jiohotstar-expands-ai-team-builds-new-ai-division/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "India Gets Access to Anthropic\u2019s Mythos AI Model Under Project Glasswing",
-      "url": "https://inc42.com/buzz/india-gets-access-to-anthropics-mythos-ai-model-under-project-glasswing/",
-      "cat": "RESEARCH",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "Android to warn users of AI-Powered fake calls",
-      "url": "https://www.medianama.com/2026/06/223-android-warn-users-ai-powered-fake-calls/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "Meta launches AI-powered Business Agent to help companies automate customer support, sales and marketing",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-launches-ai-powered-business-agent-to-help-companies-automate-customer-support-sales-and-marketing-10722489/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "Microsoft launches Scout, an AI agent that works for you even when you\u2019re offline",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/microsoft-launches-scout-an-ai-agent-that-works-for-you-even-when-youre-offline-10721742/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "At Build 2026, Microsoft doubles down on proprietary AI models to win every layer of the AI stack",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/at-build-2026-microsoft-doubles-down-on-proprietary-ai-models-to-win-every-layer-of-the-ai-stack-10721249/",
-      "cat": "RESEARCH",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "India spending big on AI, but lacks talent to deploy it, says SBI chairman",
-      "url": "https://www.livemint.com/technology/sbi-chairman-cs-setty-ai-talent-shortage-india-artificial-intelligence-11780471692881.html",
-      "cat": "POLICY",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "MeitY Unveils India AI Governance Guidelines under IndiaAI Mission to Ensure Safe, Inclusive, and Responsible Adoption of Artificial Intelligence across Sectors",
-      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2027203",
-      "cat": "POLICY",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "Cracking The Enterprise AI Sales Code",
-      "url": "https://inc42.com/features/cracking-the-enterprise-ai-sales-code/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "Sarvam\u2019s Voice Stack, Layoffs At Interview Kickstart & More",
-      "url": "https://inc42.com/buzz/sarvams-voice-stack-layoffs-at-interview-kickstart-more/",
-      "cat": "RESEARCH",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "VC funding dries in May; Fertility treatment with compassion",
-      "url": "https://yourstory.com/2026/06/vc-funding-dries-in-may-fertility-treatment-with-compassion",
-      "cat": "FUNDING",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "Claude AI down: Users report problems accessing chatbot and API",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/claude-ai-down-users-report-problems-accessing-chatbot-and-api-10720495/",
-      "cat": "OTHER",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "99% of CEOs expect AI-driven job cuts within 2 years, survey finds",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/99-of-ceos-expect-ai-driven-job-cuts-within-2-years-survey-finds-10720137/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "India gets access to Claude Mythos, Anthropic's AI that discovered critical bugs in Linux, Firefox and OpenBSD",
-      "url": "https://www.livemint.com/technology/tech-news/india-gets-access-to-claude-mythos-anthropics-powerful-ai-that-found-critical-bugs-in-linux-firefox-and-openbsd-11780457010179.html",
-      "cat": "RESEARCH",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "India's AI Governance Guidelines: A Pragmatic Framework Rooted in Collaboration",
-      "url": "https://www.nasscom.in/research-reports/indias-ai-governance-guidelines-pragmatic-framework-rooted-collaboration",
-      "cat": "POLICY",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "BharatGen Research Papers | AI Research for Indian Languages",
-      "url": "https://bharatgen.ai/papers/",
-      "cat": "RESEARCH",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "US govt seeks \u2018voluntary\u2019 access to frontier AI models before release",
-      "url": "https://www.medianama.com/2026/06/223-us-govt-voluntary-access-frontier-ai-models-before-release/",
-      "cat": "POLICY",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
-      "title": "Trump signs executive order seeking oversight of AI models",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/trump-signs-executive-order-seeking-oversight-of-ai-models-10721296/",
-      "cat": "POLICY",
-      "date": "2026-06-03T22:41:29.318031"
-    },
-    {
       "title": "The interface that refuses to meet you halfway: Plivo on why voice AI is a different problem entirely",
       "url": "https://yourstory.com/2026/06/plivo-voice-ai-different-problem-entirely",
       "cat": "RESEARCH",
@@ -785,6 +677,72 @@
       "url": "https://thenextweb.com/news/china-ai-global-cooperation-vs-g7-export-controls",
       "cat": "POLICY",
       "date": "2026-06-17T22:24:11.943879"
+    },
+    {
+      "title": "From chatbots to autonomous agents: How Hostinger built AI into its core business",
+      "url": "https://yourstory.com/2026/05/chatbots-autonomous-agents-hostinger-built-ai-core-business",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-18T22:33:58.798479"
+    },
+    {
+      "title": "HCLTech\u2019s Sarvam AI Bet: Is Patient Capital Finally Here?",
+      "url": "https://inc42.com/features/hcltechs-sarvam-ai-bet-is-patient-capital-finally-here/",
+      "cat": "FUNDING",
+      "date": "2026-06-18T22:33:58.798479"
+    },
+    {
+      "title": "Gnani.ai launches Prisma v2.5  speech recognition model, claims to be better than Sarvam AI",
+      "url": "https://www.medianama.com/2026/06/223-gnani-ai-prisma-v2-5-speech-recognition-model-better-accuracy-sarvam/",
+      "cat": "RESEARCH",
+      "date": "2026-06-18T22:33:58.798479"
+    },
+    {
+      "title": "Women see 145% salary hike after moving into AI roles: Scaler report",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/women-see-145-salary-hike-after-moving-into-ai-roles-scaler-report-10746370/",
+      "cat": "OTHER",
+      "date": "2026-06-18T22:33:58.798479"
+    },
+    {
+      "title": "MeitY Convenes Industry Consultation on 'Supporting AI Transformation of IT Services Industry'",
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2034475",
+      "cat": "POLICY",
+      "date": "2026-06-18T22:33:58.798479"
+    },
+    {
+      "title": "Why Rebuilding Telecom Infrastructure Is Critical For Next Wave Of Voice AI",
+      "url": "https://inc42.com/buzz/why-rebuilding-telecom-infrastructure-is-critical-for-next-wave-of-voice-ai/",
+      "cat": "RESEARCH",
+      "date": "2026-06-18T22:33:58.798479"
+    },
+    {
+      "title": "Bengaluru ranks second in Asia for AI Innovation",
+      "url": "https://yourstory.com/2026/06/bengaluru-ranks-second-in-asia-for-ai-innovation",
+      "cat": "OTHER",
+      "date": "2026-06-18T22:33:58.798479"
+    },
+    {
+      "title": "\u20b933 LPA club: How Indian CXOs and VPs are using AI upskilling to command top salaries",
+      "url": "https://www.livemint.com/technology/tech-news/rs-33-lpa-club-how-indian-cxos-and-vps-are-using-ai-upskilling-to-command-top-salaries-11781792408551.html",
+      "cat": "OTHER",
+      "date": "2026-06-18T22:33:58.798479"
+    },
+    {
+      "title": "At G7, PM Modi warns against misuse of AI",
+      "url": "https://yourstory.com/2026/06/at-g7-pm-modi-warns-against-misuse-of-ai",
+      "cat": "POLICY",
+      "date": "2026-06-18T22:33:58.798479"
+    },
+    {
+      "title": "Bombay HC Allows Preity Zinta to Sue Google, 16 Others Over AI Deepfakes",
+      "url": "https://www.medianama.com/2026/06/223-preity-zinta-deepfake-lawsuit-google/",
+      "cat": "POLICY",
+      "date": "2026-06-18T22:33:58.798479"
+    },
+    {
+      "title": "A 201-year-old mutual bank just launched an AI Center of Excellence with a startup partner",
+      "url": "https://thenextweb.com/news/liberty-bank-ai-center-excellence-flare-partnership",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-18T22:33:58.798479"
     }
   ]
 }
