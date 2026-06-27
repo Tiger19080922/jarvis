@@ -747,6 +747,18 @@
         "Agents integrate LLMs with memory, planning, and tool-use modules.",
         "AI product thinking focuses on solving real problems with measurable impact."
       ]
+    },
+    {
+      "date": "2026-06-27T21:41:52.948480",
+      "day_number": 78,
+      "topic": "Synthesis: Interview-Ready Perspectives",
+      "angle": "PM interview prep: the questions you will be asked",
+      "key_arguments": [
+        "AI product management requires understanding probabilistic systems, not just traditional frameworks.",
+        "Design for AI must account for uncertainty, errors, and fallback mechanisms.",
+        "Human-in-the-loop integration is crucial for AI performance and ethical oversight.",
+        "Trust and explainability are essential for user adoption of AI products."
+      ]
     }
   ]
 }

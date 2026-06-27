@@ -1,270 +1,6 @@
 {
   "stories": [
     {
-      "title": "The interface that refuses to meet you halfway: Plivo on why voice AI is a different problem entirely",
-      "url": "https://yourstory.com/2026/06/plivo-voice-ai-different-problem-entirely",
-      "cat": "RESEARCH",
-      "date": "2026-06-10T22:31:10.341103"
-    },
-    {
-      "title": "Google rolls out Gemini 3.5 Live Translate with support for over 70 languages",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-rolls-out-gemini-3-5-live-translate-with-support-for-over-70-languages-10732649/",
-      "cat": "RESEARCH",
-      "date": "2026-06-10T22:31:10.341103"
-    },
-    {
-      "title": "RIL, Meta partner to develop 168 MW AI enabled data centre in Jamnagar",
-      "url": "https://yourstory.com/2026/06/ril-meta-develop-168-mw-ai-enabled-data-centre-jamnagar",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-10T22:31:10.341103"
-    },
-    {
-      "title": "Anthropic opens Mythos-class AI to the public, but keeps high-risk capabilities behind guardrails",
-      "url": "https://www.medianama.com/2026/06/223-anthropic-mythos-class-ai-public-data-retention/",
-      "cat": "RESEARCH",
-      "date": "2026-06-10T22:31:10.341103"
-    },
-    {
-      "title": "Apple rebuilds Siri from the ground up, but gaps remain",
-      "url": "https://www.medianama.com/2026/06/223-apple-rebuilds-siri-but-challenges-remain/",
-      "cat": "RESEARCH",
-      "date": "2026-06-10T22:31:10.341103"
-    },
-    {
-      "title": "Anthropic releases Claude Fable 5 with guardrails, bringing Mythos-level AI to users for first time",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-fable-5-guardrail-mythos-level-ai-models-10732350/",
-      "cat": "RESEARCH",
-      "date": "2026-06-10T22:31:10.341103"
-    },
-    {
-      "title": "Snowflake expands AI offerings with new development and governance tools",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/snowflake-expands-ai-offerings-with-new-development-and-governance-tools-10731488/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-10T22:31:10.341103"
-    },
-    {
-      "title": "Google updates NotebookLM with smarter research tools, new export formats, Gemini 3.5 integration",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-updates-notebooklm-with-smarter-research-tools-new-export-formats-gemini-3-5-integration-10731255/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-10T22:31:10.341103"
-    },
-    {
-      "title": "NEURA Robotics raises up to $1.4B in record robotics round backed by Nvidia, Amazon, and Tether",
-      "url": "https://thenextweb.com/news/neura-robotics-1-4b-series-c-physical-ai",
-      "cat": "FUNDING",
-      "date": "2026-06-10T22:31:10.341103"
-    },
-    {
-      "title": "As AI becomes less human, Apple is thinking beyond the bots",
-      "url": "https://indianexpress.com/article/technology/opinion-technology/as-ai-becomes-less-human-apple-is-thinking-beyond-the-bots-10732410/",
-      "cat": "RESEARCH",
-      "date": "2026-06-10T22:31:10.341103"
-    },
-    {
-      "title": "AI is boosting accuracy for clinicians, Philips North America CEO says",
-      "url": "https://www.livemint.com/technology/ai-is-boosting-accuracy-for-clinicians-philips-north-america-ceo-says-11781031830735.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-10T22:31:10.341103"
-    },
-    {
-      "title": "Researchers tricked an OpenClaw AI agent into leaking AWS keys and customer data with a phishing email",
-      "url": "https://thenextweb.com/news/openclaw-ai-agent-phishing-varonis-pinchy",
-      "cat": "RESEARCH",
-      "date": "2026-06-10T22:31:10.341103"
-    },
-    {
-      "title": "Inc42 AI Summit 2026: The Playbook For Building Agentic AI Systems That Deliver ROI",
-      "url": "https://inc42.com/buzz/inc42-ai-summit-2026-the-playbook-for-building-agentic-ai-systems-that-deliver-roi/",
-      "cat": "OTHER",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "India AI Governance Guidelines released to foster safe, inclusive, and responsible AI adoption",
-      "url": "https://meity.gov.in/press-releases/meity-unveils-india-ai-governance-guidelines-under-indiaai-mission-ensure-safe",
-      "cat": "POLICY",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "Rivvun AI Bags $7.5 Mn To Help Enterprises Reduce Revenue Leakages",
-      "url": "https://inc42.com/buzz/rivvun-ai-bags-7-5-mn-to-help-enterprise-reduce-revenue-leakages/",
-      "cat": "FUNDING",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "Zoho Launches In-House Server \u2018Nathu La\u2019 To Lower AI Inference Costs",
-      "url": "https://inc42.com/buzz/zoho-launches-in-house-server-nathu-la-to-lower-ai-inference-costs/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "AI World Very Different From IT Act Era, New Law Required: Ashwini Vaishnaw",
-      "url": "https://inc42.com/buzz/ai-world-very-different-from-it-act-era-new-law-required-ashwini-vaishnaw/",
-      "cat": "POLICY",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "AI\u2019s Biggest Opportunity Lies In Paying For Outcomes, Not Tokens",
-      "url": "https://inc42.com/resources/ais-biggest-opportunity-lies-in-paying-for-outcomes-not-tokens/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "How OneAssist\u2019s AI Stack Is Giving Older Smartphones An Insured Future",
-      "url": "https://inc42.com/features/how-oneassists-ai-stack-is-giving-older-smartphones-an-insured-future/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "Meta Partners Reliance To Set Up First Data Centre In India",
-      "url": "https://inc42.com/buzz/meta-partners-reliance-to-set-up-first-data-centre-in-india/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "Anthropic wants tougher AI rules, new safety framework seeks stronger government oversight",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-wants-tougher-ai-rules-10734024/",
-      "cat": "POLICY",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "Canada introduces bill to ban social media for children under 16, regulate AI chatbots",
-      "url": "https://indianexpress.com/article/technology/canada-introduces-bill-to-ban-social-media-for-children-under-16-regulate-ai-chatbots-10733964/",
-      "cat": "POLICY",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "Could AI face social media-style bans? Anthropic President Daniela Amodei reveals: \u2018If we project some of challenges\u2026\u2019",
-      "url": "https://www.livemint.com/technology/could-ai-face-social-media-style-bans-anthropic-president-daniela-amodei-reveals-if-we-project-some-of-challenges-11781191916130.html",
-      "cat": "POLICY",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "Anthropic CEO Dario Amodei wants AI models regulated like airplanes",
-      "url": "https://www.livemint.com/technology/tech-news/anthropic-ceo-dario-amodei-wants-ai-models-regulated-like-airplanes-11781144518441.html",
-      "cat": "POLICY",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "Barcelona\u2019s THEKER raises \u20ac73M to deploy AI-native factory robots that learn on the job",
-      "url": "https://thenextweb.com/news/theker-barcelona-73m-series-a-ai-robotics",
-      "cat": "FUNDING",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "Bezos\u2019s Prometheus raises $12 billion at $41 billion valuation to build AI that engineers physical products",
-      "url": "https://thenextweb.com/news/bezos-prometheus-ai-41-billion-valuation-12b-raise",
-      "cat": "FUNDING",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "India's IT Secretary Signals Stricter Government Controls for AI and Biometric Devices",
-      "url": "https://www.business-standard.com/technology/tech-news/india-s-it-secretary-signals-stricter-government-controls-for-ai-biometric-devices-126060600162_1",
-      "cat": "POLICY",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "Who Gets Hired In An AI-First World?",
-      "url": "https://inc42.com/features/who-gets-hired-in-an-ai-first-world/",
-      "cat": "OTHER",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "What is HRM-Text, a new frontier-level AI model built from scratch for just $1,500?",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-hrm-text-low-cost-ai-model-10734501/",
-      "cat": "RESEARCH",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "AI needs judgment, not a job description: Michael Ronis on the future of recruitment",
-      "url": "https://thenextweb.com/news/ai-needs-judgment-not-job-description-michael-ronis-recruitment",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-11T22:26:36.484426"
-    },
-    {
-      "title": "Pine Labs launches agentic payments protocol, raising questions on UPI rules, liability and privacy",
-      "url": "https://www.medianama.com/2026/06/223-pine-labs-agentic-payments-protocol-upi-liability-privacy-questions/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-12T22:10:58.116663"
-    },
-    {
-      "title": "India\u2019s Avataar AI launches a video model that costs $0.005 per second, 27x cheaper than rivals",
-      "url": "https://thenextweb.com/news/avataar-ai-varya-video-model-india-cheap",
-      "cat": "RESEARCH",
-      "date": "2026-06-12T22:10:58.116663"
-    },
-    {
-      "title": "IndiaAI Mission Powers AI Research Surge: 262,404 Publications from India (2015-2025) and 38,000 GPUs Boost University Innovation",
-      "url": "https://www.academicjobs.com/news/indiaai-mission-powers-ai-research-surge-262404-publications-from-india-2015-2025-and-38000-gpus-boost-university-innovation",
-      "cat": "RESEARCH",
-      "date": "2026-06-12T22:10:58.116663"
-    },
-    {
-      "title": "Deeptech in focus during PM Modi\u2019s France visit; TCS joins hands with Anthropic",
-      "url": "https://yourstory.com/2026/06/deeptech-in-focus-pm-modi-france-visit-tcs-joins-hands-anthropic",
-      "cat": "POLICY",
-      "date": "2026-06-12T22:10:58.116663"
-    },
-    {
-      "title": "IIT Delhi alumnus co-founded Coram AI raises $35 million in Series B",
-      "url": "https://yourstory.com/2026/06/iit-delhi-alumnus-co-founded-coram-ai-raises-35-million-in-series-b",
-      "cat": "FUNDING",
-      "date": "2026-06-12T22:10:58.116663"
-    },
-    {
-      "title": "India wont be second to anybody in developing foundational AI models: IT Secretary",
-      "url": "https://www.livemint.com/technology/india-wont-be-second-to-anybody-in-developing-foundational-ai-models-it-secretary-11781266679635.html",
-      "cat": "POLICY",
-      "date": "2026-06-12T22:10:58.116663"
-    },
-    {
-      "title": "Hyderabad startup Equal AI raises $30 million to grow its AI call assistant app",
-      "url": "https://www.google.com/search?q=Indian+AI+startup+news+funding+last+48+hours&tbs=qdr:2",
-      "cat": "FUNDING",
-      "date": "2026-06-12T22:10:58.116663"
-    },
-    {
-      "title": "CoRover AI builds AI without the internet, and here\u2019s why it works better",
-      "url": "https://yourstory.com/2026/06/corover-ai-offline-edge-ai-deployment-ankush-sabharwal-devsparks-2026",
-      "cat": "RESEARCH",
-      "date": "2026-06-12T22:10:58.116663"
-    },
-    {
-      "title": "Coinbase launches tools that allow AI agents to trade and spend on users\u2019 behalf",
-      "url": "https://www.medianama.com/2026/06/223-coinbase-ai-agents-trading-payments/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-12T22:10:58.116663"
-    },
-    {
-      "title": "Xiaomi\u2019s latest AI coding tool claims to outperform Claude Code on complex tasks",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/xiaomis-latest-ai-coding-tool-claims-to-outperform-claude-code-on-complex-tasks-10736639/",
-      "cat": "RESEARCH",
-      "date": "2026-06-12T22:10:58.116663"
-    },
-    {
-      "title": "Fujitsu and IISc launch joint research on advanced AI technologies to accelerate new material development and resolve societal challenges",
-      "url": "https://www.fujitsu.com/global/about/resources/news/press-releases/2025/1016-01.html",
-      "cat": "RESEARCH",
-      "date": "2026-06-12T22:10:58.116663"
-    },
-    {
-      "title": "Aum Ventures launches second fund with target corpus of Rs 750 Cr",
-      "url": "https://yourstory.com/2026/06/aum-ventures-launches-second-fund-with-target-corpus-of-rs-750-crore",
-      "cat": "FUNDING",
-      "date": "2026-06-12T22:10:58.116663"
-    },
-    {
-      "title": "German court holds Google directly liable for false AI Overviews claims: What it means for AI liability",
-      "url": "https://www.medianama.com/2026/06/223-google-ai-overviews-liability-german-court-ruling/",
-      "cat": "POLICY",
-      "date": "2026-06-12T22:10:58.116663"
-    },
-    {
-      "title": "Lowdown: The EU\u2019s new rules for labelling AI-generated content",
-      "url": "https://www.medianama.com/2026/06/223-eu-ai-act-deepfake-labeling-rules/",
-      "cat": "POLICY",
-      "date": "2026-06-12T22:10:58.116663"
-    },
-    {
       "title": "Equal AI Raises $30 Mn To Expand AI Assistant Offerings Beyond Calls",
       "url": "https://inc42.com/buzz/equal-ai-raises-30-mn-to-expand-ai-assistant-offerings-beyond-calls/",
       "cat": "FUNDING",
@@ -1181,6 +917,126 @@
       "url": "https://arxiv.org/abs/2606.24842",
       "cat": "RESEARCH",
       "date": "2026-06-24T21:57:39.047604"
+    },
+    {
+      "title": "How Telangana police is using air-gapped AI systems for child sexual abuse investigations",
+      "url": "https://www.medianama.com/2026/06/223-telangana-police-using-air-gapped-ai-systems-child-sexual-abuse-investigations/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "DoT\u2019s technical wing is forming a working group for AI Standardisation",
+      "url": "https://www.medianama.com/2026/06/223-dot-ai-standards-working-group/",
+      "cat": "POLICY",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "\u2018Developers are moving from writing code to orchestrating AI agents\u2019: AWS\u2019s Jeff Barr",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/aws-jeff-barr-kiro-developers-coding-ai-agents-ai-apps-10758468/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "OpenAI poaches Uber India\u2019s chief to run its biggest market outside the United States",
+      "url": "https://thenextweb.com/news/openai-india-managing-director-prabhjeet-singh-uber",
+      "cat": "OTHER",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "India seeks assurance from US against 'abrupt AI technology cutoffs': MeitY Secretary S Krishnan",
+      "url": "https://telecom.economictimes.indiatimes.com/news/india-seeks-assurance-from-us-against-abrupt-ai-technology-cutoffs-meity-secretary-s-krishnan/110956587",
+      "cat": "POLICY",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "Project \u2018Kill Switch\u2019: Can RBI Protect Banks, NBFCs From Rogue AI Actors?",
+      "url": "https://inc42.com/buzz/project-kill-switch-can-rbi-protect-banks-nbfcs-from-rogue-ai-actors/",
+      "cat": "POLICY",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "After Mythos suspension, India pushes for stable AI access from the US",
+      "url": "https://www.medianama.com/2026/06/223-mythos-india-us-stable-ai-access/",
+      "cat": "POLICY",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "IndiaMART to increase AI spending to tackle fake listings, speed up buyer requests",
+      "url": "https://www.medianama.com/2026/06/223-indiamart-increase-ai-spending-tackle-fake-listings-speed-up-buyer-requests/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "OpenAI names Prabhjeet Singh India MD, launches GPT-5.6 Sol with stronger cyber protections",
+      "url": "https://www.livemint.com/technology/tech-news/openai-names-prabhjeet-singh-india-md-launches-gpt-5-6-sol-with-stronger-cyber-protections-11782535485928.html",
+      "cat": "OTHER",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "Press Release - Digital India",
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2031105",
+      "cat": "POLICY",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "India Can't Win the AI Race Without Betting Big on R&D",
+      "url": "https://www.thewire.in/tech/india-ai-race-betting-big-rd",
+      "cat": "POLICY",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "[Update] After Quitting Uber, Prabhjeet Singh To Join OpenAI As India MD",
+      "url": "https://inc42.com/buzz/uber-india-head-prabhjeet-singh-steps-down/",
+      "cat": "OTHER",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "OpenAI defers public rollout of GPT\u20115.6 as US seeks early access to frontier AI models",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-defers-public-rollout-of-gpt%e2%80%915-6-as-us-seeks-early-access-to-frontier-ai-models-10759804/",
+      "cat": "RESEARCH",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "ChatGPT 5.6 rollout may begin with limited access, report claims",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/chatgpt-5-6-rollout-may-begin-with-limited-access-report-claims-10758678/",
+      "cat": "RESEARCH",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "FDA: An attack to corrupt the core of AI models!",
+      "url": "https://val.cds.iisc.ac.in/fda/",
+      "cat": "RESEARCH",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "OpenAI\u2019s Jalape\u00f1o AI chip; Nekko\u2019s next growth engine",
+      "url": "https://yourstory.com/2026/06/openai-jalapeo-ai-chip-nekko-next-growth-engine",
+      "cat": "RESEARCH",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "US reportedly wants OpenAI to delay GPT-5.6 rollout after restrictions on Anthropic\u2019s models",
+      "url": "https://www.medianama.com/2026/06/223-us-openai-delay-gpt-5-6-rollout/",
+      "cat": "RESEARCH",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "11 ways Google says Gemini can transform productivity at work",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/11-ways-google-says-gemini-can-transform-productivity-at-work-10760291/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "The next generation of AI won\u2019t be powered by better models alone",
+      "url": "https://thenextweb.com/news/ai-infrastructure-oxylabs-vytautas-savickas-interview",
+      "cat": "RESEARCH",
+      "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "Fujitsu and IISc launch joint research on advanced AI technologies to accelerate new material development and resolve societal challenges",
+      "url": "https://www.fujitsu.com/global/about/resources/news/press-releases/2025/1016-01.html",
+      "cat": "RESEARCH",
+      "date": "2026-06-27T21:41:54.881238"
     }
   ]
 }
