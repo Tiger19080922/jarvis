@@ -1,90 +1,6 @@
 {
   "stories": [
     {
-      "title": "Equal AI Raises $30 Mn To Expand AI Assistant Offerings Beyond Calls",
-      "url": "https://inc42.com/buzz/equal-ai-raises-30-mn-to-expand-ai-assistant-offerings-beyond-calls/",
-      "cat": "FUNDING",
-      "date": "2026-06-13T21:48:29.697179"
-    },
-    {
-      "title": "Why Avataar Is Bullish About Cracking AI Video And Outdoing Global Giants",
-      "url": "https://inc42.com/features/why-avataar-is-bullish-about-cracking-ai-video-and-outdoing-global-giants/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-13T21:48:29.697179"
-    },
-    {
-      "title": "AI Cloud Service Provider E2E Networks Debuts On BSE Mainboard",
-      "url": "https://inc42.com/buzz/ai-cloud-service-provider-e2e-networks-debuts-on-bse-mainboard/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-13T21:48:29.697179"
-    },
-    {
-      "title": "A Google Maps for the brain? IIT Madras releases detailed 3D atlas of human brainstem",
-      "url": "https://theprint.in/science/iit-madras-anchor-human-brainstem-atlas/2958723/",
-      "cat": "RESEARCH",
-      "date": "2026-06-13T21:48:29.697179"
-    },
-    {
-      "title": "IIT Madras EXCLUSIVE: Can India Build Its Own AI Future Before Silicon Valley and China Take Over?",
-      "url": "https://www.youtube.com/watch?v=y3zHhL495fM",
-      "cat": "RESEARCH",
-      "date": "2026-06-13T21:48:29.697179"
-    },
-    {
-      "title": "India can win in AI deployment despite lagging in advanced chips: Neelkanth Mishra",
-      "url": "https://www.economictimes.indiatimes.com/tech/tech-bytes/india-can-win-in-ai-deployment-despite-lagging-in-advanced-chips-neelkanth-mishra/articleshow/110829804.cms",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-13T21:48:29.697179"
-    },
-    {
-      "title": "From GPS Renewables To Equal AI \u2014 Indian Startups Raised $243 Mn This Week",
-      "url": "https://inc42.com/buzz/from-gps-renewables-to-equal-ai-indian-startups-raised-243-mn-this-week/",
-      "cat": "FUNDING",
-      "date": "2026-06-13T21:48:29.697179"
-    },
-    {
-      "title": "Beyond AI buzzwords: What employers are really looking for in 2026",
-      "url": "https://yourstory.com/2026/06/beyond-ai-buzzwords-what-employers-are-really-looking-for-in-2026-toast-zoho-corp",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-13T21:48:29.697179"
-    },
-    {
-      "title": "MeitY's AI Governance Group Faces a Steep Test in the Months Ahead",
-      "url": "https://www.thepolicyedge.com/meitys-ai-governance-group-faces-a-steep-test-in-the-months-ahead",
-      "cat": "POLICY",
-      "date": "2026-06-13T21:48:29.697179"
-    },
-    {
-      "title": "Artificial Intelligence in the Indian Judiciary: An Analysis of the Supreme Court's Draft AI Regulations, 2026",
-      "url": "https://nasscom.in/community/artificial-intelligence/artificial-intelligence-indian-judiciary-analysis-supreme-courts-draft-ai-regulations-2026",
-      "cat": "POLICY",
-      "date": "2026-06-13T21:48:29.697179"
-    },
-    {
-      "title": "IISc's Centre for Brain Research launches \u20b92 crore AI challenge for early detection of cognitive decline",
-      "url": "https://www.thehindu.com/news/cities/bangalore/iisc-centre-for-brain-research-launches-ai-challenge-for-early-detection-of-cognitive-decline/article68201465.ece",
-      "cat": "RESEARCH",
-      "date": "2026-06-13T21:48:29.697179"
-    },
-    {
-      "title": "Anthropic\u2019s Fable 5, Mythos 5 Access Suspension Rekindles Sovereign AI Debate",
-      "url": "https://inc42.com/buzz/anthropics-fable-5-mythos-5-access-suspension-rekindles-sovereign-ai-debate/",
-      "cat": "POLICY",
-      "date": "2026-06-13T21:48:29.697179"
-    },
-    {
-      "title": "A hackathon to empower girl innovators; Rohit Sharma\u2019s investment in FITTR",
-      "url": "https://yourstory.com/2026/06/a-hackathon-to-empower-girl-innovators-rohit-sharma-investment-in-fittr",
-      "cat": "OTHER",
-      "date": "2026-06-13T21:48:29.697179"
-    },
-    {
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "url": "https://www.thehindubusinessline.com/info-tech/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/article60712911.ece",
-      "cat": "RESEARCH",
-      "date": "2026-06-13T21:48:29.697179"
-    },
-    {
       "title": "How Zoho Labs pivoted to inference engineering",
       "url": "https://yourstory.com/2026/06/devsparks-2026-zoho-labs-inference-engineering-open-weight-models-ramprakash-ramamoorthy",
       "cat": "RESEARCH",
@@ -1037,6 +953,90 @@
       "url": "https://www.fujitsu.com/global/about/resources/news/press-releases/2025/1016-01.html",
       "cat": "RESEARCH",
       "date": "2026-06-27T21:41:54.881238"
+    },
+    {
+      "title": "India\u2019s payments chief says AI will drive UPI from 750 million to a billion daily transactions",
+      "url": "https://thenextweb.com/news/india-upi-npci-ai-billion-daily-transactions",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-28T21:41:07.899044"
+    },
+    {
+      "title": "As Digital India turns 11, govt bets on AI, semiconductors to drive next growth phase",
+      "url": "https://www.aninews.in/news/national/as-digital-india-turns-11-govt-bets-on-ai-semiconductors-to-drive-next-growth-phase202606271639000563",
+      "cat": "POLICY",
+      "date": "2026-06-28T21:41:07.899044"
+    },
+    {
+      "title": "India's technology services sector will continue to grow in the AI era: Nasscom US CEO Forum",
+      "url": "https://www.business-standard.com/industry/news/india-it-cos-generating-10-12-bn-in-ai-revenue-set-for-growth-nasscom-126062600607_1.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-28T21:41:07.899044"
+    },
+    {
+      "title": "RBI's Draft Guidance on Regulatory Principles for Model Risk Management, 2026",
+      "url": "https://www.mondaq.com/india/financial-services/1514804/rbi039s-draft-guidance-on-regulatory-principles-for-model-risk-management-2026",
+      "cat": "POLICY",
+      "date": "2026-06-28T21:41:07.899044"
+    },
+    {
+      "title": "A Case for a Human-Centric AI Legislative Framework in India",
+      "url": "https://www.scconline.com/blog/post/2026/06/26/a-case-for-a-human-centric-ai-legislative-framework-in-india/",
+      "cat": "POLICY",
+      "date": "2026-06-28T21:41:07.899044"
+    },
+    {
+      "title": "How a niche technology became a choke point for AI",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/how-a-niche-technology-became-a-choke-point-for-ai-10761049/",
+      "cat": "RESEARCH",
+      "date": "2026-06-28T21:41:07.899044"
+    },
+    {
+      "title": "Google limits Meta\u2019s use of its Gemini AI models: Report",
+      "url": "https://www.livemint.com/technology/tech-news/google-limits-meta-s-use-of-its-gemini-ai-models-11782624880463.html",
+      "cat": "RESEARCH",
+      "date": "2026-06-28T21:41:07.899044"
+    },
+    {
+      "title": "Google is rationing Gemini access to Meta because it cannot provide enough compute",
+      "url": "https://thenextweb.com/news/google-caps-meta-gemini-compute-shortage",
+      "cat": "OTHER",
+      "date": "2026-06-28T21:41:07.899044"
+    },
+    {
+      "title": "AI research papers from IITs and IISc announced in June 2026",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnM1fYJmq-t6BO02QyZnfdDHRnw1CbpPcvIy2RWmW5h-BIw8ss-O6DYRx8woJHBHbN4KY2Z8Z3WmdFUnCLzGVWUZdhqDIesEIDsn4M5m1S0Yw9K8TtLS691peJnpNd4EmN9OQ78e-mw0s=",
+      "cat": "RESEARCH",
+      "date": "2026-06-28T21:41:07.899044"
+    },
+    {
+      "title": "Researcher wins $1,00,000 prize for decoding Zebra Finch calls using AI",
+      "url": "https://indianexpress.com/article/technology/science/researcher-wins-100000-prize-for-decoding-zebra-finch-calls-using-ai-10759218/",
+      "cat": "RESEARCH",
+      "date": "2026-06-28T21:41:07.899044"
+    },
+    {
+      "title": "iPhone 18 to get a big RAM upgrade as Apple doubles down on AI: Report",
+      "url": "https://www.livemint.com/technology/gadgets/iphone-18-to-get-a-big-ram-upgrade-as-apple-doubles-down-on-ai-report-11782527076129.html",
+      "cat": "RESEARCH",
+      "date": "2026-06-28T21:41:07.899044"
+    },
+    {
+      "title": "Auto repair is one of the least digitised industries in America. AI is changing the economics of why.",
+      "url": "https://thenextweb.com/news/vertical-ai-auto-repair-shops-software-market",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-28T21:41:07.899044"
+    },
+    {
+      "title": "AI Challenge for Healthy Brain Aging | 2026",
+      "url": "https://iisc.ac.in/ai-challenge-healthy-brain-aging-2026/",
+      "cat": "RESEARCH",
+      "date": "2026-06-28T21:41:07.899044"
+    },
+    {
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNQRJmLTJeVoxeHM4p29hwUsd1hfrdcnLd6ZN9g-zB_WHFMbqIeolLXKBxcrIubKVuKPrEItBxKQrIZR0t-84De_z3yL2kVmy8e_hSWUEwMfS61MApPWhiUFyf5rLtjnCVNTjpu2pBJFl9TqmRQ5Jv8boFF-5RrAKj0lUJGZe5S6o9VHRpD0tXGHr6z2ipwAoTHXSuYszD",
+      "cat": "RESEARCH",
+      "date": "2026-06-28T21:41:07.899044"
     }
   ]
 }
