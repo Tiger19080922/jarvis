@@ -771,6 +771,18 @@
         "Data readiness is crucial for AI model performance.",
         "Governance, risk, and ethics are essential for responsible AI."
       ]
+    },
+    {
+      "date": "2026-06-29T21:54:53.223461",
+      "day_number": 80,
+      "topic": "Synthesis: Interview-Ready Perspectives",
+      "angle": "VC analyst interview prep: the investment thesis exercise",
+      "key_arguments": [
+        "AI investment theses require understanding proprietary data moats and scalable distribution.",
+        "Competitive advantage in AI comes from unique data, not just algorithms.",
+        "Scalable distribution channels are crucial for widespread AI adoption and cost-effective user acquisition.",
+        "VCs prioritize business impact and market capture over AI technical depth alone."
+      ]
     }
   ]
 }

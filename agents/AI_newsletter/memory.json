@@ -1,48 +1,6 @@
 {
   "stories": [
     {
-      "title": "How Zoho Labs pivoted to inference engineering",
-      "url": "https://yourstory.com/2026/06/devsparks-2026-zoho-labs-inference-engineering-open-weight-models-ramprakash-ramamoorthy",
-      "cat": "RESEARCH",
-      "date": "2026-06-14T21:55:02.895761"
-    },
-    {
-      "title": "Anthropic\u2019s model shutdown just handed India\u2019s sovereign AI movement its strongest argument yet",
-      "url": "https://thenextweb.com/news/india-sovereign-ai-anthropic-fable-suspension-debate",
-      "cat": "POLICY",
-      "date": "2026-06-14T21:55:02.895761"
-    },
-    {
-      "title": "Why Jayant Chaudhary sees AI as India's open door, not its threat",
-      "url": "https://yourstory.com/2026/06/jayant-chaudhary-ai-india-skilling-opportunity-skill-india-assistant",
-      "cat": "POLICY",
-      "date": "2026-06-14T21:55:02.895761"
-    },
-    {
-      "title": "Built to assist, not replace: inside Intercall\u2019s real-time AI for professional interpreters",
-      "url": "https://thenextweb.com/news/intercall-real-time-ai-professional-interpreters",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-14T21:55:02.895761"
-    },
-    {
-      "title": "Deployable Artificial Intelligence - IOE-IITM Research Initiatives",
-      "url": "https://www.example.com/iitm-deployable-ai",
-      "cat": "RESEARCH",
-      "date": "2026-06-14T21:55:02.895761"
-    },
-    {
-      "title": "Anthropic halts access to new AI models after US order: How Indian tech leaders are responding",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-halts-access-new-ai-models-india-reactions-10738998/",
-      "cat": "POLICY",
-      "date": "2026-06-14T21:55:02.895761"
-    },
-    {
-      "title": "KPMG retracts agentic AI study after researchers flag hallucinations, fake citations",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/kpmg-retracts-ai-study-hallucinations-fake-citations-10738768/",
-      "cat": "RESEARCH",
-      "date": "2026-06-14T21:55:02.895761"
-    },
-    {
       "title": "Amazon India unveils new AI-powered seller tools",
       "url": "https://yourstory.com/2026/06/amazon-india-unveils-new-ai-powered-seller-tools",
       "cat": "ENTERPRISE",
@@ -1037,6 +995,48 @@
       "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNQRJmLTJeVoxeHM4p29hwUsd1hfrdcnLd6ZN9g-zB_WHFMbqIeolLXKBxcrIubKVuKPrEItBxKQrIZR0t-84De_z3yL2kVmy8e_hSWUEwMfS61MApPWhiUFyf5rLtjnCVNTjpu2pBJFl9TqmRQ5Jv8boFF-5RrAKj0lUJGZe5S6o9VHRpD0tXGHr6z2ipwAoTHXSuYszD",
       "cat": "RESEARCH",
       "date": "2026-06-28T21:41:07.899044"
+    },
+    {
+      "title": "Indian Government Set to Acquire Minority Stake in AI Startup Sarvam Under IndiaAI Mission",
+      "url": "https://www.livemint.com/technology/tech-news/indian-government-set-to-acquire-minority-stake-in-ai-startup-sarvam-under-indiaai-mission-11719632569249.html",
+      "cat": "FUNDING",
+      "date": "2026-06-29T21:54:54.465292"
+    },
+    {
+      "title": "Why enterprises aren\u2019t ready for AI Agents yet",
+      "url": "https://www.medianama.com/2026/06/223-enterprise-ai-agent-deployment/",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-29T21:54:54.465292"
+    },
+    {
+      "title": "Explained: Why Google moved Gemini to token-based limits",
+      "url": "https://www.medianama.com/2026/06/223-explained-google-moved-gemini-token-based-limits/",
+      "cat": "OTHER",
+      "date": "2026-06-29T21:54:54.465292"
+    },
+    {
+      "title": "Amazon seeks cheaper AI alternatives as Anthropic shifts to token-based pricing",
+      "url": "https://thenextweb.com/news/amazon-anthropic-token-pricing-openai-alternative",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-29T21:54:54.465292"
+    },
+    {
+      "title": "Arena, the AI leaderboard everyone uses, just became a 100 million dollar business",
+      "url": "https://thenextweb.com/news/arena-ai-leaderboard-100-million-revenue-evaluation",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-29T21:54:54.465292"
+    },
+    {
+      "title": "Germany wants Helsing to build the brain of its next air war",
+      "url": "https://thenextweb.com/news/helsing-germany-cfsn-combat-cloud-contract",
+      "cat": "OTHER",
+      "date": "2026-06-29T21:54:54.465292"
+    },
+    {
+      "title": "California gives all state agencies access to Claude at half price in first-of-its-kind Anthropic deal",
+      "url": "https://thenextweb.com/news/anthropic-california-newsom-claude-half-price-government",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-29T21:54:54.465292"
     }
   ]
 }
