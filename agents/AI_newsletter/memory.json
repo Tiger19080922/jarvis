@@ -1,72 +1,6 @@
 {
   "stories": [
     {
-      "title": "Amazon India unveils new AI-powered seller tools",
-      "url": "https://yourstory.com/2026/06/amazon-india-unveils-new-ai-powered-seller-tools",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-15T22:37:48.145231"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella issues stark warning on future of business \u2013 \u2018AI firms could capture all the value\u2019",
-      "url": "https://www.livemint.com/technology/tech-news/microsoft-ceo-satya-nadella-issues-stark-warning-on-future-of-business-ai-firms-could-capture-all-the-value-11781525290934.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-15T22:37:48.145231"
-    },
-    {
-      "title": "Making AI to explain its actions",
-      "url": "https://iisc.ac.in/making-ai-to-explain-its-actions/",
-      "cat": "RESEARCH",
-      "date": "2026-06-15T22:37:48.145231"
-    },
-    {
-      "title": "Explained: How a Chinese hacker group used Google\u2019s AI to scam thousands of users",
-      "url": "https://www.medianama.com/2026/06/223-chinese-cybercrime-gang-used-google-ai-to-scam-users/",
-      "cat": "RESEARCH",
-      "date": "2026-06-15T22:37:48.145231"
-    },
-    {
-      "title": "ByteDance in talks with China\u2019s Iluvatar CoreX to purchase AI chips",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/bytedance-in-talks-with-chinas-iluvatar-corex-to-purchase-ai-chips-10739867/",
-      "cat": "FUNDING",
-      "date": "2026-06-15T22:37:48.145231"
-    },
-    {
-      "title": "\u2018Don\u2019t let a few models eat everything\u2019:\u00a0Satya\u00a0Nadella\u2019s blueprint for the AI-era firm",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/satya-nadella-token-capital-ai-blueprint-microsoft-10739746/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-15T22:37:48.145231"
-    },
-    {
-      "title": "Bengaluru IISc launches Rs 2 crore challenge to track brain aging",
-      "url": "https://indianexpress.com/article/cities/bangalore/bengaluru-iisc-launches-rs-2-crore-challenge-to-track-brain-aging-10265426/",
-      "cat": "RESEARCH",
-      "date": "2026-06-15T22:37:48.145231"
-    },
-    {
-      "title": "Google ads hint at next Pixel drop with Screen Reactions, Gemini Omni features: Report",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-ads-next-pixel-drop-omni-ai-features-10740648/",
-      "cat": "RESEARCH",
-      "date": "2026-06-15T22:37:48.145231"
-    },
-    {
-      "title": "The Pentagon\u2019s AI platform went from 80,000 users to 1.5 million in six months",
-      "url": "https://thenextweb.com/news/pentagon-genai-mil-1-5-million-users-google-gemini-military-ai",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-15T22:37:48.145231"
-    },
-    {
-      "title": "Facebook now has an AI search engine that pulls answers from your Group posts and Reels",
-      "url": "https://thenextweb.com/news/meta-facebook-ai-mode-search-public-posts-groups-reels",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-15T22:37:48.145231"
-    },
-    {
-      "title": "ArXiv Enforces Stricter Rules On AI-Generated Research, Threatens One-Year Ban For Violations",
-      "url": "https://www.etvbharat.com/english/state/rajasthan/arxiv-enforces-stricter-rules-on-ai-generated-research-threatens-one-year-ban-for-violations/national20240518134351988",
-      "cat": "RESEARCH",
-      "date": "2026-06-15T22:37:48.145231"
-    },
-    {
       "title": "Sarvam raises $234 million, becomes AI unicorn amid Anthropic curbs",
       "url": "https://www.medianama.com/2026/06/223-sarvam-raises-234-million-ai-unicorn-amid-anthropic-restrictions/",
       "cat": "FUNDING",
@@ -1037,6 +971,24 @@
       "url": "https://thenextweb.com/news/anthropic-california-newsom-claude-half-price-government",
       "cat": "ENTERPRISE",
       "date": "2026-06-29T21:54:54.465292"
+    },
+    {
+      "title": "India IT companies generating $10-12 billion in AI revenue, poised for growth: NASSCOM",
+      "url": "https://www.business-standard.com/industry/news/india-it-cos-generating-10-12-bn-in-ai-revenue-set-for-growth-nasscom-126062600480_1.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-30T21:58:34.425321"
+    },
+    {
+      "title": "Enterprise AI\u2019s Missing Foundation: Why Content Governance May Matter More Than the Next AI Breakthrough",
+      "url": "https://thenextweb.com/news/enterprise-ai-content-governance-precision-content-rob-hanna",
+      "cat": "ENTERPRISE",
+      "date": "2026-06-30T21:58:34.425321"
+    },
+    {
+      "title": "Google releases Nano Banana 2 Lite, its fastest and cheapest AI image generator yet",
+      "url": "https://thenextweb.com/news/google-nano-banana-2-lite-omni-flash-image-video",
+      "cat": "RESEARCH",
+      "date": "2026-06-30T21:58:34.425321"
     }
   ]
 }
