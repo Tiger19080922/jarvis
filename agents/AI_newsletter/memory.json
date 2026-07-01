@@ -1,114 +1,6 @@
 {
   "stories": [
     {
-      "title": "Sarvam raises $234 million, becomes AI unicorn amid Anthropic curbs",
-      "url": "https://www.medianama.com/2026/06/223-sarvam-raises-234-million-ai-unicorn-amid-anthropic-restrictions/",
-      "cat": "FUNDING",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "Sarvam\u2019s Unicorn Leap, Razorpay Files DRHP & More",
-      "url": "https://inc42.com/buzz/sarvams-unicorn-leap-razorpay-files-drhp-more/",
-      "cat": "FUNDING",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "Adani Group Partners With Jabil To Build AI Data Infrastructure",
-      "url": "https://inc42.com/buzz/adani-group-partners-with-jabil-to-build-ai-data-infrastructure/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "Sarvam AI turns unicorn; Razorpay confidentially files IPO papers",
-      "url": "https://yourstory.com/2026/06/sarvam-ai-turns-unicorn-razorpay-files-drhp",
-      "cat": "FUNDING",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "CyCognito pushes AI pentesting beyond vulnerability scans as enterprise attack surfaces evolve",
-      "url": "https://thenextweb.com/news/cycognito-ai-pentesting-enterprise-attack-surfaces",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "How Hunar Is Using AI To Fix The Broken Economics Of Frontline Hiring",
-      "url": "https://inc42.com/startups/why-hunar-ai-thinks-indias-frontline-workforce-needs-ai-agents/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "Exclusive: AI Startup ContraVault Raises $3.1 Mn To Expand In The US",
-      "url": "https://inc42.com/buzz/exclusive-ai-startup-contravault-raises-3-1-mn-to-expand-in-the-us/",
-      "cat": "FUNDING",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "Qualcomm launches Snapdragon Reality Elite and a white-label toolkit for AI glasses, betting the next platform is not a phone",
-      "url": "https://thenextweb.com/news/qualcomm-snapdragon-reality-elite-start-ai-wearables-post-smartphone",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "Google rolls out Android 17 with Gemini Intelligence, foldable gaming mode, and tighter privacy controls",
-      "url": "https://thenextweb.com/news/google-android-17-pixel-gemini-intelligence-foldable-gaming",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "The Next Consumer AI Battle Is Trust, Not Technology: Intellemo\u2019s Saurabh Gupta",
-      "url": "https://inc42.com/buzz/the-next-consumer-ai-battle-is-trust-not-technology-intellemos-saurabh-gupta/",
-      "cat": "OTHER",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "The Next AI Battle Is Distribution, Not Creation: Loti AI Cofounder",
-      "url": "https://inc42.com/buzz/the-next-ai-battle-is-distribution-not-creation-loti-ai-cofounder/",
-      "cat": "OTHER",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "YourNest Venture Capital raises Rs 400 Cr for Continuum Fund",
-      "url": "https://yourstory.com/2026/06/yournest-venture-capital-raises-rs-400-crore-for-continuum-fund",
-      "cat": "FUNDING",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "A Czech AI startup says it can detect drones by sound for \u20ac150 per sensor, and it wants to wire up power grids first",
-      "url": "https://thenextweb.com/news/neuron-soundware-sound-shield-acoustic-drone-detection-czech-ai",
-      "cat": "RESEARCH",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "I was in OpenAI\u2019s first intern cohort. Here\u2019s what it taught me about becoming an AI-native engineer",
-      "url": "https://thenextweb.com/news/openai-first-intern-cohort-ai-native-engineer",
-      "cat": "RESEARCH",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "AI Security Must Focus On Recovery, Not Just Prevention: Rubrik\u2019s Vipul Nayak",
-      "url": "https://inc42.com/buzz/ai-security-must-focus-on-recovery-not-just-prevention-rubriks-vipul-nayak/",
-      "cat": "OTHER",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "Roblox\u2019s AI facial age checks raise questions about user privacy and inaccurate age estimations",
-      "url": "https://www.medianama.com/2026/06/223-robloxs-ai-facial-age-checks-raise-questions-user-privacy-inaccurate-age-estimations/",
-      "cat": "RESEARCH",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "Anthropic to widen data collection for Claude users from July 8",
-      "url": "https://www.medianama.com/2026/06/223-anthropic-widens-data-collection-id-verification-government-id-selfie-claude-users/",
-      "cat": "RESEARCH",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
-      "title": "Meta brings AI Mode to Facebook, drawing on public content across the platform",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-brings-ai-mode-to-facebook-drawing-on-public-content-across-the-platform-10741815/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-16T22:34:27.542567"
-    },
-    {
       "title": "Nykaa taps OpenAI for conversational shopping across beauty and fashion",
       "url": "https://www.medianama.com/2026/06/223-nykaa-openai-conversational-shopping-beauty-fashion/",
       "cat": "ENTERPRISE",
@@ -989,6 +881,24 @@
       "url": "https://thenextweb.com/news/google-nano-banana-2-lite-omni-flash-image-video",
       "cat": "RESEARCH",
       "date": "2026-06-30T21:58:34.425321"
+    },
+    {
+      "title": "Together AI raises 800 million dollars in Series C as open-source cloud demand surges",
+      "url": "https://thenextweb.com/news/together-ai-800m-series-c-aramco-ventures",
+      "cat": "FUNDING",
+      "date": "2026-07-01T22:03:49.518991"
+    },
+    {
+      "title": "Meta is replacing human moderators with AI. Can it handle India\u2019s 22 official languages?",
+      "url": "https://www.medianama.com/2026/07/223-meta-ai-content-moderation-india/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-01T22:03:49.518991"
+    },
+    {
+      "title": "Telangana police use AI-powered drones with facial recognition for Hyderabad street patrolling",
+      "url": "https://www.medianama.com/2026/07/223-telangana-police-use-ai-powered-drones-facial-recognition-hyderabad-street-patrolling/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-01T22:03:49.518991"
     }
   ]
 }
