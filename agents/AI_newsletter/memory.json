@@ -1,72 +1,6 @@
 {
   "stories": [
     {
-      "title": "From chatbots to autonomous agents: How Hostinger built AI into its core business",
-      "url": "https://yourstory.com/2026/05/chatbots-autonomous-agents-hostinger-built-ai-core-business",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-18T22:33:58.798479"
-    },
-    {
-      "title": "HCLTech\u2019s Sarvam AI Bet: Is Patient Capital Finally Here?",
-      "url": "https://inc42.com/features/hcltechs-sarvam-ai-bet-is-patient-capital-finally-here/",
-      "cat": "FUNDING",
-      "date": "2026-06-18T22:33:58.798479"
-    },
-    {
-      "title": "Gnani.ai launches Prisma v2.5  speech recognition model, claims to be better than Sarvam AI",
-      "url": "https://www.medianama.com/2026/06/223-gnani-ai-prisma-v2-5-speech-recognition-model-better-accuracy-sarvam/",
-      "cat": "RESEARCH",
-      "date": "2026-06-18T22:33:58.798479"
-    },
-    {
-      "title": "Women see 145% salary hike after moving into AI roles: Scaler report",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/women-see-145-salary-hike-after-moving-into-ai-roles-scaler-report-10746370/",
-      "cat": "OTHER",
-      "date": "2026-06-18T22:33:58.798479"
-    },
-    {
-      "title": "MeitY Convenes Industry Consultation on 'Supporting AI Transformation of IT Services Industry'",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2034475",
-      "cat": "POLICY",
-      "date": "2026-06-18T22:33:58.798479"
-    },
-    {
-      "title": "Why Rebuilding Telecom Infrastructure Is Critical For Next Wave Of Voice AI",
-      "url": "https://inc42.com/buzz/why-rebuilding-telecom-infrastructure-is-critical-for-next-wave-of-voice-ai/",
-      "cat": "RESEARCH",
-      "date": "2026-06-18T22:33:58.798479"
-    },
-    {
-      "title": "Bengaluru ranks second in Asia for AI Innovation",
-      "url": "https://yourstory.com/2026/06/bengaluru-ranks-second-in-asia-for-ai-innovation",
-      "cat": "OTHER",
-      "date": "2026-06-18T22:33:58.798479"
-    },
-    {
-      "title": "\u20b933 LPA club: How Indian CXOs and VPs are using AI upskilling to command top salaries",
-      "url": "https://www.livemint.com/technology/tech-news/rs-33-lpa-club-how-indian-cxos-and-vps-are-using-ai-upskilling-to-command-top-salaries-11781792408551.html",
-      "cat": "OTHER",
-      "date": "2026-06-18T22:33:58.798479"
-    },
-    {
-      "title": "At G7, PM Modi warns against misuse of AI",
-      "url": "https://yourstory.com/2026/06/at-g7-pm-modi-warns-against-misuse-of-ai",
-      "cat": "POLICY",
-      "date": "2026-06-18T22:33:58.798479"
-    },
-    {
-      "title": "Bombay HC Allows Preity Zinta to Sue Google, 16 Others Over AI Deepfakes",
-      "url": "https://www.medianama.com/2026/06/223-preity-zinta-deepfake-lawsuit-google/",
-      "cat": "POLICY",
-      "date": "2026-06-18T22:33:58.798479"
-    },
-    {
-      "title": "A 201-year-old mutual bank just launched an AI Center of Excellence with a startup partner",
-      "url": "https://thenextweb.com/news/liberty-bank-ai-center-excellence-flare-partnership",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-18T22:33:58.798479"
-    },
-    {
       "title": "Reliance unveils AI-first strategy at AGM 2026; Mukesh Ambani says India must become a global leader",
       "url": "https://indianexpress.com/article/technology/artificial-intelligence/affordable-trusted-ai-mukesh-ambani-at-reliance-agm-2026-10747762/",
       "cat": "POLICY",
@@ -845,6 +779,60 @@
       "url": "https://thenextweb.com/news/kling-ai-2-billion-kuaishou-spinoff-video",
       "cat": "FUNDING",
       "date": "2026-07-02T21:47:43.187322"
+    },
+    {
+      "title": "Sarvam AI raises $234 million funding at $1.5 billion valuation; looks to challenge China, US",
+      "url": "https://www.hindustantimes.com/tech/sarvam-ai-raises-234-million-funding-at-1-5-billion-valuation-looks-to-challenge-china-us-101718502020859.html",
+      "cat": "FUNDING",
+      "date": "2026-07-03T21:44:07.197251"
+    },
+    {
+      "title": "Sarvam AI becomes unicorn after raising $234M as India doubles down on home-grown AI",
+      "url": "https://www.businesstoday.in/technology/fintech/story/sarvam-ai-becomes-unicorn-after-raising-234m-as-india-doubles-down-on-home-grown-ai-433961-2026-06-15",
+      "cat": "FUNDING",
+      "date": "2026-07-03T21:44:07.197251"
+    },
+    {
+      "title": "10 cases that show Indian courts have an AI hallucination problem",
+      "url": "https://www.medianama.com/2026/07/223-10-cases-ai-hallucination-cases-in-indian-courts/",
+      "cat": "POLICY",
+      "date": "2026-07-03T21:44:07.197251"
+    },
+    {
+      "title": "Indian Startups Secure $426 Million in Weekly Funding, AI Leads",
+      "url": "https://analyticsindiamag.com/indian-startups-secure-426-million-in-weekly-funding-ai-leads/",
+      "cat": "FUNDING",
+      "date": "2026-07-03T21:44:07.197251"
+    },
+    {
+      "title": "India's AI Funding Boom in H1 2026 Left Most Startups Starving",
+      "url": "https://analyticsindiamag.com/indias-ai-funding-boom-in-h1-2026-left-most-startups-starving/",
+      "cat": "FUNDING",
+      "date": "2026-07-03T21:44:07.197251"
+    },
+    {
+      "title": "WhatsApp username row: Zoho's Arattai to disable username feature",
+      "url": "https://www.livemint.com/technology/tech-news/whatsapp-username-row-zohos-arattai-to-disable-username-feature-11783058599480.html",
+      "cat": "POLICY",
+      "date": "2026-07-03T21:44:07.197251"
+    },
+    {
+      "title": "Indian AI startup Data Science Wizards raises $5m",
+      "url": "https://www.techinasia.com/indian-ai-startup-data-science-wizards-raises-5m",
+      "cat": "FUNDING",
+      "date": "2026-07-03T21:44:07.197251"
+    },
+    {
+      "title": "Usernames are another dimension of cybercrimes, says MeitY\u2019s S Krishnan. Here\u2019s what we think.",
+      "url": "https://www.medianama.com/2026/07/223-meity-whatsapp-signal-telegram-usernames/",
+      "cat": "POLICY",
+      "date": "2026-07-03T21:44:07.197251"
+    },
+    {
+      "title": "Why building AI for schools is harder than building a chatbot: inside Smartschool\u2019s approach to exam prep",
+      "url": "https://thenextweb.com/news/smartschool-ai-exam-prep-sat-act-classroom",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-03T21:44:07.197251"
     }
   ]
 }
