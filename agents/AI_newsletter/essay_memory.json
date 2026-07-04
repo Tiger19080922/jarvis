@@ -833,6 +833,19 @@
         "The validation loop ensures continuous improvement of AI reliability.",
         "Building trust and utility around AI is a sought-after skill."
       ]
+    },
+    {
+      "date": "2026-07-04T21:30:39.075244",
+      "day_number": 85,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "Fine-tuning revisited: when it is worth the cost",
+      "key_arguments": [
+        "Fine-tuning is a strategic investment, not a default optimization.",
+        "Fine-tuning is for behavioral alignment and cost efficiencies, not general knowledge.",
+        "Supervised Fine-Tuning (SFT) teaches specific styles, formats, or rules.",
+        "RLHF aligns models with subjective human preferences and complex values.",
+        "Fine-tuning requires understanding its costs and specific use cases."
+      ]
     }
   ]
 }
