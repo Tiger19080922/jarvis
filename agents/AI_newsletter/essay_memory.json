@@ -846,6 +846,19 @@
         "RLHF aligns models with subjective human preferences and complex values.",
         "Fine-tuning requires understanding its costs and specific use cases."
       ]
+    },
+    {
+      "date": "2026-07-05T21:37:31.264532",
+      "day_number": 86,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "Evals in production: how AI teams measure quality at scale",
+      "key_arguments": [
+        "AI evaluation in production is crucial for market viability and trust.",
+        "A multi-layered evaluation framework is essential for reliable AI products.",
+        "Unit tests provide granular, deterministic checks on AI features.",
+        "Integration evals assess the interaction between AI components and tools.",
+        "A/B tests measure real-world user engagement and satisfaction."
+      ]
     }
   ]
 }
