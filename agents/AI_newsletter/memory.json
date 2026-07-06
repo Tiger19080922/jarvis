@@ -1,66 +1,6 @@
 {
   "stories": [
     {
-      "title": "BharatGen Research: Advancing AI for Indian Languages",
-      "url": "https://bharatgen.ai/papers/",
-      "cat": "RESEARCH",
-      "date": "2026-06-21T21:57:07.097116"
-    },
-    {
-      "title": "IIT Madras Researchers Explore Deployable AI and Ethical Considerations for India",
-      "url": "https://www.iitm.ac.in/research/initiatives/deployable-ai",
-      "cat": "RESEARCH",
-      "date": "2026-06-21T21:57:07.097116"
-    },
-    {
-      "title": "What are AI agent loops, and could they soon make prompting obsolete?",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-are-ai-agent-loops-prompting-obsolete-10750515/",
-      "cat": "RESEARCH",
-      "date": "2026-06-21T21:57:07.097116"
-    },
-    {
-      "title": "Amazon says human-in-the-loop AI oversight is failing because humans stop paying attention",
-      "url": "https://thenextweb.com/news/amazon-human-in-the-loop-ai-governance-normalization-deviance",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-21T21:57:07.097116"
-    },
-    {
-      "title": "IISc Researchers Develop Novel Neuromorphic Computer for Complex Optimization Problems",
-      "url": "https://www.iisc.ac.in/eureka-ai/",
-      "cat": "RESEARCH",
-      "date": "2026-06-21T21:57:07.097116"
-    },
-    {
-      "title": "IISc Lab Develops 'CNN Fixations' for Explainable AI",
-      "url": "https://www.iisc.ac.in/explainable-ai/",
-      "cat": "RESEARCH",
-      "date": "2026-06-21T21:57:07.097116"
-    },
-    {
-      "title": "Snap to spin-off AI video generation team into standalone company \u2018Dotmo\u2019: Here\u2019s why",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/snap-spin-off-ai-video-company-dotmo-10750189/",
-      "cat": "RESEARCH",
-      "date": "2026-06-21T21:57:07.097116"
-    },
-    {
-      "title": "Genesis AI bets against humanoid trend with general-purpose robot \u2018Eno\u2019",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/genesis-ai-bets-against-humanoid-trend-with-general-purpose-robot-eno-10748309/",
-      "cat": "RESEARCH",
-      "date": "2026-06-21T21:57:07.097116"
-    },
-    {
-      "title": "IISc Research Paper Earns Best Paper Finalist Accolades at CVPR 2026",
-      "url": "https://www.thehindu.com/sci-tech/technology/iisc-research-paper-gets-top-honours-at-global-computer-vision-event/article68317756.ece",
-      "cat": "RESEARCH",
-      "date": "2026-06-21T21:57:07.097116"
-    },
-    {
-      "title": "IISc Researchers Present Advancements in AI and Machine Learning at ICML 2026",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmdM8yzYI5kwphyrEiknrfCDPfWMI6TjHgJpwexJ4097wyRClAgUU13tR_7UdfqcT69GjTMGHbSDC5jT5m6-INvRcxh91Ka4dgyNaj9fDnHz0VOXoRNlYve1XXY4C7y5ZV3bgZX8XXhw==",
-      "cat": "RESEARCH",
-      "date": "2026-06-21T21:57:07.097116"
-    },
-    {
       "title": "Why Global Enterprises Are Buying Indian AI",
       "url": "https://inc42.com/resources/why-global-enterprises-are-buying-indian-ai/",
       "cat": "ENTERPRISE",
@@ -755,6 +695,78 @@
       "url": "https://thenextweb.com/news/nhs-app-ai-triage-10bn-overhaul",
       "cat": "ENTERPRISE",
       "date": "2026-07-05T21:37:32.668174"
+    },
+    {
+      "title": "India set to begin drafting dedicated AI legislation, signals MeitY Secretary S Krishnan",
+      "url": "https://www.adgully.com/india-set-to-begin-drafting-dedicated-ai-legislation-signals-meit-secretary-s-krishnan-14200.html",
+      "cat": "POLICY",
+      "date": "2026-07-06T21:58:47.416936"
+    },
+    {
+      "title": "Exclusive: Graph AI In Talks To Raise $14 Mn From Insight Partners, Others",
+      "url": "https://inc42.com/buzz/graph-ai-in-talks-to-raise-14-mn-from-insight-partners-others/",
+      "cat": "FUNDING",
+      "date": "2026-07-06T21:58:47.416936"
+    },
+    {
+      "title": "Enterprise AI Startup C5i Files Confidential IPO Papers With SEBI",
+      "url": "https://inc42.com/buzz/enterprise-ai-startup-c5i-files-confidential-ipo-papers-with-sebi/",
+      "cat": "FUNDING",
+      "date": "2026-07-06T21:58:47.416936"
+    },
+    {
+      "title": "Zeta Founder Bhavin Turakhia Launches Enterprise AI Startup Neo",
+      "url": "https://inc42.com/buzz/zeta-founder-bhavin-turakhia-launches-enterprise-ai-startup-neo/",
+      "cat": "FUNDING",
+      "date": "2026-07-06T21:58:47.416936"
+    },
+    {
+      "title": "Puducherry Secures AI Centre of Excellence for Healthcare",
+      "url": "https://letsdatascience.com/puducherry-secures-ai-centre-of-excellence-for-healthcare/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-06T21:58:47.416936"
+    },
+    {
+      "title": "AI adoption in key Indian sectors hits 48% in FY24",
+      "url": "https://www.theeconomictimes.indiatimes.com/tech/information-technology/ai-adoption-in-key-indian-sectors-hits-48-in-fy24/articleshow/120882358.cms",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-06T21:58:47.416936"
+    },
+    {
+      "title": "RBI's AI Draft Sends A Clear Message: Banks Cannot Blame The Algorithm",
+      "url": "https://lawbeat.in/news/rbi-ai-draft-banks-cannot-blame-algorithm-20260703/",
+      "cat": "POLICY",
+      "date": "2026-07-06T21:58:47.416936"
+    },
+    {
+      "title": "Why India\u2019s AI Boom Is Running On A Waiting List",
+      "url": "https://inc42.com/features/why-indias-ai-boom-is-running-on-a-waiting-list/",
+      "cat": "RESEARCH",
+      "date": "2026-07-06T21:58:47.416936"
+    },
+    {
+      "title": "Naukri launches an AI recruitment platform in India for smarter hiring",
+      "url": "https://yourstory.com/2026/07/naukri-launches-ai-recruitment-platform-india",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-06T21:58:47.416936"
+    },
+    {
+      "title": "Mahindra Steps Up AI Adoption Across Businesses",
+      "url": "https://www.autocarpro.in/news-national/mahindra-steps-up-ai-adoption-across-businesses-117178",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-06T21:58:47.416936"
+    },
+    {
+      "title": "AI in BFSI India 2026, Real Use Cases vs the Hype",
+      "url": "https://www.eqmint.com/ai-in-bfsi-india-2026-real-use-cases-vs-the-hype/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-06T21:58:47.416936"
+    },
+    {
+      "title": "Precision hiring, AI readiness to define FY27 workforce landscape: report",
+      "url": "https://yourstory.com/2026/07/precision-hiring-ai-readiness-define-fy27-workforce-landscape",
+      "cat": "OTHER",
+      "date": "2026-07-06T21:58:47.416936"
     }
   ]
 }

@@ -859,6 +859,19 @@
         "Integration evals assess the interaction between AI components and tools.",
         "A/B tests measure real-world user engagement and satisfaction."
       ]
+    },
+    {
+      "date": "2026-07-06T21:58:45.881055",
+      "day_number": 87,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "Latency and quality trade-offs: the decisions a PM must own",
+      "key_arguments": [
+        "AI latency and quality trade-offs are core product decisions, not just technical details.",
+        "Latency budgets define acceptable delays and directly impact user experience.",
+        "Stream processing is essential for AI agents due to the need for real-time data.",
+        "Model cascading optimizes cost and performance by using cheaper models first.",
+        "Intelligent routing based on request complexity determines which AI model to use."
+      ]
     }
   ]
 }
