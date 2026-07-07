@@ -872,6 +872,18 @@
         "Model cascading optimizes cost and performance by using cheaper models first.",
         "Intelligent routing based on request complexity determines which AI model to use."
       ]
+    },
+    {
+      "date": "2026-07-07T21:57:23.704415",
+      "day_number": 88,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "Multimodal AI: what changes when the model can see and hear",
+      "key_arguments": [
+        "Multimodal AI integrates multiple data types for holistic understanding.",
+        "It moves beyond isolated data streams to integrated intelligence.",
+        "Feature extraction, cross-modal representation, and fusion are core mechanics.",
+        "This shift enables agentic systems and redefines human-computer interaction."
+      ]
     }
   ]
 }

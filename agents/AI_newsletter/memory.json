@@ -1,60 +1,6 @@
 {
   "stories": [
     {
-      "title": "Why Global Enterprises Are Buying Indian AI",
-      "url": "https://inc42.com/resources/why-global-enterprises-are-buying-indian-ai/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-22T22:25:07.854588"
-    },
-    {
-      "title": "Built in India, served in India\u2014How unicorn Sarvam AI plans to inject its millions",
-      "url": "https://theprint.in/science/sarvam-ai-unicorn-anthropic-ban/2966656/",
-      "cat": "FUNDING",
-      "date": "2026-06-22T22:25:07.854588"
-    },
-    {
-      "title": "Info Edge\u2019s AI, Deeptech Playbook: \u20b91,003 Cr Portfolio Across Over 50 Startups",
-      "url": "https://inc42.com/buzz/info-edges-ai-deeptech-playbook-%e2%82%b91003-cr-portfolio-across-54-startups/",
-      "cat": "FUNDING",
-      "date": "2026-06-22T22:25:07.854588"
-    },
-    {
-      "title": "How Shipway Is Using AI To Drive Post-Purchase Efficiency For India\u2019s D2C Brands",
-      "url": "https://inc42.com/startups/how-shipway-is-using-ai-to-drive-post-purchase-efficiency-for-indias-d2c-brands/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-22T22:25:07.854588"
-    },
-    {
-      "title": "Scaling Enterprise IT with Agentic AI - Engineering an Autonomous Service Desk",
-      "url": "https://yourstory.com/2026/06/scaling-enterprise-it-agentic-ai-engineering-an-autonomous-service-desk-",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-22T22:25:07.854588"
-    },
-    {
-      "title": "Info Edge reveals its AI and deeptech bets, and stays honest about the early scorecard",
-      "url": "https://yourstory.com/2026/06/info-edge-ai-deeptech-startup-investments-1003-crore",
-      "cat": "FUNDING",
-      "date": "2026-06-22T22:25:07.854588"
-    },
-    {
-      "title": "Amazon invites Indian users to beta-test a Hindi version of Alexa+",
-      "url": "https://thenextweb.com/news/amazon-alexa-plus-india-hindi-beta-testing",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-22T22:25:07.854588"
-    },
-    {
-      "title": "MediaNama\u2019s Vibe Coding workshop \u2013 July 4th 2026, Delhi \u2013 #Ad",
-      "url": "https://www.medianama.com/2026/06/223-medianamas-vibe-coding-workshop-july-4th-2026-delhi-ad/",
-      "cat": "RESEARCH",
-      "date": "2026-06-22T22:25:07.854588"
-    },
-    {
-      "title": "What is GLM-5.2, China\u2019s latest open-weight AI model turning heads in Silicon Valley?",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-glm-5-2-china-open-weight-ai-model-10752010/",
-      "cat": "RESEARCH",
-      "date": "2026-06-22T22:25:07.854588"
-    },
-    {
       "title": "Info Edge\u2019s AI investments now worth over Rs 1,200 crore",
       "url": "https://www.medianama.com/2026/06/223-info-edge-ai-deeptech-startup-investments-rs-1200-crore/",
       "cat": "FUNDING",
@@ -767,6 +713,42 @@
       "url": "https://yourstory.com/2026/07/precision-hiring-ai-readiness-define-fy27-workforce-landscape",
       "cat": "OTHER",
       "date": "2026-07-06T21:58:47.416936"
+    },
+    {
+      "title": "How AI is reshaping India\u2019s logistics startup ecosystem",
+      "url": "https://yourstory.com/2026/07/how-ai-is-reshaping-indias-logistics-startup-ecosystem",
+      "cat": "RESEARCH",
+      "date": "2026-07-07T21:57:24.951666"
+    },
+    {
+      "title": "How AI can power India's digitally-empowered farming ecosystem",
+      "url": "https://yourstory.com/2026/07/ai-support-indias-vision-digitally-empowered-farming-ecosystem",
+      "cat": "RESEARCH",
+      "date": "2026-07-07T21:57:24.951666"
+    },
+    {
+      "title": "Gabit, an AI-powered longevity platform; Precision hiring at the workplace",
+      "url": "https://yourstory.com/2026/07/gabit-ai-powered-longevity-platform-precision-hiring-at-the-workplace",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-07T21:57:24.951666"
+    },
+    {
+      "title": "Andhra Pradesh to become 'India's first' AI-powered tourism state",
+      "url": "https://yourstory.com/2026/07/andhra-pradesh-to-become-indias-first-ai-powered-tourism-state",
+      "cat": "POLICY",
+      "date": "2026-07-07T21:57:24.951666"
+    },
+    {
+      "title": "Madras High Court protects travel content from AI scraping in copyright infringement case",
+      "url": "https://www.medianama.com/2026/07/223-madras-high-court-protects-travel-content-ai-scraping-copyright-infringement-case/",
+      "cat": "POLICY",
+      "date": "2026-07-07T21:57:24.951666"
+    },
+    {
+      "title": "Inside Petition: Journalists challenge blocking of Instagram reel related to AP\u2019s AI data center",
+      "url": "https://www.medianama.com/2026/07/223-inside-petition-journalists-challenge-blocking-instagram-reel-related-aps-ai-data-center/",
+      "cat": "POLICY",
+      "date": "2026-07-07T21:57:24.951666"
     }
   ]
 }
