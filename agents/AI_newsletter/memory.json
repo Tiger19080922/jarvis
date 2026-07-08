@@ -1,24 +1,6 @@
 {
   "stories": [
     {
-      "title": "Info Edge\u2019s AI investments now worth over Rs 1,200 crore",
-      "url": "https://www.medianama.com/2026/06/223-info-edge-ai-deeptech-startup-investments-rs-1200-crore/",
-      "cat": "FUNDING",
-      "date": "2026-06-23T22:00:01.274267"
-    },
-    {
-      "title": "Here\u2019s what we don\u2019t know about Reliance Jio\u2019s network-level AI agent",
-      "url": "https://www.medianama.com/2026/06/223-dont-know-reliance-jio-network-level-ai-agent/",
-      "cat": "RESEARCH",
-      "date": "2026-06-23T22:00:01.274267"
-    },
-    {
-      "title": "SEBI\u2019s \u2018GARUDA\u2019 Framework Eases Key Bottlenecks For Indian Startup Investors",
-      "url": "https://inc42.com/buzz/sebis-garuda-framework-eases-key-bottlenecks-for-indian-startup-investors/",
-      "cat": "POLICY",
-      "date": "2026-06-23T22:00:01.274267"
-    },
-    {
       "title": "MoEngage Acquires US-Based AI Startup Aampe To Scale Agentic Marketing",
       "url": "https://inc42.com/buzz/moengage-acquires-us-based-ai-startup-aampe-to-scale-agentic-marketing/",
       "cat": "ENTERPRISE",
@@ -749,6 +731,108 @@
       "url": "https://www.medianama.com/2026/07/223-inside-petition-journalists-challenge-blocking-instagram-reel-related-aps-ai-data-center/",
       "cat": "POLICY",
       "date": "2026-07-07T21:57:24.951666"
+    },
+    {
+      "title": "Elevate Education Bags \u20b9170 Cr To Scale AI-Led Higher Education Platform",
+      "url": "https://inc42.com/buzz/elevate-education-bags-%e2%82%b9170-cr-to-scale-ai-led-higher-education-platform/",
+      "cat": "FUNDING",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "OpenAI set to launch most capable GPT model after delayed rollout",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-set-to-launch-most-capable-gpt-model-after-delayed-rollout-10777778/",
+      "cat": "RESEARCH",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "Anthropic expands Claude Cowork to mobile and web, letting AI agent work across devices",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-expands-claude-cowork-mobile-web-ai-agent-10777007/",
+      "cat": "RESEARCH",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "Novyte Banks On Agentic AI To Solve The Optimisation Puzzle In Materials Science",
+      "url": "https://inc42.com/startups/novyte-banks-on-agentic-ai-to-solve-the-optimisation-puzzle-in-materials-science/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "Adage Automation raises Rs 230 Cr to accelerate AI-led industrial expansion",
+      "url": "https://yourstory.com/2026/07/funding-dage-automation-230-crore-ai-led-industrial-expansion",
+      "cat": "FUNDING",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "Meta launches Muse Image AI generator, but users are already raising privacy concerns",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-launches-muse-image-ai-generator-but-users-are-already-raising-privacy-concerns-10777054/",
+      "cat": "RESEARCH",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "New India AI Governance Guidelines: Compliance Mandates for Businesses",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPtkKh0J4xBN0fy_Y6_7bTGF_Z2hbA4cDcY5k0BABuO6ZBiVw8g6YW70x-CXTXJ_OJOkzU60mvbNSn7F_ikqbyGMIy294t4nPxkkAw1X0T1ovbayYgepgjsNXpMIP7uSiAIn58lzUo_ajBECmaVasNph4QGDmelXCTv6sn-IK-U57-IQFIw3Sy_gzg4wqITxQR3rAnyA-cMHVS1r5jg35fFvlYb0dmXBTGa6cqFoHuA574W1wiiUAosePjZzIFiqSOb5o2gwz5_Y3sAWuuVQ==",
+      "cat": "POLICY",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "IndicTrans2: High-Quality Machine Translation for All 22 Scheduled Indian Languages",
+      "url": "https://bharath.ai/ai-research-papers",
+      "cat": "RESEARCH",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "Dream Sports CTO Amit Sharma Quits To Start Own AI Venture",
+      "url": "https://inc42.com/buzz/dream-sports-cto-amit-sharma-quits-to-start-own-ai-venture/",
+      "cat": "OTHER",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "Ready to Build AI That Matters? Register for the Snowflake CoCo CLI Hackathon 2026",
+      "url": "https://yourstory.com/2026/07/ready-to-build-ai-that-matters-register-for-the-snowflake-coco-cli-hackathon-2026",
+      "cat": "RESEARCH",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "UP Cabinet approves Uttar Pradesh Startup Mission: one platform for founders",
+      "url": "https://yourstory.com/2026/07/uttar-pradesh-startup-mission-cabinet-approved",
+      "cat": "POLICY",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "Meta details AI-powered measures to fight child exploitation after Instagram ad scrutiny",
+      "url": "https://indianexpress.com/article/technology/meta-child-safety-instagram-ads-10776521/",
+      "cat": "OTHER",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "IISc Bengaluru Research Paper Honored at Prestigious CVPR 2026",
+      "url": "https://www.thehindu.com/news/cities/bangalore/iisc-bengaluru-research-paper-makes-it-to-the-top-15-of-prestigious-colorado-event/article68323062.ece",
+      "cat": "RESEARCH",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "14 Indian-Educated Researchers Make ICML 2026 Orals, Top 0.7% of AI Papers",
+      "url": "https://www.thehindu.com/news/national/14-indian-educated-researchers-make-icml-2026-orals-top-07-of-ai-papers/article68319840.ece",
+      "cat": "RESEARCH",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "The New Math Behind ROI In AI",
+      "url": "https://inc42.com/features/the-new-math-behind-roi-in-ai/",
+      "cat": "OTHER",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "The complexity tax: Are organisations caught up in the AI adoption wave?",
+      "url": "https://yourstory.com/2026/07/the-complexity-tax-are-organisations-caught-up-in-the-ai-adoption-wave",
+      "cat": "OTHER",
+      "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "Meta tightens AI glasses security as questions over bystander privacy persist",
+      "url": "https://www.medianama.com/2026/07/223-meta-tightens-ai-glasses-security-questions-bystander-privacy-persist/",
+      "cat": "OTHER",
+      "date": "2026-07-08T21:45:06.136834"
     }
   ]
 }

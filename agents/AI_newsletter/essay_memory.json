@@ -884,6 +884,19 @@
         "Feature extraction, cross-modal representation, and fusion are core mechanics.",
         "This shift enables agentic systems and redefines human-computer interaction."
       ]
+    },
+    {
+      "date": "2026-07-08T21:45:04.204944",
+      "day_number": 89,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "AI infrastructure for PMs: what you need to understand about the stack",
+      "key_arguments": [
+        "AI product success in 2026 is an infrastructure play, not just model capabilities.",
+        "Inference efficiency and cost are key differentiators and define market viability.",
+        "AI product managers need to understand the entire AI stack, from silicon to API.",
+        "The AI stack has three layers: Infrastructure, Model, and Application.",
+        "Inference, the continuous use of trained models, is critical for production AI."
+      ]
     }
   ]
 }
