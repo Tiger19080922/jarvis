@@ -897,6 +897,19 @@
         "The AI stack has three layers: Infrastructure, Model, and Application.",
         "Inference, the continuous use of trained models, is critical for production AI."
       ]
+    },
+    {
+      "date": "2026-07-09T22:00:55.514683",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "On-device AI is crucial for product differentiation and market share.",
+        "Edge AI enables real-time, personalized, and private user interactions.",
+        "Product managers must consider hardware, privacy, and local intelligence for on-device AI.",
+        "Specialized hardware (NPUs) and software optimization are key to on-device AI.",
+        "Model quantization and distillation enable efficient AI on edge devices."
+      ]
     }
   ]
 }

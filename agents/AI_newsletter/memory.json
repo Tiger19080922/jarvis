@@ -1,144 +1,6 @@
 {
   "stories": [
     {
-      "title": "MoEngage Acquires US-Based AI Startup Aampe To Scale Agentic Marketing",
-      "url": "https://inc42.com/buzz/moengage-acquires-us-based-ai-startup-aampe-to-scale-agentic-marketing/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "MoEngage acquires San Francisco-based AI infra startup Aampe",
-      "url": "https://yourstory.com/2026/06/moengage-acquires-san-francisco-based-ai-infra-startup-aampe",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "India's AI Transformation",
-      "url": "https://www.google.com/search?q=India+AI+government+policy+MeitY+NASSCOM+announcement+last+48+hours+site:pib.gov.in+OR+site:nasscom.in+OR+site:meity.gov.in&hl=en&gl=us&tbs=qdr:2,v:1",
-      "cat": "POLICY",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "Ex-Infosys CEO Vishal Sikka\u2019s New AI Venture Hang Ten Bags $32 Mn",
-      "url": "https://inc42.com/buzz/ex-infosys-ceo-vishal-sikkas-new-ai-venture-hang-ten-bags-32-mn/",
-      "cat": "FUNDING",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "JustAI Bags $17 Mn To Scale Its Agentic Martech Stack",
-      "url": "https://inc42.com/buzz/justai-bags-17-mn-to-scale-its-agentic-martech-stack/",
-      "cat": "FUNDING",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "AI coding cost will surpass average developers\u2019 salary by 2028: Gartner",
-      "url": "https://yourstory.com/2026/06/ai-coding-cost-will-surpass-average-developers-salary-by-2028-gartner",
-      "cat": "RESEARCH",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "\u2018Need to fight AI with AI\u2019: IBM India VP on the future of cybersecurity",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/need-to-fight-ai-with-ai-ibm-india-vp-on-the-future-of-cybersecurity-10755451/",
-      "cat": "RESEARCH",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "Gemini 3.5 Flash can now see and control your screen, and Google wants enterprises to trust it",
-      "url": "https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "IISc research paper gets top honours at global computer vision event",
-      "url": "https://www.thehindu.com/news/national/karnataka/iisc-research-paper-gets-top-honours-at-global-computer-vision-event/article68309022.ece",
-      "cat": "RESEARCH",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "India Wants Its AI Talent Back; But What\u2019s The Incentive?",
-      "url": "https://inc42.com/features/india-wants-its-ai-talent-back-but-whats-the-incentive/",
-      "cat": "POLICY",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "India can build sovereign AI, but can it build an AI-ready workforce?",
-      "url": "https://yourstory.com/2026/06/india-can-build-sovereign-ai-but-can-it-build-an-ai-ready-workforce",
-      "cat": "POLICY",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "Mitigata raises $15M in Series B funding round led by Bessemer Venture Partners",
-      "url": "https://yourstory.com/2026/06/mitigata-raises-15-million-in-series-b-led-by-bessemer-venture-partners",
-      "cat": "FUNDING",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "Superhuman to bring GPTZero\u2019s AI detection technology into its platform",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/superhuman-to-bring-gptzeros-ai-detection-technology-into-its-platform-10754979/",
-      "cat": "RESEARCH",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "Anthropic launches Claude Tag in Slack with plans for wider rollout",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-launches-claude-tag-in-slack-with-plans-for-wider-rollout-10754764/",
-      "cat": "RESEARCH",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "Amazon starts testing AI-powered Alexa+ in India ahead of wider rollout",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/amazon-starts-testing-ai-powered-alexa-in-india-ahead-of-wider-rollout-10753240/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "Lowdown: Legal tech firm sues US over Anthropic AI access ban for foreign nationals",
-      "url": "https://www.medianama.com/2026/06/223-legion-legaltech-sues-us-over-anthropic-ai-export-controls/",
-      "cat": "POLICY",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "CISF wants facial recognition cameras at airports linked to NATGRID",
-      "url": "https://www.medianama.com/2026/06/223-cisf-facial-recognition-cameras-airports-natgrid/",
-      "cat": "POLICY",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "Lowdown: SEBI wants to treat finfluencers and AI avatars as celebrities under the new ad code",
-      "url": "https://www.medianama.com/2026/06/223-lowdown-sebi-treat-finfluencers-ai-avatars-celebrities-under-new-ad-code/",
-      "cat": "POLICY",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "What is Fugu, Sakana\u2019s new AI agent-orchestrator to help navigate export controls?",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-fugu-sakana-ai-agents-export-controls-10753629/",
-      "cat": "RESEARCH",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "Riviera Partners acquires AI startup recruiter Lateral Labs as the talent war reshapes executive search",
-      "url": "https://thenextweb.com/news/riviera-partners-acquires-lateral-labs-ai-recruiting",
-      "cat": "OTHER",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
-      "url": "https://arxiv.org/abs/2606.23927",
-      "cat": "RESEARCH",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
-      "url": "https://arxiv.org/abs/2606.24855",
-      "cat": "RESEARCH",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
-      "title": "World Models in Pieces: Structural Certification for General Agents",
-      "url": "https://arxiv.org/abs/2606.24842",
-      "cat": "RESEARCH",
-      "date": "2026-06-24T21:57:39.047604"
-    },
-    {
       "title": "How Telangana police is using air-gapped AI systems for child sexual abuse investigations",
       "url": "https://www.medianama.com/2026/06/223-telangana-police-using-air-gapped-ai-systems-child-sexual-abuse-investigations/",
       "cat": "ENTERPRISE",
@@ -833,6 +695,120 @@
       "url": "https://www.medianama.com/2026/07/223-meta-tightens-ai-glasses-security-questions-bystander-privacy-persist/",
       "cat": "OTHER",
       "date": "2026-07-08T21:45:06.136834"
+    },
+    {
+      "title": "11 key takeaways from Jharkhand\u2019s draft AI Policy",
+      "url": "https://www.medianama.com/2026/07/223-11-key-takeaways-jharkhand-draft-ai-policy/",
+      "cat": "POLICY",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Centre signals dedicated AI law as India prepares regulatory framework",
+      "url": "https://www.indiantelevision.com/shows/news/centre-signals-dedicated-ai-law-as-india-prepares-regulatory-framework-1260705",
+      "cat": "POLICY",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Accel\u2019s Subrata Mitra On Why AI Will Break More Founders, And How To Survive It",
+      "url": "https://inc42.com/features/accel-subrata-mitra-on-down-but-not-out-book-interview/",
+      "cat": "OTHER",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "No code, no developer, no waiting: How AI is rewriting the rules for India's MSMEs",
+      "url": "https://yourstory.com/2026/07/no-code-no-developer-no-waiting-how-ai-is-rewriting-the-rules-for-indias-msmes",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Govt. was hiring Director for its IndiaAI Safety Institute",
+      "url": "https://www.medianama.com/2026/07/223-meity-india-ai-safety-institute-director-hiring/",
+      "cat": "POLICY",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Google launches AI agent within Search ads in India, expands Gemini-powered ad tools",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-launches-ai-agent-search-ads-india-gemini-10778840/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Govt Ministries Queue Up To Adopt AI; Law May Follow Soon",
+      "url": "https://www.etvbharat.com/english/national/states/telangana/govt-ministries-queue-up-to-adopt-ai-law-may-follow-soon/national202607092206331313430",
+      "cat": "POLICY",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Krutrim, Ola Electric CEO's new AI venture, valued at $1 billion",
+      "url": "https://www.upstox.com/news/business-news/krutrim-ola-electric-ceos-new-ai-venture-valued-at-1-billion/",
+      "cat": "FUNDING",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Nandan Nilekani Increases Support to AI4Bharat with Total Grant of INR 70 Crore",
+      "url": "https://www.entrepreneur.com/en/news-and-commentary/nandan-nilekani-increases-support-to-ai4bharat-with-total-grant-of-inr-70-crore/449414",
+      "cat": "FUNDING",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Mukesh Bansal\u2019s Nurix AI Acquires Verloop",
+      "url": "https://inc42.com/buzz/mukesh-bansals-nurix-ai-to-acquire-verloop/",
+      "cat": "FUNDING",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Skilling vital in India's goal of becoming AI solutions capital: IT Secretary",
+      "url": "https://yourstory.com/2026/07/skilling-vital-india-goal-ai-solutions-capital-it-secretary",
+      "cat": "POLICY",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Government, Nasscom working on AI curriculum for undergraduate programmes",
+      "url": "https://yourstory.com/2026/07/govt-nasscom-ai-curriculum-undergraduate-programmes",
+      "cat": "POLICY",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Bombay HC grants Preity Zinta interim relief against AI deepfakes, chatbots, and merchandise misusing her personality",
+      "url": "https://www.medianama.com/2026/07/223-bombay-hc-grants-preity-zinta-interim-relief-ai-deepfakes-chatbots-merchandise-misusing-personality/",
+      "cat": "POLICY",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Delhi High Court protects personality rights of Ravi Kishan, orders takedown of AI-generated images",
+      "url": "https://www.medianama.com/2026/07/223-delhi-high-court-protects-personality-rights-ravi-kishan-takedown-ai-generated-images/",
+      "cat": "POLICY",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Bengaluru-based AI Startup Alchemic Raises Rs 2.5 Crore in Pre-Seed Funding Led by AJVC",
+      "url": "https://indiastartuptimes.com/bengaluru-based-ai-startup-alchemic-raises-rs-2-5-crore-in-pre-seed-funding-led-by-ajvc/",
+      "cat": "FUNDING",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "DevSparks Hyderabad returns to decode agentic AI, cybersecurity, and the future of software development",
+      "url": "https://yourstory.com/2026/07/devsparks-hyderabad-agentic-ai-cybersecurity-software-development-future",
+      "cat": "RESEARCH",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Government has done its part on GCC, industry must build capabilities to meet AI challenge: CEA",
+      "url": "https://yourstory.com/2026/07/govt-done-its-part-gcc-industry-build-capabilities-ai-challenge-cea",
+      "cat": "POLICY",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "Building production agents using AWS\u2019s open source Strands Agents SDK",
+      "url": "https://yourstory.com/2026/07/production-agents-aws-open-source-strands-agents-sdk",
+      "cat": "RESEARCH",
+      "date": "2026-07-09T22:00:58.106130"
+    },
+    {
+      "title": "AI reviewers make it easier to get research published. US study calls it paper-laundering",
+      "url": "https://theprint.in/science/ai-reviewers-research-published-us-study-calls-it-paper-laundering/2982221/",
+      "cat": "RESEARCH",
+      "date": "2026-07-09T22:00:58.106130"
     }
   ]
 }
