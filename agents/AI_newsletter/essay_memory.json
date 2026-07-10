@@ -910,6 +910,18 @@
         "Specialized hardware (NPUs) and software optimization are key to on-device AI.",
         "Model quantization and distillation enable efficient AI on edge devices."
       ]
+    },
+    {
+      "date": "2026-07-10T21:38:26.013085",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "On-device AI is a strategic imperative for defensible AI products in 2026.",
+        "On-device AI offers advantages in privacy, responsiveness, and cost efficiency.",
+        "Edge AI relies on specialized hardware like NPUs and software optimizations.",
+        "Hybrid AI architectures intelligently route tasks between on-device and cloud processing."
+      ]
     }
   ]
 }
