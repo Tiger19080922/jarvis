@@ -922,6 +922,19 @@
         "Edge AI relies on specialized hardware like NPUs and software optimizations.",
         "Hybrid AI architectures intelligently route tasks between on-device and cloud processing."
       ]
+    },
+    {
+      "date": "2026-07-11T21:25:34.240382",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "On-device AI is a strategic imperative, not just an optimization.",
+        "Local processing offers unparalleled privacy and real-time responsiveness.",
+        "NPUs are specialized hardware enabling efficient on-device AI.",
+        "Quantization and distillation are key techniques for model optimization.",
+        "On-device AI creates a competitive advantage through user-centric products."
+      ]
     }
   ]
 }
