@@ -1,126 +1,6 @@
 {
   "stories": [
     {
-      "title": "How Telangana police is using air-gapped AI systems for child sexual abuse investigations",
-      "url": "https://www.medianama.com/2026/06/223-telangana-police-using-air-gapped-ai-systems-child-sexual-abuse-investigations/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "DoT\u2019s technical wing is forming a working group for AI Standardisation",
-      "url": "https://www.medianama.com/2026/06/223-dot-ai-standards-working-group/",
-      "cat": "POLICY",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "\u2018Developers are moving from writing code to orchestrating AI agents\u2019: AWS\u2019s Jeff Barr",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/aws-jeff-barr-kiro-developers-coding-ai-agents-ai-apps-10758468/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "OpenAI poaches Uber India\u2019s chief to run its biggest market outside the United States",
-      "url": "https://thenextweb.com/news/openai-india-managing-director-prabhjeet-singh-uber",
-      "cat": "OTHER",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "India seeks assurance from US against 'abrupt AI technology cutoffs': MeitY Secretary S Krishnan",
-      "url": "https://telecom.economictimes.indiatimes.com/news/india-seeks-assurance-from-us-against-abrupt-ai-technology-cutoffs-meity-secretary-s-krishnan/110956587",
-      "cat": "POLICY",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "Project \u2018Kill Switch\u2019: Can RBI Protect Banks, NBFCs From Rogue AI Actors?",
-      "url": "https://inc42.com/buzz/project-kill-switch-can-rbi-protect-banks-nbfcs-from-rogue-ai-actors/",
-      "cat": "POLICY",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "After Mythos suspension, India pushes for stable AI access from the US",
-      "url": "https://www.medianama.com/2026/06/223-mythos-india-us-stable-ai-access/",
-      "cat": "POLICY",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "IndiaMART to increase AI spending to tackle fake listings, speed up buyer requests",
-      "url": "https://www.medianama.com/2026/06/223-indiamart-increase-ai-spending-tackle-fake-listings-speed-up-buyer-requests/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "OpenAI names Prabhjeet Singh India MD, launches GPT-5.6 Sol with stronger cyber protections",
-      "url": "https://www.livemint.com/technology/tech-news/openai-names-prabhjeet-singh-india-md-launches-gpt-5-6-sol-with-stronger-cyber-protections-11782535485928.html",
-      "cat": "OTHER",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "Press Release - Digital India",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2031105",
-      "cat": "POLICY",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "India Can't Win the AI Race Without Betting Big on R&D",
-      "url": "https://www.thewire.in/tech/india-ai-race-betting-big-rd",
-      "cat": "POLICY",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "[Update] After Quitting Uber, Prabhjeet Singh To Join OpenAI As India MD",
-      "url": "https://inc42.com/buzz/uber-india-head-prabhjeet-singh-steps-down/",
-      "cat": "OTHER",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "OpenAI defers public rollout of GPT\u20115.6 as US seeks early access to frontier AI models",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-defers-public-rollout-of-gpt%e2%80%915-6-as-us-seeks-early-access-to-frontier-ai-models-10759804/",
-      "cat": "RESEARCH",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "ChatGPT 5.6 rollout may begin with limited access, report claims",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/chatgpt-5-6-rollout-may-begin-with-limited-access-report-claims-10758678/",
-      "cat": "RESEARCH",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "FDA: An attack to corrupt the core of AI models!",
-      "url": "https://val.cds.iisc.ac.in/fda/",
-      "cat": "RESEARCH",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "OpenAI\u2019s Jalape\u00f1o AI chip; Nekko\u2019s next growth engine",
-      "url": "https://yourstory.com/2026/06/openai-jalapeo-ai-chip-nekko-next-growth-engine",
-      "cat": "RESEARCH",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "US reportedly wants OpenAI to delay GPT-5.6 rollout after restrictions on Anthropic\u2019s models",
-      "url": "https://www.medianama.com/2026/06/223-us-openai-delay-gpt-5-6-rollout/",
-      "cat": "RESEARCH",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "11 ways Google says Gemini can transform productivity at work",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/11-ways-google-says-gemini-can-transform-productivity-at-work-10760291/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "The next generation of AI won\u2019t be powered by better models alone",
-      "url": "https://thenextweb.com/news/ai-infrastructure-oxylabs-vytautas-savickas-interview",
-      "cat": "RESEARCH",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
-      "title": "Fujitsu and IISc launch joint research on advanced AI technologies to accelerate new material development and resolve societal challenges",
-      "url": "https://www.fujitsu.com/global/about/resources/news/press-releases/2025/1016-01.html",
-      "cat": "RESEARCH",
-      "date": "2026-06-27T21:41:54.881238"
-    },
-    {
       "title": "India\u2019s payments chief says AI will drive UPI from 750 million to a billion daily transactions",
       "url": "https://thenextweb.com/news/india-upi-npci-ai-billion-daily-transactions",
       "cat": "ENTERPRISE",
@@ -983,6 +863,42 @@
       "url": "https://indianexpress.com/article/technology/tech-news-technology/ios-27-apple-mail-gets-ai-search-smart-replies-and-siri-features-10782109/",
       "cat": "RESEARCH",
       "date": "2026-07-11T21:25:35.625556"
+    },
+    {
+      "title": "India's MSMEs power the economy, but most still aren't using AI",
+      "url": "https://yourstory.com/2026/07/fynd-ragini-varma-ai-for-msmes-autonomous-retail-msme-sparks-2026",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-12T21:26:17.135941"
+    },
+    {
+      "title": "The AI race has quietly stopped being about who has the biggest model",
+      "url": "https://thenextweb.com/news/ai-race-shifts-bigger-models-to-cheaper-systems",
+      "cat": "RESEARCH",
+      "date": "2026-07-12T21:26:17.135941"
+    },
+    {
+      "title": "Unicorn Founders Go AI Native",
+      "url": "https://inc42.com/features/unicorn-founders-go-ai-native/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-12T21:26:17.135941"
+    },
+    {
+      "title": "Zhipu\u2019s founder says frontier AI should stay open to everyone. His own government may disagree.",
+      "url": "https://thenextweb.com/news/zhipu-tang-jie-frontier-ai-open-to-all",
+      "cat": "POLICY",
+      "date": "2026-07-12T21:26:17.135941"
+    },
+    {
+      "title": "Nostalgia is identity: how Avinash Mudaliar built Carvaan, and why AI needs its own Carvaan moment",
+      "url": "https://yourstory.com/2026/07/saregama-carvaan-avinash-mudaliar-nostalgia-ai-carvaans",
+      "cat": "OTHER",
+      "date": "2026-07-12T21:26:17.135941"
+    },
+    {
+      "title": "AI bosses say demand is \u2018almost unlimited\u2019. The market is no longer taking their word for it.",
+      "url": "https://thenextweb.com/news/ai-demand-unlimited-chip-stock-volatility",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-12T21:26:17.135941"
     }
   ]
 }

@@ -935,6 +935,18 @@
         "Quantization and distillation are key techniques for model optimization.",
         "On-device AI creates a competitive advantage through user-centric products."
       ]
+    },
+    {
+      "date": "2026-07-12T21:26:15.940665",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "On-device AI offers granular control over the inference stack.",
+        "Edge intelligence grants autonomy over user experience and data privacy.",
+        "Specialized hardware like NPUs enables efficient on-device AI processing.",
+        "Model optimization techniques like quantization and distillation are crucial for edge deployment."
+      ]
     }
   ]
 }
