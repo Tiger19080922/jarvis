@@ -947,6 +947,18 @@
         "Specialized hardware like NPUs enables efficient on-device AI processing.",
         "Model optimization techniques like quantization and distillation are crucial for edge deployment."
       ]
+    },
+    {
+      "date": "2026-07-13T21:32:38.831029",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "On-device AI shifts value from cloud to local, personalized intelligence.",
+        "Edge AI enables defensible AI agents and services through privacy and resilience.",
+        "Specialized hardware like NPUs is crucial for efficient on-device AI.",
+        "Model quantization and distillation are key software techniques for on-device AI."
+      ]
     }
   ]
 }

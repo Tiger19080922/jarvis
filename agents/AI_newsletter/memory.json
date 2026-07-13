@@ -1,90 +1,6 @@
 {
   "stories": [
     {
-      "title": "India\u2019s payments chief says AI will drive UPI from 750 million to a billion daily transactions",
-      "url": "https://thenextweb.com/news/india-upi-npci-ai-billion-daily-transactions",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-28T21:41:07.899044"
-    },
-    {
-      "title": "As Digital India turns 11, govt bets on AI, semiconductors to drive next growth phase",
-      "url": "https://www.aninews.in/news/national/as-digital-india-turns-11-govt-bets-on-ai-semiconductors-to-drive-next-growth-phase202606271639000563",
-      "cat": "POLICY",
-      "date": "2026-06-28T21:41:07.899044"
-    },
-    {
-      "title": "India's technology services sector will continue to grow in the AI era: Nasscom US CEO Forum",
-      "url": "https://www.business-standard.com/industry/news/india-it-cos-generating-10-12-bn-in-ai-revenue-set-for-growth-nasscom-126062600607_1.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-28T21:41:07.899044"
-    },
-    {
-      "title": "RBI's Draft Guidance on Regulatory Principles for Model Risk Management, 2026",
-      "url": "https://www.mondaq.com/india/financial-services/1514804/rbi039s-draft-guidance-on-regulatory-principles-for-model-risk-management-2026",
-      "cat": "POLICY",
-      "date": "2026-06-28T21:41:07.899044"
-    },
-    {
-      "title": "A Case for a Human-Centric AI Legislative Framework in India",
-      "url": "https://www.scconline.com/blog/post/2026/06/26/a-case-for-a-human-centric-ai-legislative-framework-in-india/",
-      "cat": "POLICY",
-      "date": "2026-06-28T21:41:07.899044"
-    },
-    {
-      "title": "How a niche technology became a choke point for AI",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/how-a-niche-technology-became-a-choke-point-for-ai-10761049/",
-      "cat": "RESEARCH",
-      "date": "2026-06-28T21:41:07.899044"
-    },
-    {
-      "title": "Google limits Meta\u2019s use of its Gemini AI models: Report",
-      "url": "https://www.livemint.com/technology/tech-news/google-limits-meta-s-use-of-its-gemini-ai-models-11782624880463.html",
-      "cat": "RESEARCH",
-      "date": "2026-06-28T21:41:07.899044"
-    },
-    {
-      "title": "Google is rationing Gemini access to Meta because it cannot provide enough compute",
-      "url": "https://thenextweb.com/news/google-caps-meta-gemini-compute-shortage",
-      "cat": "OTHER",
-      "date": "2026-06-28T21:41:07.899044"
-    },
-    {
-      "title": "AI research papers from IITs and IISc announced in June 2026",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnM1fYJmq-t6BO02QyZnfdDHRnw1CbpPcvIy2RWmW5h-BIw8ss-O6DYRx8woJHBHbN4KY2Z8Z3WmdFUnCLzGVWUZdhqDIesEIDsn4M5m1S0Yw9K8TtLS691peJnpNd4EmN9OQ78e-mw0s=",
-      "cat": "RESEARCH",
-      "date": "2026-06-28T21:41:07.899044"
-    },
-    {
-      "title": "Researcher wins $1,00,000 prize for decoding Zebra Finch calls using AI",
-      "url": "https://indianexpress.com/article/technology/science/researcher-wins-100000-prize-for-decoding-zebra-finch-calls-using-ai-10759218/",
-      "cat": "RESEARCH",
-      "date": "2026-06-28T21:41:07.899044"
-    },
-    {
-      "title": "iPhone 18 to get a big RAM upgrade as Apple doubles down on AI: Report",
-      "url": "https://www.livemint.com/technology/gadgets/iphone-18-to-get-a-big-ram-upgrade-as-apple-doubles-down-on-ai-report-11782527076129.html",
-      "cat": "RESEARCH",
-      "date": "2026-06-28T21:41:07.899044"
-    },
-    {
-      "title": "Auto repair is one of the least digitised industries in America. AI is changing the economics of why.",
-      "url": "https://thenextweb.com/news/vertical-ai-auto-repair-shops-software-market",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-28T21:41:07.899044"
-    },
-    {
-      "title": "AI Challenge for Healthy Brain Aging | 2026",
-      "url": "https://iisc.ac.in/ai-challenge-healthy-brain-aging-2026/",
-      "cat": "RESEARCH",
-      "date": "2026-06-28T21:41:07.899044"
-    },
-    {
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNQRJmLTJeVoxeHM4p29hwUsd1hfrdcnLd6ZN9g-zB_WHFMbqIeolLXKBxcrIubKVuKPrEItBxKQrIZR0t-84De_z3yL2kVmy8e_hSWUEwMfS61MApPWhiUFyf5rLtjnCVNTjpu2pBJFl9TqmRQ5Jv8boFF-5RrAKj0lUJGZe5S6o9VHRpD0tXGHr6z2ipwAoTHXSuYszD",
-      "cat": "RESEARCH",
-      "date": "2026-06-28T21:41:07.899044"
-    },
-    {
       "title": "Indian Government Set to Acquire Minority Stake in AI Startup Sarvam Under IndiaAI Mission",
       "url": "https://www.livemint.com/technology/tech-news/indian-government-set-to-acquire-minority-stake-in-ai-startup-sarvam-under-indiaai-mission-11719632569249.html",
       "cat": "FUNDING",
@@ -899,6 +815,48 @@
       "url": "https://thenextweb.com/news/ai-demand-unlimited-chip-stock-volatility",
       "cat": "ENTERPRISE",
       "date": "2026-07-12T21:26:17.135941"
+    },
+    {
+      "title": "Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/indias-tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions-10783755/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-13T21:32:40.354841"
+    },
+    {
+      "title": "India's IT sector urged to adopt 'AI as a Service' model",
+      "url": "https://www.techgig.com/tech-news/editors-pick/indias-it-sector-urged-to-adopt-ai-as-a-service-model-104202",
+      "cat": "POLICY",
+      "date": "2026-07-13T21:32:40.354841"
+    },
+    {
+      "title": "Over 760 proposals, requests from various ministries on AI applications under evaluation: IT Secy",
+      "url": "https://telecom.economictimes.indiatimes.com/news/over-760-proposals-requests-from-various-ministries-on-ai-applications-under-evaluation-it-secy/110587210",
+      "cat": "POLICY",
+      "date": "2026-07-13T21:32:40.354841"
+    },
+    {
+      "title": "What is BrainCo, the Chinese startup taking on Neuralink in brain computer interfaces?",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/what-is-brainco-china-neuralink-rival-brain-computer-interface-10784446/",
+      "cat": "RESEARCH",
+      "date": "2026-07-13T21:32:40.354841"
+    },
+    {
+      "title": "Anthropic extends Claude Fable 5 access to paid subscribers until July 19: Here\u2019s what changes later",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-extends-claude-fable-5-access-july-19-what-changes-10784119/",
+      "cat": "RESEARCH",
+      "date": "2026-07-13T21:32:40.354841"
+    },
+    {
+      "title": "\u2018Paying for intelligence twice\u2019: Satya Nadella warns firms over hidden cost of AI adoption",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-satya-nadella-reverse-information-paradox-enterprise-ai-adoption-10784010/",
+      "cat": "OTHER",
+      "date": "2026-07-13T21:32:40.354841"
+    },
+    {
+      "title": "Nadella says you pay for AI twice, and Microsoft helped build the trap",
+      "url": "https://thenextweb.com/news/nadella-reverse-information-paradox-ai-ip",
+      "cat": "OTHER",
+      "date": "2026-07-13T21:32:40.354841"
     }
   ]
 }
