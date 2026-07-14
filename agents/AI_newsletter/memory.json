@@ -1,48 +1,6 @@
 {
   "stories": [
     {
-      "title": "Indian Government Set to Acquire Minority Stake in AI Startup Sarvam Under IndiaAI Mission",
-      "url": "https://www.livemint.com/technology/tech-news/indian-government-set-to-acquire-minority-stake-in-ai-startup-sarvam-under-indiaai-mission-11719632569249.html",
-      "cat": "FUNDING",
-      "date": "2026-06-29T21:54:54.465292"
-    },
-    {
-      "title": "Why enterprises aren\u2019t ready for AI Agents yet",
-      "url": "https://www.medianama.com/2026/06/223-enterprise-ai-agent-deployment/",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-29T21:54:54.465292"
-    },
-    {
-      "title": "Explained: Why Google moved Gemini to token-based limits",
-      "url": "https://www.medianama.com/2026/06/223-explained-google-moved-gemini-token-based-limits/",
-      "cat": "OTHER",
-      "date": "2026-06-29T21:54:54.465292"
-    },
-    {
-      "title": "Amazon seeks cheaper AI alternatives as Anthropic shifts to token-based pricing",
-      "url": "https://thenextweb.com/news/amazon-anthropic-token-pricing-openai-alternative",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-29T21:54:54.465292"
-    },
-    {
-      "title": "Arena, the AI leaderboard everyone uses, just became a 100 million dollar business",
-      "url": "https://thenextweb.com/news/arena-ai-leaderboard-100-million-revenue-evaluation",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-29T21:54:54.465292"
-    },
-    {
-      "title": "Germany wants Helsing to build the brain of its next air war",
-      "url": "https://thenextweb.com/news/helsing-germany-cfsn-combat-cloud-contract",
-      "cat": "OTHER",
-      "date": "2026-06-29T21:54:54.465292"
-    },
-    {
-      "title": "California gives all state agencies access to Claude at half price in first-of-its-kind Anthropic deal",
-      "url": "https://thenextweb.com/news/anthropic-california-newsom-claude-half-price-government",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-29T21:54:54.465292"
-    },
-    {
       "title": "India IT companies generating $10-12 billion in AI revenue, poised for growth: NASSCOM",
       "url": "https://www.business-standard.com/industry/news/india-it-cos-generating-10-12-bn-in-ai-revenue-set-for-growth-nasscom-126062600480_1.html",
       "cat": "ENTERPRISE",
@@ -857,6 +815,60 @@
       "url": "https://thenextweb.com/news/nadella-reverse-information-paradox-ai-ip",
       "cat": "OTHER",
       "date": "2026-07-13T21:32:40.354841"
+    },
+    {
+      "title": "Elevation Capital launches $500M fund with focus on Indian AI startups",
+      "url": "https://yourstory.com/2026/07/elevation-capital-launches-500-million-fund-focus-indian-ai-startups",
+      "cat": "FUNDING",
+      "date": "2026-07-14T21:33:52.800757"
+    },
+    {
+      "title": "Karnataka CM announces first govt-driven AI University",
+      "url": "https://yourstory.com/2026/07/karnataka-cm-announces-first-govt-driven-ai-university",
+      "cat": "POLICY",
+      "date": "2026-07-14T21:33:52.800757"
+    },
+    {
+      "title": "Anthropic introduces India pricing for Claude as AI race heats up",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-introduces-india-pricing-for-claude-as-ai-race-heats-up-10785590/",
+      "cat": "FUNDING",
+      "date": "2026-07-14T21:33:52.800757"
+    },
+    {
+      "title": "How Google Cloud\u2019s Gemini Enterprise is helping MSMEs build AI agents without writing code",
+      "url": "https://yourstory.com/2026/07/how-google-clouds-gemini-enterprise-is-helping-msmes-build-ai-agents-without-writing-code",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-14T21:33:52.800757"
+    },
+    {
+      "title": "OpenAI\u2019s ChatGPT Work goes beyond coding to automate office tasks",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openais-chatgpt-work-goes-beyond-coding-to-automate-office-tasks-10785650/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-14T21:33:52.800757"
+    },
+    {
+      "title": "Dimon says AI already eliminated 30 to 40 percent of jobs in some JPMorgan divisions",
+      "url": "https://thenextweb.com/news/jpmorgan-dimon-ai-jobs-cuts-margins-q2-earnings",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-14T21:33:52.800757"
+    },
+    {
+      "title": "When data speaks your language: How Gemini Enterprise is helping businesses move faster",
+      "url": "https://yourstory.com/2026/07/when-data-speaks-your-language-how-gemini-enterprise-is-helping-businesses-move-faster",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-14T21:33:52.800757"
+    },
+    {
+      "title": "71% of smartphone users actively use generative AI features: CMR study",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/71-of-smartphone-users-actively-use-generative-ai-features-cmr-study-10786069/",
+      "cat": "RESEARCH",
+      "date": "2026-07-14T21:33:52.800757"
+    },
+    {
+      "title": "Meta sued by 26 employees who say its AI systems targeted workers on medical leave for layoffs",
+      "url": "https://thenextweb.com/news/meta-lawsuit-ai-layoffs-medical-leave-disability",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-14T21:33:52.800757"
     }
   ]
 }

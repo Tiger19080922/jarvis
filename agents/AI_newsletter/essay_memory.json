@@ -959,6 +959,18 @@
         "Specialized hardware like NPUs is crucial for efficient on-device AI.",
         "Model quantization and distillation are key software techniques for on-device AI."
       ]
+    },
+    {
+      "date": "2026-07-14T21:33:51.233298",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "On-device AI is a strategic pivot for AI product defensibility.",
+        "Value capture shifts from cloud to personalized, privacy-centric user experiences.",
+        "Companies ignoring on-device AI risk losing data and market share.",
+        "On-device AI reorients the competitive landscape to the user's device."
+      ]
     }
   ]
 }
