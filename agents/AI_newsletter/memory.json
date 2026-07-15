@@ -1,24 +1,6 @@
 {
   "stories": [
     {
-      "title": "India IT companies generating $10-12 billion in AI revenue, poised for growth: NASSCOM",
-      "url": "https://www.business-standard.com/industry/news/india-it-cos-generating-10-12-bn-in-ai-revenue-set-for-growth-nasscom-126062600480_1.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-30T21:58:34.425321"
-    },
-    {
-      "title": "Enterprise AI\u2019s Missing Foundation: Why Content Governance May Matter More Than the Next AI Breakthrough",
-      "url": "https://thenextweb.com/news/enterprise-ai-content-governance-precision-content-rob-hanna",
-      "cat": "ENTERPRISE",
-      "date": "2026-06-30T21:58:34.425321"
-    },
-    {
-      "title": "Google releases Nano Banana 2 Lite, its fastest and cheapest AI image generator yet",
-      "url": "https://thenextweb.com/news/google-nano-banana-2-lite-omni-flash-image-video",
-      "cat": "RESEARCH",
-      "date": "2026-06-30T21:58:34.425321"
-    },
-    {
       "title": "Together AI raises 800 million dollars in Series C as open-source cloud demand surges",
       "url": "https://thenextweb.com/news/together-ai-800m-series-c-aramco-ventures",
       "cat": "FUNDING",
@@ -869,6 +851,126 @@
       "url": "https://thenextweb.com/news/meta-lawsuit-ai-layoffs-medical-leave-disability",
       "cat": "ENTERPRISE",
       "date": "2026-07-14T21:33:52.800757"
+    },
+    {
+      "title": "The Black Box Era Of Enterprise AI Is Ending As Customer-Controlled AI Takes Spotlight",
+      "url": "https://inc42.com/resources/the-black-box-era-of-enterprise-ai-is-ending-as-customer-controlled-ai-takes-spotlight/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "Shunya Labs wants voice infrastructure to work the way Indians speak",
+      "url": "https://yourstory.com/2026/07/shunya-labs-voice-ai-indian-languages-startup-ritu-mehrotra-sourav-bandyopadhyay",
+      "cat": "RESEARCH",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "MeitY releases Digital Threat Report 2025-26, flags AI asymmetry as key risk to BFSI",
+      "url": "https://www.medianama.com/2026/07/223-meity-digital-threat-report-2025-26-ai-asymmetry-risk-bfsi/",
+      "cat": "POLICY",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "How Bolna AI Is Helping Enterprises Win The Voice AI Race",
+      "url": "https://inc42.com/startups/how-bolna-ai-is-helping-enterprises-to-win-the-voice-ai-race/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "The Unit Economics Of India\u2019s Voice AI Boom",
+      "url": "https://inc42.com/features/the-unit-economics-of-indias-voice-ai-boom/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "Zomato Piloting AI-Powered Voice Bot For Food Delivery",
+      "url": "https://inc42.com/buzz/zomato-piloting-ai-powered-voice-bot-for-food-delivery/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "Edgehax is building India's edge-AI boards so hardware makers stop importing them",
+      "url": "https://yourstory.com/2026/07/edgehax-india-edge-ai-boards",
+      "cat": "OTHER",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "AI startup Emergent turns unicorn with $130M Series C funding",
+      "url": "https://yourstory.com/2026/07/ai-startup-emergent-unicorn-130-million-series-c-funding",
+      "cat": "FUNDING",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "This startup wants CFOs to treat cloud bills as innovation funds",
+      "url": "https://yourstory.com/2026/07/cloudlens-ai-agentless-cloud-cost-optimisation-aws",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "Zoho launches Classes 2.0, betting on AI to fix India\u2019s education gaps",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/zoho-launches-classes-2-0-betting-on-ai-to-fix-indias-education-gaps-10787242/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "Thinking Machines debuts Inkling, a giant open model it admits is not the best",
+      "url": "https://thenextweb.com/news/thinking-machines-inkling-open-weight-model",
+      "cat": "RESEARCH",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In July",
+      "url": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-july/",
+      "cat": "OTHER",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "Kerala's iHUB Robotics is teaching robots to see, act, and understand",
+      "url": "https://yourstory.com/2026/07/kerala-robotics-startup-ihub",
+      "cat": "RESEARCH",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "E3 Electric.Ai raises Rs 100 Cr in Series A round led by BluVenture",
+      "url": "https://yourstory.com/2026/07/e3-electricai-rs-100-cr-series-a-round-led-by-bluventure",
+      "cat": "FUNDING",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "Karnataka CM announces green data centre, plans AI university at Google I/O connect India",
+      "url": "https://www.medianama.com/2026/07/223-google-io-connect-india-karnataka-ai-university-data-centre/",
+      "cat": "POLICY",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "Bliq.ai gets the green light for driverless cars in Finland",
+      "url": "https://thenextweb.com/news/bliq-driverless-finland-approval",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "Anthropic\u2019s India Push, InsuranceDekho\u2019s IPO & More",
+      "url": "https://inc42.com/buzz/anthropics-india-push-insurancedekhos-ipo-more/",
+      "cat": "OTHER",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "Krishna Byre Gowda\u2019s plan for Bengaluru; Google\u2019s AI push in India",
+      "url": "https://yourstory.com/2026/07/krishna-byre-gowdas-plan-for-bengaluru-google-ai-push-india",
+      "cat": "POLICY",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "Claude is warmer in Hindi, more rigorous in English: Anthropic study on AI language variations",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/claude-warmer-in-hindi-anthropic-study-ai-languages-10786134/",
+      "cat": "RESEARCH",
+      "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "OpenAI is showing Kalshi\u2019s World Cup odds inside ChatGPT, its first prediction market deal",
+      "url": "https://thenextweb.com/news/openai-kalshi-chatgpt-world-cup-prediction-markets",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-15T21:33:54.874546"
     }
   ]
 }

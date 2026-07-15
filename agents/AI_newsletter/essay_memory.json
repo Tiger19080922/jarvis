@@ -971,6 +971,18 @@
         "Companies ignoring on-device AI risk losing data and market share.",
         "On-device AI reorients the competitive landscape to the user's device."
       ]
+    },
+    {
+      "date": "2026-07-15T21:33:53.164372",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "On-device AI shifts value creation from centralized processing to distributed intelligence.",
+        "Edge AI offers enhanced privacy by keeping user data local.",
+        "Specialized hardware like NPUs enables efficient on-device AI inference.",
+        "Model optimization techniques like quantization are crucial for edge deployment."
+      ]
     }
   ]
 }
