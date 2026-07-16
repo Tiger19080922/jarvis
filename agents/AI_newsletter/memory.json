@@ -1,24 +1,6 @@
 {
   "stories": [
     {
-      "title": "Together AI raises 800 million dollars in Series C as open-source cloud demand surges",
-      "url": "https://thenextweb.com/news/together-ai-800m-series-c-aramco-ventures",
-      "cat": "FUNDING",
-      "date": "2026-07-01T22:03:49.518991"
-    },
-    {
-      "title": "Meta is replacing human moderators with AI. Can it handle India\u2019s 22 official languages?",
-      "url": "https://www.medianama.com/2026/07/223-meta-ai-content-moderation-india/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-01T22:03:49.518991"
-    },
-    {
-      "title": "Telangana police use AI-powered drones with facial recognition for Hyderabad street patrolling",
-      "url": "https://www.medianama.com/2026/07/223-telangana-police-use-ai-powered-drones-facial-recognition-hyderabad-street-patrolling/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-01T22:03:49.518991"
-    },
-    {
       "title": "Bhavin Turakhia launches AI-native work platform Neo with $30M investment",
       "url": "https://yourstory.com/2026/07/bhavin-turakhia-ai-native-work-platform-neo-30m-investment",
       "cat": "FUNDING",
@@ -971,6 +953,60 @@
       "url": "https://thenextweb.com/news/openai-kalshi-chatgpt-world-cup-prediction-markets",
       "cat": "ENTERPRISE",
       "date": "2026-07-15T21:33:54.874546"
+    },
+    {
+      "title": "Physical AI Startup SwitchOn Raises $8 Mn To Scale Manufacturing Inspection",
+      "url": "https://inc42.com/buzz/physical-ai-startup-switchon-raises-8-mn-to-scale-manufacturing-inspection/",
+      "cat": "FUNDING",
+      "date": "2026-07-16T21:36:09.632288"
+    },
+    {
+      "title": "Exclusive: AI Sales Intelligence Startup Reo.Dev Raises $11.3 Mn To Expand In US",
+      "url": "https://inc42.com/buzz/exclusive-ai-sales-intelligence-startup-reo-dev-raises-11-3-mn-to-expand-in-us/",
+      "cat": "FUNDING",
+      "date": "2026-07-16T21:36:09.632288"
+    },
+    {
+      "title": "Reo.Dev raises $11.3M in Series A led by Elevation Capital",
+      "url": "https://yourstory.com/2026/07/reodev-raises-113-million-series-a-elevation-capital",
+      "cat": "FUNDING",
+      "date": "2026-07-16T21:36:09.632288"
+    },
+    {
+      "title": "logcat.ai Bags $2.5 Mn To Build AI Platform For Android, Linux Engineering",
+      "url": "https://inc42.com/buzz/logcat-ai-bags-2-5-mn-to-build-ai-platform-for-android-linux-engineering/",
+      "cat": "FUNDING",
+      "date": "2026-07-16T21:36:09.632288"
+    },
+    {
+      "title": "What is Thinking Machines\u2019 first AI model \u2018Inkling\u2019, and how is it different from ChatGPT, Claude?",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-thinking-machines-first-ai-model-inkling-10789620/",
+      "cat": "RESEARCH",
+      "date": "2026-07-16T21:36:09.632288"
+    },
+    {
+      "title": "Sophos launches unified, AI-native defense system to counter next wave of cyber attacks",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/sophos-fusion-ai-native-defense-system-cyber-attacks-10789186/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-16T21:36:09.632288"
+    },
+    {
+      "title": "Spotify rolls out AI voice and text assistant for music, podcasts and audiobooks",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/spotify-rolls-out-ai-voice-and-text-assistant-for-music-podcasts-and-audiobooks-10787971/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-16T21:36:09.632288"
+    },
+    {
+      "title": "40% long posts on LinkedIn are AI-generated, highest among social platforms: Study",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/linkedin-ai-saturated-long-posts-study-pangram-10789765/",
+      "cat": "RESEARCH",
+      "date": "2026-07-16T21:36:09.632288"
+    },
+    {
+      "title": "1Password lets Claude log you into websites without ever seeing your passwords",
+      "url": "https://thenextweb.com/news/1password-claude-credential-zero-exposure-agentic-mode",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-16T21:36:09.632288"
     }
   ]
 }

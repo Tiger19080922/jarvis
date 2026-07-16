@@ -983,6 +983,19 @@
         "Specialized hardware like NPUs enables efficient on-device AI inference.",
         "Model optimization techniques like quantization are crucial for edge deployment."
       ]
+    },
+    {
+      "date": "2026-07-16T21:36:07.640173",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "On-device AI shifts intelligence from cloud to user hardware.",
+        "NPUs are specialized hardware for efficient AI processing.",
+        "Inference is using a trained model on new data.",
+        "Privacy-preserving AI techniques protect sensitive user information.",
+        "Offline-first architecture ensures functionality without constant internet."
+      ]
     }
   ]
 }
