@@ -996,6 +996,18 @@
         "Privacy-preserving AI techniques protect sensitive user information.",
         "Offline-first architecture ensures functionality without constant internet."
       ]
+    },
+    {
+      "date": "2026-07-17T21:24:55.253601",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "On-device AI is the future of product defensibility, not cloud-based AI.",
+        "On-device AI enables more private, responsive, and cost-efficient products.",
+        "Specialized hardware like NPUs is crucial for efficient on-device AI.",
+        "The shift to on-device AI requires a new strategic approach for companies."
+      ]
     }
   ]
 }
