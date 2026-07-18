@@ -1008,6 +1008,18 @@
         "Specialized hardware like NPUs is crucial for efficient on-device AI.",
         "The shift to on-device AI requires a new strategic approach for companies."
       ]
+    },
+    {
+      "date": "2026-07-18T21:25:12.859032",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "Hybrid AI architectures offer the enduring strategic advantage in AI.",
+        "On-device processing is the primary interface for user interaction and guarantees privacy.",
+        "Cloud resources are leveraged for specialized, privacy-compliant tasks.",
+        "Hybrid AI creates a competitive moat that pure cloud or edge strategies cannot match."
+      ]
     }
   ]
 }

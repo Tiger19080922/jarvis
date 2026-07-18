@@ -1,60 +1,6 @@
 {
   "stories": [
     {
-      "title": "Sarvam AI raises $234 million funding at $1.5 billion valuation; looks to challenge China, US",
-      "url": "https://www.hindustantimes.com/tech/sarvam-ai-raises-234-million-funding-at-1-5-billion-valuation-looks-to-challenge-china-us-101718502020859.html",
-      "cat": "FUNDING",
-      "date": "2026-07-03T21:44:07.197251"
-    },
-    {
-      "title": "Sarvam AI becomes unicorn after raising $234M as India doubles down on home-grown AI",
-      "url": "https://www.businesstoday.in/technology/fintech/story/sarvam-ai-becomes-unicorn-after-raising-234m-as-india-doubles-down-on-home-grown-ai-433961-2026-06-15",
-      "cat": "FUNDING",
-      "date": "2026-07-03T21:44:07.197251"
-    },
-    {
-      "title": "10 cases that show Indian courts have an AI hallucination problem",
-      "url": "https://www.medianama.com/2026/07/223-10-cases-ai-hallucination-cases-in-indian-courts/",
-      "cat": "POLICY",
-      "date": "2026-07-03T21:44:07.197251"
-    },
-    {
-      "title": "Indian Startups Secure $426 Million in Weekly Funding, AI Leads",
-      "url": "https://analyticsindiamag.com/indian-startups-secure-426-million-in-weekly-funding-ai-leads/",
-      "cat": "FUNDING",
-      "date": "2026-07-03T21:44:07.197251"
-    },
-    {
-      "title": "India's AI Funding Boom in H1 2026 Left Most Startups Starving",
-      "url": "https://analyticsindiamag.com/indias-ai-funding-boom-in-h1-2026-left-most-startups-starving/",
-      "cat": "FUNDING",
-      "date": "2026-07-03T21:44:07.197251"
-    },
-    {
-      "title": "WhatsApp username row: Zoho's Arattai to disable username feature",
-      "url": "https://www.livemint.com/technology/tech-news/whatsapp-username-row-zohos-arattai-to-disable-username-feature-11783058599480.html",
-      "cat": "POLICY",
-      "date": "2026-07-03T21:44:07.197251"
-    },
-    {
-      "title": "Indian AI startup Data Science Wizards raises $5m",
-      "url": "https://www.techinasia.com/indian-ai-startup-data-science-wizards-raises-5m",
-      "cat": "FUNDING",
-      "date": "2026-07-03T21:44:07.197251"
-    },
-    {
-      "title": "Usernames are another dimension of cybercrimes, says MeitY\u2019s S Krishnan. Here\u2019s what we think.",
-      "url": "https://www.medianama.com/2026/07/223-meity-whatsapp-signal-telegram-usernames/",
-      "cat": "POLICY",
-      "date": "2026-07-03T21:44:07.197251"
-    },
-    {
-      "title": "Why building AI for schools is harder than building a chatbot: inside Smartschool\u2019s approach to exam prep",
-      "url": "https://thenextweb.com/news/smartschool-ai-exam-prep-sat-act-classroom",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-03T21:44:07.197251"
-    },
-    {
       "title": "AI hiring outpaces overall IT recruitment in India, report shows",
       "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-hiring-outpaces-overall-it-recruitment-in-india-report-shows-10771154/",
       "cat": "OTHER",
@@ -1067,6 +1013,66 @@
       "url": "https://www.thehindu.com/news/national/karnataka/iisc-centre-for-brain-research-launches-2-crore-ai-challenge-for-early-detection-of-cognitive-decline/article68103287.ece",
       "cat": "RESEARCH",
       "date": "2026-07-17T21:24:56.707065"
+    },
+    {
+      "title": "Indian AI Startup Emergent Becomes Unicorn After Raising $130 Million At $1.5 Billion Valuation",
+      "url": "https://www.ndtv.com/business/indian-ai-startup-emergent-becomes-unicorn-after-raising-130-million-at-1-5-billion-valuation-3164438",
+      "cat": "FUNDING",
+      "date": "2026-07-18T21:25:14.224282"
+    },
+    {
+      "title": "Sarvam AI becomes unicorn after raising $234M as India doubles down on home-grown AI",
+      "url": "https://tech.economictimes.indiatimes.com/news/startups/sarvam-ai-becomes-unicorn-after-raising-234m-as-india-doubles-down-on-home-grown-ai/110860007",
+      "cat": "FUNDING",
+      "date": "2026-07-18T21:25:14.224282"
+    },
+    {
+      "title": "Sarvam raises $300M Series B",
+      "url": "https://www.sarvam.ai/press-releases/sarvam-announces-series-b-funding",
+      "cat": "FUNDING",
+      "date": "2026-07-18T21:25:14.224282"
+    },
+    {
+      "title": "Funding and acquisitions in Indian startups this week [July 06 - July 11]",
+      "url": "https://entrackr.com/2026/07/funding-and-acquisitions-in-indian-startups-this-week-july-06-july-11/",
+      "cat": "FUNDING",
+      "date": "2026-07-18T21:25:14.224282"
+    },
+    {
+      "title": "AI4Bharat researchers to raise $12 million from Peak XV, Lightspeed for own firm",
+      "url": "https://economictimes.indiatimes.com/tech/startups/ai4bharat-researchers-to-raise-12-million-from-peak-xv-lightspeed-for-own-firm/articleshow/101534151.cms",
+      "cat": "FUNDING",
+      "date": "2026-07-18T21:25:14.224282"
+    },
+    {
+      "title": "77% of Indian professionals use AI at work; AI-skilled workers earn more: Naukri report",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/ai-skilled-workers-earn-more-naukri-ai-report-10792686/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-18T21:25:14.224282"
+    },
+    {
+      "title": "Alibaba open-sources its AI chip software stack at WAIC, targeting Nvidia\u2019s CUDA lock-in",
+      "url": "https://thenextweb.com/news/alibaba-t-head-sail-open-source-nvidia-cuda-alternative",
+      "cat": "RESEARCH",
+      "date": "2026-07-18T21:25:14.224282"
+    },
+    {
+      "title": "Khosla Ventures Backed upliance.ai Launches AI-Powered 12L Smart Oven",
+      "url": "https://inc42.com/buzz/khosla-ventures-backed-upliance-ai-launches-ai-powered-12l-smart-oven/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-18T21:25:14.224282"
+    },
+    {
+      "title": "China is rebuilding the smartphone around AI agents. ZTE\u2019s NaviX sold out in hours.",
+      "url": "https://thenextweb.com/news/china-agentic-ai-smartphones-zte-navix-doubao-waic",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-18T21:25:14.224282"
+    },
+    {
+      "title": "A French startup built a radiology viewer from scratch with AI at its core. Moffitt Cancer Center is already using it.",
+      "url": "https://thenextweb.com/news/raidium-ai-radiology-moffitt-cancer-center-us-launch",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-18T21:25:14.224282"
     }
   ]
 }
