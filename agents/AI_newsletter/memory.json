@@ -1,48 +1,6 @@
 {
   "stories": [
     {
-      "title": "AI hiring outpaces overall IT recruitment in India, report shows",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/ai-hiring-outpaces-overall-it-recruitment-in-india-report-shows-10771154/",
-      "cat": "OTHER",
-      "date": "2026-07-04T21:30:40.279804"
-    },
-    {
-      "title": "Indian AI Startup Funding Soars Over 4X YoY In H1 2026, But Is It Enough To Compete Globally?",
-      "url": "https://inc42.com/features/indian-ai-startup-funding-soars-over-4x-yoy-in-h1-2026-but-is-it-enough-to-compete-globally/",
-      "cat": "FUNDING",
-      "date": "2026-07-04T21:30:40.279804"
-    },
-    {
-      "title": "Language is a good starting point for building inclusive AI: BHASHINI CEO Amitabh Nag",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/bhashini-ceo-amitabh-nag-interview-indian-language-ai-models-10770194/",
-      "cat": "POLICY",
-      "date": "2026-07-04T21:30:40.279804"
-    },
-    {
-      "title": "How Nudge Is Reinventing Ecommerce For The Agentic AI Era",
-      "url": "https://inc42.com/startups/how-nudge-is-reinventing-ecommerce-for-the-agentic-ai-era/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-04T21:30:40.279804"
-    },
-    {
-      "title": "Prosus flags AI and agentic AI as potential business risks as PayU turns profitable",
-      "url": "https://www.medianama.com/2026/07/223-prosus-flags-ai-agentic-ai-potential-business-risks-payu-turns-profitable/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-04T21:30:40.279804"
-    },
-    {
-      "title": "Macron and Modi are winning the AI infrastructure race with text messages and personal meetings",
-      "url": "https://thenextweb.com/news/macron-modi-ai-infrastructure-personal-diplomacy",
-      "cat": "POLICY",
-      "date": "2026-07-04T21:30:40.279804"
-    },
-    {
-      "title": "Anthropic in talks with Samsung for a potential AI chip collaboration: Report",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-discusses-potential-ai-chip-collaboration-with-samsung-report-10769462/",
-      "cat": "RESEARCH",
-      "date": "2026-07-04T21:30:40.279804"
-    },
-    {
       "title": "India Plans Dedicated AI Law, Shifting From Light-Touch Approach",
       "url": "https://whalesbook.com/2026/07/03/india-plans-dedicated-ai-law-shifting-from-light-touch-approach/",
       "cat": "POLICY",
@@ -1073,6 +1031,66 @@
       "url": "https://thenextweb.com/news/raidium-ai-radiology-moffitt-cancer-center-us-launch",
       "cat": "ENTERPRISE",
       "date": "2026-07-18T21:25:14.224282"
+    },
+    {
+      "title": "What India's Next Digital And AI Rules Could Mean For Consumers & Big Tech",
+      "url": "https://www.youtube.com/watch?v=M7x3gP5Ue60",
+      "cat": "POLICY",
+      "date": "2026-07-19T21:27:30.808988"
+    },
+    {
+      "title": "Indian AI Startup Funding Surge: Key Investors Back Vertical Model Specialists",
+      "url": "https://www.whalesbook.com/news/indian-ai-startup-funding-surge-key-investors-back-vertical-model-specialists",
+      "cat": "FUNDING",
+      "date": "2026-07-19T21:27:30.808988"
+    },
+    {
+      "title": "Indian startups raised over $297 million from July 13 to July 18, 2026; AI startup Emergent tops the list",
+      "url": "https://www.startupnews.fyi/2026/07/19/indian-startups-raised-over-297-million-from-july-13-to-july-18-2026-ai-startup-emergent-tops-the-list/",
+      "cat": "FUNDING",
+      "date": "2026-07-19T21:27:30.808988"
+    },
+    {
+      "title": "AI Research from Indian Institutions Highlighted on arXiv",
+      "url": "https://bharath.ai/research-radar/weekly/2026-07-07",
+      "cat": "RESEARCH",
+      "date": "2026-07-19T21:27:30.808988"
+    },
+    {
+      "title": "IISc AI-ML Centre Publishes Latest Research (2026)",
+      "url": "https://ai.iisc.ac.in/publications/",
+      "cat": "RESEARCH",
+      "date": "2026-07-19T21:27:30.808988"
+    },
+    {
+      "title": "Researchers build AI camera that reconstructs particle paths using handful of photons",
+      "url": "https://indianexpress.com/article/technology/science/researchers-build-ai-camera-that-reconstructs-particle-paths-using-handful-of-photons-10792899/",
+      "cat": "RESEARCH",
+      "date": "2026-07-19T21:27:30.808988"
+    },
+    {
+      "title": "The White House is now deciding who gets access to frontier AI models, not the labs",
+      "url": "https://thenextweb.com/news/white-house-dictating-frontier-ai-model-access-anthropic-openai",
+      "cat": "POLICY",
+      "date": "2026-07-19T21:27:30.808988"
+    },
+    {
+      "title": "Liftoff for Skyroot\u2019s Vikram-1; Building AI voice infra for Indian languages",
+      "url": "https://yourstory.com/2026/07/liftoff-for-skyroot-vikram-1-shunya-labs",
+      "cat": "RESEARCH",
+      "date": "2026-07-19T21:27:30.808988"
+    },
+    {
+      "title": "Rob Gurzeev on Why AI Has Changed Cybersecurity\u2019s Biggest Blind Spot",
+      "url": "https://thenextweb.com/news/rob-gurzeev-ai-cybersecurity-attack-surface-blind-spot",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-19T21:27:30.808988"
+    },
+    {
+      "title": "France and Germany pledge to build a European rival to Palantir\u2019s military AI software",
+      "url": "https://thenextweb.com/news/france-germany-palantir-rival-european-sovereign-military-ai",
+      "cat": "POLICY",
+      "date": "2026-07-19T21:27:30.808988"
     }
   ]
 }

@@ -1020,6 +1020,19 @@
         "Cloud resources are leveraged for specialized, privacy-compliant tasks.",
         "Hybrid AI creates a competitive moat that pure cloud or edge strategies cannot match."
       ]
+    },
+    {
+      "date": "2026-07-19T21:27:29.437525",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "On-device AI is an economic and strategic shift from cloud AI.",
+        "On-device AI offers advantages in performance, privacy, and market access.",
+        "Inference is the application of AI models, happening locally on devices.",
+        "NPUs are specialized processors accelerating AI inference on devices.",
+        "Model optimization techniques make AI feasible for resource-constrained devices."
+      ]
     }
   ]
 }
