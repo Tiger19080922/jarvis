@@ -1,19 +1,6 @@
 {
   "essays": [
     {
-      "date": "2026-04-21T21:15:45.459507",
-      "day_number": 11,
-      "topic": "RAG, Embeddings, and Retrieval",
-      "angle": "RAG vs fine-tuning: the decision framework",
-      "key_arguments": [
-        "RAG provides dynamic, verifiable context; fine-tuning bakes in behavior and stable knowledge.",
-        "The choice between RAG and fine-tuning depends on knowledge volatility and required precision.",
-        "Misapplying RAG or fine-tuning leads to inefficient systems and inflated costs.",
-        "Embeddings capture semantic meaning, enabling relevant context retrieval in RAG.",
-        "Fine-tuning adapts LLM parameters for domain-specific behavior and knowledge."
-      ]
-    },
-    {
       "date": "2026-04-22T21:18:53.690800",
       "day_number": 12,
       "topic": "RAG, Embeddings, and Retrieval",
@@ -1032,6 +1019,19 @@
         "Inference is the application of AI models, happening locally on devices.",
         "NPUs are specialized processors accelerating AI inference on devices.",
         "Model optimization techniques make AI feasible for resource-constrained devices."
+      ]
+    },
+    {
+      "date": "2026-07-20T21:45:41.485817",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "On-device AI makes user trust the primary competitive battleground.",
+        "Data locality and computational transparency create a defensible advantage.",
+        "Edge AI processes data locally, addressing cloud AI's trust deficit.",
+        "Privacy-preserving AI techniques like DP and FL are foundational.",
+        "This shift is a strategic imperative, not just a technical detail."
       ]
     }
   ]

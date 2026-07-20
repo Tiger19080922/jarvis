@@ -1,54 +1,6 @@
 {
   "stories": [
     {
-      "title": "India Plans Dedicated AI Law, Shifting From Light-Touch Approach",
-      "url": "https://whalesbook.com/2026/07/03/india-plans-dedicated-ai-law-shifting-from-light-touch-approach/",
-      "cat": "POLICY",
-      "date": "2026-07-05T21:37:32.668174"
-    },
-    {
-      "title": "Govt weighs new AI law as evolving technology raises fresh concerns over cyber threats and deepfakes",
-      "url": "https://www.business-standard.com/companies/news/govt-weighs-new-ai-law-as-evolving-technology-raises-fresh-concerns-over-cyber-threats-and-deepfakes-126070400062_1.html",
-      "cat": "POLICY",
-      "date": "2026-07-05T21:37:32.668174"
-    },
-    {
-      "title": "Microsoft creates new business unit to help large enterprises set up tailored AI solutions",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-new-unit-ai-solutions-large-enterprises-10772236/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-05T21:37:32.668174"
-    },
-    {
-      "title": "OpenAI may cut AI subscription prices as Anthropic rivalry intensifies: Report",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-may-cut-ai-subscription-prices-as-anthropic-rivalry-intensifies-report-10771134/",
-      "cat": "RESEARCH",
-      "date": "2026-07-05T21:37:32.668174"
-    },
-    {
-      "title": "Citi boss Jane Fraser says 2 AI races will decide banking\u2019s future",
-      "url": "https://thenextweb.com/news/citi-fraser-two-ai-races-banking",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-05T21:37:32.668174"
-    },
-    {
-      "title": "Mistral CEO warns closed AI models give providers \u2018immense leverage\u2019 over your business",
-      "url": "https://thenextweb.com/news/mistral-ceo-open-source-enterprise-warning",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-05T21:37:32.668174"
-    },
-    {
-      "title": "For one small business, AI was key to a quick start and expansion",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/for-one-small-business-ai-was-key-to-a-quick-start-and-expansion-10772094/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-05T21:37:32.668174"
-    },
-    {
-      "title": "NHS App will use AI to triage patients as part of \u00a310bn tech overhaul",
-      "url": "https://thenextweb.com/news/nhs-app-ai-triage-10bn-overhaul",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-05T21:37:32.668174"
-    },
-    {
       "title": "India set to begin drafting dedicated AI legislation, signals MeitY Secretary S Krishnan",
       "url": "https://www.adgully.com/india-set-to-begin-drafting-dedicated-ai-legislation-signals-meit-secretary-s-krishnan-14200.html",
       "cat": "POLICY",
@@ -1091,6 +1043,36 @@
       "url": "https://thenextweb.com/news/france-germany-palantir-rival-european-sovereign-military-ai",
       "cat": "POLICY",
       "date": "2026-07-19T21:27:30.808988"
+    },
+    {
+      "title": "Neo exits stealth with $100M from a16z and Bessemer to build a control layer for agentic AI software",
+      "url": "https://thenextweb.com/news/neo-security-100m-agentic-ai-control-layer",
+      "cat": "FUNDING",
+      "date": "2026-07-20T21:45:42.791725"
+    },
+    {
+      "title": "From running a successful social media platform to showing a proprietary robot dog to the PM: The ShareChat founders' second act",
+      "url": "https://yourstory.com/2026/07/sharechat-founders-robot-dog-second-act",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-20T21:45:42.791725"
+    },
+    {
+      "title": "Supreme Court lawyers\u2019 body opposes mandatory AI disclosure in draft AI regulations",
+      "url": "https://www.medianama.com/2026/07/223-supreme-court-lawyers-body-opposes-mandatory-ai-disclosure-draft-ai-regulations/",
+      "cat": "POLICY",
+      "date": "2026-07-20T21:45:42.791725"
+    },
+    {
+      "title": "Making India \u2018food wise\u2019; AI lifts VC inflow in startup ecosystem",
+      "url": "https://yourstory.com/2026/07/making-india-food-wise-venture-funding",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-20T21:45:42.791725"
+    },
+    {
+      "title": "A Korean AI model scores every possible driving path for safety before the car moves. CVPR called it a highlight.",
+      "url": "https://thenextweb.com/news/safedrive-korea-self-driving-ai-cvpr-2026",
+      "cat": "RESEARCH",
+      "date": "2026-07-20T21:45:42.791725"
     }
   ]
 }
