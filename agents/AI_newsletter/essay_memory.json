@@ -1,19 +1,6 @@
 {
   "essays": [
     {
-      "date": "2026-04-22T21:18:53.690800",
-      "day_number": 12,
-      "topic": "RAG, Embeddings, and Retrieval",
-      "angle": "RAG in India: enterprise knowledge management use cases",
-      "key_arguments": [
-        "RAG is a foundational requirement for Indian enterprises, not just an enhancement.",
-        "RAG bridges LLM general intelligence with an organization's specific knowledge.",
-        "Embeddings capture semantic meaning, enabling intelligent retrieval beyond keywords.",
-        "Chunking strategy and embedding model quality are critical for RAG effectiveness.",
-        "RAG drastically reduces hallucinations by grounding LLM responses in retrieved facts."
-      ]
-    },
-    {
       "date": "2026-04-23T21:17:25.568880",
       "day_number": 13,
       "topic": "RAG, Embeddings, and Retrieval",
@@ -1032,6 +1019,19 @@
         "Edge AI processes data locally, addressing cloud AI's trust deficit.",
         "Privacy-preserving AI techniques like DP and FL are foundational.",
         "This shift is a strategic imperative, not just a technical detail."
+      ]
+    },
+    {
+      "date": "2026-07-21T21:42:55.798368",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "On-device AI shifts value from data aggregation to user experience and trust.",
+        "Localized intelligence is the new product defensibility, replacing data moats.",
+        "On-device AI transforms privacy from a burden into a product differentiator.",
+        "NPU hardware is crucial for efficient on-device AI inference.",
+        "Privacy-Preserving AI techniques are essential for on-device deployment."
       ]
     }
   ]
