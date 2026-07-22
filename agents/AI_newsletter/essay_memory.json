@@ -1,19 +1,6 @@
 {
   "essays": [
     {
-      "date": "2026-04-23T21:17:25.568880",
-      "day_number": 13,
-      "topic": "RAG, Embeddings, and Retrieval",
-      "angle": "Retrieval failure modes: why RAG systems break in production",
-      "key_arguments": [
-        "Sustaining RAG performance requires continuous evaluation and feedback loops.",
-        "Product managers must identify, measure, and mitigate retrieval failure modes.",
-        "Bad retrieval includes scattered evidence and over-retrieval leading to noise.",
-        "Chunking strategy is critical; poorly sized chunks cause fragmentation or dilution.",
-        "Bad embeddings can compromise the retrieval process's effectiveness."
-      ]
-    },
-    {
       "date": "2026-04-24T21:17:30.632627",
       "day_number": 14,
       "topic": "RAG, Embeddings, and Retrieval",
@@ -1032,6 +1019,18 @@
         "On-device AI transforms privacy from a burden into a product differentiator.",
         "NPU hardware is crucial for efficient on-device AI inference.",
         "Privacy-Preserving AI techniques are essential for on-device deployment."
+      ]
+    },
+    {
+      "date": "2026-07-22T21:40:22.574544",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "On-device AI enables deeply personalized, proactive, and context-aware experiences.",
+        "Local intelligence creates a competitive advantage through anticipatory assistance.",
+        "The future of AI differentiation relies on on-device understanding of individual needs.",
+        "Personalized context is the ultimate battleground for AI leadership."
       ]
     }
   ]

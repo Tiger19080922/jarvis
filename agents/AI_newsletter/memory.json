@@ -1,42 +1,6 @@
 {
   "stories": [
     {
-      "title": "How AI is reshaping India\u2019s logistics startup ecosystem",
-      "url": "https://yourstory.com/2026/07/how-ai-is-reshaping-indias-logistics-startup-ecosystem",
-      "cat": "RESEARCH",
-      "date": "2026-07-07T21:57:24.951666"
-    },
-    {
-      "title": "How AI can power India's digitally-empowered farming ecosystem",
-      "url": "https://yourstory.com/2026/07/ai-support-indias-vision-digitally-empowered-farming-ecosystem",
-      "cat": "RESEARCH",
-      "date": "2026-07-07T21:57:24.951666"
-    },
-    {
-      "title": "Gabit, an AI-powered longevity platform; Precision hiring at the workplace",
-      "url": "https://yourstory.com/2026/07/gabit-ai-powered-longevity-platform-precision-hiring-at-the-workplace",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-07T21:57:24.951666"
-    },
-    {
-      "title": "Andhra Pradesh to become 'India's first' AI-powered tourism state",
-      "url": "https://yourstory.com/2026/07/andhra-pradesh-to-become-indias-first-ai-powered-tourism-state",
-      "cat": "POLICY",
-      "date": "2026-07-07T21:57:24.951666"
-    },
-    {
-      "title": "Madras High Court protects travel content from AI scraping in copyright infringement case",
-      "url": "https://www.medianama.com/2026/07/223-madras-high-court-protects-travel-content-ai-scraping-copyright-infringement-case/",
-      "cat": "POLICY",
-      "date": "2026-07-07T21:57:24.951666"
-    },
-    {
-      "title": "Inside Petition: Journalists challenge blocking of Instagram reel related to AP\u2019s AI data center",
-      "url": "https://www.medianama.com/2026/07/223-inside-petition-journalists-challenge-blocking-instagram-reel-related-aps-ai-data-center/",
-      "cat": "POLICY",
-      "date": "2026-07-07T21:57:24.951666"
-    },
-    {
       "title": "Elevate Education Bags \u20b9170 Cr To Scale AI-Led Higher Education Platform",
       "url": "https://inc42.com/buzz/elevate-education-bags-%e2%82%b9170-cr-to-scale-ai-led-higher-education-platform/",
       "cat": "FUNDING",
@@ -1115,6 +1079,72 @@
       "url": "https://www.orfonline.org/research/using-ai-to-protect-teaching-time-and-improve-learning-quality-in-indian-schools",
       "cat": "ENTERPRISE",
       "date": "2026-07-21T21:42:57.933473"
+    },
+    {
+      "title": "Google Cloud\u2019s Gemini Enterprise brings no-code AI agents to MSMEs",
+      "url": "https://yourstory.com/2026/07/how-google-clouds-gemini-enterprise-is-helping-msmes-build-ai-agents-without-writing-code",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-22T21:40:24.388058"
+    },
+    {
+      "title": "Dognosis is training dogs and AI to detect cancer from a breath sample",
+      "url": "https://yourstory.com/2026/07/dognosis-ai-dogs-cancer-detection",
+      "cat": "RESEARCH",
+      "date": "2026-07-22T21:40:24.388058"
+    },
+    {
+      "title": "Every year, Indian workers die inside tanks. Unibose built a robot to take their place",
+      "url": "https://yourstory.com/2026/07/unibose-robot-tank-inspections",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-22T21:40:24.388058"
+    },
+    {
+      "title": "Govt Backs 20 Indigenous AI Models Under IndiaAI Mission: Ashwini Vaishnaw",
+      "url": "https://www.thehindubusinessline.com/info-tech/govt-backs-20-indigenous-ai-models-under-indiaai-mission-ashwini-vaishnaw/article68442142.ece",
+      "cat": "POLICY",
+      "date": "2026-07-22T21:40:24.388058"
+    },
+    {
+      "title": "Soket AI Wants To Turn The Language Gap In AI Into India\u2019s Edge",
+      "url": "https://inc42.com/startups/soket-ai-wants-to-turn-the-language-gap-in-ai-into-indias-edge/",
+      "cat": "RESEARCH",
+      "date": "2026-07-22T21:40:24.388058"
+    },
+    {
+      "title": "7 AI disclosures from IndiaMART\u2019s Q1FY27 Earnings Call",
+      "url": "https://www.medianama.com/2026/07/223-ai-disclosures-indiamarts-earnings-call/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-22T21:40:24.388058"
+    },
+    {
+      "title": "Arrakis emerges from stealth with $38 million to bring AI to factories and supply chains",
+      "url": "https://thenextweb.com/news/arrakis-ai-startup-38-million-stealth-industrial",
+      "cat": "FUNDING",
+      "date": "2026-07-22T21:40:24.388058"
+    },
+    {
+      "title": "The ex-Meta VP behind a notorious spy tool just raised $180M for AI security",
+      "url": "https://thenextweb.com/news/glow-180m-ai-endpoint-security-roi-tiger-onavo",
+      "cat": "FUNDING",
+      "date": "2026-07-22T21:40:24.388058"
+    },
+    {
+      "title": "Cisco\u2019s tiny open-weight AI hunts bugs, and it says it beats Gemini and GPT",
+      "url": "https://thenextweb.com/news/cisco-antares-open-weight-bug-hunting-ai-vulnerability",
+      "cat": "RESEARCH",
+      "date": "2026-07-22T21:40:24.388058"
+    },
+    {
+      "title": "The AI Blueprint For Fashion Ecommerce",
+      "url": "https://inc42.com/features/the-ai-blueprint-for-fashion-ecommerce/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-22T21:40:24.388058"
+    },
+    {
+      "title": "Monday.com is cutting 20 percent of its workforce as it pivots to an AI work platform",
+      "url": "https://thenextweb.com/news/monday-com-layoffs-20-percent-ai-growth-strategy",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-22T21:40:24.388058"
     }
   ]
 }
