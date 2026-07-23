@@ -7,8 +7,8 @@ import os
 from datetime import datetime
 
 # ── MODELS ────────────────────────────────────────────────────────────────────
-FLASH  = "gemini-2.5-flash-lite"  # cheapest: scoring, search, subject line, pivot lens
-PRO    = "gemini-2.5-flash"       # writing tasks: story, essay
+FLASH  = "gemini-2.5-flash-lite"  # cheapest: scoring, search, subject line, interrogation questions
+PRO    = "gemini-2.5-flash"       # writing tasks: story facts, VC excerpt grounding
 
 # ── PIPELINE THRESHOLDS ───────────────────────────────────────────────────────
 RELEVANCE_THRESHOLD   = 6      # min score (1-10) to pass scoring filter
@@ -17,6 +17,7 @@ STORY_OF_DAY_WORDS    = 250    # target word count for SOTD
 THREAD_WORDS          = 120    # target word count for The Thread
 RSS_LOOKBACK_HOURS    = 48     # how far back to pull RSS items
 MEMORY_DAYS           = 14     # how many days of stories to keep in memory
+RESPONSE_LOG_DAYS     = 90     # how many days of interrogation responses to keep
 
 # ── EDITORIAL FILTER ─────────────────────────────────────────────────────────
 EDITORIAL_FILTER = (
@@ -49,6 +50,19 @@ RSS_FEEDS = [
     {"url": "https://thenextweb.com/feed/",                          "name": "TNW",                "category": "global"},
 ]
 
+# ── VC BLOGS (Tier 1 Indian VC theses) ────────────────────────────────────────
+# Each entry is either a working RSS feed ("rss") or a server-rendered listing
+# page we scrape directly ("scrape"). Verified by hand on 2026-07-23 — see
+# agents/AI_newsletter/README.md "VC blog sourcing" section for what was
+# dropped and why (Accel, Elevation, Blume, 3one4, Kalaari, Lightspeed India
+# all lack a reliably parseable source).
+VC_BLOGS = [
+    {"name": "Peak XV Partners",      "type": "scrape", "url": "https://www.peakxv.com/insights"},
+    {"name": "Nexus Venture Partners", "type": "rss",    "url": "https://nexusvp.com/in/feed/"},
+]
+VC_LOOKBACK_DAYS = 60   # VC firms post far less often than news outlets
+MAX_VC_POSTS      = 15  # cap on how many candidate thesis posts to hand the model
+
 # ── WEB SEARCH GAP QUERIES ────────────────────────────────────────────────────
 # Claude's built-in web_search tool fills what RSS misses:
 # government press releases, research papers, niche announcements.
@@ -70,7 +84,7 @@ CATEGORIES = {
 
 # ── EMAIL ─────────────────────────────────────────────────────────────────────
 EMAIL_SENDER    = os.getenv("GMAIL_ADDRESS", "")
-EMAIL_RECIPIENT = os.getenv("GMAIL_RECIPIENT", EMAIL_SENDER)  # defaults to self
+EMAIL_RECIPIENT = os.getenv("GMAIL_RECIPIENT", "").strip() or EMAIL_SENDER  # empty → send to self
 SMTP_PASSWORD   = os.getenv("GMAIL_APP_PASSWORD", "")
 
 # ── LANGFUSE ──────────────────────────────────────────────────────────────────
@@ -79,29 +93,11 @@ LANGFUSE_SECRET_KEY  = os.getenv("LANGFUSE_SECRET_KEY", "")
 LANGFUSE_ENABLED     = bool(LANGFUSE_PUBLIC_KEY and LANGFUSE_SECRET_KEY)
 
 # ── MEMORY ────────────────────────────────────────────────────────────────────
-MEMORY_FILE = os.path.join(os.path.dirname(__file__), "memory.json")
+MEMORY_FILE    = os.path.join(os.path.dirname(__file__), "memory.json")
+RESPONSES_FILE = os.path.join(os.path.dirname(__file__), "responses.json")
 
 # ── GOOGLE AI ─────────────────────────────────────────────────────────────────
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "")
-
-# ── USER PERSONA ──────────────────────────────────────────────────────────────
-# Set these as GitHub Secrets (or env vars) to personalise the daily essay.
-# Each person who forks this repo sets their own values — nothing is hardcoded.
-USER_CURRENT_ROLE    = os.getenv("USER_CURRENT_ROLE",    "a strategy consultant")
-USER_TARGET_ROLES    = os.getenv("USER_TARGET_ROLES",    "AI PM, Strategy at an AI startup, VC Analyst")
-USER_GOAL            = os.getenv("USER_GOAL",            "break into AI product and strategy roles")
-USER_DIFFERENTIATOR  = os.getenv("USER_DIFFERENTIATOR",  "building AI agents for productivity")
-
-# ── CURRICULUM ────────────────────────────────────────────────────────────────
-# Set CURRICULUM_START_DATE to the date you forked / started your 90-day run.
-# Format: YYYY-MM-DD.  Defaults to today so day 1 = the first time you run it.
-_raw_start = os.getenv("CURRICULUM_START_DATE", "")
-if _raw_start:
-    from datetime import date as _date
-    CURRICULUM_START_DATE = _date.fromisoformat(_raw_start)
-else:
-    from datetime import date as _date
-    CURRICULUM_START_DATE = _date.today()
 
 def validate():
     """Called at startup. Fails loudly if required config is missing."""

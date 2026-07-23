@@ -1,53 +1,74 @@
 # AI India Digest
 
-**A next-generation newsletter that knows who you are, what you need to learn, and why it matters to you — personally.**
+**A newsletter that refuses to tell you what to think.**
 
-Most newsletters are written for everyone. This one is written for you.
+Most newsletters — including earlier versions of this one — hand you a finished conclusion: a narrative, an essay, a "here's what this means for you" section. That's comfortable to read and useless to practice with. This agent does the opposite: it surfaces raw material about one funded Indian AI startup a day, and makes you produce the reasoning yourself.
 
 ---
 
-## The Problem with Newsletters Today
+## Why This Exists
 
-Every newsletter you subscribe to was written for a fictional average reader. The founder who gets *your* issue gets the same one as the student, the VC, and the journalist. The signal-to-noise ratio for any individual reader is low by design.
+If you're prepping for VC interviews, "informing" you isn't the gap. The gap is defending a startup pick under adversarial follow-up questions — why this company, why now, why doesn't the obvious competitor kill it, why might the cited investor's thesis be wrong. You don't build that skill by reading someone else's argument. You build it by being forced to make your own, out loud, against a skeptical interviewer, every day.
 
-The result: you skim, you archive, you unsubscribe.
+So this agent stopped writing the argument for you. It hands you the facts and the questions, and nothing else.
 
 ---
 
 ## What This Is
 
-AI India Digest is a self-hosted, AI-powered newsletter agent that delivers two things to your inbox every morning:
+Every morning, the digest sends you three things about one funded Indian AI startup:
 
-### 1. The Daily Digest
-A single, deeply reported story from the Indian AI ecosystem, written the way a consulting analyst would brief a senior partner. Not a summary. A narrative with context, history, analogies, and a clear implication for what you should do next.
+### 1. Raw Facts
+What the company does. Who funded it, how much, at what stage. What the historical Indian-market comparison looks like. No "why it matters," no "the implication is," no sentence that draws a conclusion for you. If a sentence in the draft tells the reader what to think about a fact instead of stating the fact, it gets deleted before you see it — there's a banned-phrase filter (`this means`, `the implication is`, `what this signals`, and similar) applied to the model's output as a safety net, not just a prompt instruction.
 
-Built on a four-step pipeline:
-- **Research** — Claude searches the web and builds a full briefing on the story
-- **Plan** — structures the argument before writing a word (consultant-style)
-- **Write** — 600 to 900 words of narrative journalism, plain English throughout
-- **Extract** — carves the narrative into clean email sections
+### 2. A VC Thesis Excerpt
+A short, verbatim quote (under 15 words, cited) from a recent thesis post by a Tier 1 Indian VC firm — Peak XV Partners or Nexus Venture Partners, currently — picked because it's thematically relevant to that day's startup. The model grounds this via search against the firm's real writing. It will not fabricate a quote: if nothing verifiably relevant is found, the section is simply omitted.
 
-### 2. The Daily Learning Essay
-A 2,000-word original essay on a topic chosen from your personal 90-day curriculum, sourced from the best real articles published on that topic and synthesised by Claude into something worth reading slowly.
+### 3. Interrogation Questions
+Every email ends with 3 to 5 follow-up questions, written the way a skeptical VC partner would ask them in an interview: what's the actual moat if a funded competitor copies this in six months, why might the cited investor's thesis be wrong, what specific event kills this company in 18 months. These are generated fresh each day from that day's specific company, numbers, and VC excerpt — never a fixed template — and they come with no answers and no hints.
 
-Every essay ends with a **Pivot Lens**: a 150 to 200 word section that connects the topic directly to your specific career goals, current role, and unique differentiator.
-
-This is the part that makes it next-generation. The essay does not just inform you. It builds you.
+**What you do with it:** read the facts, read the excerpt, then answer the questions yourself — out loud if you can, in writing if that's what's available — before you look anything else up. Log your answers with `respond.py` (see below) so you have a record to review your reasoning against, later, when you actually are in an interview.
 
 ---
 
-## The 90-Day Curriculum
+## Logging Your Answers
 
-When you set up your instance, you define who you are and where you are going. The agent maps a 90-day learning path across five domains:
+```
+cd agents/AI_newsletter
+python respond.py            # answer the oldest pending question set
+python respond.py --list     # see recent entries and how many questions are answered
+python respond.py --status   # summary: total entries, how many fully answered
+```
 
-| Phase | Weeks | Topics |
-|-------|-------|--------|
-| Foundation | 1 to 4 | How LLMs work · RAG and retrieval · AI agents · AI PM frameworks |
-| Market | 5 to 8 | India AI ecosystem · Policy and capital · VC mental models · AI business models |
-| Application | 9 to 12 | Global product case studies · Synthesis across roles |
-| Buffer | 13 | Revisit weakest area |
+Each day's run seeds `responses.json` with that day's questions and no answers. `respond.py` walks you through the ones you haven't answered yet, one at a time, and saves after every answer so nothing is lost if you stop partway through. History is kept for 90 days and is not pruned the way the 14-day story-dedup memory is — this is meant to be a record you can look back over, not a rolling cache.
 
-Each day's essay advances you through this map. By day 90, you have read 90 deeply researched essays on exactly the topics your target role requires, and a Pivot Lens that connected every single one back to your specific situation.
+There is no email-reply parsing. You run this from the terminal, not from your inbox.
+
+---
+
+## VC Blog Sourcing
+
+`VC_BLOGS` in `config.py` currently includes two firms, chosen because they're the only Tier 1 Indian VCs (of eight checked) that expose material this pipeline can reliably ingest:
+
+| Firm | Method | Why |
+|------|--------|-----|
+| **Peak XV Partners** | Scrape `/insights` listing | Server-rendered HTML with title, date, and link all present in the raw page — no JS execution needed. |
+| **Nexus Venture Partners** | RSS (`nexusvp.com/in/feed/`) | Valid, dated RSS feed. |
+
+**Dropped, and why:**
+
+| Firm | Reason dropped |
+|------|-----------------|
+| **Accel India** | `accel.com/news` is a client-rendered Next.js app — the raw HTML has essentially no article content, only app shell. Would need a headless browser to scrape reliably. |
+| **Elevation Capital** | `/perspectives` is Next.js with Framer Motion animation; raw HTML headings are UI chrome ("Perspectives", "Opening Bell"), not article titles. The real data lives in an embedded `__NEXT_DATA__` JSON blob, but that's an undocumented internal structure that can change on any redeploy without notice — too fragile to depend on. |
+| **Blume Ventures** | `/commentaries` listing has the right HTML tags (`<h3>`) but they're empty until client-side JS hydrates them. No Medium publication either (`medium.com/feed/blume-ventures` 404s). |
+| **3one4 Capital** | `/blog` and `/feed` both return no scrapeable article content — a client-rendered SPA with nothing server-side to parse. |
+| **Kalaari Capital** | `/alpha-archives` has server-rendered titles, but zero dates and no discoverable per-article links in the raw HTML (populated by client-side JS). Without a date, we can't tell if a post is recent; without a link, we can't cite it. |
+| **Lightspeed India** | No dedicated India-specific site exists (`lightspeedindia.com` / `lightspeedindiapartners.com` don't resolve). The global `lsvp.com/feed` is blocked by Cloudflare's bot challenge — it returned an "Attention Required" interstitial instead of RSS content when tested, which means it can't be trusted for unattended daily automation. |
+
+**Why the excerpt isn't scraped from full article bodies:** even for the two included firms, per-article HTML scraping proved unreliable in testing — Nexus's own RSS `<link>` URLs 404 on the live site, and Peak XV's listing page gives title/date/link but no body text. Rather than build a third fragile scraper, `writer.py`'s VC-excerpt step hands the model the candidate title/date/link pool and lets it ground a real, verbatim quote via Gemini's search tool — the same mechanism the research step already uses elsewhere in this pipeline. If it can't verify a quote, it returns nothing rather than paraphrasing or fabricating one.
+
+If any of the dropped firms later launch a real RSS feed or a server-rendered blog, add an entry to `VC_BLOGS` in `config.py` — `feeds.py` already supports both `"rss"` and `"scrape"` source types.
 
 ---
 
@@ -55,58 +76,57 @@ Each day's essay advances you through this map. By day 90, you have read 90 deep
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    DAILY RUN  (GitHub Actions, 07:00 IST)    │
+│                    DAILY RUN  (GitHub Actions)                │
 └─────────────────────────────────────────────────────────────┘
                               │
-          ┌───────────────────┴───────────────────┐
-          ▼                                       ▼
-   ┌─────────────┐                       ┌──────────────────┐
-   │  DIGEST     │                       │  ESSAY           │
-   │  PIPELINE   │                       │  PIPELINE        │
-   └─────────────┘                       └──────────────────┘
-          │                                       │
-   ┌──────▼──────┐                    ┌───────────▼──────────┐
-   │ RSS + Web   │                    │ Curriculum: today's  │
-   │ Search      │                    │ topic (day N of 90)  │
-   └──────┬──────┘                    └───────────┬──────────┘
-          │                                       │
-   ┌──────▼──────┐                    ┌───────────▼──────────┐
-   │ Score and   │                    │ Haiku + web_search   │
-   │ Filter      │                    │ finds best sources   │
-   └──────┬──────┘                    └───────────┬──────────┘
-          │                                       │
-   ┌──────▼──────┐                    ┌───────────▼──────────┐
-   │ 4-step      │                    │ Sonnet writes 2,000  │
-   │ narrative   │                    │ word original essay  │
-   │ chain       │                    └───────────┬──────────┘
-   └──────┬──────┘                               │
-          │                           ┌───────────▼──────────┐
-          │                           │ Haiku writes Pivot   │
-          │                           │ Lens (role-specific) │
-          │                           └───────────┬──────────┘
-          └───────────────┬───────────────────────┘
-                          ▼
-               ┌─────────────────────┐
-               │  Single HTML email  │
-               │  sent via Gmail     │
-               └─────────────────────┘
+        ┌─────────────────────┼─────────────────────┐
+        ▼                     ▼                     ▼
+ ┌─────────────┐      ┌──────────────┐      ┌──────────────────┐
+ │  RSS + Web  │      │  VC Blog     │      │  Score + Dedup    │
+ │  Search     │      │  Theses      │      │  (Flash)          │
+ │ (Inc42,     │      │ (Peak XV,    │      └─────────┬─────────┘
+ │  Entrackr,  │      │  Nexus)      │                │
+ │  YourStory) │      └──────┬───────┘                ▼
+ └──────┬──────┘             │              ┌──────────────────┐
+        │                    │              │  Research → Plan  │
+        │                    │              │  → Write → Extract│
+        │                    │              │  (raw facts only) │
+        │                    │              └─────────┬─────────┘
+        │                    │                        │
+        │                    └───────────┬────────────┘
+        │                                ▼
+        │                     ┌──────────────────────┐
+        │                     │  VC excerpt grounding │
+        │                     │  (search over pool)   │
+        │                     └───────────┬───────────┘
+        │                                 ▼
+        │                     ┌──────────────────────┐
+        │                     │  Interrogation        │
+        │                     │  questions            │
+        │                     └───────────┬───────────┘
+        │                                 ▼
+        │                     ┌──────────────────────┐
+        └────────────────────▶│  HTML email → Gmail   │
+                              └──────────┬───────────┘
+                                         ▼
+                              ┌──────────────────────┐
+                              │  responses.json seeded│
+                              │  → you answer via     │
+                              │    respond.py          │
+                              └──────────────────────┘
 ```
 
-**Models:** Claude Haiku 4.5 (scoring, search, pivot lens) · Claude Sonnet 4.6 (planning, writing, extraction)
-
-**Cost per run:** ~$0.05 to $0.08 · ~$1.50 to $2.50 per month
+**Models:** Gemini 2.5 Flash-Lite (scoring, search gaps, interrogation questions, subject line) · Gemini 2.5 Flash (research, planning, writing, extraction, VC excerpt grounding)
 
 ---
 
 ## What Makes This Different
 
-| Traditional Newsletter | AI India Digest |
-|----------------------|-----------------|
-| Written for the average reader | Written for you, based on your role and goals |
-| Informs | Informs and builds proficiency |
-| Same for every subscriber | Unique to each fork |
-| Curator decides what matters | Editorial filter tied to your trajectory |
-| Ends when you read it | Ends when you have completed 90 days of structured learning |
+| Traditional Newsletter | This Version | The Earlier Version of This Agent |
+|---|---|---|
+| Written for the average reader | Written to make you argue, not just read | Written to inform and connect to your career |
+| Tells you the conclusion | Gives you facts and questions, no conclusion | Told you the conclusion (the "Pivot Lens") |
+| Ends when you read it | Ends when you've answered the questions yourself | Ended when you'd read the essay |
 
 ---
 
@@ -120,34 +140,33 @@ Each day's essay advances you through this map. By day 90, you have read 90 deep
 
 | Secret | Description |
 |--------|-------------|
-| `ANTHROPIC_API_KEY` | [Get one at console.anthropic.com](https://console.anthropic.com) |
+| `GOOGLE_API_KEY` | [Get one at aistudio.google.com](https://aistudio.google.com/apikey) |
 | `GMAIL_ADDRESS` | Gmail account to send from |
 | `GMAIL_APP_PASSWORD` | [Create a Gmail App Password](https://myaccount.google.com/apppasswords) — not your login password |
 | `GMAIL_RECIPIENT` | Email address to deliver to (can be same as sender) |
 
-### Step 3. Personalise your instance
+No persona or curriculum secrets are needed — this version doesn't personalise a career narrative, so there's nothing to configure beyond delivery.
 
-These secrets shape the essay and pivot lens to your specific situation. Optional but recommended.
-
-| Secret | Example value |
-|--------|--------------|
-| `CURRICULUM_START_DATE` | `2026-04-11` (your day 1, in YYYY-MM-DD format) |
-| `USER_CURRENT_ROLE` | `strategy consultant at a research firm` |
-| `USER_TARGET_ROLES` | `AI PM, Strategy at an AI startup, VC Analyst` |
-| `USER_GOAL` | `break into AI product roles in 6 months` |
-| `USER_DIFFERENTIATOR` | `building AI agents to automate my current work` |
-
-If you skip these, the agent uses sensible defaults and still works.
-
-### Step 4. Trigger manually to test
+### Step 3. Trigger manually to test
 
 Go to `Actions` tab → `AI India Digest — Daily` → `Run workflow`
 
-Watch the logs. Check your inbox. The first run takes 4 to 6 minutes.
+Watch the logs. Check your inbox.
 
-### Step 5. Scheduled delivery
+### Step 4. Scheduled delivery
 
-The workflow runs daily at approximately 07:00 IST via cron. GitHub Actions free tier introduces some scheduling variance — the email typically arrives between 7 and 9 AM.
+The workflow runs daily via cron (see `.github/workflows/daily_digest.yml` for the schedule). GitHub Actions free tier introduces some scheduling variance.
+
+### Step 5. Answer the questions
+
+After each day's email arrives, run:
+
+```
+cd agents/AI_newsletter
+python respond.py
+```
+
+and answer that day's interrogation questions before you move on.
 
 ---
 
@@ -157,18 +176,18 @@ The workflow runs daily at approximately 07:00 IST via cron. GitHub Actions free
 AI_newsletter/
 ├── run.py              — entry point and CLI
 ├── agent.py            — pipeline orchestrator
-├── config.py           — all constants and env var config
-├── feeds.py            — RSS fetching and filtering
-├── search.py           — Claude web search gap queries
-├── scorer.py           — Haiku batch scoring
-├── prompts.py          — editorial prompts (digest pipeline)
-├── writer.py           — 4-step narrative chain
-├── emailer.py          — HTML template + Gmail SMTP
+├── config.py           — all constants and env var config (incl. VC_BLOGS)
+├── feeds.py            — RSS fetching/filtering + VC blog theses (scrape/RSS)
+├── search.py           — Gemini web search gap queries
+├── scorer.py           — Gemini batch scoring
+├── prompts.py          — raw-facts, VC-excerpt, and interrogation prompts
+├── writer.py           — research → plan → write → extract → VC excerpt → questions
+├── emailer.py           — HTML template + Gmail SMTP
 ├── memory.py           — 14-day story deduplication
 ├── memory.json         — auto-updated by the workflow
-├── curriculum.py       — 90-day learning schedule
-├── essay_prompts.py    — essay and pivot lens prompts
-├── essay_writer.py     — essay pipeline orchestrator
+├── responses.py        — 90-day interrogation-response log
+├── respond.py          — CLI to log your own answers
+├── responses.json      — auto-updated by respond.py and by the workflow
 ├── requirements.txt
 └── .github/
     └── workflows/
@@ -177,45 +196,20 @@ AI_newsletter/
 
 ---
 
-## Customising the Curriculum
-
-The default curriculum is designed for someone pivoting into AI product and strategy roles in the Indian ecosystem. To adapt it to your field:
-
-1. Edit `WEEKLY_CURRICULUM` in `curriculum.py` — each entry takes a `topic`, `focus`, `search_query`, and optional `role_lens`
-2. Edit `ROLE_LENS_DESCRIPTIONS` to match your target roles
-3. Set `CURRICULUM_START_DATE` to today
-
-The architecture is field-agnostic. The India AI focus is the default configuration, not a constraint.
-
----
-
 ## Tuning
 
-- Editorial prompts for the digest: `prompts.py`
-- Essay and pivot lens prompts: `essay_prompts.py`
-- Scoring thresholds and RSS feeds: `config.py`
-- Curriculum topics and rotation: `curriculum.py`
-
----
-
-## The Bigger Vision
-
-Newsletters have been personalised at the delivery layer for twenty years: your name in the subject line, your city in the weather widget. That is not personalisation. That is mail merge.
-
-True personalisation means the content itself is shaped by who you are, what you already know, what you are trying to become, and where you are in that journey today. Every piece of information filtered through the question: does this matter to this specific person on this specific day?
-
-That is what this agent does.
-
-This is one implementation — India, AI, one person's career pivot. Fork it. Rebuild the curriculum for your field. Change the editorial filter. Point it at a different ecosystem. Make it yours.
+- Raw-facts, VC-excerpt, and interrogation prompts: `prompts.py`
+- Scoring thresholds, RSS feeds, and `VC_BLOGS`: `config.py`
+- Banned synthesis phrases (the safety-net filter): `BANNED_SYNTHESIS_PHRASES` in `prompts.py`
 
 ---
 
 ## Built With
 
-- [Anthropic Claude](https://www.anthropic.com) — Haiku 4.5 and Sonnet 4.6
+- [Google Gemini](https://ai.google.dev) — 2.5 Flash and Flash-Lite, with Google Search grounding
 - [GitHub Actions](https://github.com/features/actions) — scheduling and hosting (free tier)
 - Gmail SMTP — delivery
-- RSS feeds + Claude web search — source ingestion
+- RSS feeds, `requests` + `BeautifulSoup`, and Gemini web search — source ingestion
 
 ---
 

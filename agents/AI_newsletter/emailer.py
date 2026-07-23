@@ -1,6 +1,7 @@
 """
-emailer.py — HTML email exactly matching the briefing_preview_v4 design.
-One story per email. Georgia serif. Blue accent. Four sections.
+emailer.py — HTML email: raw facts, a VC thesis excerpt, and interrogation
+questions. No finished narrative, no synthesis section, no essay.
+Georgia serif. Blue accent.
 """
 
 import re
@@ -8,6 +9,7 @@ import re
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from email.header import Header
 from datetime import datetime
 from typing import Dict
 
@@ -28,137 +30,59 @@ def _clean(text: str) -> str:
     return text
 
 
-def _essay_to_html(text: str) -> str:
-    """
-    Convert essay plain text to HTML.
-    Handles:
-      - em/en dashes  →  stripped via _clean()
-      - ## Heading    →  section headers
-      - **bold**      →  <strong>
-      - blank lines   →  paragraph breaks
-    """
-    import re
-
-    text = _clean(text)
-
-    # Split into blocks on blank lines
-    blocks = re.split(r'\n{2,}', text.strip())
-    html_parts = []
-
-    heading_style = (
-        'style="margin:28px 0 8px 0; font-family:Calibri, Helvetica, Arial, sans-serif; '
-        'font-size:11px; letter-spacing:2px; color:#1A6B3C; text-transform:uppercase; '
-        'font-weight:600;"'
+def _questions_to_html(questions: list) -> str:
+    """Render the interrogation questions as a numbered list. No answers, no hints."""
+    if not questions:
+        return ""
+    item_style = (
+        'style="margin:0 0 14px 0; font-family:Georgia, serif; font-size:16px; '
+        'font-weight:400; color:#222222; line-height:1.6;"'
     )
-    para_style = (
-        'style="margin:0 0 20px 0; font-family:Georgia, serif; font-size:16px; '
-        'font-weight:400; color:#222222; line-height:1.8;"'
+    items = "".join(f"<li {item_style}>{q}</li>" for q in questions)
+    return f'<ol style="margin:0; padding-left:20px;">{items}</ol>'
+
+
+def _build_vc_excerpt_html(story: Dict) -> str:
+    """Render the VC thesis excerpt box. Empty string if no excerpt was grounded."""
+    excerpt = story.get("vc_excerpt", "")
+    if not excerpt:
+        return ""
+    firm       = story.get("vc_excerpt_firm", "")
+    post_title = story.get("vc_excerpt_post_title", "")
+    post_url   = story.get("vc_excerpt_post_url", "")
+
+    attribution = firm
+    if post_title:
+        attribution += f", &ldquo;{post_title}&rdquo;"
+
+    link_html = (
+        f'<a href="{post_url}" style="color:#1A6B3C; text-decoration:none;">{attribution}</a>'
+        if post_url else attribution
     )
-
-    for block in blocks:
-        block = block.strip()
-        if not block:
-            continue
-
-        # Bold inline
-        block = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', block)
-
-        if block.startswith('## '):
-            heading_text = block[3:].strip()
-            html_parts.append(f'<p {heading_style}>{heading_text}</p>')
-        elif block.startswith('# '):
-            heading_text = block[2:].strip()
-            html_parts.append(f'<p {heading_style}>{heading_text}</p>')
-        else:
-            # Convert single newlines within a block to <br>
-            block = block.replace('\n', '<br>')
-            html_parts.append(f'<p {para_style}>{block}</p>')
-
-    return '\n'.join(html_parts)
-
-
-def _pivot_lens_to_html(text: str) -> str:
-    """Strip the 'Your Pivot Lens' heading line and return the body as HTML paragraphs."""
-    import re
-
-    text = _clean(text)
-
-    lines = text.strip().split('\n')
-    # Drop the heading line
-    if lines and 'pivot lens' in lines[0].lower():
-        lines = lines[1:]
-
-    body = '\n'.join(lines).strip()
-    body = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', body)
-
-    # Split on blank lines into paragraphs
-    paras = re.split(r'\n{2,}', body)
-    para_style = (
-        'style="margin:0 0 12px 0; font-family:Georgia, serif; font-size:15px; '
-        'font-weight:400; color:#1A3D2B; line-height:1.7;"'
-    )
-    parts = [f'<p {para_style}>{p.strip().replace(chr(10), "<br>")}</p>' for p in paras if p.strip()]
-    return '\n'.join(parts)
-
-
-def _build_essay_section(essay: Dict) -> str:
-    """Build the full essay HTML block to append below the digest."""
-    essay_html   = _essay_to_html(essay["essay_text"])
-    pivot_html   = _pivot_lens_to_html(essay["pivot_lens"])
-    day_num      = essay["day_number"]
-    day_in_week  = essay.get("day_in_week", "")
-    days_left    = essay["days_remaining"]
-    phase        = essay["phase"]
-    topic        = essay["topic"]
-    angle        = essay.get("angle", "")
-    role_lens    = essay["role_lens"]
 
     return f"""
-<!-- ═══ ESSAY DIVIDER ═══ -->
-<tr><td style="padding:40px 36px 0 36px;">
-    <table width="100%" cellpadding="0" cellspacing="0">
-    <tr><td style="border-top:2px solid #1A6B3C;"></td></tr>
-    </table>
-</td></tr>
-
-<!-- Essay label -->
-<tr><td style="padding:24px 36px 0 36px;">
-    <p style="margin:0 0 4px 0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:11px; letter-spacing:2px; color:#1A6B3C; text-transform:uppercase; font-weight:600;">Daily Learning Essay</p>
-    <p style="margin:0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:11px; color:#888888;">Day {day_num} of 90 &middot; Day {day_in_week} of 7 &middot; {phase} &middot; {role_lens} Lens &middot; {days_left} days remaining</p>
-</td></tr>
-
-<!-- Essay title -->
-<tr><td style="padding:12px 36px 0 36px;">
-    <h2 style="margin:0; font-family:Georgia, serif; font-size:24px; font-weight:400; color:#0D3320; line-height:1.35;">{topic}</h2>
-    <p style="margin:6px 0 0 0; font-family:Georgia, serif; font-size:15px; font-style:italic; color:#3A6B50; line-height:1.4;">{angle}</p>
-</td></tr>
-
-<!-- Essay body -->
-<tr><td style="padding:20px 36px 0 36px;">
-    {essay_html}
-</td></tr>
-
-<!-- Pivot lens box -->
-<tr><td style="padding:8px 36px 32px 36px;">
-    <table width="100%" cellpadding="0" cellspacing="0">
+    <table width="100%" cellpadding="0" cellspacing="0" style="margin:0 0 16px 0;">
     <tr>
         <td width="3" style="background-color:#1A6B3C;"></td>
-        <td style="background-color:#E8F5EE; padding:18px 20px;">
-            <p style="margin:0 0 8px 0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:11px; letter-spacing:2px; color:#0D3320; text-transform:uppercase; font-weight:700;">Your Pivot Lens &middot; {role_lens}</p>
-            {pivot_html}
+        <td class="box" style="background-color:#E8F5EE; padding:18px 20px;">
+            <p style="margin:0 0 8px 0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:11px; letter-spacing:2px; color:#0D3320; text-transform:uppercase; font-weight:700;">VC Thesis Excerpt</p>
+            <p style="margin:0 0 8px 0; font-family:Georgia, serif; font-size:16px; font-style:italic; font-weight:400; color:#222222; line-height:1.6;">&ldquo;{excerpt}&rdquo;</p>
+            <p style="margin:0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:12px; color:#3A6B50;">&mdash; {link_html}</p>
         </td>
     </tr>
     </table>
-</td></tr>
 """
 
 
-def build_html(story: Dict, date_str: str, essay: Dict = None) -> str:
+def build_html(story: Dict, date_str: str) -> str:
     """
-    Build HTML email matching the briefing_preview_v4 design exactly.
+    Build HTML email: raw facts, a VC thesis excerpt, and interrogation
+    questions. No narrative, no synthesis, no essay.
+
     story dict keys: headline, stat_number, stat_label, what_happened,
-                     why_it_matters, india_lens, implication,
-                     source_name, source_url
+                     funding_facts, india_lens, source_name, source_url,
+                     vc_excerpt, vc_excerpt_firm, vc_excerpt_post_title,
+                     vc_excerpt_post_url, interrogation_questions
     """
 
     # Stat block — only render if we have a number
@@ -179,7 +103,7 @@ def build_html(story: Dict, date_str: str, essay: Dict = None) -> str:
         source_html = story.get("source_name", "")
 
     # Clean em/en dashes + convert markdown bold for all body fields
-    for field in ['headline', 'what_happened', 'why_it_matters', 'india_lens', 'implication']:
+    for field in ['headline', 'what_happened', 'funding_facts', 'india_lens']:
         if story.get(field):
             story[field] = _clean(story[field])
             story[field] = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', story[field])
@@ -187,8 +111,8 @@ def build_html(story: Dict, date_str: str, essay: Dict = None) -> str:
     # What happened — convert newlines to paragraph breaks
     what_happened = story.get("what_happened", "").replace("\n", "</p><p style=\"margin:22px 0; font-family:Georgia, serif; font-size:16px; font-weight:400; color:#222222; line-height:1.75;\">")
 
-    # Essay section — empty string if no essay was generated
-    essay_section = _build_essay_section(essay) if essay else ""
+    vc_excerpt_html    = _build_vc_excerpt_html(story)
+    questions_html     = _questions_to_html(story.get("interrogation_questions", []))
 
     return f"""<!DOCTYPE html>
 <html>
@@ -238,9 +162,9 @@ def build_html(story: Dict, date_str: str, essay: Dict = None) -> str:
     <!-- What happened -->
     <p style="margin:22px 0; font-family:Georgia, serif; font-size:16px; font-weight:400; color:#222222; line-height:1.75;">{what_happened}</p>
 
-    <!-- Why This Matters -->
-    <p style="margin:28px 0 8px 0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:11px; letter-spacing:2px; color:#0050C8; text-transform:uppercase; font-weight:600;">Why This Matters</p>
-    <p style="margin:0 0 28px 0; font-family:Georgia, serif; font-size:16px; font-weight:400; color:#222222; line-height:1.75;">{story["why_it_matters"]}</p>
+    <!-- Funding Facts -->
+    <p style="margin:28px 0 8px 0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:11px; letter-spacing:2px; color:#0050C8; text-transform:uppercase; font-weight:600;">Funding Facts</p>
+    <p style="margin:0 0 28px 0; font-family:Georgia, serif; font-size:16px; font-weight:400; color:#222222; line-height:1.75;">{story.get("funding_facts", "")}</p>
 
     <!-- India Lens box -->
     <table width="100%" cellpadding="0" cellspacing="0" style="margin:0 0 16px 0;">
@@ -248,30 +172,31 @@ def build_html(story: Dict, date_str: str, essay: Dict = None) -> str:
         <td width="3" style="background-color:#0050C8;"></td>
         <td class="box" style="background-color:#E8EEF8; padding:18px 20px;">
             <p style="margin:0 0 8px 0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:11px; letter-spacing:2px; color:#001A5E; text-transform:uppercase; font-weight:700;">India Lens</p>
-            <p style="margin:0; font-family:Georgia, serif; font-size:15px; font-weight:400; color:#222222; line-height:1.7;">{story["india_lens"]}</p>
+            <p style="margin:0; font-family:Georgia, serif; font-size:15px; font-weight:400; color:#222222; line-height:1.7;">{story.get("india_lens", "")}</p>
         </td>
     </tr>
     </table>
 
-    <!-- Implication For You box -->
-    <table width="100%" cellpadding="0" cellspacing="0" style="margin:0 0 24px 0;">
-    <tr>
-        <td width="3" style="background-color:#001A5E;"></td>
-        <td class="box" style="background-color:#f5f5f5; padding:18px 20px;">
-            <p style="margin:0 0 8px 0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:11px; letter-spacing:2px; color:#001A5E; text-transform:uppercase; font-weight:700;">Implication For You</p>
-            <p style="margin:0; font-family:Georgia, serif; font-size:15px; font-weight:400; color:#333333; line-height:1.7; font-style:italic;">{story["implication"]}</p>
-        </td>
-    </tr>
-    </table>
+    <!-- VC Thesis Excerpt box — empty string if none was grounded -->
+    {vc_excerpt_html}
 
     <!-- Source -->
-    <p style="margin:0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:11px; color:#aaaaaa;">
+    <p style="margin:0 0 24px 0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:11px; color:#aaaaaa;">
         Source: {source_html}
     </p>
 
-</td></tr>
+    <!-- Interrogation questions — no answers, no hints. Yours to work out. -->
+    <table width="100%" cellpadding="0" cellspacing="0" style="margin:8px 0 0 0;">
+    <tr>
+        <td width="3" style="background-color:#B8332F;"></td>
+        <td class="box" style="background-color:#FBEEED; padding:18px 20px;">
+            <p style="margin:0 0 12px 0; font-family:Calibri, Helvetica, Arial, sans-serif; font-size:11px; letter-spacing:2px; color:#7A1D1A; text-transform:uppercase; font-weight:700;">Defend This Pick</p>
+            {questions_html}
+        </td>
+    </tr>
+    </table>
 
-{essay_section}
+</td></tr>
 
 <!-- Footer -->
 <tr><td class="footer" style="padding:24px 36px 40px 36px; border-top:1px solid #e0e0e0;">
@@ -293,14 +218,14 @@ def send(subject: str, html: str) -> bool:
     """Send via Gmail SMTP. Returns True on success."""
     try:
         msg = MIMEMultipart("alternative")
-        msg["Subject"] = subject
+        msg["Subject"] = Header(subject, "utf-8")  # RFC 2047 encode — handles ₹, —, emoji
         msg["From"]    = EMAIL_SENDER
         msg["To"]      = EMAIL_RECIPIENT
-        msg.attach(MIMEText(html, "html"))
+        msg.attach(MIMEText(html, "html", "utf-8"))
 
         with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
             server.login(EMAIL_SENDER, SMTP_PASSWORD)
-            server.sendmail(EMAIL_SENDER, EMAIL_RECIPIENT, msg.as_string())
+            server.send_message(msg)
 
         print(f"[emailer] sent → {EMAIL_RECIPIENT}")
         return True

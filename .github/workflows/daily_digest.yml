@@ -29,17 +29,10 @@ jobs:
 
       - name: Run newsletter
         env:
-          # ── Required ──────────────────────────────────────────────────────
           GOOGLE_API_KEY:     ${{ secrets.GOOGLE_API_KEY }}
           GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           GMAIL_RECIPIENT:    ${{ secrets.GMAIL_RECIPIENT }}
-          # ── Persona (set these to personalise your daily essay) ───────────
-          CURRICULUM_START_DATE: ${{ secrets.CURRICULUM_START_DATE }}
-          USER_CURRENT_ROLE:     ${{ secrets.USER_CURRENT_ROLE }}
-          USER_TARGET_ROLES:     ${{ secrets.USER_TARGET_ROLES }}
-          USER_GOAL:             ${{ secrets.USER_GOAL }}
-          USER_DIFFERENTIATOR:   ${{ secrets.USER_DIFFERENTIATOR }}
         run: |
           cd agents/AI_newsletter
           python run.py
@@ -49,7 +42,7 @@ jobs:
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name  "github-actions[bot]"
-          git add agents/AI_newsletter/memory.json agents/AI_newsletter/essay_memory.json
+          git add agents/AI_newsletter/memory.json agents/AI_newsletter/responses.json
           git diff --staged --quiet || git commit -m "chore: update newsletter memory [skip ci]"
           git pull --rebase origin master
           git push
