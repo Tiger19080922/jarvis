@@ -1,0 +1,16 @@
+{
+  "responses": [
+    {
+      "date": "2026-07-23T18:56:52.784115",
+      "headline": "AMD will invest up to $5 billion in AI public benefit corporation Anthropic.",
+      "source_url": "https://indianexpress.com/article/technology/artificial-intelligence/amd-to-invest-up-to-5-billion-in-anthropic-ai-startup-to-buy-up-to-2-gw-of-chips-10798824/",
+      "questions": [
+        "Given Anthropic's Series H round in May 2026 valued them at $965 billion, how does AMD's $5 billion strategic investment, contingent on computing power deployment milestones, materially change Anthropic's capital structure or strategic trajectory beyond what their existing $65 billion raise already enabled?",
+        "Nexus Venture Partners' thesis states the world will not be well served by a single compute-stack; how does AMD's investment, focused on Anthropic's Claude models and requiring specific computing power deployment, avoid further concentrating the compute-stack around a single vendor and model provider?",
+        "What specific computing power deployment milestones must Anthropic achieve for AMD to release the full $5 billion, and what recourse does AMD have if Anthropic fails to meet these, given this is AMD's first AI investment?",
+        "Considering Anthropic is an AI public benefit corporation, how does AMD's strategic investment and the associated commercial agreement reconcile potential conflicts between maximizing shareholder value for AMD and Anthropic's public benefit mission, especially if computing power deployment milestones are not met?"
+      ],
+      "answers": []
+    }
+  ]
+}
