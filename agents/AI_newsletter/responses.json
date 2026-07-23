@@ -11,6 +11,18 @@
         "Considering Anthropic is an AI public benefit corporation, how does AMD's strategic investment and the associated commercial agreement reconcile potential conflicts between maximizing shareholder value for AMD and Anthropic's public benefit mission, especially if computing power deployment milestones are not met?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-07-23T21:37:19.744657",
+      "headline": "India is developing a \"well-calibrated\" artificial intelligence regulatory framework.",
+      "source_url": "https://www.ndtv.com/business/india-working-on-well-calibrated-ai-law-studying-us-and-eu-models-meity-secretary-3240568",
+      "questions": [
+        "Given IndiaAI Mission's $1.25 billion outlay is entirely public funding, how do you ensure this capital is deployed efficiently to foster innovation rather than creating state-backed inefficiencies that could stifle private sector competition?",
+        "Nexus Venture Partners' thesis highlights the need for more specialized infrastructure; how does MeitY's 'well-calibrated' regulatory framework, which balances innovation with safeguards, avoid becoming a bureaucratic hurdle that slows down the deployment of this specialized AI infrastructure?",
+        "What specific mechanisms are in place within MeitY's planned AI regulatory framework to prevent a 'well-calibrated' approach from inadvertently creating a moat for incumbent Indian tech giants by making it harder for agile startups to access or deploy cutting-edge AI models?",
+        "Considering past government initiatives in technology have faced challenges with execution and adoption, what specific assurances can you provide that this $1.25 billion IndiaAI Mission will avoid similar pitfalls and genuinely accelerate India's AI ecosystem beyond initial announcements?"
+      ],
+      "answers": []
     }
   ]
 }
