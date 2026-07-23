@@ -1032,6 +1032,18 @@
         "The future of AI differentiation relies on on-device understanding of individual needs.",
         "Personalized context is the ultimate battleground for AI leadership."
       ]
+    },
+    {
+      "date": "2026-07-23T18:14:56.271732",
+      "day_number": 90,
+      "topic": "Deep Dive: AI Technical Concepts Revisited",
+      "angle": "On-device AI: the shift from cloud to edge",
+      "key_arguments": [
+        "On-device AI shifts power from cloud providers to device manufacturers.",
+        "On-device AI transforms privacy into a product differentiator.",
+        "NPUs are specialized hardware for efficient AI computation on devices.",
+        "Model optimization is crucial for running AI on resource-constrained devices."
+      ]
     }
   ]
 }
