@@ -434,14 +434,13 @@ def write_subject_line(story: Dict, trace=None) -> str:
         hook=hook,
     )
 
-    response = _get_client().models.generate_content(
+    text = _call(
         model=FLASH,
-        contents=user,
-        config=types.GenerateContentConfig(
-            system_instruction=SUBJECT_SYSTEM,
-            max_output_tokens=40,
-            temperature=0.1,
-        ),
+        system=SUBJECT_SYSTEM,
+        user=user,
+        max_tokens=40,
+        step_name="subject_line",
+        trace=trace,
     )
 
-    return (response.text or "").strip('"\'').strip()
+    return text.strip('"\'').strip()
