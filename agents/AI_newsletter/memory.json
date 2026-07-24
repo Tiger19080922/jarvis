@@ -1,234 +1,6 @@
 {
   "stories": [
     {
-      "title": "11 key takeaways from Jharkhand\u2019s draft AI Policy",
-      "url": "https://www.medianama.com/2026/07/223-11-key-takeaways-jharkhand-draft-ai-policy/",
-      "cat": "POLICY",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Centre signals dedicated AI law as India prepares regulatory framework",
-      "url": "https://www.indiantelevision.com/shows/news/centre-signals-dedicated-ai-law-as-india-prepares-regulatory-framework-1260705",
-      "cat": "POLICY",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Accel\u2019s Subrata Mitra On Why AI Will Break More Founders, And How To Survive It",
-      "url": "https://inc42.com/features/accel-subrata-mitra-on-down-but-not-out-book-interview/",
-      "cat": "OTHER",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "No code, no developer, no waiting: How AI is rewriting the rules for India's MSMEs",
-      "url": "https://yourstory.com/2026/07/no-code-no-developer-no-waiting-how-ai-is-rewriting-the-rules-for-indias-msmes",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Govt. was hiring Director for its IndiaAI Safety Institute",
-      "url": "https://www.medianama.com/2026/07/223-meity-india-ai-safety-institute-director-hiring/",
-      "cat": "POLICY",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Google launches AI agent within Search ads in India, expands Gemini-powered ad tools",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-launches-ai-agent-search-ads-india-gemini-10778840/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Govt Ministries Queue Up To Adopt AI; Law May Follow Soon",
-      "url": "https://www.etvbharat.com/english/national/states/telangana/govt-ministries-queue-up-to-adopt-ai-law-may-follow-soon/national202607092206331313430",
-      "cat": "POLICY",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Krutrim, Ola Electric CEO's new AI venture, valued at $1 billion",
-      "url": "https://www.upstox.com/news/business-news/krutrim-ola-electric-ceos-new-ai-venture-valued-at-1-billion/",
-      "cat": "FUNDING",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Nandan Nilekani Increases Support to AI4Bharat with Total Grant of INR 70 Crore",
-      "url": "https://www.entrepreneur.com/en/news-and-commentary/nandan-nilekani-increases-support-to-ai4bharat-with-total-grant-of-inr-70-crore/449414",
-      "cat": "FUNDING",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Mukesh Bansal\u2019s Nurix AI Acquires Verloop",
-      "url": "https://inc42.com/buzz/mukesh-bansals-nurix-ai-to-acquire-verloop/",
-      "cat": "FUNDING",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Skilling vital in India's goal of becoming AI solutions capital: IT Secretary",
-      "url": "https://yourstory.com/2026/07/skilling-vital-india-goal-ai-solutions-capital-it-secretary",
-      "cat": "POLICY",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Government, Nasscom working on AI curriculum for undergraduate programmes",
-      "url": "https://yourstory.com/2026/07/govt-nasscom-ai-curriculum-undergraduate-programmes",
-      "cat": "POLICY",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Bombay HC grants Preity Zinta interim relief against AI deepfakes, chatbots, and merchandise misusing her personality",
-      "url": "https://www.medianama.com/2026/07/223-bombay-hc-grants-preity-zinta-interim-relief-ai-deepfakes-chatbots-merchandise-misusing-personality/",
-      "cat": "POLICY",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Delhi High Court protects personality rights of Ravi Kishan, orders takedown of AI-generated images",
-      "url": "https://www.medianama.com/2026/07/223-delhi-high-court-protects-personality-rights-ravi-kishan-takedown-ai-generated-images/",
-      "cat": "POLICY",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Bengaluru-based AI Startup Alchemic Raises Rs 2.5 Crore in Pre-Seed Funding Led by AJVC",
-      "url": "https://indiastartuptimes.com/bengaluru-based-ai-startup-alchemic-raises-rs-2-5-crore-in-pre-seed-funding-led-by-ajvc/",
-      "cat": "FUNDING",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "DevSparks Hyderabad returns to decode agentic AI, cybersecurity, and the future of software development",
-      "url": "https://yourstory.com/2026/07/devsparks-hyderabad-agentic-ai-cybersecurity-software-development-future",
-      "cat": "RESEARCH",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Government has done its part on GCC, industry must build capabilities to meet AI challenge: CEA",
-      "url": "https://yourstory.com/2026/07/govt-done-its-part-gcc-industry-build-capabilities-ai-challenge-cea",
-      "cat": "POLICY",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "Building production agents using AWS\u2019s open source Strands Agents SDK",
-      "url": "https://yourstory.com/2026/07/production-agents-aws-open-source-strands-agents-sdk",
-      "cat": "RESEARCH",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "AI reviewers make it easier to get research published. US study calls it paper-laundering",
-      "url": "https://theprint.in/science/ai-reviewers-research-published-us-study-calls-it-paper-laundering/2982221/",
-      "cat": "RESEARCH",
-      "date": "2026-07-09T22:00:58.106130"
-    },
-    {
-      "title": "How NPCI should approach agentic payments",
-      "url": "https://www.medianama.com/2026/07/223-npci-agentic-payments-upi/",
-      "cat": "POLICY",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "ALERT: MEITY's Plan to Replace Every Government IT System in India With AI",
-      "url": "https://www.youtube.com/watch?v=tMh1p15z7i0",
-      "cat": "POLICY",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "IIT Bombay Unveils BharatGen: AI for 22 Languages, Healthcare & More",
-      "url": "https://www.livemint.com/technology/tech-news/iit-bombay-unveils-bharatgen-ai-for-22-languages-healthcare-and-more-11718508168668.html",
-      "cat": "RESEARCH",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "Fundamentum Launches \u20b92,200 Cr Fund; Nandan Nilekani Steps Back From GP Role",
-      "url": "https://inc42.com/buzz/fundamentum-launches-%e2%82%b92200-cr-fund-nandan-nilekani-steps-back-from-gp-role/",
-      "cat": "FUNDING",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "Nandan Nilekani backed Fundamentum Partnership launches Rs 2,200 Cr third fund",
-      "url": "https://yourstory.com/2026/07/nandan-nilekani-fundamentum-partnership-rs-2200-crore-third-fund",
-      "cat": "FUNDING",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "TCS Q1 profit rises 4.6%; Nilekani's Fundamentum launches Fund III",
-      "url": "https://yourstory.com/2026/07/tcs-q1-profit-rises-46-nilekani-fundamentum-fund",
-      "cat": "FUNDING",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "Mark Zuckerberg returns to X after 3 years to unveil Meta's Muse Spark 1.1 AI model, developer API",
-      "url": "https://www.livemint.com/technology/tech-news/mark-zuckerberg-returns-to-x-after-3-years-to-unveil-metas-muse-spark-1-1-ai-model-developer-api-11783622111314.html",
-      "cat": "RESEARCH",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "Govt reiterates commitment to make India global hub for AI applications",
-      "url": "https://newsonair.gov.in/govt-reiterates-commitment-to-make-india-global-hub-for-ai-applications/",
-      "cat": "POLICY",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "Centre to subsidize AI chips for government bodies",
-      "url": "https://www.livemint.com/politics/policy/centre-to-subsidize-ai-chips-for-government-bodies-11720607318175.html",
-      "cat": "POLICY",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "IndicVoices-R: Unlocking a Massive Multilingual Multi-Speaker Speech Corpus for Scaling Indian TTS",
-      "url": "https://arxiv.org/abs/2607.08758",
-      "cat": "RESEARCH",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "Why Truecaller & TRAI Are Clashing Over 140 And 1600 Number Tags",
-      "url": "https://inc42.com/buzz/why-truecaller-trai-are-clashing-over-140-and-1600-number-tags/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "Google deepens Gemini\u2019s presence in the ads business",
-      "url": "https://www.medianama.com/2026/07/223-google-ai-agent-search-ads-india/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "Google requires advertisers to disclose generative AI use in ads",
-      "url": "https://www.medianama.com/2026/07/223-google-ai-ad-disclosure-youtube-discover/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "Tingyu Su on why AI startups should treat the founding designer as a strategic hire from the start of company building",
-      "url": "https://thenextweb.com/news/tingyu-su-founding-designer-ai-startups-strategic-hire",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "IISc paper recognized as best paper finalist at global computer vision event",
-      "url": "https://www.thehindu.com/education/iisc-research-paper-gets-top-honours-at-global-computer-vision-event/article68316192.ece",
-      "cat": "RESEARCH",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "The Eval Stack: Proving the agents are right instead of claiming It",
-      "url": "https://thenextweb.com/news/the-eval-stack-proving-the-agents-are-right-instead-of-claiming-it",
-      "cat": "RESEARCH",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding",
-      "url": "https://arxiv.org/abs/2607.08745",
-      "cat": "RESEARCH",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
-      "url": "https://arxiv.org/abs/2607.08740",
-      "cat": "RESEARCH",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
-      "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs",
-      "url": "https://arxiv.org/abs/2607.08734",
-      "cat": "RESEARCH",
-      "date": "2026-07-10T21:38:27.200250"
-    },
-    {
       "title": "India's AI workforce is growing overnight, governance is not",
       "url": "https://yourstory.com/2026/07/indias-ai-workforce-is-growing-overnight-governance-not",
       "cat": "POLICY",
@@ -1181,6 +953,102 @@
       "url": "https://yourstory.com/2026/07/hachidori-robotics-track-free-warehouse-robots",
       "cat": "ENTERPRISE",
       "date": "2026-07-23T21:37:19.743214"
+    },
+    {
+      "title": "HCLTech, Sarvam AI Join Hands For $1.5 Bn AI Data Centre In Odisha",
+      "url": "https://inc42.com/buzz/hcltech-announces-1-5-bn-investment-to-build-maiden-ai-data-centre-in-odisha/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "India is short of skilled welders, and Terafac is teaching robots to fill that gap",
+      "url": "https://yourstory.com/2026/07/terafac-robotic-welding-india",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "Why The OpenAI-Hugging Face Incident Is A Wake-Up Call For Enterprises",
+      "url": "https://inc42.com/features/why-the-openai-hugging-face-incident-is-a-wake-up-call-for-enterprises/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "DoT disconnects 88 lakh mobile connections using AI tool",
+      "url": "https://www.medianama.com/2026/07/223-dot-disconnects-88-lakh-mobile-connections/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "Karnataka looks to deepen AI ecosystem with industry partnership, focus on youth and rural education",
+      "url": "https://www.livemint.com/technology/karnataka-looks-to-deepen-ai-ecosystem-with-industry-partnership-focus-on-youth-and-rural-education-11784882206692.html",
+      "cat": "POLICY",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "Fractal Q1: Profit Zooms 92% YoY to \u20b972 Cr, Revenue At \u20b9913 Cr",
+      "url": "https://inc42.com/buzz/fractal-q1-profit-zooms-92-yoy-to-%e2%82%b972-cr-revenue-at-%e2%82%b9913-cr/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "Anthropic launches Opus 5 AI model at half-price of Fable 5 \u2014 What we know about the efficiency upgrade",
+      "url": "https://www.livemint.com/technology/tech-news/anthropic-launches-opus-5-ai-model-at-half-price-of-fable-5-what-we-know-about-the-efficiency-upgrade-11784913229375.html",
+      "cat": "RESEARCH",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "Claude Opus 5 matches Fable on coding at half the price, and Anthropic says it is the most aligned model it has ever shipped",
+      "url": "https://thenextweb.com/news/anthropic-claude-opus-5-launch-frontier-bench-coding",
+      "cat": "RESEARCH",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "Stripe wants to own the toll booth between AI models, for ~$10bn",
+      "url": "https://thenextweb.com/news/stripe-openrouter-10-billion-ai-model-marketplace-acquisition",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "The AI giants just broke with OpenAI and Anthropic on open weights",
+      "url": "https://thenextweb.com/news/open-weights-american-ai-leadership-letter-huang-nvidia-openai-absent",
+      "cat": "RESEARCH",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "Delhi HC Rejects ANI\u2019s Plea For Interim Injunction Against OpenAI In Copyright Suit",
+      "url": "https://inc42.com/buzz/delhi-hc-rejects-anis-plea-for-interim-injunction-against-openai-in-copyright-suit/",
+      "cat": "POLICY",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "ANI vs OpenAI Copyright Dispute: Delhi High Court declines interim relief",
+      "url": "https://www.medianama.com/2026/07/223-ani-openai-copyright-dispute-delhi-high-court-interim-relief/",
+      "cat": "POLICY",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "Amazon reduces AGI workforce as it doubles down on core AI projects",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/amazon-reduces-agi-workforce-as-it-doubles-down-on-core-ai-projects-10799391/",
+      "cat": "RESEARCH",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "OpenAI couldn't stop its own rogue AI. A Chinese model did | Here's how",
+      "url": "https://www.livemint.com/technology/tech-news/openai-couldnt-stop-its-own-rogue-ai-a-chinese-model-did-heres-how-11784905940360.html",
+      "cat": "RESEARCH",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "Dead internet theory becomes measurable fact as AI agents flood the web",
+      "url": "https://thenextweb.com/news/bots-outnumber-humans-internet-ai-agents-traffic",
+      "cat": "OTHER",
+      "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "Amazon just shut its AGI Lab, and quit a race it never led",
+      "url": "https://thenextweb.com/news/amazon-shuts-agi-lab-frontier-model-retreat-layoffs",
+      "cat": "RESEARCH",
+      "date": "2026-07-24T21:39:45.930840"
     }
   ]
 }
