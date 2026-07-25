@@ -1,66 +1,6 @@
 {
   "stories": [
     {
-      "title": "India's AI workforce is growing overnight, governance is not",
-      "url": "https://yourstory.com/2026/07/indias-ai-workforce-is-growing-overnight-governance-not",
-      "cat": "POLICY",
-      "date": "2026-07-11T21:25:35.625556"
-    },
-    {
-      "title": "Zetwerk Cofounder Rahul Sharma Steps Into Non Executive Role To Launch AI Venture",
-      "url": "https://inc42.com/buzz/zetwerk-cofounder-rahul-sharma-steps-back-from-executive-role-to-launch-ai-venture/",
-      "cat": "FUNDING",
-      "date": "2026-07-11T21:25:35.625556"
-    },
-    {
-      "title": "India AI Governance Guidelines released",
-      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2039674",
-      "cat": "POLICY",
-      "date": "2026-07-11T21:25:35.625556"
-    },
-    {
-      "title": "India Moves Toward a Dedicated AI Law",
-      "url": "https://www.commtoday.com/2026/07/08/india-moves-toward-a-dedicated-ai-law/",
-      "cat": "POLICY",
-      "date": "2026-07-11T21:25:35.625556"
-    },
-    {
-      "title": "Exclusive: GoKwik Lays Off Around 120 Employees Amid AI Push",
-      "url": "https://inc42.com/buzz/exclusive-gokwik-lays-off-around-120-employees-amid-ai-push/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-11T21:25:35.625556"
-    },
-    {
-      "title": "Uttar Pradesh Approves New Data Center Policy 2026 to Boost AI Infrastructure",
-      "url": "https://www.analyticsindiamag.com/news/breaking-indias-biggest-ai-policy-yet-2-lakh-crore-57000-jobs/",
-      "cat": "POLICY",
-      "date": "2026-07-11T21:25:35.625556"
-    },
-    {
-      "title": "Implementing digital and AI in healthcare is fundamentally more complex: Rizwan Koita, co-founder, Koita Foundation",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/rizwan-koita-foundation-nabh-digital-health-ai-india-healthcare-10781107/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-11T21:25:35.625556"
-    },
-    {
-      "title": "Indian AI research papers on arXiv (July 7-10, 2026)",
-      "url": "https://bharath.ai/recent-research",
-      "cat": "RESEARCH",
-      "date": "2026-07-11T21:25:35.625556"
-    },
-    {
-      "title": "Zoho-Backed Genrobotics\u2019 Revenue Jumps 35% YoY In FY26, Eyes \u20b9150 Cr Series B Round",
-      "url": "https://inc42.com/buzz/zoho-backed-genrobotics-posts-%e2%82%b92-6-cr-profit-in-fy26-eyes-%e2%82%b9150-cr-series-b-round/",
-      "cat": "FUNDING",
-      "date": "2026-07-11T21:25:35.625556"
-    },
-    {
-      "title": "iOS 27: Apple Mail gets AI Search, Smart Replies and Siri features",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/ios-27-apple-mail-gets-ai-search-smart-replies-and-siri-features-10782109/",
-      "cat": "RESEARCH",
-      "date": "2026-07-11T21:25:35.625556"
-    },
-    {
       "title": "India's MSMEs power the economy, but most still aren't using AI",
       "url": "https://yourstory.com/2026/07/fynd-ragini-varma-ai-for-msmes-autonomous-retail-msme-sparks-2026",
       "cat": "ENTERPRISE",
@@ -1049,6 +989,66 @@
       "url": "https://thenextweb.com/news/amazon-shuts-agi-lab-frontier-model-retreat-layoffs",
       "cat": "RESEARCH",
       "date": "2026-07-24T21:39:45.930840"
+    },
+    {
+      "title": "Enterprise AI focus shifts from coding productivity to business execution: Report",
+      "url": "https://www.livemint.com/technology/enterprise-ai-focus-shifts-from-coding-productivity-to-business-execution-report-11784948881876.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-25T21:26:50.899202"
+    },
+    {
+      "title": "Meet the IFS officer using AI to tell farmers what trees to plant and where",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/himachal-ifs-officer-telegram-chatbot-ai-forest-governance-10802145/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-25T21:26:50.899202"
+    },
+    {
+      "title": "Satya Nadella says Microsoft\u2019s MAI AI models outperform frontier AI in many use cases, cut costs",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/satya-nadella-microsoft-mai-ai-models-outperform-frontier-ai-10801033/",
+      "cat": "RESEARCH",
+      "date": "2026-07-25T21:26:50.899202"
+    },
+    {
+      "title": "OpenAI eyeing ChatGPT integrations for smart glasses, wearables: Greg Brockman",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-eyeing-chatgpt-integrations-for-wearables-greg-brockman-10803022/",
+      "cat": "RESEARCH",
+      "date": "2026-07-25T21:26:50.899202"
+    },
+    {
+      "title": "Anthropic rolls out Opus 5 AI model in efficiency upgrade",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-rolls-out-opus-5-ai-model-in-efficiency-upgrade-10802744/",
+      "cat": "RESEARCH",
+      "date": "2026-07-25T21:26:50.899202"
+    },
+    {
+      "title": "Meta AI gets smarter: It can now plan your day, do research, and create presentations",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/meta-ai-muse-spark-1-1-new-features-10802642/",
+      "cat": "RESEARCH",
+      "date": "2026-07-25T21:26:50.899202"
+    },
+    {
+      "title": "Anthropic expands Claude voice mode with Opus and Sonnet support, deeper app integration",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-expands-claude-voice-mode-with-opus-and-sonnet-support-deeper-app-integration-10802038/",
+      "cat": "RESEARCH",
+      "date": "2026-07-25T21:26:50.899202"
+    },
+    {
+      "title": "Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/its-ai-agent-spent-days-hacking-a-company-but-sources-say-openai-did-not-notice-for-a-week-10802756/",
+      "cat": "RESEARCH",
+      "date": "2026-07-25T21:26:50.899202"
+    },
+    {
+      "title": "AMD unveils Helios AI rack-scale system to challenge Nvidia\u2019s dominance",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/amd-unveils-helios-ai-rack-scale-system-to-challenge-nvidias-dominance-10801446/",
+      "cat": "RESEARCH",
+      "date": "2026-07-25T21:26:50.899202"
+    },
+    {
+      "title": "AI investment boom faces growing credit risks as hyperscalers ramp up debt: Jefferies",
+      "url": "https://www.livemint.com/technology/ai-investment-boom-faces-growing-credit-risks-as-hyperscalers-ramp-up-debt-jefferies-11784873184404.html",
+      "cat": "FUNDING",
+      "date": "2026-07-25T21:26:50.899202"
     }
   ]
 }

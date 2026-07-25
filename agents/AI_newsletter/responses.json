@@ -35,6 +35,18 @@
         "Beyond the stated $1.5 billion joint investment, what is Sarvam AI's specific funding strategy to sustain its LLM development and operational costs post-data center construction, and how does this data center's operational expense model remain viable without additional, significant funding rounds for Sarvam AI itself?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-07-25T21:26:50.900549",
+      "headline": "Sonata Software reports shift in enterprise AI adoption focus.",
+      "source_url": "https://www.livemint.com/technology/enterprise-ai-focus-shifts-from-coding-productivity-to-business-execution-report-11784948881876.html",
+      "questions": [
+        "Given Sonata's shift to broader business execution AI, how will your Platformation\u2122 methodology, historically focused on modernization engineering, adapt to capture value in these new AI use cases, and what specific technical or strategic advantages does it offer over competitors also pivoting to this broader AI focus?",
+        "Nexus Venture Partners' thesis highlights the need for more specialized AI infrastructure. How does Sonata, as an IT services provider, plan to build or leverage specialized AI infrastructure to support the broader business execution AI needs of enterprises, rather than relying on existing cloud providers or AI model developers?",
+        "Sonata's report indicates a shift away from AI for coding productivity. What concrete evidence or customer commitments does Sonata have that demonstrate enterprises are *currently* willing to spend significant budget on AI for broader business execution, and how does this differ from past, less successful AI adoption cycles?",
+        "With Sonata being a publicly traded company since 1998 and not having raised recent VC rounds, what makes this the opportune moment for Sonata to capitalize on this specific shift in enterprise AI adoption, and what internal capabilities or market positioning have changed to enable this now?"
+      ],
+      "answers": []
     }
   ]
 }
