@@ -1,42 +1,6 @@
 {
   "stories": [
     {
-      "title": "India's MSMEs power the economy, but most still aren't using AI",
-      "url": "https://yourstory.com/2026/07/fynd-ragini-varma-ai-for-msmes-autonomous-retail-msme-sparks-2026",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-12T21:26:17.135941"
-    },
-    {
-      "title": "The AI race has quietly stopped being about who has the biggest model",
-      "url": "https://thenextweb.com/news/ai-race-shifts-bigger-models-to-cheaper-systems",
-      "cat": "RESEARCH",
-      "date": "2026-07-12T21:26:17.135941"
-    },
-    {
-      "title": "Unicorn Founders Go AI Native",
-      "url": "https://inc42.com/features/unicorn-founders-go-ai-native/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-12T21:26:17.135941"
-    },
-    {
-      "title": "Zhipu\u2019s founder says frontier AI should stay open to everyone. His own government may disagree.",
-      "url": "https://thenextweb.com/news/zhipu-tang-jie-frontier-ai-open-to-all",
-      "cat": "POLICY",
-      "date": "2026-07-12T21:26:17.135941"
-    },
-    {
-      "title": "Nostalgia is identity: how Avinash Mudaliar built Carvaan, and why AI needs its own Carvaan moment",
-      "url": "https://yourstory.com/2026/07/saregama-carvaan-avinash-mudaliar-nostalgia-ai-carvaans",
-      "cat": "OTHER",
-      "date": "2026-07-12T21:26:17.135941"
-    },
-    {
-      "title": "AI bosses say demand is \u2018almost unlimited\u2019. The market is no longer taking their word for it.",
-      "url": "https://thenextweb.com/news/ai-demand-unlimited-chip-stock-volatility",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-12T21:26:17.135941"
-    },
-    {
       "title": "Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions",
       "url": "https://indianexpress.com/article/technology/artificial-intelligence/indias-tata-consultancy-services-plans-up-to-8900-ai-deployment-engineers-seeks-ai-acquisitions-10783755/",
       "cat": "ENTERPRISE",
@@ -1049,6 +1013,54 @@
       "url": "https://www.livemint.com/technology/ai-investment-boom-faces-growing-credit-risks-as-hyperscalers-ramp-up-debt-jefferies-11784873184404.html",
       "cat": "FUNDING",
       "date": "2026-07-25T21:26:50.899202"
+    },
+    {
+      "title": "How to run B2B GTM when your buyer asks ChatGPT first",
+      "url": "https://yourstory.com/2026/07/how-to-run-b2b-gtm-when-your-buyer-asks-chatgpt-first-",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-26T21:29:23.574742"
+    },
+    {
+      "title": "India AI Governance Guidelines: A Techno-Legal Approach to AI Regulation",
+      "url": "https://sarglobal.com/indias-ai-governance-guidelines-what-the-7/",
+      "cat": "POLICY",
+      "date": "2026-07-26T21:29:23.574742"
+    },
+    {
+      "title": "India AI Governance Guidelines - Press Release",
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2034974",
+      "cat": "POLICY",
+      "date": "2026-07-26T21:29:23.574742"
+    },
+    {
+      "title": "Preparing the workforce for agentic AI and autonomous systems",
+      "url": "https://yourstory.com/2026/07/preparing-the-workforce-for-agentic-ai-and-autonomous-systems",
+      "cat": "RESEARCH",
+      "date": "2026-07-26T21:29:23.574742"
+    },
+    {
+      "title": "AI revolutionizing material discovery: Indian scientists forecast new properties",
+      "url": "https://www.indiaai.gov.in/social-media-posts/ai-revolutionizing-material-discovery-indian-scientists-forecast-new-properties",
+      "cat": "RESEARCH",
+      "date": "2026-07-26T21:29:23.574742"
+    },
+    {
+      "title": "Big win for OpenAI; A tail of promise",
+      "url": "https://yourstory.com/2026/07/big-win-openai-ani-case-tail-of-promise",
+      "cat": "POLICY",
+      "date": "2026-07-26T21:29:23.574742"
+    },
+    {
+      "title": "For some, so-called Skynet Day came too close to sci-fi after a rogue agent hacked into a startup",
+      "url": "https://www.livemint.com/technology/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup-11785084966401.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-26T21:29:23.574742"
+    },
+    {
+      "title": "AILQA: Evaluating AI-Driven Legal Question Answering Systems for the Indian Legal System",
+      "url": "https://arxiv.org/abs/2607.21519",
+      "cat": "RESEARCH",
+      "date": "2026-07-26T21:29:23.574742"
     }
   ]
 }
