@@ -59,6 +59,18 @@
         "Considering the history of legal tech, what specific failure mode, beyond a general market downturn, could kill SpotDraft in the next 18 months, given the significant capital raised and the competitive landscape?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-07-27T21:41:22.097400",
+      "headline": "Enterprise trust is India's next AI growth frontier.",
+      "source_url": "https://inc42.com/resources/why-enterprise-trust-is-indias-next-ai-growth-frontier/",
+      "questions": [
+        "Given that 99% of Indian enterprises plan to increase AI investments, what specific architectural solution does Enterprise Trust offer that prevents a well-funded competitor, like a major cloud provider with existing enterprise relationships, from replicating your zero-data-retention capability within 18 months?",
+        "Enterprise Trust is betting on data trustworthiness as the next constraint in Indian enterprise AI. If the primary challenge remains AI model performance and integration complexity for most Indian enterprises, what evidence do you have that the market is ready to prioritize and pay for zero-data-retention architectural solutions over improving core AI capabilities?",
+        "With $1.2 billion invested in Indian AI companies in 2025, and assuming a significant portion of that went to companies tackling enterprise challenges, what specific, defensible moat does Enterprise Trust possess that prevents a competitor with a similar zero-data-retention architecture, potentially backed by a larger Series B or C round, from out-executing you in the next 12-18 months?",
+        "If Enterprise Trust's success hinges on the shift from AI model capability to data trustworthiness, what specific customer segment within India is *already* experiencing this pain point acutely enough to adopt a new architectural solution, and how will you acquire them profitably, given the nascent stage of this specific constraint?"
+      ],
+      "answers": []
     }
   ]
 }
