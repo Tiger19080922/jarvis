@@ -1,60 +1,6 @@
 {
   "stories": [
     {
-      "title": "Elevation Capital launches $500M fund with focus on Indian AI startups",
-      "url": "https://yourstory.com/2026/07/elevation-capital-launches-500-million-fund-focus-indian-ai-startups",
-      "cat": "FUNDING",
-      "date": "2026-07-14T21:33:52.800757"
-    },
-    {
-      "title": "Karnataka CM announces first govt-driven AI University",
-      "url": "https://yourstory.com/2026/07/karnataka-cm-announces-first-govt-driven-ai-university",
-      "cat": "POLICY",
-      "date": "2026-07-14T21:33:52.800757"
-    },
-    {
-      "title": "Anthropic introduces India pricing for Claude as AI race heats up",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-introduces-india-pricing-for-claude-as-ai-race-heats-up-10785590/",
-      "cat": "FUNDING",
-      "date": "2026-07-14T21:33:52.800757"
-    },
-    {
-      "title": "How Google Cloud\u2019s Gemini Enterprise is helping MSMEs build AI agents without writing code",
-      "url": "https://yourstory.com/2026/07/how-google-clouds-gemini-enterprise-is-helping-msmes-build-ai-agents-without-writing-code",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-14T21:33:52.800757"
-    },
-    {
-      "title": "OpenAI\u2019s ChatGPT Work goes beyond coding to automate office tasks",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openais-chatgpt-work-goes-beyond-coding-to-automate-office-tasks-10785650/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-14T21:33:52.800757"
-    },
-    {
-      "title": "Dimon says AI already eliminated 30 to 40 percent of jobs in some JPMorgan divisions",
-      "url": "https://thenextweb.com/news/jpmorgan-dimon-ai-jobs-cuts-margins-q2-earnings",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-14T21:33:52.800757"
-    },
-    {
-      "title": "When data speaks your language: How Gemini Enterprise is helping businesses move faster",
-      "url": "https://yourstory.com/2026/07/when-data-speaks-your-language-how-gemini-enterprise-is-helping-businesses-move-faster",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-14T21:33:52.800757"
-    },
-    {
-      "title": "71% of smartphone users actively use generative AI features: CMR study",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/71-of-smartphone-users-actively-use-generative-ai-features-cmr-study-10786069/",
-      "cat": "RESEARCH",
-      "date": "2026-07-14T21:33:52.800757"
-    },
-    {
-      "title": "Meta sued by 26 employees who say its AI systems targeted workers on medical leave for layoffs",
-      "url": "https://thenextweb.com/news/meta-lawsuit-ai-layoffs-medical-leave-disability",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-14T21:33:52.800757"
-    },
-    {
       "title": "The Black Box Era Of Enterprise AI Is Ending As Customer-Controlled AI Takes Spotlight",
       "url": "https://inc42.com/resources/the-black-box-era-of-enterprise-ai-is-ending-as-customer-controlled-ai-takes-spotlight/",
       "cat": "ENTERPRISE",
@@ -1061,6 +1007,84 @@
       "url": "https://inc42.com/buzz/bombay-hc-allows-nitin-gadkari-to-sue-meta-google-x-over-circulation-of-deepfakes/",
       "cat": "POLICY",
       "date": "2026-07-27T21:41:22.095997"
+    },
+    {
+      "title": "Indic DiarBench: A Multilingual Joint Diarization and ASR Benchmark for Indian Languages",
+      "url": "https://arxiv.org/abs/2607.23808",
+      "cat": "RESEARCH",
+      "date": "2026-07-28T21:40:18.404352"
+    },
+    {
+      "title": "Moonshot AI releases Kimi K3 model weights under custom licence: What it means for enterprises",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/china-moonshot-ai-kimi-k3-model-weights-custom-licence-10807478/",
+      "cat": "RESEARCH",
+      "date": "2026-07-28T21:40:18.404352"
+    },
+    {
+      "title": "Dayananda Sagar University and IISc Bengaluru Join Forces to Build India's Next AI Research Frontier",
+      "url": "https://www.xrom.com/dayananda-sagar-university-and-iisc-bengaluru-join-forces-to-build-indias-next-ai-research-frontier/",
+      "cat": "RESEARCH",
+      "date": "2026-07-28T21:40:18.404352"
+    },
+    {
+      "title": "Bharat Innovates 2026: IIT Delhi Showcases Innovations Across Defence, AI, Healthcare; Strengthens Global Research and Innovation Partnerships",
+      "url": "https://www.iitd.ac.in/en/news/news-item/2026/06/17/Bharat-Innovates-2026-IIT-Delhi-Showcases-Innovations-Across-Defence,-AI,-Healthcare;-Strengthens-Global-Research-and-Innovation-Partnerships",
+      "cat": "RESEARCH",
+      "date": "2026-07-28T21:40:18.404352"
+    },
+    {
+      "title": "AI4SE 2026 | Symposium on AI for Science & Engineering - IIT Hyderabad",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1R0hbNmYx7J_R5oKuoohq5eA-OyZ1a1bFlwQLA36UFh7zE-gwIqAxYqAWuXUcnd8h1siCqZ1nwWryZt43fSWV6ffX1WvnsF_yaVThdP_T3EhPSrw=",
+      "cat": "RESEARCH",
+      "date": "2026-07-28T21:40:18.404352"
+    },
+    {
+      "title": "\u2018Unprecedented event\u2019: Hugging Face CEO demands answers from OpenAI after AI agent-driven cyber attack",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/hugging-face-ceo-demands-answers-openai-agent-cyber-attack-10805305/",
+      "cat": "RESEARCH",
+      "date": "2026-07-28T21:40:18.404352"
+    },
+    {
+      "title": "Claude found mathematical flaws in two cryptographic algorithms that years of expert review missed",
+      "url": "https://thenextweb.com/news/anthropic-claude-mythos-cryptographic-attacks-hawk-aes",
+      "cat": "RESEARCH",
+      "date": "2026-07-28T21:40:18.404352"
+    },
+    {
+      "title": "AI is finding twice as many software flaws. Almost none get exploited.",
+      "url": "https://thenextweb.com/news/ai-discovered-vulnerabilities-exploitation-vulncheck-anthropic-ledger",
+      "cat": "RESEARCH",
+      "date": "2026-07-28T21:40:18.404352"
+    },
+    {
+      "title": "Why Anthropic backs open-weight AI models but still won\u2019t sign Nvidia CEO\u2019s letter",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/why-anthropic-backs-open-weight-ai-not-nvidia-letter-10806982/",
+      "cat": "RESEARCH",
+      "date": "2026-07-28T21:40:18.404352"
+    },
+    {
+      "title": "What is Open Secure AI Alliance? Nvidia\u2019s latest push for AI security",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-launches-open-secure-ai-alliance-what-it-means-10806588/",
+      "cat": "POLICY",
+      "date": "2026-07-28T21:40:18.404352"
+    },
+    {
+      "title": "Claude Code creator says most users are making one mistake with AI prompts",
+      "url": "https://www.livemint.com/technology/tech-news/claude-code-creator-says-most-users-are-making-one-mistake-with-ai-prompts-11785222871418.html",
+      "cat": "RESEARCH",
+      "date": "2026-07-28T21:40:18.404352"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei says he doesn't want open AI models banned. Here's why",
+      "url": "https://www.livemint.com/technology/tech-news/anthropic-ceo-dario-amodei-says-he-doesnt-want-open-ai-models-banned-heres-why-11785215742214.html",
+      "cat": "RESEARCH",
+      "date": "2026-07-28T21:40:18.404352"
+    },
+    {
+      "title": "Anthropic says it never sought ban on open-weight AI models; CEO calls for chip controls, safety testing",
+      "url": "https://www.livemint.com/technology/anthropic-says-it-never-sought-ban-on-open-weight-ai-models-ceo-calls-for-chip-controls-safety-testing-11785221651020.html",
+      "cat": "RESEARCH",
+      "date": "2026-07-28T21:40:18.404352"
     }
   ]
 }
