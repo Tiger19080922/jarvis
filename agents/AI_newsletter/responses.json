@@ -83,6 +83,18 @@
         "If a large tech company were to develop their own proprietary diarization model trained on a vastly larger, unreleased dataset for these 22 Indian languages, how would Indic DiarBench's benchmark hold up as a true measure of progress or superiority?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-07-29T21:29:30.489248",
+      "headline": "Gen-AI could substitute 8-12% of India's non-agricultural jobs.",
+      "source_url": "https://www.livemint.com/technology/genai-may-replace-8-12-of-indias-non-agricultural-jobs-goldman-sachs-11785307373774.html",
+      "questions": [
+        "Given Goldman Sachs' projection that Gen-AI could substitute 8-12% of India's non-agricultural jobs, what specific mechanisms will [Company Name] employ to ensure its own workforce isn't part of that substitution, rather than a beneficiary of the complementary productivity gains?",
+        "Nexus Venture Partners believes the market needs a 'second AI cloud stack.' If [Company Name] is building this, how does its go-to-market strategy specifically address the risk of incumbents like AWS, Azure, or Google Cloud rapidly integrating similar capabilities, effectively becoming a 'first AI cloud stack' with a broader existing customer base?",
+        "The Goldman Sachs report highlights both job substitution and productivity complementation. What is [Company Name]'s precise revenue model, and how does it avoid being overly reliant on the 'complementary' side, which might not translate into direct revenue for your platform if end-users simply adopt open-source tools?",
+        "Considering the report estimates 42-48% of India's workforce could see productivity complemented by Gen-AI, what is [Company Name]'s strategy to capture value from this broad productivity shift, and why won't this value accrue primarily to the end-users or their existing employers rather than a new platform?"
+      ],
+      "answers": []
     }
   ]
 }
