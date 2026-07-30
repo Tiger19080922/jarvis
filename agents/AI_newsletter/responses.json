@@ -95,6 +95,18 @@
         "Considering the report estimates 42-48% of India's workforce could see productivity complemented by Gen-AI, what is [Company Name]'s strategy to capture value from this broad productivity shift, and why won't this value accrue primarily to the end-users or their existing employers rather than a new platform?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-07-30T21:44:49.246667",
+      "headline": "Sarvam AI plans to develop a trillion-parameter large language model.",
+      "source_url": "https://inc42.com/buzz/sarvam-to-build-trillion-plus-ai-model-in-india-launches-inference-service/",
+      "questions": [
+        "Given Sarvam AI's ambition to build a trillion-parameter LLM for Indian languages, what specific technical hurdles, beyond compute, do you anticipate in achieving this scale and performance for a market with less standardized data compared to English?",
+        "Lightspeed and Peak XV have both invested in Sarvam AI's $41M Series A, following a $120M seed round. How does Sarvam AI's go-to-market strategy for its enterprise-grade AI solutions differ from other LLM providers targeting Indian businesses, and what makes it defensible against incumbents or future entrants?",
+        "With $161 million raised across two rounds, what are the key unit economic drivers for Sarvam AI's inference service, and how do these scale as you move from early adopters to broader enterprise deployment across diverse Indian languages?",
+        "What specific failure mode, beyond a general market downturn or competitive pressure, would lead to Sarvam AI being unable to achieve its trillion-parameter LLM goal within the next 18-24 months?"
+      ],
+      "answers": []
     }
   ]
 }

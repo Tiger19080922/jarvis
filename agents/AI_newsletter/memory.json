@@ -1,180 +1,6 @@
 {
   "stories": [
     {
-      "title": "The Black Box Era Of Enterprise AI Is Ending As Customer-Controlled AI Takes Spotlight",
-      "url": "https://inc42.com/resources/the-black-box-era-of-enterprise-ai-is-ending-as-customer-controlled-ai-takes-spotlight/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "Shunya Labs wants voice infrastructure to work the way Indians speak",
-      "url": "https://yourstory.com/2026/07/shunya-labs-voice-ai-indian-languages-startup-ritu-mehrotra-sourav-bandyopadhyay",
-      "cat": "RESEARCH",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "MeitY releases Digital Threat Report 2025-26, flags AI asymmetry as key risk to BFSI",
-      "url": "https://www.medianama.com/2026/07/223-meity-digital-threat-report-2025-26-ai-asymmetry-risk-bfsi/",
-      "cat": "POLICY",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "How Bolna AI Is Helping Enterprises Win The Voice AI Race",
-      "url": "https://inc42.com/startups/how-bolna-ai-is-helping-enterprises-to-win-the-voice-ai-race/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "The Unit Economics Of India\u2019s Voice AI Boom",
-      "url": "https://inc42.com/features/the-unit-economics-of-indias-voice-ai-boom/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "Zomato Piloting AI-Powered Voice Bot For Food Delivery",
-      "url": "https://inc42.com/buzz/zomato-piloting-ai-powered-voice-bot-for-food-delivery/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "Edgehax is building India's edge-AI boards so hardware makers stop importing them",
-      "url": "https://yourstory.com/2026/07/edgehax-india-edge-ai-boards",
-      "cat": "OTHER",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "AI startup Emergent turns unicorn with $130M Series C funding",
-      "url": "https://yourstory.com/2026/07/ai-startup-emergent-unicorn-130-million-series-c-funding",
-      "cat": "FUNDING",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "This startup wants CFOs to treat cloud bills as innovation funds",
-      "url": "https://yourstory.com/2026/07/cloudlens-ai-agentless-cloud-cost-optimisation-aws",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "Zoho launches Classes 2.0, betting on AI to fix India\u2019s education gaps",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/zoho-launches-classes-2-0-betting-on-ai-to-fix-indias-education-gaps-10787242/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "Thinking Machines debuts Inkling, a giant open model it admits is not the best",
-      "url": "https://thenextweb.com/news/thinking-machines-inkling-open-weight-model",
-      "cat": "RESEARCH",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In July",
-      "url": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-july/",
-      "cat": "OTHER",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "Kerala's iHUB Robotics is teaching robots to see, act, and understand",
-      "url": "https://yourstory.com/2026/07/kerala-robotics-startup-ihub",
-      "cat": "RESEARCH",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "E3 Electric.Ai raises Rs 100 Cr in Series A round led by BluVenture",
-      "url": "https://yourstory.com/2026/07/e3-electricai-rs-100-cr-series-a-round-led-by-bluventure",
-      "cat": "FUNDING",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "Karnataka CM announces green data centre, plans AI university at Google I/O connect India",
-      "url": "https://www.medianama.com/2026/07/223-google-io-connect-india-karnataka-ai-university-data-centre/",
-      "cat": "POLICY",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "Bliq.ai gets the green light for driverless cars in Finland",
-      "url": "https://thenextweb.com/news/bliq-driverless-finland-approval",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "Anthropic\u2019s India Push, InsuranceDekho\u2019s IPO & More",
-      "url": "https://inc42.com/buzz/anthropics-india-push-insurancedekhos-ipo-more/",
-      "cat": "OTHER",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "Krishna Byre Gowda\u2019s plan for Bengaluru; Google\u2019s AI push in India",
-      "url": "https://yourstory.com/2026/07/krishna-byre-gowdas-plan-for-bengaluru-google-ai-push-india",
-      "cat": "POLICY",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "Claude is warmer in Hindi, more rigorous in English: Anthropic study on AI language variations",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/claude-warmer-in-hindi-anthropic-study-ai-languages-10786134/",
-      "cat": "RESEARCH",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "OpenAI is showing Kalshi\u2019s World Cup odds inside ChatGPT, its first prediction market deal",
-      "url": "https://thenextweb.com/news/openai-kalshi-chatgpt-world-cup-prediction-markets",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-15T21:33:54.874546"
-    },
-    {
-      "title": "Physical AI Startup SwitchOn Raises $8 Mn To Scale Manufacturing Inspection",
-      "url": "https://inc42.com/buzz/physical-ai-startup-switchon-raises-8-mn-to-scale-manufacturing-inspection/",
-      "cat": "FUNDING",
-      "date": "2026-07-16T21:36:09.632288"
-    },
-    {
-      "title": "Exclusive: AI Sales Intelligence Startup Reo.Dev Raises $11.3 Mn To Expand In US",
-      "url": "https://inc42.com/buzz/exclusive-ai-sales-intelligence-startup-reo-dev-raises-11-3-mn-to-expand-in-us/",
-      "cat": "FUNDING",
-      "date": "2026-07-16T21:36:09.632288"
-    },
-    {
-      "title": "Reo.Dev raises $11.3M in Series A led by Elevation Capital",
-      "url": "https://yourstory.com/2026/07/reodev-raises-113-million-series-a-elevation-capital",
-      "cat": "FUNDING",
-      "date": "2026-07-16T21:36:09.632288"
-    },
-    {
-      "title": "logcat.ai Bags $2.5 Mn To Build AI Platform For Android, Linux Engineering",
-      "url": "https://inc42.com/buzz/logcat-ai-bags-2-5-mn-to-build-ai-platform-for-android-linux-engineering/",
-      "cat": "FUNDING",
-      "date": "2026-07-16T21:36:09.632288"
-    },
-    {
-      "title": "What is Thinking Machines\u2019 first AI model \u2018Inkling\u2019, and how is it different from ChatGPT, Claude?",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-thinking-machines-first-ai-model-inkling-10789620/",
-      "cat": "RESEARCH",
-      "date": "2026-07-16T21:36:09.632288"
-    },
-    {
-      "title": "Sophos launches unified, AI-native defense system to counter next wave of cyber attacks",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/sophos-fusion-ai-native-defense-system-cyber-attacks-10789186/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-16T21:36:09.632288"
-    },
-    {
-      "title": "Spotify rolls out AI voice and text assistant for music, podcasts and audiobooks",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/spotify-rolls-out-ai-voice-and-text-assistant-for-music-podcasts-and-audiobooks-10787971/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-16T21:36:09.632288"
-    },
-    {
-      "title": "40% long posts on LinkedIn are AI-generated, highest among social platforms: Study",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/linkedin-ai-saturated-long-posts-study-pangram-10789765/",
-      "cat": "RESEARCH",
-      "date": "2026-07-16T21:36:09.632288"
-    },
-    {
-      "title": "1Password lets Claude log you into websites without ever seeing your passwords",
-      "url": "https://thenextweb.com/news/1password-claude-credential-zero-exposure-agentic-mode",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-16T21:36:09.632288"
-    },
-    {
       "title": "Armory first built a counter-drone system in six months, and now it has a Rs 100 crore defence order",
       "url": "https://yourstory.com/2026/07/armory-rs-100-crore-defence-order",
       "cat": "ENTERPRISE",
@@ -1157,6 +983,84 @@
       "url": "https://thenextweb.com/news/qureight-20m-series-b-ai-chest-imaging-clinical-trials",
       "cat": "RESEARCH",
       "date": "2026-07-29T21:29:30.487904"
+    },
+    {
+      "title": "Sarvam To Build Trillion-Parameter AI Model, Launches India-Hosted Inference Service",
+      "url": "https://inc42.com/buzz/sarvam-to-build-trillion-plus-ai-model-in-india-launches-inference-service/",
+      "cat": "RESEARCH",
+      "date": "2026-07-30T21:44:49.245217"
+    },
+    {
+      "title": "Sarvam Takes On Claude, Codex With Cheaper, India-Hosted Coding Agent",
+      "url": "https://inc42.com/buzz/sarvam-takes-on-claude-codex-with-cheaper-india-hosted-coding-agent/",
+      "cat": "RESEARCH",
+      "date": "2026-07-30T21:44:49.245217"
+    },
+    {
+      "title": "AI startup Revspot raises $4.8M in Series A round",
+      "url": "https://yourstory.com/2026/07/ai-startup-revspot-raises-funding-series-a-round",
+      "cat": "FUNDING",
+      "date": "2026-07-30T21:44:49.245217"
+    },
+    {
+      "title": "Meta Q2FY26 Earnings Call: Why Meta is betting on and building personal AI agents",
+      "url": "https://www.medianama.com/2026/07/223-meta-q2fy26-building-personal-ai-agents/",
+      "cat": "RESEARCH",
+      "date": "2026-07-30T21:44:49.245217"
+    },
+    {
+      "title": "Five strategic takeaways from Meesho Q1 FY27 earnings call",
+      "url": "https://www.medianama.com/2026/07/223-meesho-q1-fy27-key-takeaways/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-30T21:44:49.245217"
+    },
+    {
+      "title": "Sarvam Ropes In Mistral AI Founding Team Member Devendra Chaplot As Advisor",
+      "url": "https://inc42.com/buzz/sarvam-ropes-in-mistral-ai-founding-team-member-devendra-chaplot-as-advisor/",
+      "cat": "RESEARCH",
+      "date": "2026-07-30T21:44:49.245217"
+    },
+    {
+      "title": "Tata Communications Amps Up Voice AI Play For India\u2019s SMBs",
+      "url": "https://inc42.com/buzz/tata-communications-expands-voice-ai-push-eyes-smb-adoption/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-30T21:44:49.245217"
+    },
+    {
+      "title": "At Unleash, Atlassian showed what it takes to move enterprise AI from demo to production",
+      "url": "https://yourstory.com/2026/07/unleash-atlassian-enterprise-ai-demo-to-production",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-30T21:44:49.245217"
+    },
+    {
+      "title": "RenaissThera is designing oral drugs for obesity and type 2 diabetes",
+      "url": "https://yourstory.com/2026/07/renaissthera-oral-obesity-diabetes-drugs",
+      "cat": "RESEARCH",
+      "date": "2026-07-30T21:44:49.245217"
+    },
+    {
+      "title": "Roundtable Announcement: Impact of AI on Spam, New Delhi, August 12, 2026 #NAMA",
+      "url": "https://www.medianama.com/2026/07/223-roundtable-announcement-impact-ai-spam-august-12-2026-nama/",
+      "cat": "POLICY",
+      "date": "2026-07-30T21:44:49.245217"
+    },
+    {
+      "title": "Freehand Raises $75 Mn To Expand Enterprise AI Platform",
+      "url": "https://inc42.com/buzz/freehand-raises-75-mn-to-expand-enterprise-ai-platform/",
+      "cat": "ENTERPRISE",
+      "date": "2026-07-30T21:44:49.245217"
+    },
+    {
+      "title": "xAI sues Minnesota over law banning AI \u2018nudification\u2019 tools",
+      "url": "https://www.medianama.com/2026/07/223-xai-minnesota-law-ai-nudification-tools/",
+      "cat": "POLICY",
+      "date": "2026-07-30T21:44:49.245217"
+    },
+    {
+      "title": "Your Claude AI chats may be searchable on Google: Here\u2019s how to keep them private",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/claude-ai-chats-searchable-google-how-to-protect-10810430/",
+      "cat": "POLICY",
+      "date": "2026-07-30T21:44:49.245217"
     }
   ]
 }
