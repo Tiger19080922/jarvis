@@ -107,6 +107,18 @@
         "What specific failure mode, beyond a general market downturn or competitive pressure, would lead to Sarvam AI being unable to achieve its trillion-parameter LLM goal within the next 18-24 months?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-07-31T21:40:43.476973",
+      "headline": "RoshAi raised \u20b922 crore in a funding round led by IAN Alpha Fund.",
+      "source_url": "https://yourstory.com/2026/07/roshai-self-driving-truck-technology",
+      "questions": [
+        "Given that RoshAi licenses its autonomy software stack to OEMs and fleet operators, what prevents an OEM with deep pockets and existing relationships from developing a comparable or superior stack internally, given they already control the vehicle platform?",
+        "RoshAi is targeting industrial trucks and heavy vehicles; what specific regulatory hurdles exist in India for deploying Level 4/5 autonomous vehicles in these sectors within the next 18-24 months, and how does RoshAi's current product roadmap address them?",
+        "The previous seed round was \u20b915 crore and this seed round is \u20b922 crore, an increase of only 46%. Considering the capital intensity of hardware retrofitting and AI development, how does RoshAi plan to achieve significant product development and market penetration milestones with this funding before needing a substantially larger Series A?",
+        "What is the projected customer acquisition cost and lifetime value for a fleet operator purchasing RoshAi's hardware retrofit kits, and how does this unit economics model scale profitably without significant ongoing subsidies from venture funding?"
+      ],
+      "answers": []
     }
   ]
 }
