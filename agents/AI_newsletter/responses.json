@@ -119,6 +119,18 @@
         "What is the projected customer acquisition cost and lifetime value for a fleet operator purchasing RoshAi's hardware retrofit kits, and how does this unit economics model scale profitably without significant ongoing subsidies from venture funding?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-01T21:27:03.713722",
+      "headline": "Sarvam AI secures $234 million, achieves unicorn status in Series B funding.",
+      "source_url": "https://www.livemint.com/companies/start-ups/sarvam-ai-becomes-unicorn-after-raising-234m-as-india-doubles-down-on-home-grown-ai-11718401915752.html",
+      "questions": [
+        "Given HCLTech's $150 million investment and their own significant AI cloud initiatives, how does Sarvam AI differentiate its 'full-stack AI infrastructure and models' to avoid becoming a competitor or a redundant offering to its lead investor?",
+        "Nexus Venture Partners' thesis points to a 'real second AI cloud stack'; if Sarvam AI's focus on Indic languages and region-specific use cases is its key differentiator, what is the total addressable market for that niche, and how does that justify a $1.5 billion valuation?",
+        "Sarvam AI raised approximately $41 million just last December; what specific, quantifiable progress in product development, customer acquisition, or revenue generation in the past ~6 months justifies a nearly 6x increase in valuation to $1.5 billion in this new $234 million Series B round?",
+        "Considering the rapid advancements and massive capital deployment in foundational models globally, what specific technical moat does Sarvam AI possess in developing Indic language models that prevents well-funded global players from replicating its capabilities within 18 months?"
+      ],
+      "answers": []
     }
   ]
 }
