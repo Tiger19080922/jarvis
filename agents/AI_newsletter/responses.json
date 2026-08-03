@@ -144,6 +144,18 @@
         "What specific failures of prior government AI initiatives in India has the IndiaAI Mission learned from, and what makes this team, under MeitY, uniquely positioned to execute this ambitious plan where others have faltered?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-03T21:41:51.312720",
+      "headline": "Google selects 20 AI startups for 2026 Play Accelerator India program.",
+      "source_url": "https://yourstory.com/2026/08/google-picks-20-ai-startups-for-2026-play-accelerator-india-cohort",
+      "questions": [
+        "Given that Google Play Accelerator is equity-free and focused on mentorship and product credits, what specific, measurable outcomes can the 20 selected AI startups achieve in three months that would fundamentally de-risk them for future, priced funding rounds, beyond what they could achieve with their existing seed or Series A capital?",
+        "The program is designed for AI-first startups between Seed to Series A. What specific criteria did Google use to select these 20 startups from the India market, and how does that selection process inherently filter for companies with a defensible moat that won't be replicated by the other 18 participants or similarly positioned startups globally within 12-18 months?",
+        "Beyond Google product credits, what tangible, non-replicable advantages does participation in the Google Play Accelerator India program provide to these 20 AI startups that would prevent a well-funded competitor, perhaps one not selected for this cohort, from achieving similar scale or market position within the next 18 months?",
+        "If the core thesis for these AI startups is to scale their applications, and the program offers mentorship and support but no direct funding, what specific failure mode within the next 18 months would be most acutely exacerbated by the *lack* of direct capital infusion from Google, even with the program's benefits?"
+      ],
+      "answers": []
     }
   ]
 }

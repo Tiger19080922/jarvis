@@ -1,66 +1,6 @@
 {
   "stories": [
     {
-      "title": "What India's Next Digital And AI Rules Could Mean For Consumers & Big Tech",
-      "url": "https://www.youtube.com/watch?v=M7x3gP5Ue60",
-      "cat": "POLICY",
-      "date": "2026-07-19T21:27:30.808988"
-    },
-    {
-      "title": "Indian AI Startup Funding Surge: Key Investors Back Vertical Model Specialists",
-      "url": "https://www.whalesbook.com/news/indian-ai-startup-funding-surge-key-investors-back-vertical-model-specialists",
-      "cat": "FUNDING",
-      "date": "2026-07-19T21:27:30.808988"
-    },
-    {
-      "title": "Indian startups raised over $297 million from July 13 to July 18, 2026; AI startup Emergent tops the list",
-      "url": "https://www.startupnews.fyi/2026/07/19/indian-startups-raised-over-297-million-from-july-13-to-july-18-2026-ai-startup-emergent-tops-the-list/",
-      "cat": "FUNDING",
-      "date": "2026-07-19T21:27:30.808988"
-    },
-    {
-      "title": "AI Research from Indian Institutions Highlighted on arXiv",
-      "url": "https://bharath.ai/research-radar/weekly/2026-07-07",
-      "cat": "RESEARCH",
-      "date": "2026-07-19T21:27:30.808988"
-    },
-    {
-      "title": "IISc AI-ML Centre Publishes Latest Research (2026)",
-      "url": "https://ai.iisc.ac.in/publications/",
-      "cat": "RESEARCH",
-      "date": "2026-07-19T21:27:30.808988"
-    },
-    {
-      "title": "Researchers build AI camera that reconstructs particle paths using handful of photons",
-      "url": "https://indianexpress.com/article/technology/science/researchers-build-ai-camera-that-reconstructs-particle-paths-using-handful-of-photons-10792899/",
-      "cat": "RESEARCH",
-      "date": "2026-07-19T21:27:30.808988"
-    },
-    {
-      "title": "The White House is now deciding who gets access to frontier AI models, not the labs",
-      "url": "https://thenextweb.com/news/white-house-dictating-frontier-ai-model-access-anthropic-openai",
-      "cat": "POLICY",
-      "date": "2026-07-19T21:27:30.808988"
-    },
-    {
-      "title": "Liftoff for Skyroot\u2019s Vikram-1; Building AI voice infra for Indian languages",
-      "url": "https://yourstory.com/2026/07/liftoff-for-skyroot-vikram-1-shunya-labs",
-      "cat": "RESEARCH",
-      "date": "2026-07-19T21:27:30.808988"
-    },
-    {
-      "title": "Rob Gurzeev on Why AI Has Changed Cybersecurity\u2019s Biggest Blind Spot",
-      "url": "https://thenextweb.com/news/rob-gurzeev-ai-cybersecurity-attack-surface-blind-spot",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-19T21:27:30.808988"
-    },
-    {
-      "title": "France and Germany pledge to build a European rival to Palantir\u2019s military AI software",
-      "url": "https://thenextweb.com/news/france-germany-palantir-rival-european-sovereign-military-ai",
-      "cat": "POLICY",
-      "date": "2026-07-19T21:27:30.808988"
-    },
-    {
       "title": "Neo exits stealth with $100M from a16z and Bessemer to build a control layer for agentic AI software",
       "url": "https://thenextweb.com/news/neo-security-100m-agentic-ai-control-layer",
       "cat": "FUNDING",
@@ -1067,6 +1007,60 @@
       "url": "https://www.livemint.com/technology/ai-semiconductors-and-quantum-computing-will-shape-future-of-this-century-fadnavis-11785666169202.html",
       "cat": "POLICY",
       "date": "2026-08-02T21:26:33.646756"
+    },
+    {
+      "title": "Google picks 20 AI startups for 2026 Play Accelerator India cohort",
+      "url": "https://yourstory.com/2026/08/google-picks-20-ai-startups-for-2026-play-accelerator-india-cohort",
+      "cat": "FUNDING",
+      "date": "2026-08-03T21:41:51.311191"
+    },
+    {
+      "title": "Anthropic Brings Claude Inference To India As Sovereign AI Race Heats Up",
+      "url": "https://inc42.com/buzz/anthropic-brings-claude-inference-to-india-as-sovereign-ai-race-heats-up/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-03T21:41:51.311191"
+    },
+    {
+      "title": "AI shrinks vulnerability exploitation window to one day, raises cyber risks: J.P. Morgan",
+      "url": "https://www.livemint.com/technology/ai-shrinks-vulnerability-exploitation-window-to-one-day-raises-cyber-risks-j-p-morgan-11785738239894.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-03T21:41:51.311191"
+    },
+    {
+      "title": "How FireAI Is Helping Turn Enterprise Turn Data Into Decisions",
+      "url": "https://inc42.com/startups/how-fireai-is-helping-turn-enterprise-turn-data-into-decisions/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-03T21:41:51.311191"
+    },
+    {
+      "title": "Outcome-first AI: redesigning enterprise service delivery at scale",
+      "url": "https://yourstory.com/2026/07/outcome-first-ai-redesigning-enterprise-service-delivery-at-scale",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-03T21:41:51.311191"
+    },
+    {
+      "title": "The limits of content moderation and the role of AI #NAMA",
+      "url": "https://www.medianama.com/2026/08/223-limits-of-content-moderation-and-ai/",
+      "cat": "RESEARCH",
+      "date": "2026-08-03T21:41:51.311191"
+    },
+    {
+      "title": "India's AI Governance Guidelines: A Pragmatic Framework Rooted in Collaboration",
+      "url": "https://www.nasscom.in/perspectives/indias-ai-governance-guidelines-pragmatic-framework-rooted-collaboration",
+      "cat": "POLICY",
+      "date": "2026-08-03T21:41:51.311191"
+    },
+    {
+      "title": "ideaForge secures Rs 151 Cr from govt's RDI scheme to develop its autonomous drone YETI",
+      "url": "https://yourstory.com/2026/08/ideaforge-secures-rs-151-cr-govt-rdi-scheme-to-develop-autonomous-drone-yeti",
+      "cat": "OTHER",
+      "date": "2026-08-03T21:41:51.311191"
+    },
+    {
+      "title": "Why Google pulled its new AI feature from Google Earth",
+      "url": "https://www.medianama.com/2026/08/223-google-pulled-ai-google-earth/",
+      "cat": "RESEARCH",
+      "date": "2026-08-03T21:41:51.311191"
     }
   ]
 }
