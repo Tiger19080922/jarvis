@@ -156,6 +156,18 @@
         "If the core thesis for these AI startups is to scale their applications, and the program offers mentorship and support but no direct funding, what specific failure mode within the next 18 months would be most acutely exacerbated by the *lack* of direct capital infusion from Google, even with the program's benefits?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-04T21:51:06.638628",
+      "headline": "Superleap secured \u20b936 crore in a pre-Series A funding round.",
+      "source_url": "https://inc42.com/buzz/ai-native-crm-startup-superleap-bags-%e2%82%b136-cr-led-by-peak-xvs-surge/",
+      "questions": [
+        "Given that Surge has backed numerous B2B SaaS companies in India, what specific, defensible moat does Superleap possess that prevents a well-funded competitor from replicating its AI-powered automation capabilities within 18 months, especially considering the relatively low barrier to entry for AI model integration?",
+        "Nexus Venture Partners' thesis highlights 'enterprise context, decision-making, and action-taking' for their agents. How does Superleap's current product, which aims to automate tasks across the sales cycle, demonstrably achieve this level of autonomous decision-making and action-taking, beyond simple workflow automation?",
+        "Superleap is raising \u20b936 crore pre-Series A in 2024. What specific customer acquisition cost (CAC) and lifetime value (LTV) metrics would need to be achieved at scale for this business model to be sustainable, and what evidence do you have today that these unit economics will hold true?",
+        "Considering the history of CRM providers, both global giants and Indian startups, what specific market failure or unmet need in the Indian enterprise sales cycle does Superleap uniquely address, and why are existing solutions from Salesforce, Zoho, or even newer AI-native CRMs insufficient?"
+      ],
+      "answers": []
     }
   ]
 }

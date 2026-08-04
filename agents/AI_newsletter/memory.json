@@ -1,150 +1,6 @@
 {
   "stories": [
     {
-      "title": "Neo exits stealth with $100M from a16z and Bessemer to build a control layer for agentic AI software",
-      "url": "https://thenextweb.com/news/neo-security-100m-agentic-ai-control-layer",
-      "cat": "FUNDING",
-      "date": "2026-07-20T21:45:42.791725"
-    },
-    {
-      "title": "From running a successful social media platform to showing a proprietary robot dog to the PM: The ShareChat founders' second act",
-      "url": "https://yourstory.com/2026/07/sharechat-founders-robot-dog-second-act",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-20T21:45:42.791725"
-    },
-    {
-      "title": "Supreme Court lawyers\u2019 body opposes mandatory AI disclosure in draft AI regulations",
-      "url": "https://www.medianama.com/2026/07/223-supreme-court-lawyers-body-opposes-mandatory-ai-disclosure-draft-ai-regulations/",
-      "cat": "POLICY",
-      "date": "2026-07-20T21:45:42.791725"
-    },
-    {
-      "title": "Making India \u2018food wise\u2019; AI lifts VC inflow in startup ecosystem",
-      "url": "https://yourstory.com/2026/07/making-india-food-wise-venture-funding",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-20T21:45:42.791725"
-    },
-    {
-      "title": "A Korean AI model scores every possible driving path for safety before the car moves. CVPR called it a highlight.",
-      "url": "https://thenextweb.com/news/safedrive-korea-self-driving-ai-cvpr-2026",
-      "cat": "RESEARCH",
-      "date": "2026-07-20T21:45:42.791725"
-    },
-    {
-      "title": "Two engineering students built a robot that zaps weeds with lasers instead of spraying them",
-      "url": "https://yourstory.com/2026/07/harvested-robotics-ai-laser-weeder",
-      "cat": "RESEARCH",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "NeuralZome builds no-code AI that lets anyone train a robot without writing code",
-      "url": "https://yourstory.com/2026/07/neuralzome-no-code-ai-robot-training",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "Traveltech Startup 30 Sundays Raises \u20b961 Cr To Expand AI-Powered Holiday Planning",
-      "url": "https://inc42.com/buzz/traveltech-startup-30-sundays-raises-%e2%82%b961-cr-to-expand-ai-powered-holiday-planning/",
-      "cat": "FUNDING",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "Wealthtech Startup Veriqus Raises \u20b9387 Cr To Build AI-Led Investment Platform",
-      "url": "https://inc42.com/buzz/wealthtech-startup-veriqus-raises-%e2%82%b9387-cr-to-build-ai-led-investment-platform/",
-      "cat": "FUNDING",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "Inside Myntra's AI playbook: Faster seller onboarding, smarter shopping, leaner operations",
-      "url": "https://yourstory.com/2026/07/myntra-ai-seller-onboarding-shopping-tools",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "RIL Q1 FY27: JioStar launches AI-generated micro-drama, brings ChatGPT to JioHotstar search",
-      "url": "https://www.medianama.com/2026/07/223-jiostar-ai-generated-micro-drama-jams-chatgpt-tadka/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "AI Adoption Alone Is Not Enough; Companies Must Reorganise To Stay Ahead: KPMG-Nasscom",
-      "url": "https://www.businessworld.in/article/AI-Adoption-Alone-Is-Not-Enough-Companies-Must-Reorganise-To-Stay-Ahead-KPMG-Nasscom/16-07-2026-107770/",
-      "cat": "POLICY",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "Paytm Eyes New Horizons With Enterprise AI & Wallet Revival",
-      "url": "https://inc42.com/buzz/paytm-eyes-new-horizons-with-enterprise-ai-wallet-revival/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "Transition VC Launches \u20b91,500 Cr Fund To Back Deeptech Startups",
-      "url": "https://inc42.com/buzz/transition-vc-launches-%e2%82%b91500-cr-fund-to-back-deeptech-startups/",
-      "cat": "FUNDING",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "Indian startup unveils AI-powered virtual clothes try-on app, set to debut next month",
-      "url": "https://www.livemint.com/technology/tech-news/indian-startup-unveils-ai-powered-virtual-clothes-try-on-app-set-to-debut-next-month-11784637424238.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "Gritt raises $32M for AI robots that bolt onto existing construction equipment to build solar farms faster",
-      "url": "https://thenextweb.com/news/gritt-32m-physical-ai-construction-solar",
-      "cat": "FUNDING",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "Cosmoserve Says Soft Robotic Capture Demo Gathered Key Data Despite Glitch",
-      "url": "https://inc42.com/buzz/cosmoserve-says-soft-robotic-capture-demo-gathered-key-data-despite-glitch/",
-      "cat": "RESEARCH",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "Why is Paytm doubling down on Paytm Money?",
-      "url": "https://www.medianama.com/2026/07/223-why-paytm-doubling-paytm-money/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "Roblox launches AI-powered Build tool, expands Hindi support across platform",
-      "url": "https://indianexpress.com/article/technology/gaming/roblox-launches-ai-powered-build-tool-expands-hindi-support-across-platform-10796900/",
-      "cat": "RESEARCH",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "Hugging Face confirms data breach by AI agent: Why it has sparked a debate on cyber guardrails",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/hugging-face-data-breach-ai-agent-debate-cyber-guardrails-10796513/",
-      "cat": "RESEARCH",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "Alibaba unveils Qwen 3.8 Max days after Kimi K3 as China\u2019s AI race heats up",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/alibaba-unveils-qwen-3-8-max-china-ai-race-10795108/",
-      "cat": "RESEARCH",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "China\u2019s Moonshot AI pauses new signups for Kimi K3 as demand overwhelms GPUs",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/china-moonshot-ai-pauses-new-signups-kimi-k3-10794789/",
-      "cat": "RESEARCH",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "Poolside releases Laguna S 2.1, the open-weight coding model pitched as the West\u2019s answer to DeepSeek and Qwen",
-      "url": "https://thenextweb.com/news/poolside-laguna-s-2-1-open-weight-coding-model",
-      "cat": "RESEARCH",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
-      "title": "Using AI to Protect Teaching Time and Improve Learning Quality in Indian Schools",
-      "url": "https://www.orfonline.org/research/using-ai-to-protect-teaching-time-and-improve-learning-quality-in-indian-schools",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-21T21:42:57.933473"
-    },
-    {
       "title": "Google Cloud\u2019s Gemini Enterprise brings no-code AI agents to MSMEs",
       "url": "https://yourstory.com/2026/07/how-google-clouds-gemini-enterprise-is-helping-msmes-build-ai-agents-without-writing-code",
       "cat": "ENTERPRISE",
@@ -1061,6 +917,36 @@
       "url": "https://www.medianama.com/2026/08/223-google-pulled-ai-google-earth/",
       "cat": "RESEARCH",
       "date": "2026-08-03T21:41:51.311191"
+    },
+    {
+      "title": "AI-Native CRM Startup Superleap Bags \u20b936 Cr Led By Peak XV\u2019s Surge",
+      "url": "https://inc42.com/buzz/ai-native-crm-startup-superleap-bags-%e2%82%b936-cr-led-by-peak-xvs-surge/",
+      "cat": "FUNDING",
+      "date": "2026-08-04T21:51:06.637459"
+    },
+    {
+      "title": "Ex-Delhivery, Cleartrip Execs Launch Profound To Bring AI-Powered Professional Support For Individuals",
+      "url": "https://inc42.com/buzz/ex-delhivery-cleartrip-execs-launch-profound-to-bring-ai-powered-professional-support-for-individuals/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-04T21:51:06.637459"
+    },
+    {
+      "title": "Agentic AI Startup Kily Raises \u20b930 Cr To Accelerate Platform Deployment",
+      "url": "https://inc42.com/buzz/agentic-ai-startup-kily-raises-%e2%82%b930-cr-to-accelerate-platform-deployment/",
+      "cat": "FUNDING",
+      "date": "2026-08-04T21:51:06.637459"
+    },
+    {
+      "title": "Agrograde builds machines that sort onions and potatoes by quality, not just size",
+      "url": "https://yourstory.com/2026/08/agrograde-onion-potato-sorting",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-04T21:51:06.637459"
+    },
+    {
+      "title": "Bengaluru INDIA NANO 2026: AI meets nanotechnology",
+      "url": "https://yourstory.com/2026/08/bengaluru-india-nano-2026-ai-nanotechnology",
+      "cat": "RESEARCH",
+      "date": "2026-08-04T21:51:06.637459"
     }
   ]
 }
