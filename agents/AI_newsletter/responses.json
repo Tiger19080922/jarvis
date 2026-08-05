@@ -168,6 +168,18 @@
         "Considering the history of CRM providers, both global giants and Indian startups, what specific market failure or unmet need in the Indian enterprise sales cycle does Superleap uniquely address, and why are existing solutions from Salesforce, Zoho, or even newer AI-native CRMs insufficient?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-05T21:48:51.532121",
+      "headline": "InRisk Labs secured $27 million in Series A funding.",
+      "source_url": "https://inc42.com/buzz/inrisk-labs-raises-27-mn-to-scale-ai-led-reinsurance-platform-earthre/",
+      "questions": [
+        "Given that EarthRe is the first reinsurer licensed in GIFT City, what specific regulatory hurdles or unforeseen compliance costs could arise that might impede its ability to scale its AI-led reinsurance platform, and how does InRisk Labs' technology uniquely position it to navigate these compared to established reinsurers?",
+        "If a well-funded competitor, perhaps backed by one of the global reinsurers like Munich Re or Swiss Re, decided to replicate InRisk Labs' AI-powered risk assessment and pricing models for climate and natural catastrophes, what specific, defensible moat does InRisk Labs possess beyond its early mover advantage in GIFT City?",
+        "InRisk Labs is leveraging a licensed balance sheet through EarthRe. What are the specific capital requirements and ongoing solvency regulations for reinsurers operating out of GIFT City, and how does the $27 million Series A funding ensure InRisk Labs can meet these not just for initial operations, but for sustained growth and the underwriting of increasingly complex risks?",
+        "The success of InRisk Labs hinges on the accuracy and predictive power of its AI models for climate and natural catastrophe risks. What specific validation or back-testing has been done to prove these models' efficacy in real-world, high-impact events, and what is the plan to continuously update and retrain them as climate patterns evolve unpredictably?"
+      ],
+      "answers": []
     }
   ]
 }

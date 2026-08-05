@@ -1,72 +1,6 @@
 {
   "stories": [
     {
-      "title": "Google Cloud\u2019s Gemini Enterprise brings no-code AI agents to MSMEs",
-      "url": "https://yourstory.com/2026/07/how-google-clouds-gemini-enterprise-is-helping-msmes-build-ai-agents-without-writing-code",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-22T21:40:24.388058"
-    },
-    {
-      "title": "Dognosis is training dogs and AI to detect cancer from a breath sample",
-      "url": "https://yourstory.com/2026/07/dognosis-ai-dogs-cancer-detection",
-      "cat": "RESEARCH",
-      "date": "2026-07-22T21:40:24.388058"
-    },
-    {
-      "title": "Every year, Indian workers die inside tanks. Unibose built a robot to take their place",
-      "url": "https://yourstory.com/2026/07/unibose-robot-tank-inspections",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-22T21:40:24.388058"
-    },
-    {
-      "title": "Govt Backs 20 Indigenous AI Models Under IndiaAI Mission: Ashwini Vaishnaw",
-      "url": "https://www.thehindubusinessline.com/info-tech/govt-backs-20-indigenous-ai-models-under-indiaai-mission-ashwini-vaishnaw/article68442142.ece",
-      "cat": "POLICY",
-      "date": "2026-07-22T21:40:24.388058"
-    },
-    {
-      "title": "Soket AI Wants To Turn The Language Gap In AI Into India\u2019s Edge",
-      "url": "https://inc42.com/startups/soket-ai-wants-to-turn-the-language-gap-in-ai-into-indias-edge/",
-      "cat": "RESEARCH",
-      "date": "2026-07-22T21:40:24.388058"
-    },
-    {
-      "title": "7 AI disclosures from IndiaMART\u2019s Q1FY27 Earnings Call",
-      "url": "https://www.medianama.com/2026/07/223-ai-disclosures-indiamarts-earnings-call/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-22T21:40:24.388058"
-    },
-    {
-      "title": "Arrakis emerges from stealth with $38 million to bring AI to factories and supply chains",
-      "url": "https://thenextweb.com/news/arrakis-ai-startup-38-million-stealth-industrial",
-      "cat": "FUNDING",
-      "date": "2026-07-22T21:40:24.388058"
-    },
-    {
-      "title": "The ex-Meta VP behind a notorious spy tool just raised $180M for AI security",
-      "url": "https://thenextweb.com/news/glow-180m-ai-endpoint-security-roi-tiger-onavo",
-      "cat": "FUNDING",
-      "date": "2026-07-22T21:40:24.388058"
-    },
-    {
-      "title": "Cisco\u2019s tiny open-weight AI hunts bugs, and it says it beats Gemini and GPT",
-      "url": "https://thenextweb.com/news/cisco-antares-open-weight-bug-hunting-ai-vulnerability",
-      "cat": "RESEARCH",
-      "date": "2026-07-22T21:40:24.388058"
-    },
-    {
-      "title": "The AI Blueprint For Fashion Ecommerce",
-      "url": "https://inc42.com/features/the-ai-blueprint-for-fashion-ecommerce/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-22T21:40:24.388058"
-    },
-    {
-      "title": "Monday.com is cutting 20 percent of its workforce as it pivots to an AI work platform",
-      "url": "https://thenextweb.com/news/monday-com-layoffs-20-percent-ai-growth-strategy",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-22T21:40:24.388058"
-    },
-    {
       "title": "Tech30 startup CARPL.ai raises $10M in Series A led by IFC",
       "url": "https://yourstory.com/2026/07/tech30-startup-carplai-raises-10-million-in-series-a-led-by-ifc",
       "cat": "FUNDING",
@@ -947,6 +881,120 @@
       "url": "https://yourstory.com/2026/08/bengaluru-india-nano-2026-ai-nanotechnology",
       "cat": "RESEARCH",
       "date": "2026-08-04T21:51:06.637459"
+    },
+    {
+      "title": "InRisk Labs Raises $27 Mn To Scale AI-Led Reinsurance Platform EarthRe",
+      "url": "https://inc42.com/buzz/inrisk-labs-raises-27-mn-to-scale-ai-led-reinsurance-platform-earthre/",
+      "cat": "FUNDING",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "Peptris is using AI to find drug candidates to shorten the time it takes for laboratory validation",
+      "url": "https://yourstory.com/2026/08/peptris-ai-drug-discovery",
+      "cat": "RESEARCH",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "India targets deepfakes and AI-generated content: key changes under MeitY's 2026 amendments to the IT Rules",
+      "url": "https://www.freshfields.com/en-gb/Insights/2026/02/india-targets-deepfakes-and-ai-generated-content--key-changes-under-meitys-2026-amendments-to-the-it-rules/",
+      "cat": "POLICY",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "Pinegap Nets $8 Mn From Stellaris & Others To Build An Agentic Platform For Market Analysts",
+      "url": "https://inc42.com/buzz/pinegap-nets-8-mn-from-stellaris-others-to-build-an-agentic-platform-for-market-analysts/",
+      "cat": "FUNDING",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "AI Concierge Startup Hulp Raises $2.6 Mn From Sparrow Capital, BITKRAFT",
+      "url": "https://inc42.com/buzz/ai-concierge-startup-hulp-raises-2-6-mn-from-sparrow-capital-bitkraft/",
+      "cat": "FUNDING",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "Lemnisca builds software to predict how fermentation behaves at factory scale",
+      "url": "https://yourstory.com/2026/08/lemnisca-fermentation-software",
+      "cat": "RESEARCH",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "A startup that slashes AI agent bills just raised $35M. Anthropic is a backer.",
+      "url": "https://thenextweb.com/news/sapiom-35m-series-a-ai-agent-cost-routing",
+      "cat": "FUNDING",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "Anthropic built an inspection layer that lets enterprises block sensitive data before it reaches Claude",
+      "url": "https://thenextweb.com/news/anthropic-inference-hooks-dlp-claude-enterprise",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "Tamil Nadu Budget: TVK-led government announces India's first AI and innovation city 'Arivagam'",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-tvk-led-government-announces-indias-first-ai-and-innovation-city-arivagam/article68478473.ece",
+      "cat": "POLICY",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "The Devil In The Agent",
+      "url": "https://inc42.com/features/the-devil-in-the-agent/",
+      "cat": "RESEARCH",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "Insuretech startup InRisk Labs raises $27M in Series A",
+      "url": "https://yourstory.com/2026/08/insurtech-startup-inrisk-labs-raises-27-million-in-series-a",
+      "cat": "FUNDING",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "What the Perplexity vs Amazon ruling means for AI agents acting on users\u2019 behalf",
+      "url": "https://www.medianama.com/2026/08/223-perplexity-vs-amazon-ai-agents-users/",
+      "cat": "RESEARCH",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "OpenAI, Anthropic AI agents targeted real people and organisations during cyber tests",
+      "url": "https://www.livemint.com/technology/tech-news/openai-anthropic-ai-agents-targeted-real-people-and-organisations-during-cyber-tests-11785917779121.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "OpenAI, Anthropic AI agents implicated in new security breaches",
+      "url": "https://www.livemint.com/technology/openai-anthropic-ai-agents-implicated-in-new-security-breaches-11785890464047.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "India's AI Path Spans Adoption, Adaptation and Advancement: World Development Report 2026",
+      "url": "https://thepolicyedge.com/indias-ai-path-spans-adoption-adaptation-and-advancement-world-development-report-2026/",
+      "cat": "POLICY",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "Why Saregama is using GenAI to make music videos of vintage songs",
+      "url": "https://www.medianama.com/2026/08/223-saregama-genai-music-videos-vintage-songs/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "AI emerges as decision engine for finance, with governance and data quality key to unlocking value: KPMG",
+      "url": "https://www.livemint.com/technology/ai-emerges-as-decision-engine-for-finance-with-governance-and-data-quality-key-to-unlocking-value-kpmg-11785928586945.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "Pre-dawn emails and empty desks: inside the sudden layoffs at Visa India",
+      "url": "https://www.livemint.com/technology/tech-news/predawn-emails-and-empty-desks-inside-the-sudden-layoffs-at-visa-india-11785751686088.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "AI Literacy as the New Frontline of Cybersecurity",
+      "url": "https://observer-research-org/ai-literacy-as-the-new-frontline-of-cybersecurity/",
+      "cat": "POLICY",
+      "date": "2026-08-05T21:48:51.530831"
     }
   ]
 }
