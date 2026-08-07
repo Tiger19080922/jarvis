@@ -192,6 +192,18 @@
         "Consint.AI was founded in 2020. Considering the inherent complexities and data sensitivity in healthcare and insurance, what specific event or market shift in the last two years could have fundamentally undermined your business model, and how did you navigate or mitigate that risk?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-07T21:12:46.459621",
+      "headline": "Bajaj Finance's AI bots handled 71% of DIY customer service volumes in Q1 FY27.",
+      "source_url": "https://www.medianama.com/2026/08/223-bajaj-finances-71-customer-service-2500-crores-disbursements/",
+      "questions": [
+        "Given that AI bots handled 71% of DIY customer service volumes and generated \u20b92,500 crore in loan disbursements, what specific, measurable improvements in customer retention or acquisition can be directly attributed to these AI interactions, rather than just increased loan volume?",
+        "You mention AI analysis of 45 million customer interactions led to 4 lakh additional offers and \u20b9517 crore in disbursements; what was the cost structure of generating those additional offers, and what is the projected ROI on that AI spend if those offers don't convert to loans?",
+        "How does Bajaj Finance ensure its AI systems, which analyzed 45 million interactions, are not inadvertently reinforcing existing biases in lending or customer service, and what mechanisms are in place to audit and correct for such biases?",
+        "With AI handling such a significant portion of customer service, what is Bajaj Finance's strategy for the remaining 29% of DIY volumes and all non-DIY interactions, and how does the company maintain a human touch for complex or sensitive customer issues?"
+      ],
+      "answers": []
     }
   ]
 }
