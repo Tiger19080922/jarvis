@@ -180,6 +180,18 @@
         "The success of InRisk Labs hinges on the accuracy and predictive power of its AI models for climate and natural catastrophe risks. What specific validation or back-testing has been done to prove these models' efficacy in real-world, high-impact events, and what is the plan to continuously update and retrain them as climate patterns evolve unpredictably?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-07T00:59:08.014629",
+      "headline": "Consint.AI raised \u20b922 crore in Series A funding.",
+      "source_url": "https://inc42.com/buzz/consint-ai-bags-%e2%82%b922-cr-to-expand-globally-build-ai-model-for-risk-and-fraud-detection/",
+      "questions": [
+        "Nexus Venture Partners' thesis mentions 'embedding AI across operations to drive further efficiency and impact.' Given Consint.AI's focus on healthcare and insurance risk management, what specific, defensible moat does the company possess against a well-funded incumbent insurer or healthcare provider building a similar AI solution in-house within 18 months?",
+        "Consint.AI raised \u20b922 crore, approximately $2.3 million. What are the projected unit economics for your AI-driven risk management solutions at scale, and how do these compare to the cost of existing, non-AI-driven underwriting processes that insurers currently employ?",
+        "You've stated the \u20b922 crore Series A funding will support global expansion. Beyond the initial investment in sales and marketing, what are the specific operational and regulatory hurdles Consint.AI anticipates in key international markets, and how will this funding address them effectively?",
+        "Consint.AI was founded in 2020. Considering the inherent complexities and data sensitivity in healthcare and insurance, what specific event or market shift in the last two years could have fundamentally undermined your business model, and how did you navigate or mitigate that risk?"
+      ],
+      "answers": []
     }
   ]
 }

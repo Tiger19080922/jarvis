@@ -1,144 +1,6 @@
 {
   "stories": [
     {
-      "title": "Tech30 startup CARPL.ai raises $10M in Series A led by IFC",
-      "url": "https://yourstory.com/2026/07/tech30-startup-carplai-raises-10-million-in-series-a-led-by-ifc",
-      "cat": "FUNDING",
-      "date": "2026-07-23T18:14:57.217840"
-    },
-    {
-      "title": "CARPL.ai Bags $10 Mn To Scale Its AI Medical Imaging Marketplace",
-      "url": "https://inc42.com/buzz/carpl-ai-bags-10-mn-to-scale-its-ai-medical-imaging-marketplace/",
-      "cat": "FUNDING",
-      "date": "2026-07-23T18:14:57.217840"
-    },
-    {
-      "title": "EaseMyAI uses cameras and AI to monitor factory floors, ports and warehouses",
-      "url": "https://yourstory.com/2026/07/easemyai-ai-industrial-monitoring",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-23T18:14:57.217840"
-    },
-    {
-      "title": "Alphabet locked in $811 billion of future spending on AI infrastructure. The number jumped $500 billion in one quarter.",
-      "url": "https://thenextweb.com/news/alphabet-locked-in-811-billion-of-future-spending-on-ai-infrastructure-the-number-jumped-500-billion-in-one-quarter",
-      "cat": "FUNDING",
-      "date": "2026-07-23T18:14:57.217840"
-    },
-    {
-      "title": "From AI as a software service to wallet licence: Key takeaways from Paytm Q1 FY27 earnings call",
-      "url": "https://www.medianama.com/2026/07/223-wallet-licence-paytm-q1-fy27-earnings/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-23T18:14:57.217840"
-    },
-    {
-      "title": "OpenAI says AI models went rogue during testing, triggering unprecedented breach at startup",
-      "url": "https://www.livemint.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-at-startup-11784696425653.html",
-      "cat": "RESEARCH",
-      "date": "2026-07-23T18:14:57.217840"
-    },
-    {
-      "title": "OpenAI says its AI technology acted on its own in an unprecedented hack of another company",
-      "url": "https://www.livemint.com/technology/openai-says-its-ai-technology-acted-on-its-own-in-an-unprecedented-hack-of-another-company-11784677523922.html",
-      "cat": "RESEARCH",
-      "date": "2026-07-23T18:14:57.217840"
-    },
-    {
-      "title": "Apple\u2019s privacy policy reveals an AI shopping assistant is coming to the Apple Store app",
-      "url": "https://thenextweb.com/news/apple-store-app-ai-shopping-assistant-privacy-policy",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-23T18:14:57.217840"
-    },
-    {
-      "title": "OpenAI sued over ChatGPT\u2019s \u2018dangerous\u2019 medical advice in first case of its kind",
-      "url": "https://thenextweb.com/news/openai-chatgpt-medical-advice-lawsuit-winters-pulmonary-embolism",
-      "cat": "POLICY",
-      "date": "2026-07-23T18:14:57.217840"
-    },
-    {
-      "title": "Meesho cuts down losses by half as revenue rises 48%",
-      "url": "https://yourstory.com/2026/07/meesho-cuts-down-losses-by-half-as-revenue-rises",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-23T18:14:57.217840"
-    },
-    {
-      "title": "OpenAI executive calls Open AI models \u2018AI communism\u2019, sparks Backlash",
-      "url": "https://www.medianama.com/2026/07/223-openai-dean-ball-open-weight-ai-communism-kimi-china/",
-      "cat": "RESEARCH",
-      "date": "2026-07-23T18:14:57.217840"
-    },
-    {
-      "title": "\u2018Free AI is great\u2019: Why US tech CEOs are warming up to Chinese open-weight AI models",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/why-top-tech-ceos-warming-to-chinese-ai-models-10800032/",
-      "cat": "RESEARCH",
-      "date": "2026-07-23T18:14:57.217840"
-    },
-    {
-      "title": "Analysis-AI investment boom puts Big Techs free cash flow under pressure",
-      "url": "https://www.livemint.com/technology/analysisai-investment-boom-puts-big-techs-free-cash-flow-under-pressure-11784696610132.html",
-      "cat": "FUNDING",
-      "date": "2026-07-23T18:14:57.217840"
-    },
-    {
-      "title": "Cambridge built a planet-scale AI model, and skipped Nvidia to do it",
-      "url": "https://thenextweb.com/news/tessera-cambridge-earth-observation-ai-amd-vultr",
-      "cat": "RESEARCH",
-      "date": "2026-07-23T18:14:57.217840"
-    },
-    {
-      "title": "AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/amd-to-invest-up-to-5-billion-in-anthropic-ai-startup-to-buy-up-to-2-gw-of-chips-10798824/",
-      "cat": "FUNDING",
-      "date": "2026-07-23T18:56:52.782298"
-    },
-    {
-      "title": "Four former DOGE staffers raised $160 million at a $1.4 billion valuation for an AI military cyber startup",
-      "url": "https://thenextweb.com/news/cathedral-doge-alumni-military-cyber-startup-1-4-billion",
-      "cat": "FUNDING",
-      "date": "2026-07-23T18:56:52.782298"
-    },
-    {
-      "title": "What is Buzz, Jack Dorsey\u2019s new app to take on Slack in the AI workplace era?",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/what-is-buzz-jack-dorsey-block-new-app-ai-agents-10797636/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-23T18:56:52.782298"
-    },
-    {
-      "title": "OpenAI says GPT-5.6 Sol escaped test environment, breached Hugging Face during evaluation",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-5-6-sol-hugging-face-security-incident-10797575/",
-      "cat": "RESEARCH",
-      "date": "2026-07-23T18:56:52.782298"
-    },
-    {
-      "title": "India Working On 'Well-Calibrated' AI Law, Studying US And EU Models: MeitY Secretary",
-      "url": "https://www.ndtv.com/business/india-working-on-well-calibrated-ai-law-studying-us-and-eu-models-meity-secretary-3240568",
-      "cat": "POLICY",
-      "date": "2026-07-23T21:37:19.743214"
-    },
-    {
-      "title": "M.Tech Research Thesis Colloquium: Advancing Visual Reasoning Capabilities of Multimodal LLMs Beyond Natural Images",
-      "url": "https://cds.iisc.ac.in/events/mtech-research-thesis-colloquium-202-cds-23-july-2026-advancing-visual-reasoning-capabilities-of-multimodal-llms-beyond-natural-images/",
-      "cat": "RESEARCH",
-      "date": "2026-07-23T21:37:19.743214"
-    },
-    {
-      "title": "IISc Bengaluru research paper makes it to the top 15 of prestigious Colorado event",
-      "url": "https://indianexpress.com/article/cities/bangalore/iisc-bengaluru-research-paper-prestigious-colorado-event-10976257/",
-      "cat": "RESEARCH",
-      "date": "2026-07-23T21:37:19.743214"
-    },
-    {
-      "title": "Flo Mobility builds robots that haul construction materials. L&T and Godrej use them",
-      "url": "https://yourstory.com/2026/07/flo-mobility-construction-robots",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-23T21:37:19.743214"
-    },
-    {
-      "title": "Hachidori Robotics builds warehouse robots that need no tracks, magnets or shutdowns",
-      "url": "https://yourstory.com/2026/07/hachidori-robotics-track-free-warehouse-robots",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-23T21:37:19.743214"
-    },
-    {
       "title": "HCLTech, Sarvam AI Join Hands For $1.5 Bn AI Data Centre In Odisha",
       "url": "https://inc42.com/buzz/hcltech-announces-1-5-bn-investment-to-build-maiden-ai-data-centre-in-odisha/",
       "cat": "ENTERPRISE",
@@ -995,6 +857,48 @@
       "url": "https://observer-research-org/ai-literacy-as-the-new-frontline-of-cybersecurity/",
       "cat": "POLICY",
       "date": "2026-08-05T21:48:51.530831"
+    },
+    {
+      "title": "Consint.AI Bags \u20b922 Cr To Expand Globally, Build AI Model For Risk And Fraud Detection",
+      "url": "https://inc42.com/buzz/consint-ai-bags-%e2%82%b922-cr-to-expand-globally-build-ai-model-for-risk-and-fraud-detection/",
+      "cat": "FUNDING",
+      "date": "2026-08-07T00:59:08.013443"
+    },
+    {
+      "title": "Karnataka eyes Anthropic tie-up to expand AI across public service",
+      "url": "https://yourstory.com/2026/08/karnataka-anthropic-ai-governance-skilling-ai-university",
+      "cat": "POLICY",
+      "date": "2026-08-07T00:59:08.013443"
+    },
+    {
+      "title": "AI4Bharat at IIT Madras and Josh Talks AI Launch India's First Independent AI Evaluation Platform",
+      "url": "https://www.youtube.com/watch?v=o_fE0lS0g5Q",
+      "cat": "RESEARCH",
+      "date": "2026-08-07T00:59:08.013443"
+    },
+    {
+      "title": "IITM-incubated deeptech startup Solinas Integrity raises $5.5M",
+      "url": "https://yourstory.com/2026/08/iitm-incubated-deeptech-startup-solinas-integrity-raises-series-a1",
+      "cat": "FUNDING",
+      "date": "2026-08-07T00:59:08.013443"
+    },
+    {
+      "title": "Govt proposes cutting unlawful AI content takedown deadline from 36 hours to just 3 hours under draft rules",
+      "url": "https://www.indiatoday.in/technology/news/story/govt-proposes-cutting-unlawful-ai-content-takedown-deadline-from-36-hours-to-just-3-hours-under-draft-rules-2573385-2026-08-06",
+      "cat": "POLICY",
+      "date": "2026-08-07T00:59:08.013443"
+    },
+    {
+      "title": "Solinas Integrity Snags $5.5 Mn To Scale Robotics Solutions Across Global Markets",
+      "url": "https://inc42.com/buzz/solinas-integrity-snags-5-5-mn-to-scale-robotics-solutions-across-global-markets/",
+      "cat": "FUNDING",
+      "date": "2026-08-07T00:59:08.013443"
+    },
+    {
+      "title": "Use of AI must remain human-centric: Minister Priyank Kharge",
+      "url": "https://www.newindianexpress.com/nation/2026/Aug/06/use-of-ai-must-remain-human-centric-minister-priyank-kharge-2484784.html",
+      "cat": "POLICY",
+      "date": "2026-08-07T00:59:08.013443"
     }
   ]
 }
