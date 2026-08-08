@@ -1,102 +1,6 @@
 {
   "stories": [
     {
-      "title": "HCLTech, Sarvam AI Join Hands For $1.5 Bn AI Data Centre In Odisha",
-      "url": "https://inc42.com/buzz/hcltech-announces-1-5-bn-investment-to-build-maiden-ai-data-centre-in-odisha/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "India is short of skilled welders, and Terafac is teaching robots to fill that gap",
-      "url": "https://yourstory.com/2026/07/terafac-robotic-welding-india",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "Why The OpenAI-Hugging Face Incident Is A Wake-Up Call For Enterprises",
-      "url": "https://inc42.com/features/why-the-openai-hugging-face-incident-is-a-wake-up-call-for-enterprises/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "DoT disconnects 88 lakh mobile connections using AI tool",
-      "url": "https://www.medianama.com/2026/07/223-dot-disconnects-88-lakh-mobile-connections/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "Karnataka looks to deepen AI ecosystem with industry partnership, focus on youth and rural education",
-      "url": "https://www.livemint.com/technology/karnataka-looks-to-deepen-ai-ecosystem-with-industry-partnership-focus-on-youth-and-rural-education-11784882206692.html",
-      "cat": "POLICY",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "Fractal Q1: Profit Zooms 92% YoY to \u20b972 Cr, Revenue At \u20b9913 Cr",
-      "url": "https://inc42.com/buzz/fractal-q1-profit-zooms-92-yoy-to-%e2%82%b972-cr-revenue-at-%e2%82%b9913-cr/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "Anthropic launches Opus 5 AI model at half-price of Fable 5 \u2014 What we know about the efficiency upgrade",
-      "url": "https://www.livemint.com/technology/tech-news/anthropic-launches-opus-5-ai-model-at-half-price-of-fable-5-what-we-know-about-the-efficiency-upgrade-11784913229375.html",
-      "cat": "RESEARCH",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "Claude Opus 5 matches Fable on coding at half the price, and Anthropic says it is the most aligned model it has ever shipped",
-      "url": "https://thenextweb.com/news/anthropic-claude-opus-5-launch-frontier-bench-coding",
-      "cat": "RESEARCH",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "Stripe wants to own the toll booth between AI models, for ~$10bn",
-      "url": "https://thenextweb.com/news/stripe-openrouter-10-billion-ai-model-marketplace-acquisition",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "The AI giants just broke with OpenAI and Anthropic on open weights",
-      "url": "https://thenextweb.com/news/open-weights-american-ai-leadership-letter-huang-nvidia-openai-absent",
-      "cat": "RESEARCH",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "Delhi HC Rejects ANI\u2019s Plea For Interim Injunction Against OpenAI In Copyright Suit",
-      "url": "https://inc42.com/buzz/delhi-hc-rejects-anis-plea-for-interim-injunction-against-openai-in-copyright-suit/",
-      "cat": "POLICY",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "ANI vs OpenAI Copyright Dispute: Delhi High Court declines interim relief",
-      "url": "https://www.medianama.com/2026/07/223-ani-openai-copyright-dispute-delhi-high-court-interim-relief/",
-      "cat": "POLICY",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "Amazon reduces AGI workforce as it doubles down on core AI projects",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/amazon-reduces-agi-workforce-as-it-doubles-down-on-core-ai-projects-10799391/",
-      "cat": "RESEARCH",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "OpenAI couldn't stop its own rogue AI. A Chinese model did | Here's how",
-      "url": "https://www.livemint.com/technology/tech-news/openai-couldnt-stop-its-own-rogue-ai-a-chinese-model-did-heres-how-11784905940360.html",
-      "cat": "RESEARCH",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "Dead internet theory becomes measurable fact as AI agents flood the web",
-      "url": "https://thenextweb.com/news/bots-outnumber-humans-internet-ai-agents-traffic",
-      "cat": "OTHER",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
-      "title": "Amazon just shut its AGI Lab, and quit a race it never led",
-      "url": "https://thenextweb.com/news/amazon-shuts-agi-lab-frontier-model-retreat-layoffs",
-      "cat": "RESEARCH",
-      "date": "2026-07-24T21:39:45.930840"
-    },
-    {
       "title": "Enterprise AI focus shifts from coding productivity to business execution: Report",
       "url": "https://www.livemint.com/technology/enterprise-ai-focus-shifts-from-coding-productivity-to-business-execution-report-11784948881876.html",
       "cat": "ENTERPRISE",
@@ -1019,6 +923,42 @@
       "url": "https://thenextweb.com/news/deepseek-8bn-round-unitree-robot-stake-humanoid-ai",
       "cat": "FUNDING",
       "date": "2026-08-07T21:12:46.457918"
+    },
+    {
+      "title": "Sarvam AI unveils plans for trillion-plus parameter model, launches India-hosted inference platform",
+      "url": "https://www.livemint.com/technology/tech-news/sarvam-is-indias-ai-moment-what-comes-next-counts-117230541678581.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-08T21:01:18.021463"
+    },
+    {
+      "title": "NavVis raised \u20ac73.7M to build the spatial data layer that factories need before they can deploy AI",
+      "url": "https://thenextweb.com/news/navvis-73-7m-series-d-spatial-twin-industrial-ai",
+      "cat": "FUNDING",
+      "date": "2026-08-08T21:01:18.021463"
+    },
+    {
+      "title": "IITs set up schools, centres to bolster AI research",
+      "url": "https://www.indiaai.gov.in/news/iits-set-up-schools-centres-to-bolster-ai-research",
+      "cat": "RESEARCH",
+      "date": "2026-08-08T21:01:18.021463"
+    },
+    {
+      "title": "AI is reimagining service companies; Ola Electric narrows loss in Q1",
+      "url": "https://yourstory.com/2026/08/ai-is-reimagining-service-companies",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-08T21:01:18.021463"
+    },
+    {
+      "title": "Cloudflare built a browser for AI agents. It uses 7x less memory than Chromium and runs entirely on Workers.",
+      "url": "https://thenextweb.com/news/cloudflare-kitesurf-browser-ai-agents-workers",
+      "cat": "RESEARCH",
+      "date": "2026-08-08T21:01:18.021463"
+    },
+    {
+      "title": "AI boom forces companies to rethink how they measure business value",
+      "url": "https://thenextweb.com/news/ai-boom-rethink-measure-business-value-profitalize",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-08T21:01:18.021463"
     }
   ]
 }

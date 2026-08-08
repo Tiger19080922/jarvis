@@ -204,6 +204,19 @@
         "With AI handling such a significant portion of customer service, what is Bajaj Finance's strategy for the remaining 29% of DIY volumes and all non-DIY interactions, and how does the company maintain a human touch for complex or sensitive customer issues?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-08T21:01:18.022699",
+      "headline": "Sarvam AI secures $75 million in funding, led by Nvidia Corp.",
+      "source_url": "https://www.livemint.com/technology/tech-news/sarvam-is-indias-ai-moment-what-comes-next-counts-117230541678581.html",
+      "questions": [
+        "Given Nvidia's deep involvement and leadership in this $75M round, how do you prevent them from leveraging Sarvam AI's India-specific model development for their own broader, global AI infrastructure ambitions, potentially at Sarvam's expense?",
+        "Sarvam AI aims to build AI for India's 22 official languages; what specific technical or data moat prevents a well-funded competitor, perhaps backed by a global cloud provider, from replicating your localized model development within 12-18 months?",
+        "With a $234M first close in June 2026 and now a $75M second close, how has the burn rate evolved, and what specific milestones must Sarvam AI hit in the next 18 months to justify this cumulative $309M investment, especially considering the inherent challenges of scaling across 22 languages?",
+        "What specific failure mode, beyond a general market slowdown, could kill Sarvam AI in the next 18 months, considering the significant capital raised and the current competitive landscape in generative AI for emerging markets?",
+        "How does Sarvam AI's strategy to build voice-first, localized products for 'Bharat' differentiate itself from existing efforts by global tech giants already operating in India, and what prevents them from simply acquiring or building similar capabilities given their scale?"
+      ],
+      "answers": []
     }
   ]
 }
