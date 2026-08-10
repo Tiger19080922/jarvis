@@ -1,114 +1,6 @@
 {
   "stories": [
     {
-      "title": "Enterprise AI focus shifts from coding productivity to business execution: Report",
-      "url": "https://www.livemint.com/technology/enterprise-ai-focus-shifts-from-coding-productivity-to-business-execution-report-11784948881876.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-25T21:26:50.899202"
-    },
-    {
-      "title": "Meet the IFS officer using AI to tell farmers what trees to plant and where",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/himachal-ifs-officer-telegram-chatbot-ai-forest-governance-10802145/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-25T21:26:50.899202"
-    },
-    {
-      "title": "Satya Nadella says Microsoft\u2019s MAI AI models outperform frontier AI in many use cases, cut costs",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/satya-nadella-microsoft-mai-ai-models-outperform-frontier-ai-10801033/",
-      "cat": "RESEARCH",
-      "date": "2026-07-25T21:26:50.899202"
-    },
-    {
-      "title": "OpenAI eyeing ChatGPT integrations for smart glasses, wearables: Greg Brockman",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/openai-eyeing-chatgpt-integrations-for-wearables-greg-brockman-10803022/",
-      "cat": "RESEARCH",
-      "date": "2026-07-25T21:26:50.899202"
-    },
-    {
-      "title": "Anthropic rolls out Opus 5 AI model in efficiency upgrade",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-rolls-out-opus-5-ai-model-in-efficiency-upgrade-10802744/",
-      "cat": "RESEARCH",
-      "date": "2026-07-25T21:26:50.899202"
-    },
-    {
-      "title": "Meta AI gets smarter: It can now plan your day, do research, and create presentations",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/meta-ai-muse-spark-1-1-new-features-10802642/",
-      "cat": "RESEARCH",
-      "date": "2026-07-25T21:26:50.899202"
-    },
-    {
-      "title": "Anthropic expands Claude voice mode with Opus and Sonnet support, deeper app integration",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/anthropic-expands-claude-voice-mode-with-opus-and-sonnet-support-deeper-app-integration-10802038/",
-      "cat": "RESEARCH",
-      "date": "2026-07-25T21:26:50.899202"
-    },
-    {
-      "title": "Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/its-ai-agent-spent-days-hacking-a-company-but-sources-say-openai-did-not-notice-for-a-week-10802756/",
-      "cat": "RESEARCH",
-      "date": "2026-07-25T21:26:50.899202"
-    },
-    {
-      "title": "AMD unveils Helios AI rack-scale system to challenge Nvidia\u2019s dominance",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/amd-unveils-helios-ai-rack-scale-system-to-challenge-nvidias-dominance-10801446/",
-      "cat": "RESEARCH",
-      "date": "2026-07-25T21:26:50.899202"
-    },
-    {
-      "title": "AI investment boom faces growing credit risks as hyperscalers ramp up debt: Jefferies",
-      "url": "https://www.livemint.com/technology/ai-investment-boom-faces-growing-credit-risks-as-hyperscalers-ramp-up-debt-jefferies-11784873184404.html",
-      "cat": "FUNDING",
-      "date": "2026-07-25T21:26:50.899202"
-    },
-    {
-      "title": "How to run B2B GTM when your buyer asks ChatGPT first",
-      "url": "https://yourstory.com/2026/07/how-to-run-b2b-gtm-when-your-buyer-asks-chatgpt-first-",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-26T21:29:23.574742"
-    },
-    {
-      "title": "India AI Governance Guidelines: A Techno-Legal Approach to AI Regulation",
-      "url": "https://sarglobal.com/indias-ai-governance-guidelines-what-the-7/",
-      "cat": "POLICY",
-      "date": "2026-07-26T21:29:23.574742"
-    },
-    {
-      "title": "India AI Governance Guidelines - Press Release",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2034974",
-      "cat": "POLICY",
-      "date": "2026-07-26T21:29:23.574742"
-    },
-    {
-      "title": "Preparing the workforce for agentic AI and autonomous systems",
-      "url": "https://yourstory.com/2026/07/preparing-the-workforce-for-agentic-ai-and-autonomous-systems",
-      "cat": "RESEARCH",
-      "date": "2026-07-26T21:29:23.574742"
-    },
-    {
-      "title": "AI revolutionizing material discovery: Indian scientists forecast new properties",
-      "url": "https://www.indiaai.gov.in/social-media-posts/ai-revolutionizing-material-discovery-indian-scientists-forecast-new-properties",
-      "cat": "RESEARCH",
-      "date": "2026-07-26T21:29:23.574742"
-    },
-    {
-      "title": "Big win for OpenAI; A tail of promise",
-      "url": "https://yourstory.com/2026/07/big-win-openai-ani-case-tail-of-promise",
-      "cat": "POLICY",
-      "date": "2026-07-26T21:29:23.574742"
-    },
-    {
-      "title": "For some, so-called Skynet Day came too close to sci-fi after a rogue agent hacked into a startup",
-      "url": "https://www.livemint.com/technology/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup-11785084966401.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-26T21:29:23.574742"
-    },
-    {
-      "title": "AILQA: Evaluating AI-Driven Legal Question Answering Systems for the Indian Legal System",
-      "url": "https://arxiv.org/abs/2607.21519",
-      "cat": "RESEARCH",
-      "date": "2026-07-26T21:29:23.574742"
-    },
-    {
       "title": "Why Enterprise Trust Is India\u2019s Next AI Growth Frontier",
       "url": "https://inc42.com/resources/why-enterprise-trust-is-indias-next-ai-growth-frontier/",
       "cat": "ENTERPRISE",
@@ -959,6 +851,30 @@
       "url": "https://thenextweb.com/news/ai-boom-rethink-measure-business-value-profitalize",
       "cat": "ENTERPRISE",
       "date": "2026-08-08T21:01:18.021463"
+    },
+    {
+      "title": "AI4Bharat breakthrough enables product builders serve India's linguistic diversity",
+      "url": "https://productgrowth.in/ai4bharat-breakthrough-enables-product-builders-serve-indias-linguistic-diversity/",
+      "cat": "RESEARCH",
+      "date": "2026-08-10T21:14:20.149065"
+    },
+    {
+      "title": "AI firm Krutrim lays off nearly half of its workforce",
+      "url": "https://yourstory.com/2026/07/krutrim-ai-startup-layoffs-workforce-reduction-ai-cloud-services",
+      "cat": "FUNDING",
+      "date": "2026-08-10T21:14:20.149065"
+    },
+    {
+      "title": "AI policies may need to change every few months as technology evolves: CSIR-NIScPR Director",
+      "url": "https://www.livemint.com/technology/ai-policies-may-need-to-change-every-few-months-as-technology-evolves-csir-niscpr-director-11786349552176.html",
+      "cat": "POLICY",
+      "date": "2026-08-10T21:14:20.149065"
+    },
+    {
+      "title": "Nearly 32% entities expect AI to drive re-skilling over job cuts: Survey",
+      "url": "https://www.livemint.com/technology/nearly-32-entities-expect-ai-to-drive-re-skilling-over-job-cuts-survey-11786330517199.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-10T21:14:20.149065"
     }
   ]
 }
