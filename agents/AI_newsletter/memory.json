@@ -1,48 +1,6 @@
 {
   "stories": [
     {
-      "title": "Why Enterprise Trust Is India\u2019s Next AI Growth Frontier",
-      "url": "https://inc42.com/resources/why-enterprise-trust-is-indias-next-ai-growth-frontier/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-27T21:41:22.095997"
-    },
-    {
-      "title": "Why a 'Clean' Property File Isn't Enough: How Cubictree's AI Protects Lenders from Hidden Fraud",
-      "url": "https://yourstory.com/2026/07/why-clean-property-file-isnt-enough-how-cubictrees-ai-protects-lenders-from-hidden-fraud",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-27T21:41:22.095997"
-    },
-    {
-      "title": "BharatGen Research Papers",
-      "url": "https://bharatgen.ai/research-papers/",
-      "cat": "RESEARCH",
-      "date": "2026-07-27T21:41:22.095997"
-    },
-    {
-      "title": "Paytm Dreams The AI Dream",
-      "url": "https://inc42.com/features/paytm-dreams-the-ai-dream/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-27T21:41:22.095997"
-    },
-    {
-      "title": "This startup helps brands get discovered across AI search platforms",
-      "url": "https://yourstory.com/2026/07/this-startup-helps-brands-get-discovered-across-ai-search-platforms",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-27T21:41:22.095997"
-    },
-    {
-      "title": "Publications at CMinds IIT Bombay | AI-ML Publications",
-      "url": "https://cminds.in/publications/",
-      "cat": "RESEARCH",
-      "date": "2026-07-27T21:41:22.095997"
-    },
-    {
-      "title": "Bombay HC Allows Nitin Gadkari To Sue Meta, Google, X Over Circulation Of Deepfakes",
-      "url": "https://inc42.com/buzz/bombay-hc-allows-nitin-gadkari-to-sue-meta-google-x-over-circulation-of-deepfakes/",
-      "cat": "POLICY",
-      "date": "2026-07-27T21:41:22.095997"
-    },
-    {
       "title": "Indic DiarBench: A Multilingual Joint Diarization and ASR Benchmark for Indian Languages",
       "url": "https://arxiv.org/abs/2607.23808",
       "cat": "RESEARCH",
@@ -875,6 +833,72 @@
       "url": "https://www.livemint.com/technology/nearly-32-entities-expect-ai-to-drive-re-skilling-over-job-cuts-survey-11786330517199.html",
       "cat": "ENTERPRISE",
       "date": "2026-08-10T21:14:20.149065"
+    },
+    {
+      "title": "India Enterprise AI Adoption: What 100 CIOs Actually Said",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFciA0oAa_-TNR6klLdz8Cz1OkAji7Ctj2tBiwHkg1uu5XFWDgHZ3JNY78mBr9YLaZq_YXX7raLybLxuXdFinTm6HYefkQ4OPhVdk1yPs8K2bV6WKGc9dxwOD7B_Q7EsujgBfxkkzDGsK0bkl3AaYVm7HQMjx55C-nJM-NRd42mhhU=",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-11T21:17:29.025224"
+    },
+    {
+      "title": "How an IIT Delhi startup is putting AI inside drones, sensors and satellites",
+      "url": "https://yourstory.com/2026/08/iit-delhi-startup-ai-drones-satellites",
+      "cat": "RESEARCH",
+      "date": "2026-08-11T21:17:29.025224"
+    },
+    {
+      "title": "AI increases ARPU, emerges as a new monetisation lever for Naukri",
+      "url": "https://www.medianama.com/2026/08/223-ai-arpu-new-monetisation-lever-naukri/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-11T21:17:29.025224"
+    },
+    {
+      "title": "AI transformation likely to accelerate as companies shift from adoption to enterprise-wide value creation: Report",
+      "url": "https://www.tribuneindia.com/news/nation/ai-transformation-likely-to-accelerate-as-companies-shift-from-adoption-to-enterprise-wide-value-creation-report-626101",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-11T21:17:29.025224"
+    },
+    {
+      "title": "Discovered Materials Raises $9 Mn For AI-Led Semiconductor Material Discovery",
+      "url": "https://inc42.com/buzz/discovered-materials-raises-9-mn-for-ai-led-semiconductor-material-discovery/",
+      "cat": "FUNDING",
+      "date": "2026-08-11T21:17:29.025224"
+    },
+    {
+      "title": "Deeptech startup Discovered Materials raises $9M in Seed round",
+      "url": "https://yourstory.com/2026/08/deeptech-startup-discovered-materials-raises-9-million-in-seed-round",
+      "cat": "FUNDING",
+      "date": "2026-08-11T21:17:29.025224"
+    },
+    {
+      "title": "CHRIST University and IBM Launch IBM Innovation Center for Artificial Intelligence to Accelerate Research, Innovation and Talent Development",
+      "url": "https://newsroom.ibm.com/2026-08-11-CHRIST-University-and-IBM-Launch-IBM-Innovation-Center-for-Artificial-Intelligence-to-Accelerate-Research-Innovation-and-Talent-Development",
+      "cat": "RESEARCH",
+      "date": "2026-08-11T21:17:29.025224"
+    },
+    {
+      "title": "BFSI to outpace other segments in growth, says Fractal Analytics Group CEO",
+      "url": "https://www.fortuneindia.com/opinion/bfsi-to-outpace-other-segments-in-growth-says-fractal-analytics-group-ceo/106934",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-11T21:17:29.025224"
+    },
+    {
+      "title": "Anthropic Adds Watermarks In Claude Content As Deepfakes Run Amok",
+      "url": "https://inc42.com/features/anthropic-adds-watermarks-in-claude-content-as-deepfake-bad-actors-run-amok/",
+      "cat": "OTHER",
+      "date": "2026-08-11T21:17:29.025224"
+    },
+    {
+      "title": "AI is changing cyber threats. Recovery is becoming just as important as prevention",
+      "url": "https://yourstory.com/2026/08/ai-is-changing-cyber-threats-recovery-is-becoming-just-as-important-as-prevention",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-11T21:17:29.025224"
+    },
+    {
+      "title": "SettleMint India Rebrands as Quadcentrix to Mark Expansion Beyond Blockchain into AI, Data Analytics and Enterprise Digital Solutions",
+      "url": "https://www.bignewsnetwork.com/article/172610911-settlemint-india-rebrands-quadcentrix-mark-expansion-beyond-blockchain-into-ai-data-analytics-enterprise-digital-solutions.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-11T21:17:29.025224"
     }
   ]
 }

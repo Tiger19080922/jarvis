@@ -229,6 +229,18 @@
         "Considering the $12 million seed round closed in July 2023, and a grant was received in June 2025, what is the runway beyond the grant, and what is the plan to achieve sustainable revenue generation for an organization primarily positioned as an open-source research lab at IIT Madras?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-11T21:17:29.026602",
+      "headline": "Only 23% of Indian CIOs have a dedicated budget for AI initiatives.",
+      "source_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFciA0oAa_-TNR6klLdz8Cz1OkAji7Ctj2tBiwHkg1uu5XFWDgHZ3JNY78mBr9YLaZq_YXX7raLybLxuXdFinTm6HYefkQ4OPhVdk1yPs8K2bV6WKGc9dxwOD7B_Q7EsujgBfxkkzDGsK0bkl3AaYVm7HQMjx55C-nJM-NRd42mhhU=",
+      "questions": [
+        "Given that only 23% of Indian CIOs have a dedicated AI budget, how will NEO Market Intelligence capture the remaining 77% who fund AI by reallocating existing IT budgets, and what's the timeline for that shift?",
+        "If 77% of Indian CIOs are deprioritizing other IT spending to fund AI, what specific budget categories are they cutting, and how does that impact the overall IT spend that NEO Market Intelligence can forecast or influence?",
+        "What specific methodology did NEO Market Intelligence use to ensure the 100 CIOs surveyed represent the diverse range of industries and company sizes within India's enterprise landscape, and how does this sample size address potential biases?",
+        "Considering the report was released in March 2026, what proactive steps has NEO Market Intelligence taken to ensure its findings remain relevant given the rapid pace of AI development and adoption in India over the past few months?"
+      ],
+      "answers": []
     }
   ]
 }
