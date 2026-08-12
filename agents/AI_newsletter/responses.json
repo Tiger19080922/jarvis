@@ -241,6 +241,18 @@
         "Considering the report was released in March 2026, what proactive steps has NEO Market Intelligence taken to ensure its findings remain relevant given the rapid pace of AI development and adoption in India over the past few months?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-12T21:16:11.188905",
+      "headline": "Accel closes ninth India-focused fund, Accel India Fund IX, at $550 million.",
+      "source_url": "https://inc42.com/buzz/accel-closes-ninth-india-fund-with-550-mn-corpus-to-invest-in-ai-deeptech/",
+      "questions": [
+        "Given Accel India Fund IX is $100 million smaller than Fund VIII, how does the stated increase in cheque size from $500,000 to $5 million impact the number of portfolio companies Accel can invest in with this new fund?",
+        "If Accel's thesis is to focus on AI, deep tech, and advanced manufacturing, what specific competitive advantages does a pre-seed or Series A startup in India possess today that would prevent a well-funded competitor from replicating their technology or go-to-market strategy within 18 months?",
+        "What specific market dynamics or past failures in India's AI, deep tech, or advanced manufacturing sectors would make a pre-seed/Series A investment in these areas by Accel India Fund IX uniquely successful now, when similar attempts may have faltered previously?",
+        "Considering Accel's increased cheque size, what specific unit economic assumptions must hold true for a startup in AI or deep tech to achieve sustainable profitability at scale, rather than relying on continuous funding rounds?"
+      ],
+      "answers": []
     }
   ]
 }

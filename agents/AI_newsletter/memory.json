@@ -1,84 +1,6 @@
 {
   "stories": [
     {
-      "title": "Indic DiarBench: A Multilingual Joint Diarization and ASR Benchmark for Indian Languages",
-      "url": "https://arxiv.org/abs/2607.23808",
-      "cat": "RESEARCH",
-      "date": "2026-07-28T21:40:18.404352"
-    },
-    {
-      "title": "Moonshot AI releases Kimi K3 model weights under custom licence: What it means for enterprises",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/china-moonshot-ai-kimi-k3-model-weights-custom-licence-10807478/",
-      "cat": "RESEARCH",
-      "date": "2026-07-28T21:40:18.404352"
-    },
-    {
-      "title": "Dayananda Sagar University and IISc Bengaluru Join Forces to Build India's Next AI Research Frontier",
-      "url": "https://www.xrom.com/dayananda-sagar-university-and-iisc-bengaluru-join-forces-to-build-indias-next-ai-research-frontier/",
-      "cat": "RESEARCH",
-      "date": "2026-07-28T21:40:18.404352"
-    },
-    {
-      "title": "Bharat Innovates 2026: IIT Delhi Showcases Innovations Across Defence, AI, Healthcare; Strengthens Global Research and Innovation Partnerships",
-      "url": "https://www.iitd.ac.in/en/news/news-item/2026/06/17/Bharat-Innovates-2026-IIT-Delhi-Showcases-Innovations-Across-Defence,-AI,-Healthcare;-Strengthens-Global-Research-and-Innovation-Partnerships",
-      "cat": "RESEARCH",
-      "date": "2026-07-28T21:40:18.404352"
-    },
-    {
-      "title": "AI4SE 2026 | Symposium on AI for Science & Engineering - IIT Hyderabad",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1R0hbNmYx7J_R5oKuoohq5eA-OyZ1a1bFlwQLA36UFh7zE-gwIqAxYqAWuXUcnd8h1siCqZ1nwWryZt43fSWV6ffX1WvnsF_yaVThdP_T3EhPSrw=",
-      "cat": "RESEARCH",
-      "date": "2026-07-28T21:40:18.404352"
-    },
-    {
-      "title": "\u2018Unprecedented event\u2019: Hugging Face CEO demands answers from OpenAI after AI agent-driven cyber attack",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/hugging-face-ceo-demands-answers-openai-agent-cyber-attack-10805305/",
-      "cat": "RESEARCH",
-      "date": "2026-07-28T21:40:18.404352"
-    },
-    {
-      "title": "Claude found mathematical flaws in two cryptographic algorithms that years of expert review missed",
-      "url": "https://thenextweb.com/news/anthropic-claude-mythos-cryptographic-attacks-hawk-aes",
-      "cat": "RESEARCH",
-      "date": "2026-07-28T21:40:18.404352"
-    },
-    {
-      "title": "AI is finding twice as many software flaws. Almost none get exploited.",
-      "url": "https://thenextweb.com/news/ai-discovered-vulnerabilities-exploitation-vulncheck-anthropic-ledger",
-      "cat": "RESEARCH",
-      "date": "2026-07-28T21:40:18.404352"
-    },
-    {
-      "title": "Why Anthropic backs open-weight AI models but still won\u2019t sign Nvidia CEO\u2019s letter",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/why-anthropic-backs-open-weight-ai-not-nvidia-letter-10806982/",
-      "cat": "RESEARCH",
-      "date": "2026-07-28T21:40:18.404352"
-    },
-    {
-      "title": "What is Open Secure AI Alliance? Nvidia\u2019s latest push for AI security",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/nvidia-launches-open-secure-ai-alliance-what-it-means-10806588/",
-      "cat": "POLICY",
-      "date": "2026-07-28T21:40:18.404352"
-    },
-    {
-      "title": "Claude Code creator says most users are making one mistake with AI prompts",
-      "url": "https://www.livemint.com/technology/tech-news/claude-code-creator-says-most-users-are-making-one-mistake-with-ai-prompts-11785222871418.html",
-      "cat": "RESEARCH",
-      "date": "2026-07-28T21:40:18.404352"
-    },
-    {
-      "title": "Anthropic CEO Dario Amodei says he doesn't want open AI models banned. Here's why",
-      "url": "https://www.livemint.com/technology/tech-news/anthropic-ceo-dario-amodei-says-he-doesnt-want-open-ai-models-banned-heres-why-11785215742214.html",
-      "cat": "RESEARCH",
-      "date": "2026-07-28T21:40:18.404352"
-    },
-    {
-      "title": "Anthropic says it never sought ban on open-weight AI models; CEO calls for chip controls, safety testing",
-      "url": "https://www.livemint.com/technology/anthropic-says-it-never-sought-ban-on-open-weight-ai-models-ceo-calls-for-chip-controls-safety-testing-11785221651020.html",
-      "cat": "RESEARCH",
-      "date": "2026-07-28T21:40:18.404352"
-    },
-    {
       "title": "Gen-AI may replace 8-12% of Indias non-agricultural jobs: Goldman Sachs",
       "url": "https://www.livemint.com/technology/genai-may-replace-8-12-of-indias-non-agricultural-jobs-goldman-sachs-11785307373774.html",
       "cat": "ENTERPRISE",
@@ -899,6 +821,114 @@
       "url": "https://www.bignewsnetwork.com/article/172610911-settlemint-india-rebrands-quadcentrix-mark-expansion-beyond-blockchain-into-ai-data-analytics-enterprise-digital-solutions.html",
       "cat": "ENTERPRISE",
       "date": "2026-08-11T21:17:29.025224"
+    },
+    {
+      "title": "Accel Closes Ninth India Fund With $550 Mn Corpus To Invest In AI, Deeptech",
+      "url": "https://inc42.com/buzz/accel-closes-ninth-india-fund-with-550-mn-corpus-to-invest-in-ai-deeptech/",
+      "cat": "FUNDING",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "Exclusive: AI Healthtech Startup August AI In Talks To Raise $4 Mn From Peak XV",
+      "url": "https://inc42.com/buzz/ai-healthtech-startup-august-ai-in-talks-to-raise-4-mn-from-peak-xv/",
+      "cat": "FUNDING",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "India must shape its AI journey rather than be shaped by default: RBI Governor Sanjay Malhotra",
+      "url": "https://www.livemint.com/technology/india-must-shape-its-ai-journey-rather-than-be-shaped-by-default-rbi-governor-sanjay-malhotra-11786428751973.html",
+      "cat": "POLICY",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "India's AI rules may change: Who decides what stays online and what gets removed?",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdG-OXpCa_IHpI_bFGZDYfAFTH66GBIzTNrVqAyb-daymK1mJkGVtD5b-TyeYc2Ie3s_ar7YSHqtNw0rddzCrWQegEYrGPFUCjKnK9i-D0_x9kcBKQ6ib6kqGhY4CbEpkxVCGmPHyID96y5kKidMZ2A-xbeYzZlbxIMAqJk-8gOVf6w0k65QZqY0l2HPa8tjOwmTwrGn9KClS96RVEHtc=",
+      "cat": "POLICY",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "How SwishX Is Fixing Messy Back Office Sales Workflows For Pharma Companies With AI",
+      "url": "https://inc42.com/startups/how-swishx-is-fixing-messy-back-office-sales-workflows-for-pharma-companies-with-ai/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "Indian scientists build AI tool to spot hidden cancer cells. It outperforms other methods",
+      "url": "https://theprint.in/feature/indian-scientists-build-ai-tool-to-spot-hidden-cancer-cells-it-outperforms-other-methods/3012936/",
+      "cat": "RESEARCH",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "National AI Skilling Initiative records 60,253 enrolments in Phase I; Phase II details being finalised",
+      "url": "https://www.livemint.com/technology/national-ai-skilling-initiative-records-60-253-enrolments-in-phase-i-phase-ii-details-being-finalised-11786533504093.html",
+      "cat": "POLICY",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "AI evolving as core intelligence layer in Indias fintech transformation: ASSOCHAM-KPMG report",
+      "url": "https://www.livemint.com/technology/ai-evolving-as-core-intelligence-layer-in-indias-fintech-transformation-assocham-kpmg-report-11786419422893.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "Enterprise AI Spend Gets A Reality Check",
+      "url": "https://inc42.com/features/enterprise-ai-spend-gets-a-reality-check/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "From cyber defence to care and contracts: AI100's eighth cohort puts AI to work",
+      "url": "https://yourstory.com/2026/08/from-cyber-defence-to-care-and-contracts-ai100s-eighth-cohort-puts-ai-to-work",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "Aditya Gupta: Building intelligence into contracts at scale",
+      "url": "https://yourstory.com/2026/08/aditya-gupta-building-intelligence-into-contracts-at-scale",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "David Gildea: On a mission to democratize data security",
+      "url": "https://yourstory.com/2026/08/david-gildea-on-a-mission-to-democratize-data-security",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "Ankit Maheshwari: AI, architecture and impact",
+      "url": "https://yourstory.com/2026/08/ankit-maheshwari-ai-architecture-and-impact",
+      "cat": "RESEARCH",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "Anthropic to embed watermark and C2PA metadata for AI-generated text and media by Claude",
+      "url": "https://www.medianama.com/2026/08/223-anthropic-watermark-c2pa-metadata-claude/",
+      "cat": "RESEARCH",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "Meta open sources Muse Glimmer AI model, Zuckerberg says \u2018superintelligence should empower everyone\u2019",
+      "url": "https://www.livemint.com/technology/tech-news/meta-open-sources-muse-glimmer-ai-model-zuckerberg-says-superintelligence-should-empower-everyone-11786416747760.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "Pixel 11 puts Gemini in the operating system, weeks before Siri gets the same models",
+      "url": "https://thenextweb.com/news/google-pixel-11-gemini-intelligence-apple-siri",
+      "cat": "RESEARCH",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "IISc Researchers Present Advancements in AI and Machine Learning",
+      "url": "https://iisc.ac.in/wp-content/uploads/2024/01/Kotak-IISc-AI-ML-Centre-Publications.pdf",
+      "cat": "RESEARCH",
+      "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "Vision and AI Lab (VAL) at IISc Showcases Recent Publications",
+      "url": "https://val.iisc.ac.in/publications/",
+      "cat": "RESEARCH",
+      "date": "2026-08-12T21:16:11.187578"
     }
   ]
 }
