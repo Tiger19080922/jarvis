@@ -253,6 +253,18 @@
         "Considering Accel's increased cheque size, what specific unit economic assumptions must hold true for a startup in AI or deep tech to achieve sustainable profitability at scale, rather than relying on continuous funding rounds?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-13T21:16:46.453709",
+      "headline": "Kusho AI secured $600,000 in pre-seed funding for AI software testing.",
+      "source_url": "https://yourstory.com/2026/08/kusho-ai-software-testing-startup-bengaluru",
+      "questions": [
+        "Given that Peak XV Partners' thesis highlights the difficulty in validating code, how does Kusho AI's AI agent approach to testing APIs, web, and mobile apps provide a defensible moat against well-funded competitors like Sauce Labs or BrowserStack who are already established in the broader test automation market?",
+        "Kusho AI raised $600,000 in pre-seed. If the core value proposition is reducing manual QA time, what specific metrics demonstrate that the unit economics of your AI agents will become profitable at scale, rather than requiring continuous subsidy from future funding rounds?",
+        "Balaji Srinivasan has historically focused on decentralized technologies and network effects. Beyond the $600,000 pre-seed, what specific technical or go-to-market strategies will Kusho AI employ to build a defensible network effect that prevents established players or new entrants from replicating your AI agent capabilities?",
+        "If Peak XV Partners' thesis is correct that validating code is the bottleneck, what specific failure mode would prevent Kusho AI from capturing significant market share in the next 18 months, considering the $600,000 pre-seed and the current competitive landscape?"
+      ],
+      "answers": []
     }
   ]
 }

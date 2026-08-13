@@ -1,78 +1,6 @@
 {
   "stories": [
     {
-      "title": "Gen-AI may replace 8-12% of Indias non-agricultural jobs: Goldman Sachs",
-      "url": "https://www.livemint.com/technology/genai-may-replace-8-12-of-indias-non-agricultural-jobs-goldman-sachs-11785307373774.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-29T21:29:30.487904"
-    },
-    {
-      "title": "Google launches Gemini Spark, a 24/7 personal AI agent, in India",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-launches-gemini-spark-24-7-personal-ai-agent-india-10808833/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-29T21:29:30.487904"
-    },
-    {
-      "title": "Google rolls out Gemini Spark AI agent to users in India: Here's what it can do",
-      "url": "https://www.livemint.com/technology/tech-news/google-rolls-out-gemini-spark-ai-agent-to-users-in-india-heres-what-it-can-do-11785304937137.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-29T21:29:30.487904"
-    },
-    {
-      "title": "IISc research paper gets top honors at global computer vision event",
-      "url": "https://www.thehindu.com/news/national/karnataka/iisc-research-paper-gets-top-honours-at-global-computer-vision-event/article68320251.ece",
-      "cat": "RESEARCH",
-      "date": "2026-07-29T21:29:30.487904"
-    },
-    {
-      "title": "Mark Zuckerberg slams centralisation of AI power, challenges OpenAI-Anthropic approach",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/meta-mark-zuckerberg-slams-centralisation-ai-10808282/",
-      "cat": "POLICY",
-      "date": "2026-07-29T21:29:30.487904"
-    },
-    {
-      "title": "Meta chief Mark Zuckerberg slams AI rivals over tightly controlled development",
-      "url": "https://www.livemint.com/technology/meta-chief-mark-zuckerberg-slams-ai-rivals-over-tightly-controlled-development-11785299791071.html",
-      "cat": "POLICY",
-      "date": "2026-07-29T21:29:30.487904"
-    },
-    {
-      "title": "Designing next generation analog chipsets for AI applications - Indian Institute of Science",
-      "url": "https://iisc.ac.in/designing-next-generation-analog-chipsets-for-ai-applications/",
-      "cat": "RESEARCH",
-      "date": "2026-07-29T21:29:30.487904"
-    },
-    {
-      "title": "IISc releases a report on `Emerging AI Tools for Education and Research: Perspective and Policies for IISc'",
-      "url": "https://iisc.ac.in/emerging-ai-tools-for-education-and-research/",
-      "cat": "POLICY",
-      "date": "2026-07-29T21:29:30.487904"
-    },
-    {
-      "title": "OpenAI, Google, Meta staff sign letter calling for mechanisms to pace AI progress",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-anthropic-meta-employees-letter-slow-ai-development-10808642/",
-      "cat": "POLICY",
-      "date": "2026-07-29T21:29:30.487904"
-    },
-    {
-      "title": "OpenAI's Sam Altman discusses rogue agent with US senators, as Trump considers AI controls",
-      "url": "https://www.livemint.com/technology/openais-sam-altman-discusses-rogue-agent-with-us-senators-as-trump-considers-ai-controls-11785355730888.html",
-      "cat": "POLICY",
-      "date": "2026-07-29T21:29:30.487904"
-    },
-    {
-      "title": "Tech employees call for US-backed global effort to manage risks of advanced AI",
-      "url": "https://www.livemint.com/technology/tech-employees-call-for-us-backed-global-effort-to-manage-risks-of-advanced-ai-11785276095862.html",
-      "cat": "POLICY",
-      "date": "2026-07-29T21:29:30.487904"
-    },
-    {
-      "title": "This Cambridge startup is building a \u2018foundation model\u2019 for the chest to speed drug trials",
-      "url": "https://thenextweb.com/news/qureight-20m-series-b-ai-chest-imaging-clinical-trials",
-      "cat": "RESEARCH",
-      "date": "2026-07-29T21:29:30.487904"
-    },
-    {
       "title": "Sarvam To Build Trillion-Parameter AI Model, Launches India-Hosted Inference Service",
       "url": "https://inc42.com/buzz/sarvam-to-build-trillion-plus-ai-model-in-india-launches-inference-service/",
       "cat": "RESEARCH",
@@ -929,6 +857,78 @@
       "url": "https://val.iisc.ac.in/publications/",
       "cat": "RESEARCH",
       "date": "2026-08-12T21:16:11.187578"
+    },
+    {
+      "title": "Kusho AI is building AI agents that test software before it breaks",
+      "url": "https://yourstory.com/2026/08/kusho-ai-software-testing-startup-bengaluru",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-13T21:16:46.452413"
+    },
+    {
+      "title": "Safe & Trusted AI Pillar under IndiaAI Mission Strengthens Citizen Trust through Secure, Fair and Responsible AI Solutions",
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2037128",
+      "cat": "POLICY",
+      "date": "2026-08-13T21:16:46.452413"
+    },
+    {
+      "title": "Semiconductor and AI Revolution",
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2044108",
+      "cat": "POLICY",
+      "date": "2026-08-13T21:16:46.452413"
+    },
+    {
+      "title": "A stroke can cut the line between intention and movement. This device tries to close the loop",
+      "url": "https://yourstory.com/2026/08/stroke-recovery-movement-device",
+      "cat": "RESEARCH",
+      "date": "2026-08-13T21:16:46.452413"
+    },
+    {
+      "title": "WhatsApp tests on-device scam detection as India pushes OTT apps into spam rules",
+      "url": "https://www.medianama.com/2026/08/223-meta-on-device-scam-detection-whatsapp/",
+      "cat": "POLICY",
+      "date": "2026-08-13T21:16:46.452413"
+    },
+    {
+      "title": "India warns Meta to curb AI-generated content or face enforcement",
+      "url": "https://www.biometricupdate.com/202608/india-warns-meta-to-curb-ai-generated-content-or-face-enforcement",
+      "cat": "POLICY",
+      "date": "2026-08-13T21:16:46.452413"
+    },
+    {
+      "title": "Inside L&T Vyoma\u2019s Plan To Build India\u2019s AI Infrastructure Giant",
+      "url": "https://inc42.com/features/inside-lt-vyomas-plan-to-build-indias-ai-infrastructure-giant/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-13T21:16:46.452413"
+    },
+    {
+      "title": "ClickHouse and Hud build a runtime feedback loop for AI-generated software",
+      "url": "https://thenextweb.com/news/clickhouse-hud-runtime-feedback-loop-ai-generated-code",
+      "cat": "RESEARCH",
+      "date": "2026-08-13T21:16:46.452413"
+    },
+    {
+      "title": "Indian universities shift focus from AI adoption to measurable outcomes",
+      "url": "https://www.etnet.com.hk/www/eng/indepth/specialfeature/AIcampusfiles/index.php?channel=ETEnterpriseAI&file=AIcampusfiles_Aug2026_1.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-13T21:16:46.452413"
+    },
+    {
+      "title": "Delhi HC Justice Prathiba Singh questions mandatory AI disclosure for lawyers",
+      "url": "https://www.medianama.com/2026/08/223-justice-prathiba-singh-ai-disclosure-lawyers/",
+      "cat": "POLICY",
+      "date": "2026-08-13T21:16:46.452413"
+    },
+    {
+      "title": "India rolls out 3 AI-based models for faster, more accurate weather forecasts",
+      "url": "https://theprint.in/feature/india-rolls-out-3-ai-based-models-for-faster-more-accurate-weather-forecasts/3014133/",
+      "cat": "RESEARCH",
+      "date": "2026-08-13T21:16:46.452413"
+    },
+    {
+      "title": "DeepSeek built a Claude Code rival, then quadrupled its prices",
+      "url": "https://thenextweb.com/news/deepseek-price-increase-harness-claude-code-rival-v4-pro",
+      "cat": "RESEARCH",
+      "date": "2026-08-13T21:16:46.452413"
     }
   ]
 }
