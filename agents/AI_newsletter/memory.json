@@ -1,84 +1,6 @@
 {
   "stories": [
     {
-      "title": "Sarvam To Build Trillion-Parameter AI Model, Launches India-Hosted Inference Service",
-      "url": "https://inc42.com/buzz/sarvam-to-build-trillion-plus-ai-model-in-india-launches-inference-service/",
-      "cat": "RESEARCH",
-      "date": "2026-07-30T21:44:49.245217"
-    },
-    {
-      "title": "Sarvam Takes On Claude, Codex With Cheaper, India-Hosted Coding Agent",
-      "url": "https://inc42.com/buzz/sarvam-takes-on-claude-codex-with-cheaper-india-hosted-coding-agent/",
-      "cat": "RESEARCH",
-      "date": "2026-07-30T21:44:49.245217"
-    },
-    {
-      "title": "AI startup Revspot raises $4.8M in Series A round",
-      "url": "https://yourstory.com/2026/07/ai-startup-revspot-raises-funding-series-a-round",
-      "cat": "FUNDING",
-      "date": "2026-07-30T21:44:49.245217"
-    },
-    {
-      "title": "Meta Q2FY26 Earnings Call: Why Meta is betting on and building personal AI agents",
-      "url": "https://www.medianama.com/2026/07/223-meta-q2fy26-building-personal-ai-agents/",
-      "cat": "RESEARCH",
-      "date": "2026-07-30T21:44:49.245217"
-    },
-    {
-      "title": "Five strategic takeaways from Meesho Q1 FY27 earnings call",
-      "url": "https://www.medianama.com/2026/07/223-meesho-q1-fy27-key-takeaways/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-30T21:44:49.245217"
-    },
-    {
-      "title": "Sarvam Ropes In Mistral AI Founding Team Member Devendra Chaplot As Advisor",
-      "url": "https://inc42.com/buzz/sarvam-ropes-in-mistral-ai-founding-team-member-devendra-chaplot-as-advisor/",
-      "cat": "RESEARCH",
-      "date": "2026-07-30T21:44:49.245217"
-    },
-    {
-      "title": "Tata Communications Amps Up Voice AI Play For India\u2019s SMBs",
-      "url": "https://inc42.com/buzz/tata-communications-expands-voice-ai-push-eyes-smb-adoption/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-30T21:44:49.245217"
-    },
-    {
-      "title": "At Unleash, Atlassian showed what it takes to move enterprise AI from demo to production",
-      "url": "https://yourstory.com/2026/07/unleash-atlassian-enterprise-ai-demo-to-production",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-30T21:44:49.245217"
-    },
-    {
-      "title": "RenaissThera is designing oral drugs for obesity and type 2 diabetes",
-      "url": "https://yourstory.com/2026/07/renaissthera-oral-obesity-diabetes-drugs",
-      "cat": "RESEARCH",
-      "date": "2026-07-30T21:44:49.245217"
-    },
-    {
-      "title": "Roundtable Announcement: Impact of AI on Spam, New Delhi, August 12, 2026 #NAMA",
-      "url": "https://www.medianama.com/2026/07/223-roundtable-announcement-impact-ai-spam-august-12-2026-nama/",
-      "cat": "POLICY",
-      "date": "2026-07-30T21:44:49.245217"
-    },
-    {
-      "title": "Freehand Raises $75 Mn To Expand Enterprise AI Platform",
-      "url": "https://inc42.com/buzz/freehand-raises-75-mn-to-expand-enterprise-ai-platform/",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-30T21:44:49.245217"
-    },
-    {
-      "title": "xAI sues Minnesota over law banning AI \u2018nudification\u2019 tools",
-      "url": "https://www.medianama.com/2026/07/223-xai-minnesota-law-ai-nudification-tools/",
-      "cat": "POLICY",
-      "date": "2026-07-30T21:44:49.245217"
-    },
-    {
-      "title": "Your Claude AI chats may be searchable on Google: Here\u2019s how to keep them private",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/claude-ai-chats-searchable-google-how-to-protect-10810430/",
-      "cat": "POLICY",
-      "date": "2026-07-30T21:44:49.245217"
-    },
-    {
       "title": "RoshAi makes the trucks you already own drive themselves",
       "url": "https://yourstory.com/2026/07/roshai-self-driving-truck-technology",
       "cat": "ENTERPRISE",
@@ -929,6 +851,66 @@
       "url": "https://thenextweb.com/news/deepseek-price-increase-harness-claude-code-rival-v4-pro",
       "cat": "RESEARCH",
       "date": "2026-08-13T21:16:46.452413"
+    },
+    {
+      "title": "Indian Banks Race to Scale GenAI as Adoption Jumps to 86%: BCG-FICCI-IBA Report",
+      "url": "https://www.fortuneindia.com/opinion/indian-banks-race-to-scale-genai-as-adoption-jumps-to-86-bcg-ficci-iba-report/72765",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-14T20:58:06.514553"
+    },
+    {
+      "title": "Razorpay\u2019s ChatGPT Gambit, Snapchat\u2019s Next Big Quest & More",
+      "url": "https://inc42.com/buzz/razorpays-chatgpt-gambit-snapchats-next-big-quest-more/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-14T20:58:06.514553"
+    },
+    {
+      "title": "Can Razorpay Turn ChatGPT Into India\u2019s Next Commerce Channel?",
+      "url": "https://inc42.com/features/can-razorpay-turn-chatgpt-into-indias-next-commerce-channel/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-14T20:58:06.514553"
+    },
+    {
+      "title": "RBI Governor Urges Indian Banks to Proactively Shape AI Adoption",
+      "url": "https://www.renascence.in/news/rbi-urges-indian-banks-to-take-charge-of-ai-adoption",
+      "cat": "POLICY",
+      "date": "2026-08-14T20:58:06.514553"
+    },
+    {
+      "title": "AI in Indian Healthcare Boosts Patient Capacity: Future Health Index 2026 Report",
+      "url": "https://www.omnicuris.com/blog/future-health-index-2026-india-report-ai-in-practice/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-14T20:58:06.514553"
+    },
+    {
+      "title": "Union Health Minister Unveils Roadmap for AI Adoption in Healthcare",
+      "url": "https://www.thehindubusinessline.com/companies/union-health-minister-jp-nadda-unveils-roadmap-for-ai-adoption-in-healthcare/article68517894.ece",
+      "cat": "POLICY",
+      "date": "2026-08-14T20:58:06.514553"
+    },
+    {
+      "title": "Tagbin has built an AI platform that turns words into 3D building designs",
+      "url": "https://yourstory.com/2026/08/tagbin-brixx-ai-building-design-bim-platform",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-14T20:58:06.514553"
+    },
+    {
+      "title": "Banks Prioritize AI Agents Amidst Control Concerns, FIBAC 2026 Discussions Reveal",
+      "url": "https://bfsi.economictimes.indiatimes.com/news/banking/banks-are-building-ai-agents-faster-than-they-are-solving-the-control-question-ceos-say/102739357",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-14T20:58:06.514553"
+    },
+    {
+      "title": "AI Adoption in India's Automotive Sector Accelerating",
+      "url": "https://www.analyticsinsight.net/how-ai-is-transforming-indias-automobile-industry-and-where-team-computers-fit-in/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-14T20:58:06.514553"
+    },
+    {
+      "title": "Chandigarh Court orders Meta to remove AI-Generated video of Punjab MLA Sukhpal Singh Khaira",
+      "url": "https://www.medianama.com/2026/08/223-chandigarh-court-meta-sukhpal-khaira-ai-video/",
+      "cat": "POLICY",
+      "date": "2026-08-14T20:58:06.514553"
     }
   ]
 }

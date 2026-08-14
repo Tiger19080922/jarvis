@@ -265,6 +265,18 @@
         "If Peak XV Partners' thesis is correct that validating code is the bottleneck, what specific failure mode would prevent Kusho AI from capturing significant market share in the next 18 months, considering the $600,000 pre-seed and the current competitive landscape?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-14T20:58:06.515771",
+      "headline": "Indian banks rapidly adopt Generative AI, with 86% implementing use cases.",
+      "source_url": "https://www.fortuneindia.com/opinion/indian-banks-race-to-scale-genai-as-adoption-jumps-to-86-bcg-ficci-iba-report/72765",
+      "questions": [
+        "Given the 86% adoption rate reported for Indian banks, what specific, defensible competitive advantage does 'Winning in the AI Era' have over the dozens of other GenAI solution providers that are undoubtedly also targeting this rapidly expanding market?",
+        "Peak XV Partners' thesis highlights a need for specialized, high-performance compute infrastructure. How does your solution directly address this need, and what prevents a bank from building this in-house or sourcing it from a hyperscaler like AWS or Azure, given their existing relationships and scale?",
+        "If the adoption rate has surged from 10% in 2024 to 86% in 2025, what specific market conditions or technological breakthroughs occurred in such a short period that would prevent a well-funded competitor from replicating your success within the next 12-18 months?",
+        "Beyond the reported adoption percentages, what tangible metrics demonstrate that 'Winning in the AI Era' is driving actual revenue growth or significant cost savings for these Indian banks, rather than just pilot projects or superficial implementations?"
+      ],
+      "answers": []
     }
   ]
 }
