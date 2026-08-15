@@ -1,114 +1,6 @@
 {
   "stories": [
     {
-      "title": "RoshAi makes the trucks you already own drive themselves",
-      "url": "https://yourstory.com/2026/07/roshai-self-driving-truck-technology",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "Deepfake crackdown: India mandates faster removal, labelling and platform accountability",
-      "url": "https://www.indiatoday.in/technology/news/story/deepfake-crackdown-india-mandates-faster-removal-labelling-and-platform-accountability-2565372-2024-07-31",
-      "cat": "POLICY",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "IndiaAI Mission's Safe & Trusted AI pillar advances responsible AI, 13 projects approved to tackle deepfakes and bias",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2039109",
-      "cat": "POLICY",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "Smallest.ai Bags $13 Mn To Build Next-Gen Voice AI Models",
-      "url": "https://inc42.com/buzz/smallest-ai-bags-13-mn-to-build-next-gen-voice-ai-models/",
-      "cat": "FUNDING",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "Time-and-materials outsourcing model losing relevance in AI era: 8090 CEO Chamath Palihapitiya",
-      "url": "https://www.livemint.com/technology/timeandmaterials-outsourcing-model-losing-relevance-in-ai-era-8090-ceo-chamath-palihapitiya-11785377778856.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "India's safe and trusted AI pillar powers responsible innovation while shaping global AI governance, says IT minister",
-      "url": "https://tele.net.in/india-s-safe-and-trusted-ai-pillar-powers-responsible-innovation-while-shaping-global-ai-governance-says-it-minister/",
-      "cat": "POLICY",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "Swiggy\u2019s Q1 Snapshot, Sarvam Widens AI Horizon & More",
-      "url": "https://inc42.com/buzz/swiggys-q1-snapshot-sarvam-widens-ai-horizon-more/",
-      "cat": "RESEARCH",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "Uplers introduces AI-powered matching to help startups hire faster",
-      "url": "https://yourstory.com/2026/07/uplers-introduces-ai-powered-matching-help-startups-hire-faster",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "Parliament question asked if AI platforms get safe harbor. Here\u2019s what MeitY said & what we think",
-      "url": "https://www.medianama.com/2026/07/223-meity-ai-platforms-safe-harbor/",
-      "cat": "POLICY",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "AI customer service enters next phase as businesses focus on optimisation rather than adoption: Report",
-      "url": "https://www.livemint.com/technology/ai-customer-service-enters-next-phase-as-businesses-focus-on-optimisation-rather-than-adoption-report-11785468541329.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "AI to strengthen enterprise software firms, not replace them: Goldman Sachs",
-      "url": "https://www.livemint.com/technology/ai-to-strengthen-enterprise-software-firms-not-replace-them-goldman-sachs-11785392695870.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "India needs more AI champions to take technology to masses: Paytm CEO Vijay Shekhar Sharma",
-      "url": "https://www.livemint.com/technology/india-needs-more-ai-champions-to-take-technology-to-masses-paytm-ceo-vijay-shekhar-sharma-11785381751228.html",
-      "cat": "OTHER",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "BharatGen Research Papers | AI Research for Indian Languages",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWRheSUzqCih0FRLcAGfBZk8FYXJz3sPqWbObCOl3bsKMP1Sbt5duQHVtGs4gdLrYp8nUGj-4JGqLrcv1W9qL1vCOo2uuh0XzOHWEDwi53fKhAzru8ya3KN1QWpJJrXNE=",
-      "cat": "RESEARCH",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "Groww Cofounders To Launch \u20b9500 Cr Fund To Back Consumer, Deeptech Startups",
-      "url": "https://inc42.com/buzz/groww-cofounders-to-launch-%e2%82%b9500-cr-fund-to-back-consumer-deeptech-startups/",
-      "cat": "FUNDING",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "Anthropic says its AI models hacked 3 organizations during testing",
-      "url": "https://www.livemint.com/technology/anthropic-says-its-ai-models-hacked-3-organizations-during-testing-11785478413346.html",
-      "cat": "RESEARCH",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "Anthropics AI hacked three companies during tests, highlighting growing security risks",
-      "url": "https://www.livemint.com/technology/anthropics-ai-hacked-three-companies-during-tests-highlighting-growing-security-risks-11785477849046.html",
-      "cat": "RESEARCH",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "Google brings Gemini to Google Pay: What is Ask Google Pay and how does it work?",
-      "url": "https://www.livemint.com/technology/tech-news/google-brings-gemini-to-google-pay-what-is-ask-google-pay-and-how-does-it-work-11785381967267.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
-      "title": "Publications - Kotak IISc AI\u2013ML Centre - Indian Institute of Science",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKVAIQVBU4i_JvxdOBdmjl5sxAFK70QB_mOCrp-g-14rdAz2Wp7t1J31C6j6xzSODl5roxnpIbE0WcBYN3oVPa0Hu8tUPlq7ghpl5wJU9qPpMrDSo6WSxdKAJzR8vVXEz5yOOmZg4BGw==",
-      "cat": "RESEARCH",
-      "date": "2026-07-31T21:40:43.475708"
-    },
-    {
       "title": "Sarvam AI becomes unicorn after raising $234M as India doubles down on home-grown AI",
       "url": "https://www.livemint.com/companies/start-ups/sarvam-ai-becomes-unicorn-after-raising-234m-as-india-doubles-down-on-home-grown-ai-11718401915752.html",
       "cat": "FUNDING",
@@ -911,6 +803,54 @@
       "url": "https://www.medianama.com/2026/08/223-chandigarh-court-meta-sukhpal-khaira-ai-video/",
       "cat": "POLICY",
       "date": "2026-08-14T20:58:06.514553"
+    },
+    {
+      "title": "MeitY Unveils India AI Governance Guidelines to Promote Safe and Responsible AI Adoption",
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2043630",
+      "cat": "POLICY",
+      "date": "2026-08-15T20:49:43.856489"
+    },
+    {
+      "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In August",
+      "url": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-august/",
+      "cat": "FUNDING",
+      "date": "2026-08-15T20:49:43.856489"
+    },
+    {
+      "title": "How Infrastructure Modernization Powers India's AI Growth Trajectory",
+      "url": "https://nasscom.in/blogs/how-infrastructure-modernization-powers-indias-ai-growth-trajectory",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-15T20:49:43.856489"
+    },
+    {
+      "title": "PM Modi Bets On Tech To Empower Youth With AI Skilling, Online Coaching",
+      "url": "https://inc42.com/buzz/pm-modi-bets-on-tech-to-empower-youth-with-ai-skilling-online-coaching/",
+      "cat": "POLICY",
+      "date": "2026-08-15T20:49:43.856489"
+    },
+    {
+      "title": "Global innovation hub to AI skill training for 1 Cr youth: PM Modi outlines nation\u2019s tech ambitions",
+      "url": "https://yourstory.com/2026/08/global-innovation-hub-to-ai-skill-training-for-1-cr-youth-pm-modi-outlines-nations-tech-ambitions",
+      "cat": "POLICY",
+      "date": "2026-08-15T20:49:43.856489"
+    },
+    {
+      "title": "WhatsApp is now using AI to catch scammers before they can trick you",
+      "url": "https://www.livemint.com/technology/tech-news/whatsapp-is-now-using-ai-to-catch-scammers-before-they-can-trick-you-11786668589744.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-15T20:49:43.856489"
+    },
+    {
+      "title": "Peak XV Leads $45 Mn Bet On US-Based AI Code Testing Startup Blacksmith",
+      "url": "https://inc42.com/buzz/peak-xv-leads-45-mn-bet-on-us-based-ai-code-testing-startup-blacksmith/",
+      "cat": "FUNDING",
+      "date": "2026-08-15T20:49:43.856489"
+    },
+    {
+      "title": "Matrimony.com pivots to a commission-based model in wedding services business",
+      "url": "https://www.medianama.com/2026/08/223-matrimony-com-commission-wedding-services/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-15T20:49:43.856489"
     }
   ]
 }
