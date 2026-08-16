@@ -1,48 +1,6 @@
 {
   "stories": [
     {
-      "title": "Sarvam AI becomes unicorn after raising $234M as India doubles down on home-grown AI",
-      "url": "https://www.livemint.com/companies/start-ups/sarvam-ai-becomes-unicorn-after-raising-234m-as-india-doubles-down-on-home-grown-ai-11718401915752.html",
-      "cat": "FUNDING",
-      "date": "2026-08-01T21:27:03.712385"
-    },
-    {
-      "title": "Sarvam raises $300M Series B",
-      "url": "https://www.sarvam.ai/press/sarvam-raises-300m-series-b",
-      "cat": "FUNDING",
-      "date": "2026-08-01T21:27:03.712385"
-    },
-    {
-      "title": "Finance Ministry flags AI, supply-chain risks, calls for faster policy implementation",
-      "url": "https://www.thehindubusinessline.com/economy/finance-ministry-flags-ai-supply-chain-risks-calls-for-faster-policy-implementation/article68477584.ece",
-      "cat": "POLICY",
-      "date": "2026-08-01T21:27:03.712385"
-    },
-    {
-      "title": "AI now bringing us customers we would never have won otherwise: M&M's Anish Shah",
-      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/ai-now-bringing-us-customers-we-would-never-have-won-otherwise-mms-anish-shah/articleshow/102318377.cms",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-01T21:27:03.712385"
-    },
-    {
-      "title": "Auto industry bets on AI and data to navigate rapid tech disruption: KPMG",
-      "url": "https://auto.economictimes.indiatimes.com/news/industry/auto-industry-bets-on-ai-and-data-to-navigate-rapid-tech-disruption-kpmg/102313965",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-01T21:27:03.712385"
-    },
-    {
-      "title": "Routine jobs across banking, retail, healthcare and education face highest AI disruption: Goldman Sachs",
-      "url": "https://www.business-standard.com/industry/news/routine-jobs-across-banking-retail-healthcare-and-education-face-highest-ai-disruption-goldman-sachs-126073000172_1.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-01T21:27:03.712385"
-    },
-    {
-      "title": "AI, ADAS and cybersecurity: The new technology stack shaping mobility",
-      "url": "https://auto.economictimes.indiatimes.com/news/automotive-technology/ai-adas-and-cybersecurity-the-new-technology-stack-shaping-mobility/102311950",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-01T21:27:03.712385"
-    },
-    {
       "title": "Government of India Promotes AI and Digital Tech Adoption to Boost MSME Productivity",
       "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2037783",
       "cat": "POLICY",
@@ -851,6 +809,24 @@
       "url": "https://www.medianama.com/2026/08/223-matrimony-com-commission-wedding-services/",
       "cat": "ENTERPRISE",
       "date": "2026-08-15T20:49:43.856489"
+    },
+    {
+      "title": "India rolls out governance guidelines to drive safe AI",
+      "url": "https://coingeek.com/india-rolls-out-governance-guidelines-to-drive-safe-ai/",
+      "cat": "POLICY",
+      "date": "2026-08-16T20:49:29.844700"
+    },
+    {
+      "title": "PM Modi ties India's AI ambition to skills, chips, compute and power",
+      "url": "https://www.dqindia.com/pm-modi-ties-indias-ai-ambition-to-skills-chips-compute-and-power/",
+      "cat": "POLICY",
+      "date": "2026-08-16T20:49:29.844700"
+    },
+    {
+      "title": "PM Modi\u2019s AI bet: Train 1 crore youth in one year",
+      "url": "https://yourstory.com/2026/08/pm-modis-ai-bet-train-1-crore-youth-in-one-year",
+      "cat": "POLICY",
+      "date": "2026-08-16T20:49:29.844700"
     }
   ]
 }

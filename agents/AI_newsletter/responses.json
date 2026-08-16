@@ -289,6 +289,18 @@
         "Considering the government-funded nature of the India AI Mission, how do the AI Governance Guidelines ensure that the 'safe, trusted, and responsible adoption of Artificial Intelligence' doesn't inadvertently create a 'walled garden' that stifles the very innovation needed to compete globally, potentially proving the government's approach to ecosystem building flawed?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-16T20:49:29.845859",
+      "headline": "India unveils AI governance guidelines and allocates $1.25 billion for AI mission.",
+      "source_url": "https://coingeek.com/india-rolls-out-governance-guidelines-to-drive-safe-ai/",
+      "questions": [
+        "Given Peak XV Partners' thesis that compute is fragmenting rapidly, how does the $1.25 billion allocated for the IndiaAI Mission specifically address the emerging fragmentation and ensure India doesn't get locked into legacy compute architectures that will be obsolete in 18-24 months?",
+        "The IndiaAI Mission has a $1.25 billion allocation. What specific, measurable milestones will be achieved with this initial tranche of funding that would de-risk the subsequent phases, and what are the defined failure points if those milestones aren't met within 18 months?",
+        "If the IndiaAI Governance Guidelines are primarily focused on responsible and safe development, how does this framework actively foster the aggressive innovation and rapid iteration needed to compete in the global AI compute market, as suggested by Peak XV's thesis on fragmentation?",
+        "With $1.25 billion being allocated, what is the projected breakdown of this funding between capital expenditures for compute infrastructure versus grants or investments into AI startups, and how is the government ensuring this capital isn't deployed in a way that creates artificial competition or distorts market valuations for private players?"
+      ],
+      "answers": []
     }
   ]
 }
