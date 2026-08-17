@@ -301,6 +301,18 @@
         "With $1.25 billion being allocated, what is the projected breakdown of this funding between capital expenditures for compute infrastructure versus grants or investments into AI startups, and how is the government ensuring this capital isn't deployed in a way that creates artificial competition or distorts market valuations for private players?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-17T20:55:57.466475",
+      "headline": "Lenskart is piloting AI-enabled self-eye tests in select stores.",
+      "source_url": "https://www.medianama.com/2026/08/223-lenskart-ai-eye-testing-privacy-concerns/",
+      "questions": [
+        "Given Lenskart's stated goal of using AI-enabled self-eye tests, what specific regulatory hurdles or data privacy concerns in India could prevent widespread adoption or even halt the pilot program within the next 18 months?",
+        "Alpha Wave Global led a $200 million investment in July 2022, and Abu Dhabi Investment Authority invested $500 million in March 2023; how has the company's operational strategy changed post-these large capital infusions to ensure these significant sums are being deployed effectively towards achieving profitability, not just scale?",
+        "Lenskart operates over 2,000 physical stores and a significant online presence; how does the unit economics of an AI-enabled self-eye test, which presumably reduces reliance on optometrists, compare to the existing in-store consultation model, and what is the projected payback period for the technology investment?",
+        "With a valuation reaching approximately $5 billion in 2024 and a reported $6.1 billion in June 2025, what specific, defensible competitive advantages does Lenskart possess that would prevent a well-funded competitor, perhaps backed by a tech giant, from replicating the AI-enabled self-eye test technology and its integration into a retail network within 12-18 months?"
+      ],
+      "answers": []
     }
   ]
 }

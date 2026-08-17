@@ -1,42 +1,6 @@
 {
   "stories": [
     {
-      "title": "Government of India Promotes AI and Digital Tech Adoption to Boost MSME Productivity",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2037783",
-      "cat": "POLICY",
-      "date": "2026-08-02T21:26:33.646756"
-    },
-    {
-      "title": "Sarvam\u2019s AI Arsenal",
-      "url": "https://inc42.com/features/sarvams-ai-arsenal/",
-      "cat": "RESEARCH",
-      "date": "2026-08-02T21:26:33.646756"
-    },
-    {
-      "title": "Applications open for VibeCode30: Searching for India\u2019s most promising AI-native builders",
-      "url": "https://yourstory.com/2026/07/applications-open-for-vibecode30-searching-for-indias-most-promising-ai-native-builders",
-      "cat": "RESEARCH",
-      "date": "2026-08-02T21:26:33.646756"
-    },
-    {
-      "title": "Startup eyes AI search boom; VC slowdown tests startups",
-      "url": "https://yourstory.com/2026/08/startup-eyes-ai-search-boom-vc-slowdown-tests-startups",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-02T21:26:33.646756"
-    },
-    {
-      "title": "AI infrastructure expansion broadens beyond hyperscalers as enterprise, sovereign demand grows: Goldman Sachs",
-      "url": "https://www.livemint.com/technology/ai-infrastructure-expansion-broadens-beyond-hyperscalers-as-enterprise-sovereign-demand-grows-goldman-sachs-11785575782947.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-02T21:26:33.646756"
-    },
-    {
-      "title": "AI, semiconductors and quantum computing will shape future of this century: Fadnavis",
-      "url": "https://www.livemint.com/technology/ai-semiconductors-and-quantum-computing-will-shape-future-of-this-century-fadnavis-11785666169202.html",
-      "cat": "POLICY",
-      "date": "2026-08-02T21:26:33.646756"
-    },
-    {
       "title": "Google picks 20 AI startups for 2026 Play Accelerator India cohort",
       "url": "https://yourstory.com/2026/08/google-picks-20-ai-startups-for-2026-play-accelerator-india-cohort",
       "cat": "FUNDING",
@@ -827,6 +791,30 @@
       "url": "https://yourstory.com/2026/08/pm-modis-ai-bet-train-1-crore-youth-in-one-year",
       "cat": "POLICY",
       "date": "2026-08-16T20:49:29.844700"
+    },
+    {
+      "title": "Lenskart rolls out AI self-eye testing, raising privacy concerns",
+      "url": "https://www.medianama.com/2026/08/223-lenskart-ai-eye-testing-privacy-concerns/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-17T20:55:57.465233"
+    },
+    {
+      "title": "Indian deeptech investments reach $11.4B: Report",
+      "url": "https://yourstory.com/2026/08/indian-deeptech-investments-reach-114-billion-report",
+      "cat": "FUNDING",
+      "date": "2026-08-17T20:55:57.465233"
+    },
+    {
+      "title": "Groq closes $350M Series A at $3.5bn evaluation and Nvidia joins the round",
+      "url": "https://thenextweb.com/news/groq-3-5bn-valuation-funding-round",
+      "cat": "FUNDING",
+      "date": "2026-08-17T20:55:57.465233"
+    },
+    {
+      "title": "QpiAI opens \u2018Asia\u2019s largest\u2019 quantum chip foundry, targets 10,000-qubit processors",
+      "url": "https://yourstory.com/2026/08/qpiai-asia-largest-quantum-chip-foundry-targets-10000-qubit-processors",
+      "cat": "RESEARCH",
+      "date": "2026-08-17T20:55:57.465233"
     }
   ]
 }
