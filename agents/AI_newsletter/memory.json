@@ -1,60 +1,6 @@
 {
   "stories": [
     {
-      "title": "Google picks 20 AI startups for 2026 Play Accelerator India cohort",
-      "url": "https://yourstory.com/2026/08/google-picks-20-ai-startups-for-2026-play-accelerator-india-cohort",
-      "cat": "FUNDING",
-      "date": "2026-08-03T21:41:51.311191"
-    },
-    {
-      "title": "Anthropic Brings Claude Inference To India As Sovereign AI Race Heats Up",
-      "url": "https://inc42.com/buzz/anthropic-brings-claude-inference-to-india-as-sovereign-ai-race-heats-up/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-03T21:41:51.311191"
-    },
-    {
-      "title": "AI shrinks vulnerability exploitation window to one day, raises cyber risks: J.P. Morgan",
-      "url": "https://www.livemint.com/technology/ai-shrinks-vulnerability-exploitation-window-to-one-day-raises-cyber-risks-j-p-morgan-11785738239894.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-03T21:41:51.311191"
-    },
-    {
-      "title": "How FireAI Is Helping Turn Enterprise Turn Data Into Decisions",
-      "url": "https://inc42.com/startups/how-fireai-is-helping-turn-enterprise-turn-data-into-decisions/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-03T21:41:51.311191"
-    },
-    {
-      "title": "Outcome-first AI: redesigning enterprise service delivery at scale",
-      "url": "https://yourstory.com/2026/07/outcome-first-ai-redesigning-enterprise-service-delivery-at-scale",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-03T21:41:51.311191"
-    },
-    {
-      "title": "The limits of content moderation and the role of AI #NAMA",
-      "url": "https://www.medianama.com/2026/08/223-limits-of-content-moderation-and-ai/",
-      "cat": "RESEARCH",
-      "date": "2026-08-03T21:41:51.311191"
-    },
-    {
-      "title": "India's AI Governance Guidelines: A Pragmatic Framework Rooted in Collaboration",
-      "url": "https://www.nasscom.in/perspectives/indias-ai-governance-guidelines-pragmatic-framework-rooted-collaboration",
-      "cat": "POLICY",
-      "date": "2026-08-03T21:41:51.311191"
-    },
-    {
-      "title": "ideaForge secures Rs 151 Cr from govt's RDI scheme to develop its autonomous drone YETI",
-      "url": "https://yourstory.com/2026/08/ideaforge-secures-rs-151-cr-govt-rdi-scheme-to-develop-autonomous-drone-yeti",
-      "cat": "OTHER",
-      "date": "2026-08-03T21:41:51.311191"
-    },
-    {
-      "title": "Why Google pulled its new AI feature from Google Earth",
-      "url": "https://www.medianama.com/2026/08/223-google-pulled-ai-google-earth/",
-      "cat": "RESEARCH",
-      "date": "2026-08-03T21:41:51.311191"
-    },
-    {
       "title": "AI-Native CRM Startup Superleap Bags \u20b936 Cr Led By Peak XV\u2019s Surge",
       "url": "https://inc42.com/buzz/ai-native-crm-startup-superleap-bags-%e2%82%b936-cr-led-by-peak-xvs-surge/",
       "cat": "FUNDING",
@@ -815,6 +761,96 @@
       "url": "https://yourstory.com/2026/08/qpiai-asia-largest-quantum-chip-foundry-targets-10000-qubit-processors",
       "cat": "RESEARCH",
       "date": "2026-08-17T20:55:57.465233"
+    },
+    {
+      "title": "Razorpay Launches AI Foundation Model Vulcan To Expedite Digital Payments",
+      "url": "https://inc42.com/buzz/razorpay-launches-ai-foundation-model-vulcan-to-expedite-digital-payments/",
+      "cat": "RESEARCH",
+      "date": "2026-08-18T20:52:08.099121"
+    },
+    {
+      "title": "Rezolv Bags $12.5 Mn To Expand AI-Powered Lending Suite",
+      "url": "https://inc42.com/buzz/rezolv-bags-12-5-mn-to-expand-ai-powered-lending-suite/",
+      "cat": "FUNDING",
+      "date": "2026-08-18T20:52:08.099121"
+    },
+    {
+      "title": "Lend-tech firm Rezolv raises $12.5M funding led by Norwest",
+      "url": "https://yourstory.com/2026/08/lend-tech-firm-rezolv-raises-12-million-funding-round-led-by-norwest",
+      "cat": "FUNDING",
+      "date": "2026-08-18T20:52:08.099121"
+    },
+    {
+      "title": "Peak XV Partners, Together Fund Join Voice AI Unicorn Wispr Flow\u2019s Cap Table",
+      "url": "https://inc42.com/buzz/peak-xv-partners-together-fund-join-voice-ai-unicorn-wispr-flows-cap-table/",
+      "cat": "FUNDING",
+      "date": "2026-08-18T20:52:08.099121"
+    },
+    {
+      "title": "AI infrastructure, not algorithms, emerging as key AI growth constraint: Nvidias Jensen Huang",
+      "url": "https://www.livemint.com/technology/ai-infrastructure-not-algorithms-emerging-as-key-ai-growth-constraint-nvidias-jensen-huang-11787028020862.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-18T20:52:08.099121"
+    },
+    {
+      "title": "Ecommerce Giants Woo Sellers With AI, Jar\u2019s Troubles & More",
+      "url": "https://inc42.com/buzz/ecommerce-giants-woo-sellers-with-ai-jars-troubles-more/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-18T20:52:08.099121"
+    },
+    {
+      "title": "Amazon, Flipkart & Meesho\u2019s AI Focus Shifts To Seller-Side Stacks",
+      "url": "https://inc42.com/features/amazon-flipkart-meeshos-ai-focus-shifts-to-seller-side-stacks/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-18T20:52:08.099121"
+    },
+    {
+      "title": "Why Rubrik believes cyber resilience, not prevention, is the next frontier",
+      "url": "https://yourstory.com/2026/08/why-rubrik-believes-cyber-resilience-not-prevention-is-the-next-frontier",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-18T20:52:08.099121"
+    },
+    {
+      "title": "AI is helping biodiversity research. Scientists can\u2019t see behind the algorithms",
+      "url": "https://theprint.in/science/ai-is-helping-biodiversity-research-scientists-cant-see-behind-the-algorithms/3017249/",
+      "cat": "RESEARCH",
+      "date": "2026-08-18T20:52:08.099121"
+    },
+    {
+      "title": "ChatGPT to get a massive upgrade in the next 6 months, says Sam Altman \u2014 \u2018Could watch you all the time\u2019",
+      "url": "https://www.livemint.com/technology/tech-news/chatgpt-to-get-a-massive-upgrade-in-the-next-6-months-says-sam-altman-could-watch-you-all-the-time-11787068716398.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-18T20:52:08.099121"
+    },
+    {
+      "title": "\u2018Godfather of AI\u2019 warns of mass unemployment: Tech firms are \u2018betting on AI replacing a lot of workers\u2019",
+      "url": "https://www.livemint.com/technology/tech-news/godfather-of-ai-geoffrey-hinton-warns-of-mass-unemployment-tech-firms-are-betting-on-ai-replacing-a-lot-of-workers-11786941426915.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-18T20:52:08.099121"
+    },
+    {
+      "title": "Spotify will label AI artists; India\u2019s rules demand labels on the music too",
+      "url": "https://www.medianama.com/2026/08/223-spotify-ai-persona-label-india/",
+      "cat": "POLICY",
+      "date": "2026-08-18T20:52:08.099121"
+    },
+    {
+      "title": "Claude\u2019s Text Watermarking Will Be Misinterpreted",
+      "url": "https://www.medianama.com/2026/08/223-claudes-text-watermarking-misinterpreted/",
+      "cat": "RESEARCH",
+      "date": "2026-08-18T20:52:08.099121"
+    },
+    {
+      "title": "OpenAI\u2019s ChatGPT for Teenagers is here: Check safety features and how it works",
+      "url": "https://www.livemint.com/technology/openais-chatgpt-for-teenagers-is-here-check-safety-features-and-how-it-works-11787058377395.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-18T20:52:08.099121"
+    },
+    {
+      "title": "EliseAI is in talks to raise $300mn at a $3.7bn valuation",
+      "url": "https://thenextweb.com/news/eliseai-300m-raise-3-7bn-valuation-a16z-bessemer",
+      "cat": "FUNDING",
+      "date": "2026-08-18T20:52:08.099121"
     }
   ]
 }

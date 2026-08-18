@@ -313,6 +313,18 @@
         "With a valuation reaching approximately $5 billion in 2024 and a reported $6.1 billion in June 2025, what specific, defensible competitive advantages does Lenskart possess that would prevent a well-funded competitor, perhaps backed by a tech giant, from replicating the AI-enabled self-eye test technology and its integration into a retail network within 12-18 months?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-18T20:52:08.100341",
+      "headline": "Razorpay launched Vulcan, an AI foundation model to enhance digital payments.",
+      "source_url": "https://inc42.com/buzz/razorpay-launches-ai-foundation-model-vulcan-to-expedite-digital-payments/",
+      "questions": [
+        "Razorpay's Series F was $375 million in December 2021; Vulcan is launching now. Given the ~2.5 year gap, what specific internal challenges or pivots delayed Vulcan's rollout, and how does that impact confidence in its current execution timeline?",
+        "Vulcan is designed to enhance digital payment processing. What specific, measurable improvements in transaction speed and accuracy has Vulcan already demonstrated in beta testing, and what are the key metrics you'd need to hit for this to be considered a success beyond incremental gains?",
+        "Many companies are building AI foundation models. What is Razorpay's unique moat with Vulcan that prevents a well-funded competitor, like Stripe or Adyen, from developing a comparable or superior AI model within 18 months?",
+        "If the core value proposition of Vulcan is enhancing existing payment processing, how does this move Razorpay beyond its current market and defend against a disintermediation threat from a new, AI-native payment infrastructure player?"
+      ],
+      "answers": []
     }
   ]
 }
