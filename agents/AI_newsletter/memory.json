@@ -1,120 +1,6 @@
 {
   "stories": [
     {
-      "title": "InRisk Labs Raises $27 Mn To Scale AI-Led Reinsurance Platform EarthRe",
-      "url": "https://inc42.com/buzz/inrisk-labs-raises-27-mn-to-scale-ai-led-reinsurance-platform-earthre/",
-      "cat": "FUNDING",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "Peptris is using AI to find drug candidates to shorten the time it takes for laboratory validation",
-      "url": "https://yourstory.com/2026/08/peptris-ai-drug-discovery",
-      "cat": "RESEARCH",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "India targets deepfakes and AI-generated content: key changes under MeitY's 2026 amendments to the IT Rules",
-      "url": "https://www.freshfields.com/en-gb/Insights/2026/02/india-targets-deepfakes-and-ai-generated-content--key-changes-under-meitys-2026-amendments-to-the-it-rules/",
-      "cat": "POLICY",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "Pinegap Nets $8 Mn From Stellaris & Others To Build An Agentic Platform For Market Analysts",
-      "url": "https://inc42.com/buzz/pinegap-nets-8-mn-from-stellaris-others-to-build-an-agentic-platform-for-market-analysts/",
-      "cat": "FUNDING",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "AI Concierge Startup Hulp Raises $2.6 Mn From Sparrow Capital, BITKRAFT",
-      "url": "https://inc42.com/buzz/ai-concierge-startup-hulp-raises-2-6-mn-from-sparrow-capital-bitkraft/",
-      "cat": "FUNDING",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "Lemnisca builds software to predict how fermentation behaves at factory scale",
-      "url": "https://yourstory.com/2026/08/lemnisca-fermentation-software",
-      "cat": "RESEARCH",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "A startup that slashes AI agent bills just raised $35M. Anthropic is a backer.",
-      "url": "https://thenextweb.com/news/sapiom-35m-series-a-ai-agent-cost-routing",
-      "cat": "FUNDING",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "Anthropic built an inspection layer that lets enterprises block sensitive data before it reaches Claude",
-      "url": "https://thenextweb.com/news/anthropic-inference-hooks-dlp-claude-enterprise",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "Tamil Nadu Budget: TVK-led government announces India's first AI and innovation city 'Arivagam'",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-budget-tvk-led-government-announces-indias-first-ai-and-innovation-city-arivagam/article68478473.ece",
-      "cat": "POLICY",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "The Devil In The Agent",
-      "url": "https://inc42.com/features/the-devil-in-the-agent/",
-      "cat": "RESEARCH",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "Insuretech startup InRisk Labs raises $27M in Series A",
-      "url": "https://yourstory.com/2026/08/insurtech-startup-inrisk-labs-raises-27-million-in-series-a",
-      "cat": "FUNDING",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "What the Perplexity vs Amazon ruling means for AI agents acting on users\u2019 behalf",
-      "url": "https://www.medianama.com/2026/08/223-perplexity-vs-amazon-ai-agents-users/",
-      "cat": "RESEARCH",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "OpenAI, Anthropic AI agents targeted real people and organisations during cyber tests",
-      "url": "https://www.livemint.com/technology/tech-news/openai-anthropic-ai-agents-targeted-real-people-and-organisations-during-cyber-tests-11785917779121.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "OpenAI, Anthropic AI agents implicated in new security breaches",
-      "url": "https://www.livemint.com/technology/openai-anthropic-ai-agents-implicated-in-new-security-breaches-11785890464047.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "India's AI Path Spans Adoption, Adaptation and Advancement: World Development Report 2026",
-      "url": "https://thepolicyedge.com/indias-ai-path-spans-adoption-adaptation-and-advancement-world-development-report-2026/",
-      "cat": "POLICY",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "Why Saregama is using GenAI to make music videos of vintage songs",
-      "url": "https://www.medianama.com/2026/08/223-saregama-genai-music-videos-vintage-songs/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "AI emerges as decision engine for finance, with governance and data quality key to unlocking value: KPMG",
-      "url": "https://www.livemint.com/technology/ai-emerges-as-decision-engine-for-finance-with-governance-and-data-quality-key-to-unlocking-value-kpmg-11785928586945.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "Pre-dawn emails and empty desks: inside the sudden layoffs at Visa India",
-      "url": "https://www.livemint.com/technology/tech-news/predawn-emails-and-empty-desks-inside-the-sudden-layoffs-at-visa-india-11785751686088.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
-      "title": "AI Literacy as the New Frontline of Cybersecurity",
-      "url": "https://observer-research-org/ai-literacy-as-the-new-frontline-of-cybersecurity/",
-      "cat": "POLICY",
-      "date": "2026-08-05T21:48:51.530831"
-    },
-    {
       "title": "Consint.AI Bags \u20b922 Cr To Expand Globally, Build AI Model For Risk And Fraud Detection",
       "url": "https://inc42.com/buzz/consint-ai-bags-%e2%82%b922-cr-to-expand-globally-build-ai-model-for-risk-and-fraud-detection/",
       "cat": "FUNDING",
@@ -899,6 +785,60 @@
       "url": "https://thenextweb.com/news/flock-os-investigate-ai-police-search",
       "cat": "ENTERPRISE",
       "date": "2026-08-19T20:56:43.551251"
+    },
+    {
+      "title": "Indias AI strength lies in applications, data centres, digital infrastructure: Vaishnaw to Morgan Stanleys Ridham Desai",
+      "url": "https://www.livemint.com/technology/indias-ai-strength-lies-in-applications-data-centres-digital-infrastructure-vaishnaw-to-morgan-stanleys-ridham-desai-11787206241187.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-20T20:58:34.743714"
+    },
+    {
+      "title": "Google rolls out AI-powered learning tools for students to prep for competitive exams",
+      "url": "https://yourstory.com/2026/08/google-ai-powered-learning-tools-students-test-prep",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-20T20:58:34.743714"
+    },
+    {
+      "title": "Report: Experts claim AI was used to draft questions in NET exams",
+      "url": "https://www.medianama.com/2026/08/223-ai-questions-net-exams/",
+      "cat": "POLICY",
+      "date": "2026-08-20T20:58:34.743714"
+    },
+    {
+      "title": "KshatraLabs is building a drone that catches other drones",
+      "url": "https://yourstory.com/2026/08/kshatralabs-drone-interceptor",
+      "cat": "OTHER",
+      "date": "2026-08-20T20:58:34.743714"
+    },
+    {
+      "title": "ASTRA Drones is building an interceptor to catch other drones in the air",
+      "url": "https://yourstory.com/2026/08/astra-drones-drone-interceptors",
+      "cat": "OTHER",
+      "date": "2026-08-20T20:58:34.743714"
+    },
+    {
+      "title": "Next phase of enterprise AI not about deploying models, but managing their evolution: Report",
+      "url": "https://www.livemint.com/technology/next-phase-of-enterprise-ai-not-about-deploying-models-but-managing-their-evolution-report-11787212375363.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-20T20:58:34.743714"
+    },
+    {
+      "title": "Google launches NEET, JEE, GRE prep tools; Sundar Pichai announces \u2018free AI subscriptions for college students\u2019",
+      "url": "https://www.livemint.com/technology/tech-news/google-launches-neet-jee-gre-prep-tools-sundar-pichai-announces-free-ai-subscriptions-for-college-students-gemini-11787196130468.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-20T20:58:34.743714"
+    },
+    {
+      "title": "Fundamentals first: Arsh Goyal warns against vibe coding without security basics",
+      "url": "https://yourstory.com/2026/08/fundamentals-first-arsh-goyal-warns-against-vibe-coding-without-security-basics-",
+      "cat": "RESEARCH",
+      "date": "2026-08-20T20:58:34.743714"
+    },
+    {
+      "title": "'Not every student has...' OpenAI APAC chief Kiran Mani says ChatGPT for Teens launch 'felt deeply personal'",
+      "url": "https://www.livemint.com/technology/not-every-student-has-openai-apac-chief-kiran-mani-says-chatgpt-for-teens-launch-felt-deeply-personal-11787128598921.html",
+      "cat": "OTHER",
+      "date": "2026-08-20T20:58:34.743714"
     }
   ]
 }
