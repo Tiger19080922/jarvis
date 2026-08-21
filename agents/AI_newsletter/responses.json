@@ -349,6 +349,18 @@
         "If the primary advantage is the application layer, why is significant government focus being placed on data centers and digital infrastructure, which seem more like foundational, commoditized elements, rather than direct enablers of unique AI application development?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-21T20:51:43.047713",
+      "headline": "PhysicsWallah will launch personal AI tutoring services next quarter.",
+      "source_url": "https://www.medianama.com/2026/08/223-physicswallah-personal-ai-tutoring-services/",
+      "questions": [
+        "Given PhysicsWallah's stated hallucination rate of less than 1% for its new AI tutor, how do you specifically plan to prevent catastrophic failures in a one-on-one teaching scenario where even a single factual error could significantly derail a student's learning, and what is your fallback strategy if that rate is exceeded?",
+        "PhysicsWallah has raised $310 million from a strong syndicate including WestBridge Capital, GSV Ventures, and Hornbill Capital; what is the specific competitive moat that prevents a well-funded EdTech player, perhaps one with existing AI capabilities, from replicating your AI tutor offering within 12-18 months?",
+        "Nexus Venture Partners' thesis highlights 'true autonomy in the enterprise'; how does PhysicsWallah's new AI tutoring service, which is fundamentally a B2C offering for students, align with this specific enterprise-focused investment thesis, and what are the enterprise applications you envision?",
+        "With a current valuation of $3.7 billion following the February 2025 secondary round, what are the specific unit economics of this AI tutoring service, and how do you ensure its profitability at scale, beyond the subsidized growth enabled by this latest funding round?"
+      ],
+      "answers": []
     }
   ]
 }

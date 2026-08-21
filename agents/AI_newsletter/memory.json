@@ -1,48 +1,6 @@
 {
   "stories": [
     {
-      "title": "Consint.AI Bags \u20b922 Cr To Expand Globally, Build AI Model For Risk And Fraud Detection",
-      "url": "https://inc42.com/buzz/consint-ai-bags-%e2%82%b922-cr-to-expand-globally-build-ai-model-for-risk-and-fraud-detection/",
-      "cat": "FUNDING",
-      "date": "2026-08-07T00:59:08.013443"
-    },
-    {
-      "title": "Karnataka eyes Anthropic tie-up to expand AI across public service",
-      "url": "https://yourstory.com/2026/08/karnataka-anthropic-ai-governance-skilling-ai-university",
-      "cat": "POLICY",
-      "date": "2026-08-07T00:59:08.013443"
-    },
-    {
-      "title": "AI4Bharat at IIT Madras and Josh Talks AI Launch India's First Independent AI Evaluation Platform",
-      "url": "https://www.youtube.com/watch?v=o_fE0lS0g5Q",
-      "cat": "RESEARCH",
-      "date": "2026-08-07T00:59:08.013443"
-    },
-    {
-      "title": "IITM-incubated deeptech startup Solinas Integrity raises $5.5M",
-      "url": "https://yourstory.com/2026/08/iitm-incubated-deeptech-startup-solinas-integrity-raises-series-a1",
-      "cat": "FUNDING",
-      "date": "2026-08-07T00:59:08.013443"
-    },
-    {
-      "title": "Govt proposes cutting unlawful AI content takedown deadline from 36 hours to just 3 hours under draft rules",
-      "url": "https://www.indiatoday.in/technology/news/story/govt-proposes-cutting-unlawful-ai-content-takedown-deadline-from-36-hours-to-just-3-hours-under-draft-rules-2573385-2026-08-06",
-      "cat": "POLICY",
-      "date": "2026-08-07T00:59:08.013443"
-    },
-    {
-      "title": "Solinas Integrity Snags $5.5 Mn To Scale Robotics Solutions Across Global Markets",
-      "url": "https://inc42.com/buzz/solinas-integrity-snags-5-5-mn-to-scale-robotics-solutions-across-global-markets/",
-      "cat": "FUNDING",
-      "date": "2026-08-07T00:59:08.013443"
-    },
-    {
-      "title": "Use of AI must remain human-centric: Minister Priyank Kharge",
-      "url": "https://www.newindianexpress.com/nation/2026/Aug/06/use-of-ai-must-remain-human-centric-minister-priyank-kharge-2484784.html",
-      "cat": "POLICY",
-      "date": "2026-08-07T00:59:08.013443"
-    },
-    {
       "title": "Q1FY27: Bajaj Finance\u2019s AI bots now handle 71% of DIY customer service, drive Rs 2,500 crores in disbursements",
       "url": "https://www.medianama.com/2026/08/223-bajaj-finances-71-customer-service-2500-crores-disbursements/",
       "cat": "ENTERPRISE",
@@ -839,6 +797,78 @@
       "url": "https://www.livemint.com/technology/not-every-student-has-openai-apac-chief-kiran-mani-says-chatgpt-for-teens-launch-felt-deeply-personal-11787128598921.html",
       "cat": "OTHER",
       "date": "2026-08-20T20:58:34.743714"
+    },
+    {
+      "title": "PhysicsWallah to launch personal AI tutoring services by next quarter",
+      "url": "https://www.medianama.com/2026/08/223-physicswallah-personal-ai-tutoring-services/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-21T20:51:43.046454"
+    },
+    {
+      "title": "PM Modi Urges Secretaries to Use AI and Bring Youth into Policymaking",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfkb4Adb1QKl_a5ZFH_VoRvOnj6ftxQGeg4Y4tS3Ep-E9bZiUPRHtbJx8auNy0siz7iPfIcsLWipapl_1Ssodf9EOd17zZ6G_EhsLgd1U5hcd3autw1mGErj9ewc9xjRQdXPKrTCfatnZbg6-ymp9iMGVVkrj7F7QEExYibAW7ZTJBodd0ytB7ZZ1EHnQUXqzpoe9Fce_Wz7fptQ==",
+      "cat": "POLICY",
+      "date": "2026-08-21T20:51:43.046454"
+    },
+    {
+      "title": "KEO launch to take AI computing to every government school in Karnataka",
+      "url": "https://www.aninews.in/news/national/kej-launch-to-take-ai-computing-to-every-government-school-in-karnataka-cm-shivakumar20260821223640",
+      "cat": "POLICY",
+      "date": "2026-08-21T20:51:43.046454"
+    },
+    {
+      "title": "Government Constitutes AI Governance and Economic Group (AIGEG)",
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2028489",
+      "cat": "POLICY",
+      "date": "2026-08-21T20:51:43.046454"
+    },
+    {
+      "title": "Karnataka govt launches low cost AI computing device KEO",
+      "url": "https://yourstory.com/2026/08/karnataka-govt-launches-low-cost-ai-computing-device-keo",
+      "cat": "POLICY",
+      "date": "2026-08-21T20:51:43.046454"
+    },
+    {
+      "title": "Two 21-year-olds built an AI that runs online stores",
+      "url": "https://thenextweb.com/news/siml-ai-runs-online-stores-agentic-commerce",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-21T20:51:43.046454"
+    },
+    {
+      "title": "Google Rolls Out AI-Powered JEE, NEET Preparation Tools",
+      "url": "https://inc42.com/buzz/google-rolls-out-ai-powered-jee-neet-preparation-tools/",
+      "cat": "RESEARCH",
+      "date": "2026-08-21T20:51:43.046454"
+    },
+    {
+      "title": "Six strategic takeaways from MakeMyTrip\u2019s Q1 FY27 earnings call",
+      "url": "https://www.medianama.com/2026/08/223-makemytrip-ai-myra2-0-bookingq1-fy27-earnings-call/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-21T20:51:43.046454"
+    },
+    {
+      "title": "IIMA Healthcare Summit 2026 to focus on Advancing AI in Healthcare",
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2044742",
+      "cat": "RESEARCH",
+      "date": "2026-08-21T20:51:43.046454"
+    },
+    {
+      "title": "SUSE Women in Technology event: Why AI\u2019s next opportunity is also a leadership test",
+      "url": "https://yourstory.com/2026/08/suse-women-in-technology-event-why-ais-next-opportunity-is-also-a-leadership-test",
+      "cat": "OTHER",
+      "date": "2026-08-21T20:51:43.046454"
+    },
+    {
+      "title": "Anthropic will give defenders what its strongest model finds, but not the model itself",
+      "url": "https://thenextweb.com/news/anthropic-mythos-5-defenders-open-source-fund",
+      "cat": "RESEARCH",
+      "date": "2026-08-21T20:51:43.046454"
+    },
+    {
+      "title": "Anthropic\u2019s enterprise venture has bought its second consultancy in four months",
+      "url": "https://thenextweb.com/news/anthropic-ode-acquires-casper-studios-enterprise-ai",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-21T20:51:43.046454"
     }
   ]
 }
