@@ -361,6 +361,18 @@
         "With a current valuation of $3.7 billion following the February 2025 secondary round, what are the specific unit economics of this AI tutoring service, and how do you ensure its profitability at scale, beyond the subsidized growth enabled by this latest funding round?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-22T20:50:28.339442",
+      "headline": "AI to drive growth for India's IT services by 2030.",
+      "source_url": "https://www.livemint.com/technology/ai-volumes-may-outweigh-revenue-deflation-for-it-sector-by-fy30-report-11787386080208.html",
+      "questions": [
+        "Given CLSA's view of AI as 'near term negative but long term positive' for IT services, how does your company's AI solution specifically bridge that near-term revenue gap for Indian IT service providers, rather than exacerbating it?",
+        "Peak XV Partners' thesis highlights the difficulty in validating code despite easier writing. How does your AI solution address the 'validation' problem, and what is the tangible impact on the cost and time of software development for your target customers?",
+        "If AI-led volumes are projected to outweigh automation's revenue pressures by FY30, what specific metrics are you tracking *today* to prove that your AI is the primary driver of that future volume, rather than a general industry trend?",
+        "What are the specific failure modes for your AI solution in the Indian IT services market over the next 18 months, considering the inherent complexities of integrating new technology into established, large-scale IT service delivery models?"
+      ],
+      "answers": []
     }
   ]
 }

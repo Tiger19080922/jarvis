@@ -1,126 +1,6 @@
 {
   "stories": [
     {
-      "title": "Q1FY27: Bajaj Finance\u2019s AI bots now handle 71% of DIY customer service, drive Rs 2,500 crores in disbursements",
-      "url": "https://www.medianama.com/2026/08/223-bajaj-finances-71-customer-service-2500-crores-disbursements/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "Emergent becomes unicorn after raising $130 million in Series C funding",
-      "url": "https://www.techcrunch.com/2026/08/06/indian-ai-coding-startup-emergent-becomes-unicorn-after-raising-130-million-in-series-c-funding/",
-      "cat": "FUNDING",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "SkyAI Technologies builds AI drone detection systems for airports and secured sites",
-      "url": "https://yourstory.com/2026/08/skyai-ai-drone-detection",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "OpenAI and four rivals just agreed on one standard for AI agents",
-      "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
-      "cat": "POLICY",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "Kerala Launches AI-Led Governance Initiative",
-      "url": "https://www.gkupdated.com/kerala-launches-ai-led-governance-initiative/",
-      "cat": "POLICY",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "Ministry of Minority Affairs leverages AI and digital technologies to boost efficiency, effectiveness to strengthen digital governance and citizen-centric service delivery",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2040031",
-      "cat": "POLICY",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "IISc Bengaluru's new AI contest\u2014Rs 2 crore for best model to detect early brain decline",
-      "url": "https://www.newindianexpress.com/education/2026/apr/21/iisc-bengalurus-new-ai-contestrs-2-crore-for-best-model-to-detect-early-brain-decline-2444070.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "Fujitsu and IISc launch joint research on advanced AI technologies to accelerate new material development and resolve societal challenges",
-      "url": "https://www.fujitsu.com/global/about/resources/news/press-releases/2025/1016-01.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "How STCH Is Modernising Apparel Manufacturing With AI & Factory OS",
-      "url": "https://inc42.com/startups/how-stch-is-modernising-apparel-manufacturing-with-ai-factory-os/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "5 key takeaways from ixigo Q1 FY27 earnings",
-      "url": "https://www.medianama.com/2026/08/223-ixigo-q1-fy27-earnings/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "Exclusive-Alibaba plans to charge big users of its next open-source AI model, sources say",
-      "url": "https://www.livemint.com/technology/exclusivealibaba-plans-to-charge-big-users-of-its-next-open-source-ai-model-sources-say-11786064736653.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "Gravity raised $30.5M to place ads inside AI chatbots. Its next product targets the bots themselves.",
-      "url": "https://thenextweb.com/news/gravity-ai-ads-30-5m-series-a-agent-to-agent",
-      "cat": "FUNDING",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "Adobe just put more than 70 of its tools inside ChatGPT",
-      "url": "https://thenextweb.com/news/adobe-chatgpt-plugin-70-tools-creative-openai",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "Google Maps can now order your food, book your hotel, and read your calendar. Ask Maps just became an agent.",
-      "url": "https://thenextweb.com/news/google-maps-ask-maps-agentic-food-ordering-hotel-booking",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "Indian legal AI startup Nyai raises $1.5m seed",
-      "url": "https://www.techinasia.com/nyai-raises-15m-seed-legal-tech-startup-india",
-      "cat": "FUNDING",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "Can a services firm scale like a product company? This ex-Tally CFO is betting on AI",
-      "url": "https://yourstory.com/2026/08/northbound-advisors-sathya-pramod-ai-native-services-firm-scale",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "ByteDance targets mega AI model that could match Mythos scale, FT reports",
-      "url": "https://www.livemint.com/technology/bytedance-targets-mega-ai-model-that-could-match-mythos-scale-ft-reports-11786081268934.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "Google built an AI translator that runs entirely offline on a Raspberry Pi",
-      "url": "https://thenextweb.com/news/google-gemma-translator-offline-raspberry-pi-antigravity",
-      "cat": "RESEARCH",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "OpenAI removes the daily limit on free ChatGPT chats and upgrades the default model to GPT-5.6 Luna",
-      "url": "https://thenextweb.com/news/chatgpt-free-unlimited-text-chats-gpt-5-6-luna-default",
-      "cat": "RESEARCH",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
-      "title": "DeepSeek made AI cheap. Now it is raising $8bn and buying robots",
-      "url": "https://thenextweb.com/news/deepseek-8bn-round-unitree-robot-stake-humanoid-ai",
-      "cat": "FUNDING",
-      "date": "2026-08-07T21:12:46.457918"
-    },
-    {
       "title": "Sarvam AI unveils plans for trillion-plus parameter model, launches India-hosted inference platform",
       "url": "https://www.livemint.com/technology/tech-news/sarvam-is-indias-ai-moment-what-comes-next-counts-117230541678581.html",
       "cat": "RESEARCH",
@@ -869,6 +749,42 @@
       "url": "https://thenextweb.com/news/anthropic-ode-acquires-casper-studios-enterprise-ai",
       "cat": "ENTERPRISE",
       "date": "2026-08-21T20:51:43.046454"
+    },
+    {
+      "title": "AI volumes may outweigh revenue deflation for IT sector by FY30: Report",
+      "url": "https://www.livemint.com/technology/ai-volumes-may-outweigh-revenue-deflation-for-it-sector-by-fy30-report-11787386080208.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-22T20:50:28.338307"
+    },
+    {
+      "title": "OpenAI slashes GPT-5.6 Sol API pricing by over 20% \u2014 Developers can now access it at  \u20b9380 only",
+      "url": "https://www.livemint.com/technology/apps/openai-slashes-gpt-5-6-sol-api-pricing-by-over-20-developers-can-now-access-it-at-rs-380-only-11787402625527.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-22T20:50:28.338307"
+    },
+    {
+      "title": "IISc Bengaluru's AI Challenge for Early Detection of Cognitive Decline",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf2QK5XDPVlQKyDVX7LT68J3tnoyjF06fMGF8CI3jvXK5h4gj_TsrYIDwHzFk4zOxGUUCSvG3qgLBF_s24ziOwm3tZklm9gyrxhBE1HZmTgBiJM2PrEqIwuiNn2m-13krQ9_gODYT7gy6BqmsDHsQsF4U-Vs9zpd6qrSFiGy1wCDQbqliOjpxlTxhjd9O21qcWn7acYA==",
+      "cat": "RESEARCH",
+      "date": "2026-08-22T20:50:28.338307"
+    },
+    {
+      "title": "Apollo finds AI is hitting paychecks rather than payrolls",
+      "url": "https://thenextweb.com/news/apollo-ai-wage-growth-not-job-losses-study",
+      "cat": "RESEARCH",
+      "date": "2026-08-22T20:50:28.338307"
+    },
+    {
+      "title": "This startup is training an AI model on skin that stays alive for a month",
+      "url": "https://thenextweb.com/news/outer-biosciences-living-human-skin-ai-model",
+      "cat": "RESEARCH",
+      "date": "2026-08-22T20:50:28.338307"
+    },
+    {
+      "title": "New AI Research Papers on arXiv (August 10-12, 2026)",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ67TO0aC1XT1ddwYJlI-CidNs_C7wOOcXIl6483RBVf1lbCzcV24syQ5plvFJvyjHTIdhb2DAxDbqLRlVnKmuw8X_PiIHSMVyI2OE-S7dBZFa3_9UYZxnXBKHg_gS64mmwUt9C4PoEOK5JPVmt2jfsNrc",
+      "cat": "RESEARCH",
+      "date": "2026-08-22T20:50:28.338307"
     }
   ]
 }
