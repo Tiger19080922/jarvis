@@ -373,6 +373,18 @@
         "What are the specific failure modes for your AI solution in the Indian IT services market over the next 18 months, considering the inherent complexities of integrating new technology into established, large-scale IT service delivery models?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-23T20:50:44.584886",
+      "headline": "Legal AI company Harvey launched its first proprietary AI model, Tenet.",
+      "source_url": "https://thenextweb.com/news/harvey-tenet-legal-model-kimi-k3-chinese-base",
+      "questions": [
+        "Given Harvey's stated goal of reducing reliance on third-party AI models, how does post-training Tenet on Moonshot AI's Kimi K3 fundamentally achieve that, and what specific dependencies remain?",
+        "Peak XV Partners' thesis highlights the difficulty in validating code; how does Harvey's Tenet model, built on Kimi K3, address the critical validation challenges specific to legal workflows that existing large language models struggle with?",
+        "What is the specific, defensible technological moat Harvey has built with Tenet that prevents a well-funded competitor from post-training their own model on Kimi K3, or a similar open-weight model, within 18 months?",
+        "If Kimi K3, or the underlying architecture from Moonshot AI, experiences a significant performance degradation or a change in licensing terms, what is Harvey's contingency plan for Tenet, and how quickly could it pivot?"
+      ],
+      "answers": []
     }
   ]
 }
