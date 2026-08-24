@@ -385,6 +385,18 @@
         "If Kimi K3, or the underlying architecture from Moonshot AI, experiences a significant performance degradation or a change in licensing terms, what is Harvey's contingency plan for Tenet, and how quickly could it pivot?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-24T21:01:36.045343",
+      "headline": "NVIDIA increases prices for some AI servers by over 15%.",
+      "source_url": "https://inc42.com/buzz/nvidias-ai-server-price-hike-threatens-to-inflate-indias-compute-costs/",
+      "questions": [
+        "NVIDIA's stated reason for the 15%+ price increase on some AI servers is the escalating cost of memory chips; what specific memory chip cost increases are NVIDIA seeing, and how are those increases materially different from the general market trends that would allow a competitor to match this pricing power?",
+        "Given that these price increases are for systems delivered in early 2027, what specific, proprietary NVIDIA technology or architectural advantage in these AI servers, beyond memory chip sourcing, would prevent a well-funded competitor from replicating the performance and cost-effectiveness of these servers within the next 18-24 months?",
+        "If the memory chip supply chain remains constrained or continues to escalate in cost beyond early 2027, what is NVIDIA's specific contingency plan to maintain its market share and profitability, rather than simply passing on further price hikes that could drive customers to alternative solutions?",
+        "Considering that NVIDIA's AI accelerators are the critical components driving these server costs, what is NVIDIA's strategy to mitigate the impact of memory chip price volatility on the performance-per-dollar for its AI accelerators, and how does this strategy differ from what competitors are likely pursuing?"
+      ],
+      "answers": []
     }
   ]
 }
