@@ -397,6 +397,18 @@
         "Considering that NVIDIA's AI accelerators are the critical components driving these server costs, what is NVIDIA's strategy to mitigate the impact of memory chip price volatility on the performance-per-dollar for its AI accelerators, and how does this strategy differ from what competitors are likely pursuing?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-25T20:58:25.133180",
+      "headline": "Nvidia is reportedly in talks to invest in Perplexity AI.",
+      "source_url": "https://yourstory.com/2026/08/nvidia-eyes-stake-in-perplexity",
+      "questions": [
+        "Given Nvidia's potential investment and Perplexity's reliance on LLMs, how does Perplexity differentiate its underlying technology or data advantage to prevent Nvidia from replicating its core search synthesis capabilities in-house or with another partner within 18 months, especially considering Nvidia's deep technical expertise in AI infrastructure?",
+        "If Peak XV Partners' thesis on compute fragmentation is correct, what specific compute infrastructure decisions has Perplexity made that will allow it to scale efficiently and cost-effectively beyond the current Series E funding, particularly if its ad-free model requires significant inference compute?",
+        "With a reported valuation jump from $20 billion to over $30 billion in less than a year, what specific, quantifiable traction metrics (e.g., daily active users, query volume, retention rates, conversion to paid tiers if applicable) demonstrate that Perplexity is on a trajectory to justify this valuation, beyond simply citing its LLM capabilities?",
+        "What specific event or competitive move, independent of a general market downturn, would cause Perplexity's current user growth or engagement to stagnate or decline significantly, thereby jeopardizing its ability to raise future rounds at a similar or higher valuation?"
+      ],
+      "answers": []
     }
   ]
 }

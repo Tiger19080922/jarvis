@@ -1,30 +1,6 @@
 {
   "stories": [
     {
-      "title": "AI4Bharat breakthrough enables product builders serve India's linguistic diversity",
-      "url": "https://productgrowth.in/ai4bharat-breakthrough-enables-product-builders-serve-indias-linguistic-diversity/",
-      "cat": "RESEARCH",
-      "date": "2026-08-10T21:14:20.149065"
-    },
-    {
-      "title": "AI firm Krutrim lays off nearly half of its workforce",
-      "url": "https://yourstory.com/2026/07/krutrim-ai-startup-layoffs-workforce-reduction-ai-cloud-services",
-      "cat": "FUNDING",
-      "date": "2026-08-10T21:14:20.149065"
-    },
-    {
-      "title": "AI policies may need to change every few months as technology evolves: CSIR-NIScPR Director",
-      "url": "https://www.livemint.com/technology/ai-policies-may-need-to-change-every-few-months-as-technology-evolves-csir-niscpr-director-11786349552176.html",
-      "cat": "POLICY",
-      "date": "2026-08-10T21:14:20.149065"
-    },
-    {
-      "title": "Nearly 32% entities expect AI to drive re-skilling over job cuts: Survey",
-      "url": "https://www.livemint.com/technology/nearly-32-entities-expect-ai-to-drive-re-skilling-over-job-cuts-survey-11786330517199.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-10T21:14:20.149065"
-    },
-    {
       "title": "India Enterprise AI Adoption: What 100 CIOs Actually Said",
       "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFciA0oAa_-TNR6klLdz8Cz1OkAji7Ctj2tBiwHkg1uu5XFWDgHZ3JNY78mBr9YLaZq_YXX7raLybLxuXdFinTm6HYefkQ4OPhVdk1yPs8K2bV6WKGc9dxwOD7B_Q7EsujgBfxkkzDGsK0bkl3AaYVm7HQMjx55C-nJM-NRd42mhhU=",
       "cat": "ENTERPRISE",
@@ -869,6 +845,96 @@
       "url": "https://thenextweb.com/news/openai-sb-53-california-ai-safety-law-amendments",
       "cat": "POLICY",
       "date": "2026-08-24T21:01:36.044505"
+    },
+    {
+      "title": "Nvidia eyes stake in Perplexity; Jaismine Lamboria\u2019s road to gold",
+      "url": "https://yourstory.com/2026/08/nvidia-eyes-stake-in-perplexity",
+      "cat": "FUNDING",
+      "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "India one of the hotbeds of innovation in AI, strong potential in health, agri: CEO, Gates Foundation",
+      "url": "https://www.livemint.com/technology/india-one-of-the-hotbeds-of-innovation-in-ai-strong-potential-in-health-agri-ceo-gates-foundation-11787646375439.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "Alice raises $140mn to stress-test the models Anthropic and Google ship",
+      "url": "https://thenextweb.com/news/alice-140m-funding-ai-security-apax-digital",
+      "cat": "FUNDING",
+      "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "Infineon To Acquire Peak XV-Backed C2i Semiconductors To Bolster AI Play",
+      "url": "https://inc42.com/buzz/infineon-to-acquire-peak-xv-backed-c2i-semiconductors-to-bolster-ai-play/",
+      "cat": "FUNDING",
+      "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "Germany\u2019s Infineon is acquiring Bengaluru\u2019s C2i Semiconductors",
+      "url": "https://yourstory.com/2026/08/germanys-infineon-is-acquiring-bengaluru-based-c2i-semiconductors",
+      "cat": "FUNDING",
+      "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "Exclusive-The AI founders who walked away from Bezos-backed Prometheus to model the universe",
+      "url": "https://www.livemint.com/technology/exclusivethe-ai-founders-who-walked-away-from-bezos-backed-prometheus-to-model-the-universe-11787652237034.html",
+      "cat": "FUNDING",
+      "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "IndiaAI Mission Organises Workshop on AIKosh to Strengthen India's AI-Ready Data Ecosystem",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2301666",
+      "cat": "POLICY",
+      "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "Pine Labs Invests \u20b924 Cr In AI R&D In FY26, Cuts Testing Time by Over 95%",
+      "url": "https://inc42.com/buzz/pine-labs-invests-%e2%82%b924-cr-in-ai-rd-in-fy26-cuts-testing-time-by-over-95/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "OpenAI\u2019s Jalape\u00f1o chip claims major AI speed boost: What to know",
+      "url": "https://www.livemint.com/technology/tech-news/openais-jalape-o-chip-claims-major-ai-speed-boost-what-to-know-11787672824812.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "Anthropic merges Claude chat and Cowork memory, on by default",
+      "url": "https://thenextweb.com/news/anthropic-claude-cowork-shared-memory-default",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "Stability AI raises $76mn from Universal, Warner, Sony Music and EA",
+      "url": "https://thenextweb.com/news/stability-ai-76m-funding-universal-warner-sony-music-ea",
+      "cat": "FUNDING",
+      "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "Fujitsu and IISc launch joint research on advanced AI technologies to accelerate new material development and resolve societal challenges",
+      "url": "https://www.iisc.ac.in/fujitsu-iisc-launch-joint-research-on-advanced-ai-technologies-to-accelerate-new-material-development-and-resolve-societal-challenges/",
+      "cat": "RESEARCH",
+      "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "WikiHow sues OpenAI for unsanctioned content use in AI training",
+      "url": "https://www.medianama.com/2026/08/223-wikihow-openai-unsanctioned-ai-training/",
+      "cat": "RESEARCH",
+      "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "Western bias in AI could shape how billions of users see world: Report",
+      "url": "https://www.livemint.com/technology/tech-news/western-bias-in-ai-could-shape-how-billions-of-users-see-world-report-11787568165207.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "India's AI problem isn't ambition, it's absorption",
+      "url": "https://www.hindustantimes.com/opinion/indias-ai-problem-isnt-ambition-its-absorption-101724084981127.html",
+      "cat": "POLICY",
+      "date": "2026-08-25T20:58:25.131843"
     }
   ]
 }
