@@ -1,180 +1,6 @@
 {
   "stories": [
     {
-      "title": "India Enterprise AI Adoption: What 100 CIOs Actually Said",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFciA0oAa_-TNR6klLdz8Cz1OkAji7Ctj2tBiwHkg1uu5XFWDgHZ3JNY78mBr9YLaZq_YXX7raLybLxuXdFinTm6HYefkQ4OPhVdk1yPs8K2bV6WKGc9dxwOD7B_Q7EsujgBfxkkzDGsK0bkl3AaYVm7HQMjx55C-nJM-NRd42mhhU=",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-11T21:17:29.025224"
-    },
-    {
-      "title": "How an IIT Delhi startup is putting AI inside drones, sensors and satellites",
-      "url": "https://yourstory.com/2026/08/iit-delhi-startup-ai-drones-satellites",
-      "cat": "RESEARCH",
-      "date": "2026-08-11T21:17:29.025224"
-    },
-    {
-      "title": "AI increases ARPU, emerges as a new monetisation lever for Naukri",
-      "url": "https://www.medianama.com/2026/08/223-ai-arpu-new-monetisation-lever-naukri/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-11T21:17:29.025224"
-    },
-    {
-      "title": "AI transformation likely to accelerate as companies shift from adoption to enterprise-wide value creation: Report",
-      "url": "https://www.tribuneindia.com/news/nation/ai-transformation-likely-to-accelerate-as-companies-shift-from-adoption-to-enterprise-wide-value-creation-report-626101",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-11T21:17:29.025224"
-    },
-    {
-      "title": "Discovered Materials Raises $9 Mn For AI-Led Semiconductor Material Discovery",
-      "url": "https://inc42.com/buzz/discovered-materials-raises-9-mn-for-ai-led-semiconductor-material-discovery/",
-      "cat": "FUNDING",
-      "date": "2026-08-11T21:17:29.025224"
-    },
-    {
-      "title": "Deeptech startup Discovered Materials raises $9M in Seed round",
-      "url": "https://yourstory.com/2026/08/deeptech-startup-discovered-materials-raises-9-million-in-seed-round",
-      "cat": "FUNDING",
-      "date": "2026-08-11T21:17:29.025224"
-    },
-    {
-      "title": "CHRIST University and IBM Launch IBM Innovation Center for Artificial Intelligence to Accelerate Research, Innovation and Talent Development",
-      "url": "https://newsroom.ibm.com/2026-08-11-CHRIST-University-and-IBM-Launch-IBM-Innovation-Center-for-Artificial-Intelligence-to-Accelerate-Research-Innovation-and-Talent-Development",
-      "cat": "RESEARCH",
-      "date": "2026-08-11T21:17:29.025224"
-    },
-    {
-      "title": "BFSI to outpace other segments in growth, says Fractal Analytics Group CEO",
-      "url": "https://www.fortuneindia.com/opinion/bfsi-to-outpace-other-segments-in-growth-says-fractal-analytics-group-ceo/106934",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-11T21:17:29.025224"
-    },
-    {
-      "title": "Anthropic Adds Watermarks In Claude Content As Deepfakes Run Amok",
-      "url": "https://inc42.com/features/anthropic-adds-watermarks-in-claude-content-as-deepfake-bad-actors-run-amok/",
-      "cat": "OTHER",
-      "date": "2026-08-11T21:17:29.025224"
-    },
-    {
-      "title": "AI is changing cyber threats. Recovery is becoming just as important as prevention",
-      "url": "https://yourstory.com/2026/08/ai-is-changing-cyber-threats-recovery-is-becoming-just-as-important-as-prevention",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-11T21:17:29.025224"
-    },
-    {
-      "title": "SettleMint India Rebrands as Quadcentrix to Mark Expansion Beyond Blockchain into AI, Data Analytics and Enterprise Digital Solutions",
-      "url": "https://www.bignewsnetwork.com/article/172610911-settlemint-india-rebrands-quadcentrix-mark-expansion-beyond-blockchain-into-ai-data-analytics-enterprise-digital-solutions.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-11T21:17:29.025224"
-    },
-    {
-      "title": "Accel Closes Ninth India Fund With $550 Mn Corpus To Invest In AI, Deeptech",
-      "url": "https://inc42.com/buzz/accel-closes-ninth-india-fund-with-550-mn-corpus-to-invest-in-ai-deeptech/",
-      "cat": "FUNDING",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "Exclusive: AI Healthtech Startup August AI In Talks To Raise $4 Mn From Peak XV",
-      "url": "https://inc42.com/buzz/ai-healthtech-startup-august-ai-in-talks-to-raise-4-mn-from-peak-xv/",
-      "cat": "FUNDING",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "India must shape its AI journey rather than be shaped by default: RBI Governor Sanjay Malhotra",
-      "url": "https://www.livemint.com/technology/india-must-shape-its-ai-journey-rather-than-be-shaped-by-default-rbi-governor-sanjay-malhotra-11786428751973.html",
-      "cat": "POLICY",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "India's AI rules may change: Who decides what stays online and what gets removed?",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdG-OXpCa_IHpI_bFGZDYfAFTH66GBIzTNrVqAyb-daymK1mJkGVtD5b-TyeYc2Ie3s_ar7YSHqtNw0rddzCrWQegEYrGPFUCjKnK9i-D0_x9kcBKQ6ib6kqGhY4CbEpkxVCGmPHyID96y5kKidMZ2A-xbeYzZlbxIMAqJk-8gOVf6w0k65QZqY0l2HPa8tjOwmTwrGn9KClS96RVEHtc=",
-      "cat": "POLICY",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "How SwishX Is Fixing Messy Back Office Sales Workflows For Pharma Companies With AI",
-      "url": "https://inc42.com/startups/how-swishx-is-fixing-messy-back-office-sales-workflows-for-pharma-companies-with-ai/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "Indian scientists build AI tool to spot hidden cancer cells. It outperforms other methods",
-      "url": "https://theprint.in/feature/indian-scientists-build-ai-tool-to-spot-hidden-cancer-cells-it-outperforms-other-methods/3012936/",
-      "cat": "RESEARCH",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "National AI Skilling Initiative records 60,253 enrolments in Phase I; Phase II details being finalised",
-      "url": "https://www.livemint.com/technology/national-ai-skilling-initiative-records-60-253-enrolments-in-phase-i-phase-ii-details-being-finalised-11786533504093.html",
-      "cat": "POLICY",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "AI evolving as core intelligence layer in Indias fintech transformation: ASSOCHAM-KPMG report",
-      "url": "https://www.livemint.com/technology/ai-evolving-as-core-intelligence-layer-in-indias-fintech-transformation-assocham-kpmg-report-11786419422893.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "Enterprise AI Spend Gets A Reality Check",
-      "url": "https://inc42.com/features/enterprise-ai-spend-gets-a-reality-check/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "From cyber defence to care and contracts: AI100's eighth cohort puts AI to work",
-      "url": "https://yourstory.com/2026/08/from-cyber-defence-to-care-and-contracts-ai100s-eighth-cohort-puts-ai-to-work",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "Aditya Gupta: Building intelligence into contracts at scale",
-      "url": "https://yourstory.com/2026/08/aditya-gupta-building-intelligence-into-contracts-at-scale",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "David Gildea: On a mission to democratize data security",
-      "url": "https://yourstory.com/2026/08/david-gildea-on-a-mission-to-democratize-data-security",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "Ankit Maheshwari: AI, architecture and impact",
-      "url": "https://yourstory.com/2026/08/ankit-maheshwari-ai-architecture-and-impact",
-      "cat": "RESEARCH",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "Anthropic to embed watermark and C2PA metadata for AI-generated text and media by Claude",
-      "url": "https://www.medianama.com/2026/08/223-anthropic-watermark-c2pa-metadata-claude/",
-      "cat": "RESEARCH",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "Meta open sources Muse Glimmer AI model, Zuckerberg says \u2018superintelligence should empower everyone\u2019",
-      "url": "https://www.livemint.com/technology/tech-news/meta-open-sources-muse-glimmer-ai-model-zuckerberg-says-superintelligence-should-empower-everyone-11786416747760.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "Pixel 11 puts Gemini in the operating system, weeks before Siri gets the same models",
-      "url": "https://thenextweb.com/news/google-pixel-11-gemini-intelligence-apple-siri",
-      "cat": "RESEARCH",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "IISc Researchers Present Advancements in AI and Machine Learning",
-      "url": "https://iisc.ac.in/wp-content/uploads/2024/01/Kotak-IISc-AI-ML-Centre-Publications.pdf",
-      "cat": "RESEARCH",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
-      "title": "Vision and AI Lab (VAL) at IISc Showcases Recent Publications",
-      "url": "https://val.iisc.ac.in/publications/",
-      "cat": "RESEARCH",
-      "date": "2026-08-12T21:16:11.187578"
-    },
-    {
       "title": "Kusho AI is building AI agents that test software before it breaks",
       "url": "https://yourstory.com/2026/08/kusho-ai-software-testing-startup-bengaluru",
       "cat": "ENTERPRISE",
@@ -935,6 +761,72 @@
       "url": "https://www.hindustantimes.com/opinion/indias-ai-problem-isnt-ambition-its-absorption-101724084981127.html",
       "cat": "POLICY",
       "date": "2026-08-25T20:58:25.131843"
+    },
+    {
+      "title": "[Update] Ringg AI Nets Additional $10 Mn, Closes Series A At $15.5 Mn",
+      "url": "https://inc42.com/buzz/voice-ai-startup-ringg-bags-5-5-mn-from-arkam-ventures/",
+      "cat": "FUNDING",
+      "date": "2026-08-26T23:59:19.356578"
+    },
+    {
+      "title": "Voice AI startup Ringg AI raises $10M in Series A led by Peak XV Partners",
+      "url": "https://yourstory.com/2026/08/voice-ai-startup-ringg-ai-raises-10m-series-a-peak-xv-partners",
+      "cat": "FUNDING",
+      "date": "2026-08-26T23:59:19.356578"
+    },
+    {
+      "title": "Nvidia Leads Sarvam AI's Rs 698 Crore Funding Round",
+      "url": "https://www.gadgetsnow.com/tech/news/nvidia-leads-sarvam-ais-rs-698-crore-funding-round/articleshow/112373951.cms",
+      "cat": "FUNDING",
+      "date": "2026-08-26T23:59:19.356578"
+    },
+    {
+      "title": "AI Agent Platform Runable Raises $21 Mn To Help Small Businesses Grow",
+      "url": "https://inc42.com/buzz/ai-agent-platform-runable-raises-21-mn-to-help-small-businesses-grow/",
+      "cat": "FUNDING",
+      "date": "2026-08-26T23:59:19.356578"
+    },
+    {
+      "title": "Nitro Launches AI Platform To Let Shopify Merchants Build Apps With Prompts",
+      "url": "https://inc42.com/buzz/nitro-launches-ai-platform-to-let-shopify-merchants-build-apps-with-prompts/",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-26T23:59:19.356578"
+    },
+    {
+      "title": "AI agent startup Runable raises $21M in Series A",
+      "url": "https://yourstory.com/2026/08/ai-agent-startup-runable-raises-21-million-in-series-a",
+      "cat": "FUNDING",
+      "date": "2026-08-26T23:59:19.356578"
+    },
+    {
+      "title": "Government Constitutes Technology and Policy Expert Committee (TPEC) to Provide Expert Advisory Support to India's AI Governance Architecture",
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2035779",
+      "cat": "POLICY",
+      "date": "2026-08-26T23:59:19.356578"
+    },
+    {
+      "title": "The Vertical Turn In Enterprise AI",
+      "url": "https://inc42.com/features/the-vertical-turn-in-enterprise-ai/",
+      "cat": "RESEARCH",
+      "date": "2026-08-26T23:59:19.356578"
+    },
+    {
+      "title": "How AssessPrep is turning test scores into data schools can use",
+      "url": "https://yourstory.com/2026/08/assessprep-ai-assessment-platform-startup-profile",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-26T23:59:19.356578"
+    },
+    {
+      "title": "TN launches AI, deep-tech push with new initiatives",
+      "url": "https://yourstory.com/2026/08/tn-launches-ai-deep-tech-push-with-new-initiatives",
+      "cat": "POLICY",
+      "date": "2026-08-26T23:59:19.356578"
+    },
+    {
+      "title": "AI4Bharat Wants to Test Every AI Claim India Makes",
+      "url": "https://aimagazine.com/ai4bharat-wants-to-test-every-ai-claim-india-makes/",
+      "cat": "RESEARCH",
+      "date": "2026-08-26T23:59:19.356578"
     }
   ]
 }

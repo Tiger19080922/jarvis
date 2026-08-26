@@ -409,6 +409,18 @@
         "What specific event or competitive move, independent of a general market downturn, would cause Perplexity's current user growth or engagement to stagnate or decline significantly, thereby jeopardizing its ability to raise future rounds at a similar or higher valuation?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-26T23:59:19.357562",
+      "headline": "Ringg AI secures $10 million in Series A extension funding round.",
+      "source_url": "https://inc42.com/buzz/voice-ai-startup-ringg-bags-5-5-mn-from-arkam-ventures/",
+      "questions": [
+        "Given that Ringg AI operates in the no-code, multilingual voice AI space, what specific technical or data moat prevents a well-funded competitor, say from Silicon Valley, from replicating your core capabilities within 12 months, especially considering the $10 million extension round?",
+        "Peak XV's investment thesis likely focuses on scalable enterprise SaaS in emerging markets; what specific customer adoption or churn metric would indicate that Ringg AI's current trajectory is misaligned with that thesis, despite the additional $10 million?",
+        "What is the single most likely failure mode for Ringg AI in the next 18 months, and how does the $10 million extension round specifically mitigate that risk?",
+        "Beyond the initial $10 million extension, what are the critical unit economics for Ringg AI's voice agent deployments at scale, and how do those economics look today versus what's projected post-Series A?"
+      ],
+      "answers": []
     }
   ]
 }
