@@ -421,6 +421,18 @@
         "Beyond the initial $10 million extension, what are the critical unit economics for Ringg AI's voice agent deployments at scale, and how do those economics look today versus what's projected post-Series A?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-28T04:28:20.016368",
+      "headline": "IISc researchers developed a brain-inspired analog computing platform for AI tasks.",
+      "source_url": "https://vertex.news/en/iisc-scientists-achieve-breakthrough-in-ai-hardware/",
+      "questions": [
+        "Given that the IISc team developed this platform using institutional funding from MEITY, what specific milestones or commercialization targets were set for this research, and how does the current stage of development align with those, especially considering Peak XV Partners' thesis on highly specialized, high-performance compute infrastructure?",
+        "Nature reported this breakthrough from the Centre for Nano Science and Engineering (CeNSE) at IISc; what prevents a well-funded competitor, perhaps one with existing semiconductor manufacturing relationships, from replicating this brain-inspired analog computing architecture within 18 months, given the open publication in Nature?",
+        "If this analog computing platform is intended to excel at specific AI workloads as suggested by the Peak XV Partners excerpt, what are the most challenging AI tasks where its superiority over existing digital solutions is most pronounced, and what is the quantifiable performance uplift?",
+        "Beyond the initial MEITY funding for institutional research, what is the go-to-market strategy for commercializing this IISc platform, and what specific steps are being taken to bridge the gap from academic research to a scalable, market-ready product that can attract venture capital?"
+      ],
+      "answers": []
     }
   ]
 }

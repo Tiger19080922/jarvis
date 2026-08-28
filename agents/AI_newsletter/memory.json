@@ -1,78 +1,6 @@
 {
   "stories": [
     {
-      "title": "Kusho AI is building AI agents that test software before it breaks",
-      "url": "https://yourstory.com/2026/08/kusho-ai-software-testing-startup-bengaluru",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-13T21:16:46.452413"
-    },
-    {
-      "title": "Safe & Trusted AI Pillar under IndiaAI Mission Strengthens Citizen Trust through Secure, Fair and Responsible AI Solutions",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2037128",
-      "cat": "POLICY",
-      "date": "2026-08-13T21:16:46.452413"
-    },
-    {
-      "title": "Semiconductor and AI Revolution",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2044108",
-      "cat": "POLICY",
-      "date": "2026-08-13T21:16:46.452413"
-    },
-    {
-      "title": "A stroke can cut the line between intention and movement. This device tries to close the loop",
-      "url": "https://yourstory.com/2026/08/stroke-recovery-movement-device",
-      "cat": "RESEARCH",
-      "date": "2026-08-13T21:16:46.452413"
-    },
-    {
-      "title": "WhatsApp tests on-device scam detection as India pushes OTT apps into spam rules",
-      "url": "https://www.medianama.com/2026/08/223-meta-on-device-scam-detection-whatsapp/",
-      "cat": "POLICY",
-      "date": "2026-08-13T21:16:46.452413"
-    },
-    {
-      "title": "India warns Meta to curb AI-generated content or face enforcement",
-      "url": "https://www.biometricupdate.com/202608/india-warns-meta-to-curb-ai-generated-content-or-face-enforcement",
-      "cat": "POLICY",
-      "date": "2026-08-13T21:16:46.452413"
-    },
-    {
-      "title": "Inside L&T Vyoma\u2019s Plan To Build India\u2019s AI Infrastructure Giant",
-      "url": "https://inc42.com/features/inside-lt-vyomas-plan-to-build-indias-ai-infrastructure-giant/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-13T21:16:46.452413"
-    },
-    {
-      "title": "ClickHouse and Hud build a runtime feedback loop for AI-generated software",
-      "url": "https://thenextweb.com/news/clickhouse-hud-runtime-feedback-loop-ai-generated-code",
-      "cat": "RESEARCH",
-      "date": "2026-08-13T21:16:46.452413"
-    },
-    {
-      "title": "Indian universities shift focus from AI adoption to measurable outcomes",
-      "url": "https://www.etnet.com.hk/www/eng/indepth/specialfeature/AIcampusfiles/index.php?channel=ETEnterpriseAI&file=AIcampusfiles_Aug2026_1.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-13T21:16:46.452413"
-    },
-    {
-      "title": "Delhi HC Justice Prathiba Singh questions mandatory AI disclosure for lawyers",
-      "url": "https://www.medianama.com/2026/08/223-justice-prathiba-singh-ai-disclosure-lawyers/",
-      "cat": "POLICY",
-      "date": "2026-08-13T21:16:46.452413"
-    },
-    {
-      "title": "India rolls out 3 AI-based models for faster, more accurate weather forecasts",
-      "url": "https://theprint.in/feature/india-rolls-out-3-ai-based-models-for-faster-more-accurate-weather-forecasts/3014133/",
-      "cat": "RESEARCH",
-      "date": "2026-08-13T21:16:46.452413"
-    },
-    {
-      "title": "DeepSeek built a Claude Code rival, then quadrupled its prices",
-      "url": "https://thenextweb.com/news/deepseek-price-increase-harness-claude-code-rival-v4-pro",
-      "cat": "RESEARCH",
-      "date": "2026-08-13T21:16:46.452413"
-    },
-    {
       "title": "Indian Banks Race to Scale GenAI as Adoption Jumps to 86%: BCG-FICCI-IBA Report",
       "url": "https://www.fortuneindia.com/opinion/indian-banks-race-to-scale-genai-as-adoption-jumps-to-86-bcg-ficci-iba-report/72765",
       "cat": "ENTERPRISE",
@@ -827,6 +755,36 @@
       "url": "https://aimagazine.com/ai4bharat-wants-to-test-every-ai-claim-india-makes/",
       "cat": "RESEARCH",
       "date": "2026-08-26T23:59:19.356578"
+    },
+    {
+      "title": "IISc scientists achieve breakthrough in AI hardware",
+      "url": "https://vertex.news/en/iisc-scientists-achieve-breakthrough-in-ai-hardware/",
+      "cat": "RESEARCH",
+      "date": "2026-08-28T04:28:20.015577"
+    },
+    {
+      "title": "BharatGen Research Papers | AI Research for Indian Languages",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtmqJfz5UYncvX5QyXhnlBvl1ltO5YdXvMdu5bBGWc9Lu1fZSFll055KWF796m_Z9tuwuXZfSBF3P6wp3gfLgIKi0FLtF6uun5MSaahhh5ZVew6AiHvL-x8X8t4I6Ve_px",
+      "cat": "RESEARCH",
+      "date": "2026-08-28T04:28:20.015577"
+    },
+    {
+      "title": "National Program on Artificial Intelligence - Digital India",
+      "url": "https://www.digitalindia.gov.in/national-program-on-artificial-intelligence-36",
+      "cat": "POLICY",
+      "date": "2026-08-28T04:28:20.015577"
+    },
+    {
+      "title": "As AI reshapes business, the fractional CTO finds its moment",
+      "url": "https://thenextweb.com/news/fractional-cto-ai-reshapes-business",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-28T04:28:20.015577"
+    },
+    {
+      "title": "The executive assistant of the future: DonnaPro\u2019s approach to human-AI collaboration",
+      "url": "https://thenextweb.com/news/donnapro-executive-assistant-human-ai-collaboration",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-28T04:28:20.015577"
     }
   ]
 }
