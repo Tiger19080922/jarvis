@@ -433,6 +433,18 @@
         "Beyond the initial MEITY funding for institutional research, what is the go-to-market strategy for commercializing this IISc platform, and what specific steps are being taken to bridge the gap from academic research to a scalable, market-ready product that can attract venture capital?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-29T02:55:52.412892",
+      "headline": "MeitY issues tender for AI agents for DigiLocker and UMANG.",
+      "source_url": "https://www.medianama.com/2026/08/223-meity-ai-agents-digilocker-umang-tender/",
+      "questions": [
+        "Given that Nexus Venture Partners' thesis highlights enterprises wanting software that *acts*, how will MeitY's tender for AI agents on DigiLocker and UMANG ensure these agents move beyond mere suggestions to autonomous action within government workflows?",
+        "What specific technical or bureaucratic hurdles exist in integrating AI agents into existing government platforms like DigiLocker and UMANG that could delay or derail this project, and what is the contingency plan if these hurdles prove insurmountable within the projected timeline?",
+        "Considering this is a government tender and not a VC-backed startup, what mechanisms are in place to ensure the long-term viability and iterative development of these AI agents beyond the initial implementation, especially if government priorities or funding shift?",
+        "How will the success of these AI agents be measured against the stated goal of improving digital services, and what metrics will be used to demonstrate tangible ROI to MeitY, especially given the absence of traditional commercial performance indicators?"
+      ],
+      "answers": []
     }
   ]
 }
