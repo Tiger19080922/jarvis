@@ -445,6 +445,18 @@
         "How will the success of these AI agents be measured against the stated goal of improving digital services, and what metrics will be used to demonstrate tangible ROI to MeitY, especially given the absence of traditional commercial performance indicators?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-29T22:45:35.208588",
+      "headline": "India enacts new IT rules for AI-generated content moderation.",
+      "source_url": "https://indiapolicyhub.org/governance/ai-content-moderation-rules-in-india-navigating-the-2026-it-rules-amendment",
+      "questions": [
+        "Given the new 'Active Moderation' requirement under India's IT Rules 2026, how will your platform, which relies on AI-generated content, specifically differentiate its moderation approach from competitors who will also be subject to these same regulatory obligations?",
+        "What is the projected cost increase for 'Active Moderation' of AI-generated content under the new IT Rules 2026, and how does this impact your current unit economics, especially considering you haven't raised a round yet?",
+        "Considering the broad applicability of the IT Rules 2026 to all 'online platforms and intermediaries operating in India,' what specific technical or operational barrier prevents a well-funded incumbent, already compliant with existing regulations, from replicating your AI content moderation solution within 6-18 months?",
+        "If the interpretation of 'Active Moderation' by MeitY evolves to require human oversight for a significant portion of AI-generated content, what is your contingency plan, and how does that specific event represent a failure mode for your current business model?"
+      ],
+      "answers": []
     }
   ]
 }

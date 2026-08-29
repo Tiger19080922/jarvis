@@ -1,54 +1,6 @@
 {
   "stories": [
     {
-      "title": "MeitY Unveils India AI Governance Guidelines to Promote Safe and Responsible AI Adoption",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2043630",
-      "cat": "POLICY",
-      "date": "2026-08-15T20:49:43.856489"
-    },
-    {
-      "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In August",
-      "url": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-august/",
-      "cat": "FUNDING",
-      "date": "2026-08-15T20:49:43.856489"
-    },
-    {
-      "title": "How Infrastructure Modernization Powers India's AI Growth Trajectory",
-      "url": "https://nasscom.in/blogs/how-infrastructure-modernization-powers-indias-ai-growth-trajectory",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-15T20:49:43.856489"
-    },
-    {
-      "title": "PM Modi Bets On Tech To Empower Youth With AI Skilling, Online Coaching",
-      "url": "https://inc42.com/buzz/pm-modi-bets-on-tech-to-empower-youth-with-ai-skilling-online-coaching/",
-      "cat": "POLICY",
-      "date": "2026-08-15T20:49:43.856489"
-    },
-    {
-      "title": "Global innovation hub to AI skill training for 1 Cr youth: PM Modi outlines nation\u2019s tech ambitions",
-      "url": "https://yourstory.com/2026/08/global-innovation-hub-to-ai-skill-training-for-1-cr-youth-pm-modi-outlines-nations-tech-ambitions",
-      "cat": "POLICY",
-      "date": "2026-08-15T20:49:43.856489"
-    },
-    {
-      "title": "WhatsApp is now using AI to catch scammers before they can trick you",
-      "url": "https://www.livemint.com/technology/tech-news/whatsapp-is-now-using-ai-to-catch-scammers-before-they-can-trick-you-11786668589744.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-15T20:49:43.856489"
-    },
-    {
-      "title": "Peak XV Leads $45 Mn Bet On US-Based AI Code Testing Startup Blacksmith",
-      "url": "https://inc42.com/buzz/peak-xv-leads-45-mn-bet-on-us-based-ai-code-testing-startup-blacksmith/",
-      "cat": "FUNDING",
-      "date": "2026-08-15T20:49:43.856489"
-    },
-    {
-      "title": "Matrimony.com pivots to a commission-based model in wedding services business",
-      "url": "https://www.medianama.com/2026/08/223-matrimony-com-commission-wedding-services/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-15T20:49:43.856489"
-    },
-    {
       "title": "India rolls out governance guidelines to drive safe AI",
       "url": "https://coingeek.com/india-rolls-out-governance-guidelines-to-drive-safe-ai/",
       "cat": "POLICY",
@@ -809,6 +761,18 @@
       "url": "https://www.livemint.com/technology/tech-news/when-ai-learns-to-cheat-how-700-ai-bots-coordinated-openai-hugging-face-breach-tried-to-cover-up-11787809835343.html",
       "cat": "RESEARCH",
       "date": "2026-08-29T02:55:52.411943"
+    },
+    {
+      "title": "AI Content Moderation Rules in India: Navigating the 2026 IT Rules Amendment",
+      "url": "https://indiapolicyhub.org/governance/ai-content-moderation-rules-in-india-navigating-the-2026-it-rules-amendment",
+      "cat": "POLICY",
+      "date": "2026-08-29T22:45:35.207736"
+    },
+    {
+      "title": "How Enterprises Can Build a Scalable AI Strategy in 2026",
+      "url": "https://community.nasscom.in/blogs/how-enterprises-can-build-scalable-ai-strategy-2026",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-29T22:45:35.207736"
     }
   ]
 }
