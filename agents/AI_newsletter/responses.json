@@ -457,6 +457,18 @@
         "If the interpretation of 'Active Moderation' by MeitY evolves to require human oversight for a significant portion of AI-generated content, what is your contingency plan, and how does that specific event represent a failure mode for your current business model?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-08-30T22:55:16.005129",
+      "headline": "40% of large organizations are now scaling agentic AI.",
+      "source_url": "https://www.livemint.com/technology/nearly-32-of-organizations-decide-to-build-in-house-software-using-ai-coding-agents-over-purchases-mckinsey-11788076917651.html",
+      "questions": [
+        "Given that 40% of large organizations are scaling agentic AI, what specific, defensible moat does your company possess that prevents a well-funded competitor from replicating your solution within 6-18 months, especially since the underlying technology is becoming commoditized?",
+        "If McKinsey's 'The state of AI in 2026' report indicates a broad market shift towards agentic AI, what specific failure mode unique to your company, beyond general market risk, could lead to its demise in the next 18 months?",
+        "Considering agentic AI is a rapidly scaling technology as per McKinsey, how do you ensure your unit economics are sustainable at scale and not solely subsidized by the current funding round, particularly if customer acquisition costs rise or churn increases?",
+        "The McKinsey report highlights a significant increase in agentic AI adoption. What makes your team uniquely positioned *in India*, right now, to capture this market opportunity when global consulting firms like McKinsey are documenting this trend, implying broad awareness and potential for established players to enter?"
+      ],
+      "answers": []
     }
   ]
 }

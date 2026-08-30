@@ -1,24 +1,6 @@
 {
   "stories": [
     {
-      "title": "India rolls out governance guidelines to drive safe AI",
-      "url": "https://coingeek.com/india-rolls-out-governance-guidelines-to-drive-safe-ai/",
-      "cat": "POLICY",
-      "date": "2026-08-16T20:49:29.844700"
-    },
-    {
-      "title": "PM Modi ties India's AI ambition to skills, chips, compute and power",
-      "url": "https://www.dqindia.com/pm-modi-ties-indias-ai-ambition-to-skills-chips-compute-and-power/",
-      "cat": "POLICY",
-      "date": "2026-08-16T20:49:29.844700"
-    },
-    {
-      "title": "PM Modi\u2019s AI bet: Train 1 crore youth in one year",
-      "url": "https://yourstory.com/2026/08/pm-modis-ai-bet-train-1-crore-youth-in-one-year",
-      "cat": "POLICY",
-      "date": "2026-08-16T20:49:29.844700"
-    },
-    {
       "title": "Lenskart rolls out AI self-eye testing, raising privacy concerns",
       "url": "https://www.medianama.com/2026/08/223-lenskart-ai-eye-testing-privacy-concerns/",
       "cat": "ENTERPRISE",
@@ -773,6 +755,48 @@
       "url": "https://community.nasscom.in/blogs/how-enterprises-can-build-scalable-ai-strategy-2026",
       "cat": "ENTERPRISE",
       "date": "2026-08-29T22:45:35.207736"
+    },
+    {
+      "title": "Nearly 32% of organizations decide to build in-house software using AI coding agents over purchases: McKinsey",
+      "url": "https://www.livemint.com/technology/nearly-32-of-organizations-decide-to-build-in-house-software-using-ai-coding-agents-over-purchases-mckinsey-11788076917651.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-30T22:55:16.003942"
+    },
+    {
+      "title": "AssessPrep turns test scores into data schools can use; VC inflow into startups sees marginal rise",
+      "url": "https://yourstory.com/2026/08/assessprep-data-schools-can-use-marginal-rise-in-vc-inflow",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-30T22:55:16.003942"
+    },
+    {
+      "title": "Can a cheek swab screen for 7,442 genetic disorders?",
+      "url": "https://yourstory.com/2026/08/can-a-cheek-swab-screen-for-7442-genetic-disorders",
+      "cat": "RESEARCH",
+      "date": "2026-08-30T22:55:16.003942"
+    },
+    {
+      "title": "Trust levels for generative AI drops below 40%, yet consumers rely on AI product advice: McKinsey",
+      "url": "https://www.livemint.com/technology/trust-levels-for-generative-ai-drops-below-40-yet-consumers-rely-on-ai-product-advice-mckinsey-11788064906620.html",
+      "cat": "RESEARCH",
+      "date": "2026-08-30T22:55:16.003942"
+    },
+    {
+      "title": "Publications - Kotak IISc AI\u2013ML Centre - Indian Institute of Science",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpX5S-GBauv2MDiVfhlkBpFwuyLUiSaenhUH4_kHz63XMurqRUDoz5Ex_AshNibyWcmZ9qJC59IKY1HpaY4KzLb_6hxJqjVesd0I62r3HSUN7G-BxmvdZ5r2zqKe_y0cPUGKzmeTwJq-k=c",
+      "cat": "RESEARCH",
+      "date": "2026-08-30T22:55:16.003942"
+    },
+    {
+      "title": "Publications - Vision and AI Lab",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUY3TzoeALt2aHRbBL1ufpwBTRZif-cB9Be5R_F6el0gCbMA6AfSSywN0WHmFVgOrbyEd91_En98j4KrH4gyMWevMeDVly8p8GMxQ4Y3n3YwlMjxfnzq2ajqCa-tvYTxRIRMOgez4Q",
+      "cat": "RESEARCH",
+      "date": "2026-08-30T22:55:16.003942"
+    },
+    {
+      "title": "Myntra Tech Threads 2026 brings brands together to discuss tech-led fashion, beauty and lifestyle commerce",
+      "url": "https://yourstory.com/2026/08/myntra-tech-threads-2026-brings-brands-together-discuss-tech-led-fashion-commerce",
+      "cat": "ENTERPRISE",
+      "date": "2026-08-30T22:55:16.003942"
     }
   ]
 }
