@@ -469,6 +469,18 @@
         "The McKinsey report highlights a significant increase in agentic AI adoption. What makes your team uniquely positioned *in India*, right now, to capture this market opportunity when global consulting firms like McKinsey are documenting this trend, implying broad awareness and potential for established players to enter?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-01T00:01:44.591234",
+      "headline": "India proposes 3-hour deadline for removing unlawful AI-generated content.",
+      "source_url": "https://www.livemint.com/technology/tech-news/india-proposes-cutting-ai-content-takedown-deadline-from-36-hours-to-just-3-hours-11691403437037.html",
+      "questions": [
+        "If the Indian government mandates a 3-hour takedown for unlawful AI-generated content, what specific technological capabilities does your platform possess to identify and remove such content within that stringent timeframe, and how does this differ from competitors who will face the same regulatory pressure?",
+        "Given that the IT Rules amendments are effective February 20, 2026, what is your go-to-market strategy to ensure compliance and build a defensible moat around your AI content moderation solution before this deadline, considering the significant operational overhead?",
+        "Beyond the regulatory push, what is the underlying market demand for a 3-hour AI content takedown service that justifies building a business around this specific compliance requirement, especially if enforcement proves inconsistent?",
+        "How will your business model scale to absorb the operational costs associated with real-time, 24/7 monitoring and takedown processes required by these new rules, and what are the projected unit economics at scale?"
+      ],
+      "answers": []
     }
   ]
 }

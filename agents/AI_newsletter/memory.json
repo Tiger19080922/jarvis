@@ -1,30 +1,6 @@
 {
   "stories": [
     {
-      "title": "Lenskart rolls out AI self-eye testing, raising privacy concerns",
-      "url": "https://www.medianama.com/2026/08/223-lenskart-ai-eye-testing-privacy-concerns/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-17T20:55:57.465233"
-    },
-    {
-      "title": "Indian deeptech investments reach $11.4B: Report",
-      "url": "https://yourstory.com/2026/08/indian-deeptech-investments-reach-114-billion-report",
-      "cat": "FUNDING",
-      "date": "2026-08-17T20:55:57.465233"
-    },
-    {
-      "title": "Groq closes $350M Series A at $3.5bn evaluation and Nvidia joins the round",
-      "url": "https://thenextweb.com/news/groq-3-5bn-valuation-funding-round",
-      "cat": "FUNDING",
-      "date": "2026-08-17T20:55:57.465233"
-    },
-    {
-      "title": "QpiAI opens \u2018Asia\u2019s largest\u2019 quantum chip foundry, targets 10,000-qubit processors",
-      "url": "https://yourstory.com/2026/08/qpiai-asia-largest-quantum-chip-foundry-targets-10000-qubit-processors",
-      "cat": "RESEARCH",
-      "date": "2026-08-17T20:55:57.465233"
-    },
-    {
       "title": "Razorpay Launches AI Foundation Model Vulcan To Expedite Digital Payments",
       "url": "https://inc42.com/buzz/razorpay-launches-ai-foundation-model-vulcan-to-expedite-digital-payments/",
       "cat": "RESEARCH",
@@ -797,6 +773,36 @@
       "url": "https://yourstory.com/2026/08/myntra-tech-threads-2026-brings-brands-together-discuss-tech-led-fashion-commerce",
       "cat": "ENTERPRISE",
       "date": "2026-08-30T22:55:16.003942"
+    },
+    {
+      "title": "India proposes cutting AI content takedown deadline from 36 hours to just 3 hours",
+      "url": "https://www.livemint.com/technology/tech-news/india-proposes-cutting-ai-content-takedown-deadline-from-36-hours-to-just-3-hours-11691403437037.html",
+      "cat": "POLICY",
+      "date": "2026-09-01T00:01:44.589974"
+    },
+    {
+      "title": "Inside India\u2019s quest to build a sovereign AI chip",
+      "url": "https://www.livemint.com/technology/india-first-ai-chip-cdac-11788173944541.html",
+      "cat": "POLICY",
+      "date": "2026-09-01T00:01:44.589974"
+    },
+    {
+      "title": "From theory to practice: building customer agents with Google's no-code tools",
+      "url": "https://yourstory.com/2026/08/-theory-practice-building-customer-agents-googles-no-code-tools",
+      "cat": "RESEARCH",
+      "date": "2026-09-01T00:01:44.589974"
+    },
+    {
+      "title": "How new broadcast technology is changing the way fans watch cricket",
+      "url": "https://yourstory.com/2026/08/how-new-broadcast-technology-is-changing-the-way-fans-watch-cricket",
+      "cat": "RESEARCH",
+      "date": "2026-09-01T00:01:44.589974"
+    },
+    {
+      "title": "Meta AI glasses will stop recording if capture LED is covered",
+      "url": "https://www.medianama.com/2026/08/223-meta-ai-glasses-recording-capture-led/",
+      "cat": "RESEARCH",
+      "date": "2026-09-01T00:01:44.589974"
     }
   ]
 }
