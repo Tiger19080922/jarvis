@@ -481,6 +481,18 @@
         "How will your business model scale to absorb the operational costs associated with real-time, 24/7 monitoring and takedown processes required by these new rules, and what are the projected unit economics at scale?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-01T22:46:32.287947",
+      "headline": "India allocates \u20b9275 crore to C-DAC for sovereign AI chip development.",
+      "source_url": "https://www.livemint.com/technology/india-first-ai-chip-cdac-11788173944541.html",
+      "questions": [
+        "Given the \u20b9275 crore allocated for FY26 and a total project budget of \u20b91,900 crore, what specific milestones must C-DAC achieve in this fiscal year to justify continued investment and stay on track for a 2029 production-ready chip?",
+        "With the stated goal of a 'sovereign AI chip,' how does C-DAC plan to differentiate its technology and architecture from existing global leaders like NVIDIA or AMD, especially considering the significant lead those companies have in R&D and manufacturing scale?",
+        "What are the primary risks associated with C-DAC's reliance on domestic R&D and manufacturing capabilities for a cutting-edge technology like AI chips, and what contingency plans are in place if global supply chains or technological advancements outpace domestic development?",
+        "Beyond the government allocation, what is C-DAC's strategy for attracting and retaining the highly specialized talent required for advanced AI chip design and fabrication, particularly when competing with the private sector globally?"
+      ],
+      "answers": []
     }
   ]
 }

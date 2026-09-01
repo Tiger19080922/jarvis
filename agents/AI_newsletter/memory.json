@@ -1,96 +1,6 @@
 {
   "stories": [
     {
-      "title": "Razorpay Launches AI Foundation Model Vulcan To Expedite Digital Payments",
-      "url": "https://inc42.com/buzz/razorpay-launches-ai-foundation-model-vulcan-to-expedite-digital-payments/",
-      "cat": "RESEARCH",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
-      "title": "Rezolv Bags $12.5 Mn To Expand AI-Powered Lending Suite",
-      "url": "https://inc42.com/buzz/rezolv-bags-12-5-mn-to-expand-ai-powered-lending-suite/",
-      "cat": "FUNDING",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
-      "title": "Lend-tech firm Rezolv raises $12.5M funding led by Norwest",
-      "url": "https://yourstory.com/2026/08/lend-tech-firm-rezolv-raises-12-million-funding-round-led-by-norwest",
-      "cat": "FUNDING",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
-      "title": "Peak XV Partners, Together Fund Join Voice AI Unicorn Wispr Flow\u2019s Cap Table",
-      "url": "https://inc42.com/buzz/peak-xv-partners-together-fund-join-voice-ai-unicorn-wispr-flows-cap-table/",
-      "cat": "FUNDING",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
-      "title": "AI infrastructure, not algorithms, emerging as key AI growth constraint: Nvidias Jensen Huang",
-      "url": "https://www.livemint.com/technology/ai-infrastructure-not-algorithms-emerging-as-key-ai-growth-constraint-nvidias-jensen-huang-11787028020862.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
-      "title": "Ecommerce Giants Woo Sellers With AI, Jar\u2019s Troubles & More",
-      "url": "https://inc42.com/buzz/ecommerce-giants-woo-sellers-with-ai-jars-troubles-more/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
-      "title": "Amazon, Flipkart & Meesho\u2019s AI Focus Shifts To Seller-Side Stacks",
-      "url": "https://inc42.com/features/amazon-flipkart-meeshos-ai-focus-shifts-to-seller-side-stacks/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
-      "title": "Why Rubrik believes cyber resilience, not prevention, is the next frontier",
-      "url": "https://yourstory.com/2026/08/why-rubrik-believes-cyber-resilience-not-prevention-is-the-next-frontier",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
-      "title": "AI is helping biodiversity research. Scientists can\u2019t see behind the algorithms",
-      "url": "https://theprint.in/science/ai-is-helping-biodiversity-research-scientists-cant-see-behind-the-algorithms/3017249/",
-      "cat": "RESEARCH",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
-      "title": "ChatGPT to get a massive upgrade in the next 6 months, says Sam Altman \u2014 \u2018Could watch you all the time\u2019",
-      "url": "https://www.livemint.com/technology/tech-news/chatgpt-to-get-a-massive-upgrade-in-the-next-6-months-says-sam-altman-could-watch-you-all-the-time-11787068716398.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
-      "title": "\u2018Godfather of AI\u2019 warns of mass unemployment: Tech firms are \u2018betting on AI replacing a lot of workers\u2019",
-      "url": "https://www.livemint.com/technology/tech-news/godfather-of-ai-geoffrey-hinton-warns-of-mass-unemployment-tech-firms-are-betting-on-ai-replacing-a-lot-of-workers-11786941426915.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
-      "title": "Spotify will label AI artists; India\u2019s rules demand labels on the music too",
-      "url": "https://www.medianama.com/2026/08/223-spotify-ai-persona-label-india/",
-      "cat": "POLICY",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
-      "title": "Claude\u2019s Text Watermarking Will Be Misinterpreted",
-      "url": "https://www.medianama.com/2026/08/223-claudes-text-watermarking-misinterpreted/",
-      "cat": "RESEARCH",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
-      "title": "OpenAI\u2019s ChatGPT for Teenagers is here: Check safety features and how it works",
-      "url": "https://www.livemint.com/technology/openais-chatgpt-for-teenagers-is-here-check-safety-features-and-how-it-works-11787058377395.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
-      "title": "EliseAI is in talks to raise $300mn at a $3.7bn valuation",
-      "url": "https://thenextweb.com/news/eliseai-300m-raise-3-7bn-valuation-a16z-bessemer",
-      "cat": "FUNDING",
-      "date": "2026-08-18T20:52:08.099121"
-    },
-    {
       "title": "Beyond red flags: How AI is redefining financial fraud detection",
       "url": "https://yourstory.com/2026/08/beyond-red-flags-ai-redefining-financial-fraud-detection",
       "cat": "ENTERPRISE",
@@ -803,6 +713,54 @@
       "url": "https://www.medianama.com/2026/08/223-meta-ai-glasses-recording-capture-led/",
       "cat": "RESEARCH",
       "date": "2026-09-01T00:01:44.589974"
+    },
+    {
+      "title": "The race to build India\u2019s first AI chip",
+      "url": "https://www.livemint.com/technology/india-first-ai-chip-cdac-11788173944541.html",
+      "cat": "POLICY",
+      "date": "2026-09-01T22:46:32.286657"
+    },
+    {
+      "title": "EquityList launches AI-native cap table and compliance OS",
+      "url": "https://yourstory.com/2026/08/equitylist-launches-ai-native-cap-table-and-compliance-platform",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-01T22:46:32.286657"
+    },
+    {
+      "title": "OYO parent Prism to launch AI agent for end-to-end hotel operations",
+      "url": "https://www.medianama.com/2026/09/223-oyo-prism-ai-agent-hotel-operations/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-01T22:46:32.286657"
+    },
+    {
+      "title": "India's AI rules may change: Who decides what stays online and what gets removed?",
+      "url": "https://www.livemint.com/technology/tech-news/indias-ai-rules-may-change-who-decides-what-stays-online-and-what-gets-removed-11691317821185.html",
+      "cat": "POLICY",
+      "date": "2026-09-01T22:46:32.286657"
+    },
+    {
+      "title": "NPCI To Launch Agentic Payments On UPI: Report",
+      "url": "https://inc42.com/buzz/npci-to-launch-agentic-payments-on-upi-report/",
+      "cat": "POLICY",
+      "date": "2026-09-01T22:46:32.286657"
+    },
+    {
+      "title": "Anthropic releases Claude Fable 5.1 and Mythos 5.1, cutting cache read prices by 75%",
+      "url": "https://thenextweb.com/news/claude-fable-mythos-5-1-eu-ai-act-watermark-detection-api-private-preview",
+      "cat": "RESEARCH",
+      "date": "2026-09-01T22:46:32.286657"
+    },
+    {
+      "title": "John Deere launches JD, an AI assistant that answers questions from a farm\u2019s own data",
+      "url": "https://thenextweb.com/news/john-deere-jd-ai-assistant-farmer-data-commitment-eu-data-act",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-01T22:46:32.286657"
+    },
+    {
+      "title": "Government of India Promotes AI and Digital Tech Adoption to Boost MSME Productivity",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2029554",
+      "cat": "POLICY",
+      "date": "2026-09-01T22:46:32.286657"
     }
   ]
 }
