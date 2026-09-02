@@ -1,84 +1,6 @@
 {
   "stories": [
     {
-      "title": "Beyond red flags: How AI is redefining financial fraud detection",
-      "url": "https://yourstory.com/2026/08/beyond-red-flags-ai-redefining-financial-fraud-detection",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-19T20:56:43.551251"
-    },
-    {
-      "title": "The Enterprise Fight Against Runaway AI Costs",
-      "url": "https://inc42.com/features/the-enterprise-fight-against-runaway-ai-costs/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-19T20:56:43.551251"
-    },
-    {
-      "title": "DevSparks Chennai returns: Explore AI for the physical world, manufacturing, and deeptech",
-      "url": "https://yourstory.com/2026/08/devsparks-chennai-2026-ai-physical-world-manufacturing-deeptech-developers",
-      "cat": "RESEARCH",
-      "date": "2026-08-19T20:56:43.551251"
-    },
-    {
-      "title": "OpenAI pauses frontier reinforcement learning as rapid AI progress raises safety, alignment concerns",
-      "url": "https://www.livemint.com/technology/openai-pauses-frontier-reinforcement-learning-as-rapid-ai-progress-raises-safety-alignment-concerns-11787107850251.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-19T20:56:43.551251"
-    },
-    {
-      "title": "How AI Helped The Bear House Grow Its Conversions 5X",
-      "url": "https://inc42.com/buzz/how-ai-helped-the-bear-house-grow-its-conversions-5x/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-19T20:56:43.551251"
-    },
-    {
-      "title": "How Manyavar Is Using AI To Take The Guesswork Out Of Retail",
-      "url": "https://inc42.com/buzz/how-manyavar-is-using-ai-to-take-the-guesswork-out-of-retail/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-19T20:56:43.551251"
-    },
-    {
-      "title": "OpenAI updates security policy for frontier model testing after Hugging Face breach",
-      "url": "https://www.medianama.com/2026/08/223-openai-updates-security-hugging-face-breach/",
-      "cat": "RESEARCH",
-      "date": "2026-08-19T20:56:43.551251"
-    },
-    {
-      "title": "Transforming AI Hardware: IISc's Neuromorphic Computing Platform Sets New Benchmark",
-      "url": "https://www.iisc.ac.in/press/transforming-ai-hardware-iisc-neuromorphic-computing-platform-sets-new-benchmark/",
-      "cat": "RESEARCH",
-      "date": "2026-08-19T20:56:43.551251"
-    },
-    {
-      "title": "Designing next generation analog chipsets for AI applications",
-      "url": "https://www.iisc.ac.in/designing-next-generation-analog-chipsets-for-ai-applications/",
-      "cat": "RESEARCH",
-      "date": "2026-08-19T20:56:43.551251"
-    },
-    {
-      "title": "ChatGPT for Teens: How OpenAI defines \u2018age-appropriate\u2019 AI use",
-      "url": "https://www.medianama.com/2026/08/223-chatgpt-teens-openai-age-appropriate/",
-      "cat": "POLICY",
-      "date": "2026-08-19T20:56:43.551251"
-    },
-    {
-      "title": "Who shares AI signals & should online platforms fall under TRAI\u2019s anti-spam rules? #NAMA",
-      "url": "https://www.medianama.com/2026/08/223-platforms-trai-anti-spam-rules/",
-      "cat": "POLICY",
-      "date": "2026-08-19T20:56:43.551251"
-    },
-    {
-      "title": "Factbox-Authorities restricting data centres amid AI boom",
-      "url": "https://www.livemint.com/technology/factboxauthorities-restricting-data-centres-amid-ai-boom-11787088961119.html",
-      "cat": "POLICY",
-      "date": "2026-08-19T20:56:43.551251"
-    },
-    {
-      "title": "Flock built an AI tool that lets police search for people by how they drive",
-      "url": "https://thenextweb.com/news/flock-os-investigate-ai-police-search",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-19T20:56:43.551251"
-    },
-    {
       "title": "Indias AI strength lies in applications, data centres, digital infrastructure: Vaishnaw to Morgan Stanleys Ridham Desai",
       "url": "https://www.livemint.com/technology/indias-ai-strength-lies-in-applications-data-centres-digital-infrastructure-vaishnaw-to-morgan-stanleys-ridham-desai-11787206241187.html",
       "cat": "ENTERPRISE",
@@ -761,6 +683,36 @@
       "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2029554",
       "cat": "POLICY",
       "date": "2026-09-01T22:46:32.286657"
+    },
+    {
+      "title": "Salaries rise for tech professionals with AI skills, but dip or stagnate for those in traditional IT roles: Study",
+      "url": "https://yourstory.com/2026/09/salaries-rise-for-ai-skills-dip-stagnate-for-traditional-it-roles-foundit-study",
+      "cat": "RESEARCH",
+      "date": "2026-09-02T22:48:36.060588"
+    },
+    {
+      "title": "The Ad Break Comes To AI",
+      "url": "https://inc42.com/features/the-ad-break-comes-to-ai/",
+      "cat": "OTHER",
+      "date": "2026-09-02T22:48:36.060588"
+    },
+    {
+      "title": "How the Unacademy-upGrad deal unfolded; Why AI could push India\u2019s ER&D revenue past $100B",
+      "url": "https://yourstory.com/2026/09/unacademy-upgrad-deal-ai-could-push-india-erd-revenue",
+      "cat": "RESEARCH",
+      "date": "2026-09-02T22:48:36.060588"
+    },
+    {
+      "title": "Advertising is coming to AI. Regulators should prepare now",
+      "url": "https://www.medianama.com/2026/09/223-chatgpt-ads-india-ai-advertising-regulation/",
+      "cat": "POLICY",
+      "date": "2026-09-02T22:48:36.060588"
+    },
+    {
+      "title": "Adobe Acquires Peak XV-Backed AI Martech Startup Rilo",
+      "url": "https://inc42.com/buzz/adobe-acquires-peak-xv-backed-ai-martech-startup-rilo/",
+      "cat": "FUNDING",
+      "date": "2026-09-02T22:48:36.060588"
     }
   ]
 }
