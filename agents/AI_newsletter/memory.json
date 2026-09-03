@@ -1,60 +1,6 @@
 {
   "stories": [
     {
-      "title": "Indias AI strength lies in applications, data centres, digital infrastructure: Vaishnaw to Morgan Stanleys Ridham Desai",
-      "url": "https://www.livemint.com/technology/indias-ai-strength-lies-in-applications-data-centres-digital-infrastructure-vaishnaw-to-morgan-stanleys-ridham-desai-11787206241187.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-20T20:58:34.743714"
-    },
-    {
-      "title": "Google rolls out AI-powered learning tools for students to prep for competitive exams",
-      "url": "https://yourstory.com/2026/08/google-ai-powered-learning-tools-students-test-prep",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-20T20:58:34.743714"
-    },
-    {
-      "title": "Report: Experts claim AI was used to draft questions in NET exams",
-      "url": "https://www.medianama.com/2026/08/223-ai-questions-net-exams/",
-      "cat": "POLICY",
-      "date": "2026-08-20T20:58:34.743714"
-    },
-    {
-      "title": "KshatraLabs is building a drone that catches other drones",
-      "url": "https://yourstory.com/2026/08/kshatralabs-drone-interceptor",
-      "cat": "OTHER",
-      "date": "2026-08-20T20:58:34.743714"
-    },
-    {
-      "title": "ASTRA Drones is building an interceptor to catch other drones in the air",
-      "url": "https://yourstory.com/2026/08/astra-drones-drone-interceptors",
-      "cat": "OTHER",
-      "date": "2026-08-20T20:58:34.743714"
-    },
-    {
-      "title": "Next phase of enterprise AI not about deploying models, but managing their evolution: Report",
-      "url": "https://www.livemint.com/technology/next-phase-of-enterprise-ai-not-about-deploying-models-but-managing-their-evolution-report-11787212375363.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-20T20:58:34.743714"
-    },
-    {
-      "title": "Google launches NEET, JEE, GRE prep tools; Sundar Pichai announces \u2018free AI subscriptions for college students\u2019",
-      "url": "https://www.livemint.com/technology/tech-news/google-launches-neet-jee-gre-prep-tools-sundar-pichai-announces-free-ai-subscriptions-for-college-students-gemini-11787196130468.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-20T20:58:34.743714"
-    },
-    {
-      "title": "Fundamentals first: Arsh Goyal warns against vibe coding without security basics",
-      "url": "https://yourstory.com/2026/08/fundamentals-first-arsh-goyal-warns-against-vibe-coding-without-security-basics-",
-      "cat": "RESEARCH",
-      "date": "2026-08-20T20:58:34.743714"
-    },
-    {
-      "title": "'Not every student has...' OpenAI APAC chief Kiran Mani says ChatGPT for Teens launch 'felt deeply personal'",
-      "url": "https://www.livemint.com/technology/not-every-student-has-openai-apac-chief-kiran-mani-says-chatgpt-for-teens-launch-felt-deeply-personal-11787128598921.html",
-      "cat": "OTHER",
-      "date": "2026-08-20T20:58:34.743714"
-    },
-    {
       "title": "PhysicsWallah to launch personal AI tutoring services by next quarter",
       "url": "https://www.medianama.com/2026/08/223-physicswallah-personal-ai-tutoring-services/",
       "cat": "ENTERPRISE",
@@ -713,6 +659,96 @@
       "url": "https://inc42.com/buzz/adobe-acquires-peak-xv-backed-ai-martech-startup-rilo/",
       "cat": "FUNDING",
       "date": "2026-09-02T22:48:36.060588"
+    },
+    {
+      "title": "Coworker.ai launches OM2, an organizational memory layer promising to slash enterprise AI token burn by 9x",
+      "url": "https://thenextweb.com/news/coworker-ai-om2-organizational-memory-token-costs",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "Sarvam AI becomes unicorn after raising $234M as India doubles down on home-grown AI",
+      "url": "https://www.livemint.com/companies/news/sarvam-ai-becomes-unicorn-after-raising-234m-as-india-doubles-down-on-home-grown-ai-11718522371408.html",
+      "cat": "FUNDING",
+      "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "As Enterprise AI Starts Charging For Work, Owning The Outcomes Becomes The Contest",
+      "url": "https://inc42.com/resources/as-enterprise-ai-starts-charging-for-work-owning-the-outcomes-becomes-the-contest/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "AMD, Delhi University partner to train 10,000 students in AI",
+      "url": "https://yourstory.com/2026/09/amd-delhi-university-partner-to-train-10000-students-in-ai",
+      "cat": "RESEARCH",
+      "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "India must counter AI censorship and exclusion with fairer sovereign data",
+      "url": "https://www.medianama.com/2026/09/223-india-ai-censorship-sovereign-data/",
+      "cat": "POLICY",
+      "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "Krutrim shifts focus to AI cloud services, reports strong financial performance",
+      "url": "https://entrackr.com/2026/05/krutrim-pivots-to-ai-cloud-clocks-rs-300-cr-revenue-in-fy26/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "Government-school teachers are ready for AI, survey finds",
+      "url": "https://yourstory.com/2026/09/government-school-teachers-ai-readiness-janai-survey",
+      "cat": "RESEARCH",
+      "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "Indian employees are taking the lead in defining the future of work: Microsoft study",
+      "url": "https://yourstory.com/2026/09/indian-employees-are-taking-the-lead-in-defining-the-future-of-work-microsoft-study",
+      "cat": "RESEARCH",
+      "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "IIT M and CMC Vellore are building a kidney\u2019s \u2018digital twin\u2019. It will catch diseases early",
+      "url": "https://theprint.in/science/iit-madras-cmc-vellore-kidney-disease-ai-digital-twin/3032755/",
+      "cat": "RESEARCH",
+      "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "Why video is the first frontier as AI learns to read the physical world",
+      "url": "https://thenextweb.com/news/video-first-frontier-ai-physical-world-lumana",
+      "cat": "RESEARCH",
+      "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "Tiny AI accelerator that compresses brain signals to enable scalable brain\u2013computer interfaces",
+      "url": "https://indianexpress.com/article/technology/science/tiny-ai-accelerator-compresses-brain-signals-brain-computer-interfaces-9504055/",
+      "cat": "RESEARCH",
+      "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "BITS Pilani-incubated Apollyon Dynamics sets new speed record in India with 498 km/h interceptor drone",
+      "url": "https://yourstory.com/2026/09/bits-pilani-incubated-apollyon-dynamics-sets-india-record-with-498-kmh-interceptor-drone",
+      "cat": "RESEARCH",
+      "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "September 2026 Android drop: 5 features for making life easier - Remember where you put things, ease motion sickness",
+      "url": "https://www.livemint.com/technology/tech-news/android-september-update-gemini-can-now-remember-where-you-put-things-motion-assist-and-more-11788324837780.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "Balancing capabilities and safeguards crucial for next-gen AI models, says Sam Altman",
+      "url": "https://www.livemint.com/technology/balancing-capabilities-and-safeguards-crucial-for-next-gen-ai-models-says-sam-altman-11788318928195.html",
+      "cat": "RESEARCH",
+      "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "Sam Altman says AI developers have fumbled at communicating the technology\u2019s benefits",
+      "url": "https://thenextweb.com/news/altman-says-industry-fumbled-communicating-ai-benefits-data-centre-backlash-europe-grid-eed-reporting",
+      "cat": "RESEARCH",
+      "date": "2026-09-03T22:46:40.421850"
     }
   ]
 }

@@ -505,6 +505,18 @@
         "Beyond salary increases, what are the key non-monetary factors driving AI professionals' career choices in India, and how is Foundit.com addressing these to ensure long-term engagement?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-03T22:46:40.423228",
+      "headline": "Coworker.ai launched OM2, reducing AI query costs by nine times.",
+      "source_url": "https://thenextweb.com/news/coworker-ai-om2-organizational-memory-token-costs",
+      "questions": [
+        "Given that OM2 reduces AI query costs by nine times, how does Coworker.ai ensure this cost reduction translates directly to improved unit economics and not just a higher gross margin that can be eroded by future R&D spend?",
+        "With $16.5 million raised to date, and assuming a standard Seed-to-Series A runway of 18-24 months, how does Coworker.ai plan to achieve the customer adoption and revenue scale necessary to justify a Series A valuation, particularly when competitors can leverage similar foundational AI models?",
+        "Jeff Huber's involvement at Triatomic Capital suggests a focus on deep tech; what specific technological moat has Coworker.ai built with OM2 that prevents a well-funded competitor from replicating the nine-fold cost reduction within 12-18 months?",
+        "Ramtin Naimi's Abstract Ventures typically invests in early-stage B2B SaaS; given the competitive landscape of enterprise AI agents, what specific customer segment or workflow is Coworker.ai uniquely positioned to dominate, and what evidence exists that this segment is underserved by current solutions?"
+      ],
+      "answers": []
     }
   ]
 }
