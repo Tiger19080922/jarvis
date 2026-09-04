@@ -1,78 +1,6 @@
 {
   "stories": [
     {
-      "title": "PhysicsWallah to launch personal AI tutoring services by next quarter",
-      "url": "https://www.medianama.com/2026/08/223-physicswallah-personal-ai-tutoring-services/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-21T20:51:43.046454"
-    },
-    {
-      "title": "PM Modi Urges Secretaries to Use AI and Bring Youth into Policymaking",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfkb4Adb1QKl_a5ZFH_VoRvOnj6ftxQGeg4Y4tS3Ep-E9bZiUPRHtbJx8auNy0siz7iPfIcsLWipapl_1Ssodf9EOd17zZ6G_EhsLgd1U5hcd3autw1mGErj9ewc9xjRQdXPKrTCfatnZbg6-ymp9iMGVVkrj7F7QEExYibAW7ZTJBodd0ytB7ZZ1EHnQUXqzpoe9Fce_Wz7fptQ==",
-      "cat": "POLICY",
-      "date": "2026-08-21T20:51:43.046454"
-    },
-    {
-      "title": "KEO launch to take AI computing to every government school in Karnataka",
-      "url": "https://www.aninews.in/news/national/kej-launch-to-take-ai-computing-to-every-government-school-in-karnataka-cm-shivakumar20260821223640",
-      "cat": "POLICY",
-      "date": "2026-08-21T20:51:43.046454"
-    },
-    {
-      "title": "Government Constitutes AI Governance and Economic Group (AIGEG)",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2028489",
-      "cat": "POLICY",
-      "date": "2026-08-21T20:51:43.046454"
-    },
-    {
-      "title": "Karnataka govt launches low cost AI computing device KEO",
-      "url": "https://yourstory.com/2026/08/karnataka-govt-launches-low-cost-ai-computing-device-keo",
-      "cat": "POLICY",
-      "date": "2026-08-21T20:51:43.046454"
-    },
-    {
-      "title": "Two 21-year-olds built an AI that runs online stores",
-      "url": "https://thenextweb.com/news/siml-ai-runs-online-stores-agentic-commerce",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-21T20:51:43.046454"
-    },
-    {
-      "title": "Google Rolls Out AI-Powered JEE, NEET Preparation Tools",
-      "url": "https://inc42.com/buzz/google-rolls-out-ai-powered-jee-neet-preparation-tools/",
-      "cat": "RESEARCH",
-      "date": "2026-08-21T20:51:43.046454"
-    },
-    {
-      "title": "Six strategic takeaways from MakeMyTrip\u2019s Q1 FY27 earnings call",
-      "url": "https://www.medianama.com/2026/08/223-makemytrip-ai-myra2-0-bookingq1-fy27-earnings-call/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-21T20:51:43.046454"
-    },
-    {
-      "title": "IIMA Healthcare Summit 2026 to focus on Advancing AI in Healthcare",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2044742",
-      "cat": "RESEARCH",
-      "date": "2026-08-21T20:51:43.046454"
-    },
-    {
-      "title": "SUSE Women in Technology event: Why AI\u2019s next opportunity is also a leadership test",
-      "url": "https://yourstory.com/2026/08/suse-women-in-technology-event-why-ais-next-opportunity-is-also-a-leadership-test",
-      "cat": "OTHER",
-      "date": "2026-08-21T20:51:43.046454"
-    },
-    {
-      "title": "Anthropic will give defenders what its strongest model finds, but not the model itself",
-      "url": "https://thenextweb.com/news/anthropic-mythos-5-defenders-open-source-fund",
-      "cat": "RESEARCH",
-      "date": "2026-08-21T20:51:43.046454"
-    },
-    {
-      "title": "Anthropic\u2019s enterprise venture has bought its second consultancy in four months",
-      "url": "https://thenextweb.com/news/anthropic-ode-acquires-casper-studios-enterprise-ai",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-21T20:51:43.046454"
-    },
-    {
       "title": "AI volumes may outweigh revenue deflation for IT sector by FY30: Report",
       "url": "https://www.livemint.com/technology/ai-volumes-may-outweigh-revenue-deflation-for-it-sector-by-fy30-report-11787386080208.html",
       "cat": "ENTERPRISE",
@@ -749,6 +677,36 @@
       "url": "https://thenextweb.com/news/altman-says-industry-fumbled-communicating-ai-benefits-data-centre-backlash-europe-grid-eed-reporting",
       "cat": "RESEARCH",
       "date": "2026-09-03T22:46:40.421850"
+    },
+    {
+      "title": "NVIDIA confirms it will acquire Hugging Face for $12.9 billion",
+      "url": "https://www.medianama.com/2026/09/223-nvidia-hugging-face-12-9-billion/",
+      "cat": "OTHER",
+      "date": "2026-09-04T22:30:01.369607"
+    },
+    {
+      "title": "Google Cloud Startup Summit to explore how agentic AI can reshape startup growth",
+      "url": "https://yourstory.com/2026/09/google-cloud-startup-summit-to-explore-how-agentic-ai-can-reshape-startup-growth",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-04T22:30:01.369607"
+    },
+    {
+      "title": "Cradlewise raises $12 million to make AI cribs for newborns: What about DPDP compliance?",
+      "url": "https://www.medianama.com/2026/09/223-cradlewise-ai-cribs-newborns/",
+      "cat": "FUNDING",
+      "date": "2026-09-04T22:30:01.369607"
+    },
+    {
+      "title": "Get AI to work on your terms: Microsoft's Puneet Chandok on navigating the modern tech race",
+      "url": "https://yourstory.com/2026/09/get-ai-to-work-on-your-terms-microsoft-puneet-chandok",
+      "cat": "OTHER",
+      "date": "2026-09-04T22:30:01.369607"
+    },
+    {
+      "title": "SEMI India CEO says India has much to gain from AI-driven global chip shortage. But there\u2019s a hitch",
+      "url": "https://theprint.in/india/semi-india-ceo-says-india-has-much-to-gain-from-ai-driven-global-chip-shortage-but-theres-a-hitch/3033105/",
+      "cat": "OTHER",
+      "date": "2026-09-04T22:30:01.369607"
     }
   ]
 }

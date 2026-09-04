@@ -517,6 +517,18 @@
         "Ramtin Naimi's Abstract Ventures typically invests in early-stage B2B SaaS; given the competitive landscape of enterprise AI agents, what specific customer segment or workflow is Coworker.ai uniquely positioned to dominate, and what evidence exists that this segment is underserved by current solutions?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-04T22:30:01.370879",
+      "headline": "NVIDIA acquired Hugging Face for $12.93 billion.",
+      "source_url": "https://www.medianama.com/2026/09/223-nvidia-hugging-face-12-9-billion/",
+      "questions": [
+        "Given Hugging Face's previous $4.5 billion valuation in August 2023, what specific strategic shifts or uncaptured market potential did NVIDIA identify that justified the $12.93 billion acquisition price just months later?",
+        "NVIDIA's participation in Hugging Face's Series D round suggests they saw value prior to the acquisition; how did Hugging Face's product roadmap or competitive positioning change between August 2023 and the acquisition to warrant a nearly 3x valuation increase?",
+        "If Hugging Face is the 'GitHub for AI,' what specific technical or community lock-in mechanisms did they possess that NVIDIA believed would be difficult for competitors like AMD or Intel to replicate or circumvent, even with significant capital?",
+        "Considering the $235 million raised in Series D was intended for growth, what specific growth levers did Hugging Face fail to pull effectively that necessitated an acquisition by NVIDIA rather than continued independent scaling?"
+      ],
+      "answers": []
     }
   ]
 }
