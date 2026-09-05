@@ -1,42 +1,6 @@
 {
   "stories": [
     {
-      "title": "AI volumes may outweigh revenue deflation for IT sector by FY30: Report",
-      "url": "https://www.livemint.com/technology/ai-volumes-may-outweigh-revenue-deflation-for-it-sector-by-fy30-report-11787386080208.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-22T20:50:28.338307"
-    },
-    {
-      "title": "OpenAI slashes GPT-5.6 Sol API pricing by over 20% \u2014 Developers can now access it at  \u20b9380 only",
-      "url": "https://www.livemint.com/technology/apps/openai-slashes-gpt-5-6-sol-api-pricing-by-over-20-developers-can-now-access-it-at-rs-380-only-11787402625527.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-22T20:50:28.338307"
-    },
-    {
-      "title": "IISc Bengaluru's AI Challenge for Early Detection of Cognitive Decline",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf2QK5XDPVlQKyDVX7LT68J3tnoyjF06fMGF8CI3jvXK5h4gj_TsrYIDwHzFk4zOxGUUCSvG3qgLBF_s24ziOwm3tZklm9gyrxhBE1HZmTgBiJM2PrEqIwuiNn2m-13krQ9_gODYT7gy6BqmsDHsQsF4U-Vs9zpd6qrSFiGy1wCDQbqliOjpxlTxhjd9O21qcWn7acYA==",
-      "cat": "RESEARCH",
-      "date": "2026-08-22T20:50:28.338307"
-    },
-    {
-      "title": "Apollo finds AI is hitting paychecks rather than payrolls",
-      "url": "https://thenextweb.com/news/apollo-ai-wage-growth-not-job-losses-study",
-      "cat": "RESEARCH",
-      "date": "2026-08-22T20:50:28.338307"
-    },
-    {
-      "title": "This startup is training an AI model on skin that stays alive for a month",
-      "url": "https://thenextweb.com/news/outer-biosciences-living-human-skin-ai-model",
-      "cat": "RESEARCH",
-      "date": "2026-08-22T20:50:28.338307"
-    },
-    {
-      "title": "New AI Research Papers on arXiv (August 10-12, 2026)",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ67TO0aC1XT1ddwYJlI-CidNs_C7wOOcXIl6483RBVf1lbCzcV24syQ5plvFJvyjHTIdhb2DAxDbqLRlVnKmuw8X_PiIHSMVyI2OE-S7dBZFa3_9UYZxnXBKHg_gS64mmwUt9C4PoEOK5JPVmt2jfsNrc",
-      "cat": "RESEARCH",
-      "date": "2026-08-22T20:50:28.338307"
-    },
-    {
       "title": "Harvey\u2019s first in-house model for legal work is here",
       "url": "https://thenextweb.com/news/harvey-tenet-legal-model-kimi-k3-chinese-base",
       "cat": "ENTERPRISE",
@@ -707,6 +671,54 @@
       "url": "https://theprint.in/india/semi-india-ceo-says-india-has-much-to-gain-from-ai-driven-global-chip-shortage-but-theres-a-hitch/3033105/",
       "cat": "OTHER",
       "date": "2026-09-04T22:30:01.369607"
+    },
+    {
+      "title": "Sarvam AI has secured $75 million in fresh funding, marking a major milestone for homegrown artificial intelligence.",
+      "url": "https://profit.theindirect.co/news/sarvam-ai-has-secured-75-million-in-fresh-funding-marking-a-major-milestone-for-homegrown-artificial-intelligence-as-investment-in-ai-continues-to-grow-indian-startups-are-proving-they-can-compete-and-innovate-on-the-global-stage",
+      "cat": "FUNDING",
+      "date": "2026-09-05T22:12:24.536400"
+    },
+    {
+      "title": "TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad",
+      "url": "https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-05T22:12:24.536400"
+    },
+    {
+      "title": "Agentic AI could automate 80% of routine treasury work, leave strategic decisions to humans: EY",
+      "url": "https://www.livemint.com/technology/agentic-ai-could-automate-80-of-routine-treasury-work-leave-strategic-decisions-to-humans-ey-11788496812034.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-05T22:12:24.536400"
+    },
+    {
+      "title": "AI creator platform Creedom raises Rs 4.1 crore in funding at Rs 42 crore valuation",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvHCfYnBOTSDrccQcD73RyU1qg6Ta7DgXNG-gAKlIa10sxXPEPvWvRPdjkAiVFNEs3C5SXjnTf3Q0fWrNTsq1gNswqxwwXQz6K-1RjB5WAq4pG6Z9ZbLwGZi_szPuuXBxBYbRFq9ZpeFErDf5HIfT3i1riDYc_J8EQDrVZdsNls0T0FT_aCBpbCByQduZmM18TZyVsUFxfINESiM7zQjtanWWC3lsZomAyQDX5J8L0OttrS2k9VRNz25392ao=",
+      "cat": "FUNDING",
+      "date": "2026-09-05T22:12:24.536400"
+    },
+    {
+      "title": "Microsoft\u2019s Puneet Chandok calls learning AI a \u2018full contact body sport; Shaping the new tech order",
+      "url": "https://yourstory.com/2026/09/microsofts-puneet-chandok-on-navigating-the-modern-tech-race",
+      "cat": "OTHER",
+      "date": "2026-09-05T22:12:24.536400"
+    },
+    {
+      "title": "Exclusive: Thaler says India went further than the US on AI art \u2014 and still got the author wrong",
+      "url": "https://www.medianama.com/2026/09/223-stephen-thaler-ai-copyright-dabus-india/",
+      "cat": "POLICY",
+      "date": "2026-09-05T22:12:24.536400"
+    },
+    {
+      "title": "Funding and acquisitions in Indian startups this week [Aug 31 - Sep 05]",
+      "url": "https://entrackr.com/2026/09/funding-and-acquisitions-in-indian-startups-this-week-aug-31-sep-05/",
+      "cat": "FUNDING",
+      "date": "2026-09-05T22:12:24.536400"
+    },
+    {
+      "title": "Weekly Startup Funding Roundup: AI, Robotics, Healthcare, Creator Marketing, Clean Energy, and Semiconductors Attract Fresh Capital",
+      "url": "https://www.global.tech/news/weekly-startup-funding-roundup-ai-robotics-healthcare-creator-marketing-clean-energy-and-semiconductors-attract-fresh-capital/",
+      "cat": "FUNDING",
+      "date": "2026-09-05T22:12:24.536400"
     }
   ]
 }
