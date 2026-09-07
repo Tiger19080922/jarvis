@@ -554,6 +554,18 @@
         "Considering the rapid evolution of AI hardware and cooling technologies, what specific design choices in this 1GW Hyderabad campus ensure its long-term viability and prevent it from becoming obsolete within 5-7 years, given the \u20b970,000 crore investment?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-07T23:00:02.278588",
+      "headline": "TCS subsidiary HyperVault plans 1-gigawatt AI data centre in Hyderabad.",
+      "source_url": "https://www.medianama.com/2026/09/223-tcs-hypervault-ai-data-centre-telangana/",
+      "questions": [
+        "Given the Rs 70,000 crore investment, what specific, proprietary AI workloads are guaranteed to occupy a significant portion of this 1GW capacity within the first 3-5 years, beyond what hyperscalers like AWS, Azure, and GCP could build themselves?",
+        "How does HyperVault's planned liquid-cooled, direct-to-chip infrastructure differentiate from the rapidly evolving cooling solutions being deployed by major cloud providers and other emerging data centre operators, and what prevents them from replicating this in 18 months?",
+        "With Hyderabad being a growing hub for data centres, what is HyperVault's defensible moat against other well-funded entities (e.g., AdaniConneX, Reliance Jio) that could also pursue similar large-scale AI-focused facilities, potentially with more favorable power purchase agreements?",
+        "Beyond the initial capital infusion, what is the long-term economic model for HyperVault that ensures profitability on this 1GW campus, considering the high operational costs of power and advanced cooling for AI workloads, and what are the key unit economics that demonstrate sustainability?"
+      ],
+      "answers": []
     }
   ]
 }

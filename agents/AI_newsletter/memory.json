@@ -1,78 +1,6 @@
 {
   "stories": [
     {
-      "title": "NVIDIA\u2019s AI Server Price Hike Threatens To Inflate India\u2019s Compute Costs",
-      "url": "https://inc42.com/buzz/nvidias-ai-server-price-hike-threatens-to-inflate-indias-compute-costs/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-24T21:01:36.044505"
-    },
-    {
-      "title": "AI\u2019s new cost equation: Why token economics matters",
-      "url": "https://yourstory.com/2026/08/devsparks-ai-new-cost-equation-token-economics-matters-nvidia",
-      "cat": "RESEARCH",
-      "date": "2026-08-24T21:01:36.044505"
-    },
-    {
-      "title": "Context is the new intelligence in agentic AI",
-      "url": "https://yourstory.com/2026/08/context-is-the-new-intelligence-in-agentic-ai",
-      "cat": "RESEARCH",
-      "date": "2026-08-24T21:01:36.044505"
-    },
-    {
-      "title": "Gujarat High Court quashes GST order based on non-existent and AI-generated case law",
-      "url": "https://www.medianama.com/2026/08/223-gujarat-high-court-gst-ai-generated/",
-      "cat": "POLICY",
-      "date": "2026-08-24T21:01:36.044505"
-    },
-    {
-      "title": "Deepfakes can overwhelm criminal trials, says Senior Advocate CU Singh",
-      "url": "https://www.medianama.com/2026/08/223-deepfakes-criminal-trials-cu-singh/",
-      "cat": "POLICY",
-      "date": "2026-08-24T21:01:36.044505"
-    },
-    {
-      "title": "Mobavenue Launches Neural Engine As An AI Intelligence Layer For Marketers",
-      "url": "https://inc42.com/buzz/mobavenue-launches-neural-engine-as-an-ai-intelligence-layer-for-marketers/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-24T21:01:36.044505"
-    },
-    {
-      "title": "From pilot to platform: A practical playbook for Gemini Enterprise",
-      "url": "https://yourstory.com/2026/08/from-pilot-to-platform-a-practical-playbook-for-gemini-enterprise",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-24T21:01:36.044505"
-    },
-    {
-      "title": "NSDC launches nationwide cloud, AI skilling initiative",
-      "url": "https://yourstory.com/2026/08/nsdc-launches-nationwide-cloud-ai-skilling-initiative",
-      "cat": "POLICY",
-      "date": "2026-08-24T21:01:36.044505"
-    },
-    {
-      "title": "TCS acquires Porsche\u2019s IT arm for \u20ac320M; bags \u20ac1.25B deal",
-      "url": "https://yourstory.com/2026/08/tcs-acquires-porsches-it-arm-for--320-million-bags--125-billion-deal",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-24T21:01:36.044505"
-    },
-    {
-      "title": "Inc42 CTO Summit 2026 | 175+ Tech Leaders & The Playbooks Shaping How India Builds In The AI Era",
-      "url": "https://inc42.com/buzz/inc42-cto-summit-2026-175-tech-leaders-the-playbooks-shaping-how-india-builds-in-the-ai-era/",
-      "cat": "OTHER",
-      "date": "2026-08-24T21:01:36.044505"
-    },
-    {
-      "title": "Japan proposes new IP safeguards for Generative AI training",
-      "url": "https://www.medianama.com/2026/08/223-japan-ip-generative-ai-training/",
-      "cat": "POLICY",
-      "date": "2026-08-24T21:01:36.044505"
-    },
-    {
-      "title": "OpenAI wants California to toughen the AI law it once fought",
-      "url": "https://thenextweb.com/news/openai-sb-53-california-ai-safety-law-amendments",
-      "cat": "POLICY",
-      "date": "2026-08-24T21:01:36.044505"
-    },
-    {
       "title": "Nvidia eyes stake in Perplexity; Jaismine Lamboria\u2019s road to gold",
       "url": "https://yourstory.com/2026/08/nvidia-eyes-stake-in-perplexity",
       "cat": "FUNDING",
@@ -701,6 +629,90 @@
       "url": "https://www.livemint.com/technology/rogue-openai-agents-turn-german-website-into-message-board-for-other-bots-report-11788576523223.html",
       "cat": "RESEARCH",
       "date": "2026-09-06T22:15:54.676627"
+    },
+    {
+      "title": "Tata\u2019s HyperVault plans Rs 70,000-crore AI data centre in Telangana",
+      "url": "https://www.medianama.com/2026/09/223-tcs-hypervault-ai-data-centre-telangana/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-07T23:00:02.277425"
+    },
+    {
+      "title": "Paytm\u2019s Vijay Shekhar Sharma predicts AI agents will eat apps by 2027",
+      "url": "https://yourstory.com/2026/09/paytms-vijay-shekhar-sharma-predicts-ai-agents-will-eat-apps-by-2027",
+      "cat": "RESEARCH",
+      "date": "2026-09-07T23:00:02.277425"
+    },
+    {
+      "title": "Explainer: Meta is testing AI agent integration on WhatsApp. Here is what it means",
+      "url": "https://www.medianama.com/2026/09/223-meta-ai-agent-whatsapp/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-07T23:00:02.277425"
+    },
+    {
+      "title": "AI agent reliability requires a new model of observability",
+      "url": "https://thenextweb.com/news/ai-agent-reliability-observability-moyai-robert-hommes",
+      "cat": "RESEARCH",
+      "date": "2026-09-07T23:00:02.277425"
+    },
+    {
+      "title": "AI Research Papers Published on ArXiv by Indian Institutions in Last 48 Hours",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4f-lg5zE0obpGYJ41Q3FyrfxKHmviVdC8YEtpSeDiWYN9nupZfnXN5Q3IkjSNYzkic3sIkOzzUHKOOL3vjgcvkw_xcCKofqPyny5tRZ44t0WbZ0C81D0KLbz3UQ==",
+      "cat": "RESEARCH",
+      "date": "2026-09-07T23:00:02.277425"
+    },
+    {
+      "title": "OpenAI discloses another instance of model misalignment: What was the \u2018Wiki incident\u2019?",
+      "url": "https://www.medianama.com/2026/09/223-openai-model-misalignment/",
+      "cat": "RESEARCH",
+      "date": "2026-09-07T23:00:02.277425"
+    },
+    {
+      "title": "Swiggy introduces Swiggy Money to its MCP to simplify agentic payments: We tested it and found friction",
+      "url": "https://www.medianama.com/2026/09/223-swiggy-money-mcp-agentic-payments/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-07T23:00:02.277425"
+    },
+    {
+      "title": "AI may accelerate anti-competitive practices in digital markets: CCI chief",
+      "url": "https://www.livemint.com/technology/ai-may-accelerate-anti-competitive-practices-in-digital-markets-cci-chief-11788777047734.html",
+      "cat": "POLICY",
+      "date": "2026-09-07T23:00:02.277425"
+    },
+    {
+      "title": "Dubai is training 14,000 companies to run AI agents, on a two-year clock",
+      "url": "https://thenextweb.com/news/dubai-chambers-agentic-ai-training-14000-companies",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-07T23:00:02.277425"
+    },
+    {
+      "title": "Cato raises \u20ac6m to sell AI into Italy\u2019s \u20ac309.7bn tender market",
+      "url": "https://thenextweb.com/news/cato-6m-seed-ai-italian-public-tenders",
+      "cat": "FUNDING",
+      "date": "2026-09-07T23:00:02.277425"
+    },
+    {
+      "title": "Nvidia Chief Jensen Huang declares arrival of AGI; Congratulates OpenAI team on GPT-6 Astra model",
+      "url": "https://www.livemint.com/technology/nvidia-chief-jensen-huang-declares-arrival-of-agi-congratulates-openai-team-on-gpt-6-astra-model-11788757083350.html",
+      "cat": "RESEARCH",
+      "date": "2026-09-07T23:00:02.277425"
+    },
+    {
+      "title": "\u201cTime calls for extreme caution\u201d, warns OpenAI chief scientist, pushing for broader interventions as AI capabilities surge",
+      "url": "https://www.livemint.com/technology/time-calls-for-extreme-caution-warns-openai-chief-scientist-pushing-for-broader-interventions-as-ai-capabilities-surge-11788748295891.html",
+      "cat": "RESEARCH",
+      "date": "2026-09-07T23:00:02.277425"
+    },
+    {
+      "title": "Jensen Huang says AGI has arrived, and 400,000 more GPUs are coming",
+      "url": "https://thenextweb.com/news/jensen-huang-agi-has-arrived-gpt-6-astra",
+      "cat": "RESEARCH",
+      "date": "2026-09-07T23:00:02.277425"
+    },
+    {
+      "title": "Cognizant put $4.5tn on AI job exposure, then hired 1,500 graduates",
+      "url": "https://thenextweb.com/news/cognizant-ai-jobs-4-5-trillion-graduates",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-07T23:00:02.277425"
     }
   ]
 }
