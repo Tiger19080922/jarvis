@@ -1,96 +1,6 @@
 {
   "stories": [
     {
-      "title": "Nvidia eyes stake in Perplexity; Jaismine Lamboria\u2019s road to gold",
-      "url": "https://yourstory.com/2026/08/nvidia-eyes-stake-in-perplexity",
-      "cat": "FUNDING",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
-      "title": "India one of the hotbeds of innovation in AI, strong potential in health, agri: CEO, Gates Foundation",
-      "url": "https://www.livemint.com/technology/india-one-of-the-hotbeds-of-innovation-in-ai-strong-potential-in-health-agri-ceo-gates-foundation-11787646375439.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
-      "title": "Alice raises $140mn to stress-test the models Anthropic and Google ship",
-      "url": "https://thenextweb.com/news/alice-140m-funding-ai-security-apax-digital",
-      "cat": "FUNDING",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
-      "title": "Infineon To Acquire Peak XV-Backed C2i Semiconductors To Bolster AI Play",
-      "url": "https://inc42.com/buzz/infineon-to-acquire-peak-xv-backed-c2i-semiconductors-to-bolster-ai-play/",
-      "cat": "FUNDING",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
-      "title": "Germany\u2019s Infineon is acquiring Bengaluru\u2019s C2i Semiconductors",
-      "url": "https://yourstory.com/2026/08/germanys-infineon-is-acquiring-bengaluru-based-c2i-semiconductors",
-      "cat": "FUNDING",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
-      "title": "Exclusive-The AI founders who walked away from Bezos-backed Prometheus to model the universe",
-      "url": "https://www.livemint.com/technology/exclusivethe-ai-founders-who-walked-away-from-bezos-backed-prometheus-to-model-the-universe-11787652237034.html",
-      "cat": "FUNDING",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
-      "title": "IndiaAI Mission Organises Workshop on AIKosh to Strengthen India's AI-Ready Data Ecosystem",
-      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2301666",
-      "cat": "POLICY",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
-      "title": "Pine Labs Invests \u20b924 Cr In AI R&D In FY26, Cuts Testing Time by Over 95%",
-      "url": "https://inc42.com/buzz/pine-labs-invests-%e2%82%b924-cr-in-ai-rd-in-fy26-cuts-testing-time-by-over-95/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
-      "title": "OpenAI\u2019s Jalape\u00f1o chip claims major AI speed boost: What to know",
-      "url": "https://www.livemint.com/technology/tech-news/openais-jalape-o-chip-claims-major-ai-speed-boost-what-to-know-11787672824812.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
-      "title": "Anthropic merges Claude chat and Cowork memory, on by default",
-      "url": "https://thenextweb.com/news/anthropic-claude-cowork-shared-memory-default",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
-      "title": "Stability AI raises $76mn from Universal, Warner, Sony Music and EA",
-      "url": "https://thenextweb.com/news/stability-ai-76m-funding-universal-warner-sony-music-ea",
-      "cat": "FUNDING",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
-      "title": "Fujitsu and IISc launch joint research on advanced AI technologies to accelerate new material development and resolve societal challenges",
-      "url": "https://www.iisc.ac.in/fujitsu-iisc-launch-joint-research-on-advanced-ai-technologies-to-accelerate-new-material-development-and-resolve-societal-challenges/",
-      "cat": "RESEARCH",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
-      "title": "WikiHow sues OpenAI for unsanctioned content use in AI training",
-      "url": "https://www.medianama.com/2026/08/223-wikihow-openai-unsanctioned-ai-training/",
-      "cat": "RESEARCH",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
-      "title": "Western bias in AI could shape how billions of users see world: Report",
-      "url": "https://www.livemint.com/technology/tech-news/western-bias-in-ai-could-shape-how-billions-of-users-see-world-report-11787568165207.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
-      "title": "India's AI problem isn't ambition, it's absorption",
-      "url": "https://www.hindustantimes.com/opinion/indias-ai-problem-isnt-ambition-its-absorption-101724084981127.html",
-      "cat": "POLICY",
-      "date": "2026-08-25T20:58:25.131843"
-    },
-    {
       "title": "[Update] Ringg AI Nets Additional $10 Mn, Closes Series A At $15.5 Mn",
       "url": "https://inc42.com/buzz/voice-ai-startup-ringg-bags-5-5-mn-from-arkam-ventures/",
       "cat": "FUNDING",
@@ -713,6 +623,78 @@
       "url": "https://thenextweb.com/news/cognizant-ai-jobs-4-5-trillion-graduates",
       "cat": "ENTERPRISE",
       "date": "2026-09-07T23:00:02.277425"
+    },
+    {
+      "title": "Got an AI Solution for Infrastructure? Rodic Consultants and Nasscom Are Opening the Door",
+      "url": "https://yourstory.com/2026/09/got-an-ai-solution-for-infrastructure-rodic-consultants-and-nasscom-are-opening-the-door",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-08T22:55:24.232173"
+    },
+    {
+      "title": "Bajaj Finance Picks Up 5% Stake in AI Video Startup TrueFan AI",
+      "url": "https://inc42.com/buzz/bajaj-finance-picks-up-5-stake-in-ai-video-startup-truefan-ai/",
+      "cat": "FUNDING",
+      "date": "2026-09-08T22:55:24.232173"
+    },
+    {
+      "title": "Fundly.ai Raises $4 Mn To Scale Pharma Payments, Commerce Infra",
+      "url": "https://inc42.com/buzz/fundly-ai-raises-4-mn-to-scale-pharma-payments-commerce-infra/",
+      "cat": "FUNDING",
+      "date": "2026-09-08T22:55:24.232173"
+    },
+    {
+      "title": "AI in healthcare: Remote monitoring, ICU optimisation to be next growth frontiers, says report",
+      "url": "https://yourstory.com/2026/09/ai-in-healthcare-remote-monitoring-icu-optimisation-to-be-next-growth-frontiers-says-report",
+      "cat": "RESEARCH",
+      "date": "2026-09-08T22:55:24.232173"
+    },
+    {
+      "title": "ANI appeals the ruling that made AI training on Indian news fair dealing",
+      "url": "https://www.medianama.com/2026/09/223-ani-ai-training-indian-news/",
+      "cat": "POLICY",
+      "date": "2026-09-08T22:55:24.232173"
+    },
+    {
+      "title": "AI Adoption Could Create New Competition Risks In Digital Markets: CCI Chief",
+      "url": "https://inc42.com/buzz/ai-adoption-could-create-new-competition-risks-in-digital-markets-cci-chief/",
+      "cat": "POLICY",
+      "date": "2026-09-08T22:55:24.232173"
+    },
+    {
+      "title": "Times of India publisher partners with OpenAI, but financial terms remain undisclosed",
+      "url": "https://www.medianama.com/2026/09/223-bccl-openai-content-partnership-toi/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-08T22:55:24.232173"
+    },
+    {
+      "title": "Meet enso, the next unicorn in agentic GTM",
+      "url": "https://thenextweb.com/news/meet-enso-the-next-unicorn-in-agentic-gtm",
+      "cat": "FUNDING",
+      "date": "2026-09-08T22:55:24.232173"
+    },
+    {
+      "title": "LLMs remember your code, not your life: Building a portable personal context layer",
+      "url": "https://thenextweb.com/news/llms-remember-code-not-life-portable-context-layer",
+      "cat": "RESEARCH",
+      "date": "2026-09-08T22:55:24.232173"
+    },
+    {
+      "title": "Canadian Music Publishers Association SOCAN has sued Suno for copyright infringement",
+      "url": "https://www.medianama.com/2026/09/223-socan-sued-suno-copyright/",
+      "cat": "RESEARCH",
+      "date": "2026-09-08T22:55:24.232173"
+    },
+    {
+      "title": "Meta launches personal AI agent, Muse, emphasizes safety and privacy",
+      "url": "https://www.livemint.com/technology/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy-11788894594364.html",
+      "cat": "RESEARCH",
+      "date": "2026-09-08T22:55:24.232173"
+    },
+    {
+      "title": "OpenAI now supplies the image models inside Adobe\u2019s creative studio. It is also turning prompts into things you pass around.",
+      "url": "https://thenextweb.com/news/openai-images-25-adobe-firefly-interface-layer",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-08T22:55:24.232173"
     }
   ]
 }

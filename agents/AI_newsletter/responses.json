@@ -566,6 +566,18 @@
         "Beyond the initial capital infusion, what is the long-term economic model for HyperVault that ensures profitability on this 1GW campus, considering the high operational costs of power and advanced cooling for AI workloads, and what are the key unit economics that demonstrate sustainability?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-08T22:55:24.233101",
+      "headline": "Rodic Consultants and Nasscom launch InfraAI Innovation Challenge for startups.",
+      "source_url": "https://yourstory.com/2026/09/got-an-ai-solution-for-infrastructure-rodic-consultants-and-nasscom-are-opening-the-door",
+      "questions": [
+        "Given that Rodic Consultants and Nasscom are launching the InfraAI Innovation Challenge, what specific metrics will this challenge use to validate the AI solutions developed by startups, beyond just the code itself, as per Peak XV Partners' thesis?",
+        "What are the concrete, quantifiable benefits that Rodic Consultants expects to see from deploying these AI solutions in critical infrastructure projects, and how will those benefits be measured to ensure a positive ROI?",
+        "Considering the history of AI adoption in infrastructure, what are the primary reasons why startups participating in the InfraAI Innovation Challenge will succeed where previous attempts may have stalled, and what is Rodic's role in mitigating those historical failure points?",
+        "How will the InfraAI Innovation Challenge ensure that the AI solutions developed are not only functional but also scalable and cost-effective for long-term deployment within India's critical infrastructure, addressing the cost aspect of validation mentioned in the Peak XV Partners excerpt?"
+      ],
+      "answers": []
     }
   ]
 }
