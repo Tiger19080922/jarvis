@@ -578,6 +578,18 @@
         "How will the InfraAI Innovation Challenge ensure that the AI solutions developed are not only functional but also scalable and cost-effective for long-term deployment within India's critical infrastructure, addressing the cost aspect of validation mentioned in the Peak XV Partners excerpt?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-09T22:44:01.111260",
+      "headline": "Tiger Analytics discusses moving AI initiatives from pilot to production.",
+      "source_url": "https://yourstory.com/2026/09/ai-pilots-production-rebuilding-enterprise-stack-intelligent-agents",
+      "questions": [
+        "Given Tiger Analytics' lack of traditional VC funding and a single $1.36M PPP loan, what specific mechanisms will enable the company to fund the substantial enterprise technology stack rebuilds required to move AI initiatives from pilot to production for Fortune 1000 clients, especially when competitors with deep VC pockets can offer more aggressive upfront investment in client infrastructure?",
+        "The discussion at DevSparks Hyderabad 2026 highlights the challenge of moving AI from pilot to production, which necessitates rebuilding enterprise tech stacks. How does Tiger Analytics, without a history of significant external capital, plan to scale its own internal capabilities and talent pool to meet the projected demand for these complex, long-term production deployments, rather than just pilot phases?",
+        "If a well-funded competitor with a similar AI consulting focus were to emerge and aggressively target Tiger Analytics' Fortune 1000 client base by offering to absorb the costs of enterprise tech stack rebuilds as part of their service, what unique, defensible moat would prevent Tiger Analytics from losing significant market share?",
+        "Considering Tiger Analytics' business model relies on bespoke solutions for large enterprises, what is the specific failure mode that would most likely kill the company in the next 18 months, assuming continued success in pilot projects but a failure to transition clients to full production due to the aforementioned tech stack challenges?"
+      ],
+      "answers": []
     }
   ]
 }
