@@ -1,72 +1,6 @@
 {
   "stories": [
     {
-      "title": "[Update] Ringg AI Nets Additional $10 Mn, Closes Series A At $15.5 Mn",
-      "url": "https://inc42.com/buzz/voice-ai-startup-ringg-bags-5-5-mn-from-arkam-ventures/",
-      "cat": "FUNDING",
-      "date": "2026-08-26T23:59:19.356578"
-    },
-    {
-      "title": "Voice AI startup Ringg AI raises $10M in Series A led by Peak XV Partners",
-      "url": "https://yourstory.com/2026/08/voice-ai-startup-ringg-ai-raises-10m-series-a-peak-xv-partners",
-      "cat": "FUNDING",
-      "date": "2026-08-26T23:59:19.356578"
-    },
-    {
-      "title": "Nvidia Leads Sarvam AI's Rs 698 Crore Funding Round",
-      "url": "https://www.gadgetsnow.com/tech/news/nvidia-leads-sarvam-ais-rs-698-crore-funding-round/articleshow/112373951.cms",
-      "cat": "FUNDING",
-      "date": "2026-08-26T23:59:19.356578"
-    },
-    {
-      "title": "AI Agent Platform Runable Raises $21 Mn To Help Small Businesses Grow",
-      "url": "https://inc42.com/buzz/ai-agent-platform-runable-raises-21-mn-to-help-small-businesses-grow/",
-      "cat": "FUNDING",
-      "date": "2026-08-26T23:59:19.356578"
-    },
-    {
-      "title": "Nitro Launches AI Platform To Let Shopify Merchants Build Apps With Prompts",
-      "url": "https://inc42.com/buzz/nitro-launches-ai-platform-to-let-shopify-merchants-build-apps-with-prompts/",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-26T23:59:19.356578"
-    },
-    {
-      "title": "AI agent startup Runable raises $21M in Series A",
-      "url": "https://yourstory.com/2026/08/ai-agent-startup-runable-raises-21-million-in-series-a",
-      "cat": "FUNDING",
-      "date": "2026-08-26T23:59:19.356578"
-    },
-    {
-      "title": "Government Constitutes Technology and Policy Expert Committee (TPEC) to Provide Expert Advisory Support to India's AI Governance Architecture",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2035779",
-      "cat": "POLICY",
-      "date": "2026-08-26T23:59:19.356578"
-    },
-    {
-      "title": "The Vertical Turn In Enterprise AI",
-      "url": "https://inc42.com/features/the-vertical-turn-in-enterprise-ai/",
-      "cat": "RESEARCH",
-      "date": "2026-08-26T23:59:19.356578"
-    },
-    {
-      "title": "How AssessPrep is turning test scores into data schools can use",
-      "url": "https://yourstory.com/2026/08/assessprep-ai-assessment-platform-startup-profile",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-26T23:59:19.356578"
-    },
-    {
-      "title": "TN launches AI, deep-tech push with new initiatives",
-      "url": "https://yourstory.com/2026/08/tn-launches-ai-deep-tech-push-with-new-initiatives",
-      "cat": "POLICY",
-      "date": "2026-08-26T23:59:19.356578"
-    },
-    {
-      "title": "AI4Bharat Wants to Test Every AI Claim India Makes",
-      "url": "https://aimagazine.com/ai4bharat-wants-to-test-every-ai-claim-india-makes/",
-      "cat": "RESEARCH",
-      "date": "2026-08-26T23:59:19.356578"
-    },
-    {
       "title": "IISc scientists achieve breakthrough in AI hardware",
       "url": "https://vertex.news/en/iisc-scientists-achieve-breakthrough-in-ai-hardware/",
       "cat": "RESEARCH",
@@ -827,6 +761,42 @@
       "url": "https://arxiv.org/abs/2609.09094",
       "cat": "RESEARCH",
       "date": "2026-09-09T22:44:01.109892"
+    },
+    {
+      "title": "[Update] Graph AI Nets $13.3 Mn To Accelerate International Expansion",
+      "url": "https://inc42.com/buzz/graph-ai-in-talks-to-raise-14-mn-from-insight-partners-others/",
+      "cat": "FUNDING",
+      "date": "2026-09-10T22:45:58.737530"
+    },
+    {
+      "title": "Startups, Small Businesses Will Drive Job Creation In AI Era: Nandan Nilekani",
+      "url": "https://inc42.com/buzz/startups-small-businesses-will-drive-job-creation-in-ai-era-nandan-nilekani/",
+      "cat": "OTHER",
+      "date": "2026-09-10T22:45:58.737530"
+    },
+    {
+      "title": "Google expands India's clean-energy push with Solar API for 300M rooftops, climate-smart agri programme, and more",
+      "url": "https://yourstory.com/2026/09/google-expands-indias-clean-energy-push",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-10T22:45:58.737530"
+    },
+    {
+      "title": "Baseten buys Blaxel, a startup that builds sandboxes for AI agents",
+      "url": "https://thenextweb.com/news/baseten-acquires-blaxel-ai-agent-sandboxes",
+      "cat": "FUNDING",
+      "date": "2026-09-10T22:45:58.737530"
+    },
+    {
+      "title": "GFF 2026: Fintech-AI Partnerships Take The Centre Stage On Day 2",
+      "url": "https://inc42.com/buzz/gff-2026-fintech-ai-partnerships-take-the-centre-stage-on-day-2/",
+      "cat": "OTHER",
+      "date": "2026-09-10T22:45:58.737530"
+    },
+    {
+      "title": "Visa, Mastercard and Ant International team up on ID checks for AI agents",
+      "url": "https://thenextweb.com/news/visa-mastercard-ant-international-know-your-agent-ai-agents",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-10T22:45:58.737530"
     }
   ]
 }

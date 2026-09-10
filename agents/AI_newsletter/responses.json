@@ -590,6 +590,18 @@
         "Considering Tiger Analytics' business model relies on bespoke solutions for large enterprises, what is the specific failure mode that would most likely kill the company in the next 18 months, assuming continued success in pilot projects but a failure to transition clients to full production due to the aforementioned tech stack challenges?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-10T22:45:58.738791",
+      "headline": "Graph AI secures $13.3 million in Series A funding round.",
+      "source_url": "https://inc42.com/buzz/graph-ai-in-talks-to-raise-14-mn-from-insight-partners-others/",
+      "questions": [
+        "Given that Insight Partners and Bessemer Venture Partners have invested in Graph AI, what specific, proprietary data advantage does Graph AI possess that would prevent a well-capitalized competitor from building a similar AI-native pharmacovigilance platform within 18 months?",
+        "Graph AI's stated goal is to automate manual processing and operational workflows for drug safety teams; what specific, quantifiable reduction in manual effort or operational cost does Graph Safety deliver today, and how does that translate to a compelling ROI for a pharmaceutical company that justifies the subscription price, especially if they have existing, albeit manual, processes?",
+        "The company raised $3 million in a seed round in October 2025 and is now raising $13.3 million; what specific milestones did Graph AI achieve with the seed funding that justify this significant step-up in valuation and funding, and what are the critical, non-negotiable milestones this Series A is expected to unlock?",
+        "If the core thesis for investing in AI for pharmaceutical safety is that it can significantly improve patient outcomes and reduce regulatory risk, what specific, verifiable metrics demonstrate Graph AI's impact on these areas for its current customers, beyond just automating workflows?"
+      ],
+      "answers": []
     }
   ]
 }
