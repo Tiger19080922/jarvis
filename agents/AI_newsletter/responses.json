@@ -602,6 +602,18 @@
         "If the core thesis for investing in AI for pharmaceutical safety is that it can significantly improve patient outcomes and reduce regulatory risk, what specific, verifiable metrics demonstrate Graph AI's impact on these areas for its current customers, beyond just automating workflows?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-11T22:46:23.082790",
+      "headline": "Singapore's central bank introduces framework for AI agents in financial sector.",
+      "source_url": "https://www.medianama.com/2026/09/223-singapore-safr-agentic-ai-payments-india-gff/",
+      "questions": [
+        "Given MAS's S$220 million commitment to its fintech sector, how does the SAFR framework specifically de-risk the deployment of agentic AI in financial services beyond the standard regulatory oversight that already exists, and what prevents a competitor in Singapore from simply adopting these principles without needing MAS's explicit stamp of approval?",
+        "If NPCI is examining protocols for AI agents within UPI, what is the tangible competitive advantage or unique value proposition that MAS's SAFR framework offers that NPCI, or a similar large-scale payment system, couldn't replicate or develop independently?",
+        "Beyond the stated goal of responsible deployment, what are the specific failure modes SAFR is designed to prevent that would lead to catastrophic financial loss or systemic risk in Singapore's financial sector, and how does SAFR's technical implementation address these beyond policy statements?",
+        "Considering the SAFR framework is a new initiative, what empirical evidence or pilot programs has MAS undertaken to validate the effectiveness of these safeguards in real-world financial transactions, and what metrics demonstrate its success?"
+      ],
+      "answers": []
     }
   ]
 }

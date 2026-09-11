@@ -1,36 +1,6 @@
 {
   "stories": [
     {
-      "title": "IISc scientists achieve breakthrough in AI hardware",
-      "url": "https://vertex.news/en/iisc-scientists-achieve-breakthrough-in-ai-hardware/",
-      "cat": "RESEARCH",
-      "date": "2026-08-28T04:28:20.015577"
-    },
-    {
-      "title": "BharatGen Research Papers | AI Research for Indian Languages",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtmqJfz5UYncvX5QyXhnlBvl1ltO5YdXvMdu5bBGWc9Lu1fZSFll055KWF796m_Z9tuwuXZfSBF3P6wp3gfLgIKi0FLtF6uun5MSaahhh5ZVew6AiHvL-x8X8t4I6Ve_px",
-      "cat": "RESEARCH",
-      "date": "2026-08-28T04:28:20.015577"
-    },
-    {
-      "title": "National Program on Artificial Intelligence - Digital India",
-      "url": "https://www.digitalindia.gov.in/national-program-on-artificial-intelligence-36",
-      "cat": "POLICY",
-      "date": "2026-08-28T04:28:20.015577"
-    },
-    {
-      "title": "As AI reshapes business, the fractional CTO finds its moment",
-      "url": "https://thenextweb.com/news/fractional-cto-ai-reshapes-business",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-28T04:28:20.015577"
-    },
-    {
-      "title": "The executive assistant of the future: DonnaPro\u2019s approach to human-AI collaboration",
-      "url": "https://thenextweb.com/news/donnapro-executive-assistant-human-ai-collaboration",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-28T04:28:20.015577"
-    },
-    {
       "title": "MeitY plans AI agents for DigiLocker, UMANG in a tender",
       "url": "https://www.medianama.com/2026/08/223-meity-ai-agents-digilocker-umang-tender/",
       "cat": "POLICY",
@@ -797,6 +767,90 @@
       "url": "https://thenextweb.com/news/visa-mastercard-ant-international-know-your-agent-ai-agents",
       "cat": "ENTERPRISE",
       "date": "2026-09-10T22:45:58.737530"
+    },
+    {
+      "title": "GFF 2026: Singapore has an AI agent framework. India is still examining one",
+      "url": "https://www.medianama.com/2026/09/223-singapore-safr-agentic-ai-payments-india-gff/",
+      "cat": "POLICY",
+      "date": "2026-09-11T22:46:23.081513"
+    },
+    {
+      "title": "Sitharaman calls for stronger AI safeguards without stifling innovation",
+      "url": "https://www.livemint.com/technology/sitharaman-calls-for-stronger-ai-safeguards-without-stifling-innovation-11789125942439.html",
+      "cat": "POLICY",
+      "date": "2026-09-11T22:46:23.081513"
+    },
+    {
+      "title": "India AI Governance Guidelines: A Pragmatic Framework Rooted in Collaboration",
+      "url": "https://www.nasscom.in/medias/view/india-ai-governance-guidelines-a-pragmatic-framework-rooted-in-collaboration",
+      "cat": "POLICY",
+      "date": "2026-09-11T22:46:23.081513"
+    },
+    {
+      "title": "Pocket Entertainment crosses $500M in ARR fuelled by AI",
+      "url": "https://yourstory.com/2026/09/pocket-entertainment-crosses-500m-in-arr-fuelled-by-ai",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-11T22:46:23.081513"
+    },
+    {
+      "title": "PayU rolls out AI fraud protection tool for cross-border card payments",
+      "url": "https://www.medianama.com/2026/09/223-payu-ai-fraud-protection-cross-border-card-payments/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-11T22:46:23.081513"
+    },
+    {
+      "title": "GFF 2026: An AI model can influence elections without voters sensing it, says Nirmala Sitharaman",
+      "url": "https://www.medianama.com/2026/09/223-ai-influence-elections-nirmala-sitharaman/",
+      "cat": "POLICY",
+      "date": "2026-09-11T22:46:23.081513"
+    },
+    {
+      "title": "Glance pivots to AI commerce agents as US market drives over 50% of revenue",
+      "url": "https://www.livemint.com/technology/tech-news/glance-pivot-agentic-commerce-ai-agents-shoppers-consumer-research-e-commerce-inmobi-us-japan-11789043069409.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-11T22:46:23.081513"
+    },
+    {
+      "title": "OpenAI Open To Slowing AI Development Amid Safety Concerns: Sam Altman",
+      "url": "https://inc42.com/buzz/openai-open-to-slowing-ai-development-amid-safety-concerns-sam-altman/",
+      "cat": "RESEARCH",
+      "date": "2026-09-11T22:46:23.081513"
+    },
+    {
+      "title": "Navi is using AI to build credit and fraud models, says Sachin Bansal",
+      "url": "https://yourstory.com/2026/09/navi-using-ai-build-credit-fraud-models-sachin-bansal",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-11T22:46:23.081513"
+    },
+    {
+      "title": "OpenAI pauses $200 ChatGPT Pro sign-ups as Astra demand strains its systems",
+      "url": "https://thenextweb.com/news/openai-pro-pause-astra-eu-zone",
+      "cat": "OTHER",
+      "date": "2026-09-11T22:46:23.081513"
+    },
+    {
+      "title": "AI agents are learning to spend money. Who will handle the payments?",
+      "url": "https://thenextweb.com/news/ai-agents-payments-xdc-x402-mastercard",
+      "cat": "RESEARCH",
+      "date": "2026-09-11T22:46:23.081513"
+    },
+    {
+      "title": "Global Fintech Fest 2026: Key product launches from agentic UPI payments to Android ATMs",
+      "url": "https://www.medianama.com/2026/09/223-agentic-ai-products-fintechs-gff-2026/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-11T22:46:23.081513"
+    },
+    {
+      "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
+      "url": "https://www.livemint.com/technology/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-11789071905671.html",
+      "cat": "OTHER",
+      "date": "2026-09-11T22:46:23.081513"
+    },
+    {
+      "title": "Chinese robot startup JoyIn says OpenAI copied its ideas and its website",
+      "url": "https://thenextweb.com/news/joyin-openai-copying-claim-aether-alien-mind",
+      "cat": "OTHER",
+      "date": "2026-09-11T22:46:23.081513"
     }
   ]
 }
