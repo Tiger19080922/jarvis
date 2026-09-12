@@ -614,6 +614,18 @@
         "Considering the SAFR framework is a new initiative, what empirical evidence or pilot programs has MAS undertaken to validate the effectiveness of these safeguards in real-world financial transactions, and what metrics demonstrate its success?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-12T22:31:18.115644",
+      "headline": "Indian AI funding is application-led. 90% of investments go to the application layer.",
+      "source_url": "https://www.business-standard.com/content/press-releases-indian-news-wire/indias-ai-funding-takes-application-led-path-nearly-90-pc-of-investments-flow-into-application-layer-avendus-126090800646_1.html",
+      "questions": [
+        "Given that 90% of Indian AI funding is application-led, what specific, defensible moat does 'Avendus Capital' believe its portfolio companies possess that would prevent a well-funded competitor from replicating their success within 18 months, especially when global trends favor infrastructure?",
+        "If the IndiaAI Mission is set to provide substantial funding for AI infrastructure, how does 'Avendus Capital's' thesis that 90% of Indian AI investment should target the application layer reconcile with this government push towards foundational models, and what would have to be true for that thesis to be wrong?",
+        "With over 140 GenAI startups in India having raised $1.5 billion since 2020, and considering the report highlights application-layer dominance, what specific failure mode could kill a typical Indian GenAI application startup in the next 18 months, beyond just running out of the $1.5 billion total capital raised?",
+        "How does 'Avendus Capital' ensure its application-layer focused Indian GenAI investments achieve positive unit economics at scale, rather than relying on the current funding environment, particularly when compared to the infrastructure-heavy US market?"
+      ],
+      "answers": []
     }
   ]
 }
