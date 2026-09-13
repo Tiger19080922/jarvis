@@ -1,18 +1,6 @@
 {
   "stories": [
     {
-      "title": "AI Content Moderation Rules in India: Navigating the 2026 IT Rules Amendment",
-      "url": "https://indiapolicyhub.org/governance/ai-content-moderation-rules-in-india-navigating-the-2026-it-rules-amendment",
-      "cat": "POLICY",
-      "date": "2026-08-29T22:45:35.207736"
-    },
-    {
-      "title": "How Enterprises Can Build a Scalable AI Strategy in 2026",
-      "url": "https://community.nasscom.in/blogs/how-enterprises-can-build-scalable-ai-strategy-2026",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-29T22:45:35.207736"
-    },
-    {
       "title": "Nearly 32% of organizations decide to build in-house software using AI coding agents over purchases: McKinsey",
       "url": "https://www.livemint.com/technology/nearly-32-of-organizations-decide-to-build-in-house-software-using-ai-coding-agents-over-purchases-mckinsey-11788076917651.html",
       "cat": "ENTERPRISE",
@@ -833,6 +821,48 @@
       "url": "https://www.indianstartupnews.com/funding-fusion/b2b-pharma-platform-fundlyai-raises-4-million-to-expand-commerce-payments-and-credit-business-20260912",
       "cat": "FUNDING",
       "date": "2026-09-12T22:31:18.114578"
+    },
+    {
+      "title": "Indian researchers explore neuromorphic AI hardware beyond GPUs",
+      "url": "https://www.facebook.com/EEtimesIndia/posts/pfbid02vHhJ3o6E9Jz4Qn9z1fVfV7c5yM5fBwFv1M9qGkYqY2Bq1m7G5rXhK9F6z2R7d9p",
+      "cat": "RESEARCH",
+      "date": "2026-09-13T22:34:48.416016"
+    },
+    {
+      "title": "China\u2019s AI labs siphoned Claude\u2019s intelligence?",
+      "url": "https://yourstory.com/2026/09/chinas-ai-labs-siphoned-claudes-intelligence",
+      "cat": "RESEARCH",
+      "date": "2026-09-13T22:34:48.416016"
+    },
+    {
+      "title": "From tools to AI teammates: the next era of investing",
+      "url": "https://thenextweb.com/news/tools-to-ai-teammates-investing-finn-anmol-verma",
+      "cat": "OTHER",
+      "date": "2026-09-13T22:34:48.416016"
+    },
+    {
+      "title": "After Sam Altman, Anthropic\u2019s Dario Amodei Calls For Pacing AI Development",
+      "url": "https://inc42.com/buzz/after-sam-altman-anthropics-dario-amodei-calls-for-pacing-ai-development/",
+      "cat": "RESEARCH",
+      "date": "2026-09-13T22:34:48.416016"
+    },
+    {
+      "title": "Why Altman and Musk backed Anthropic CEO\u2019s call to slow the AI race\u2014but some see a corporate motive",
+      "url": "https://theprint.in/science/why-altman-and-musk-backed-anthropic-ceos-call-to-slow-the-ai-race-but-some-see-a-corporate-motive/3041568/",
+      "cat": "RESEARCH",
+      "date": "2026-09-13T22:34:48.416016"
+    },
+    {
+      "title": "DeepMind AI safety researcher Josh Engels resigns, warns of superintelligence risks",
+      "url": "https://www.livemint.com/technology/deepmind-ai-safety-researcher-josh-engels-resigns-warns-of-superintelligence-risks-11789292295646.html",
+      "cat": "RESEARCH",
+      "date": "2026-09-13T22:34:48.416016"
+    },
+    {
+      "title": "Moving faster cannot be only objective as AI models become more autonomous: AI Expert",
+      "url": "https://www.livemint.com/technology/moving-faster-cannot-be-only-objective-as-ai-models-become-more-autonomous-ai-expert-11789280764449.html",
+      "cat": "RESEARCH",
+      "date": "2026-09-13T22:34:48.416016"
     }
   ]
 }

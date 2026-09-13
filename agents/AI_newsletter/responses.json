@@ -626,6 +626,18 @@
         "How does 'Avendus Capital' ensure its application-layer focused Indian GenAI investments achieve positive unit economics at scale, rather than relying on the current funding environment, particularly when compared to the infrastructure-heavy US market?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-13T22:34:48.417235",
+      "headline": "IISc researchers developed a new artificial synapse for AI hardware.",
+      "source_url": "https://www.facebook.com/EEtimesIndia/posts/pfbid02vHhJ3o6E9Jz4Qn9z1fVfV7c5yM5fBwFv1M9qGkYqY2Bq1m7G5rXhK9F6z2R7d9p",
+      "questions": [
+        "Given the \u20b915 crore government funding, how will IISc's artificial synapse avoid becoming a perpetual R&D project rather than a commercially viable product with a clear path to scale?",
+        "Peak XV is 'super bullish' on deep tech; what specific, quantifiable advantages does this IISc artificial synapse offer over existing neuromorphic solutions that would justify a VC investment beyond government grants?",
+        "What is the specific failure mode for this artificial synapse if a well-funded competitor, perhaps with access to broader commercialization expertise, replicates the core technology within 18 months?",
+        "How does this IISc development differentiate itself from other low-power AI hardware initiatives, and what prevents a larger player from simply acquiring the IP or talent if it shows promise?"
+      ],
+      "answers": []
     }
   ]
 }
