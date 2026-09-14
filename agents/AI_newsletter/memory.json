@@ -1,48 +1,6 @@
 {
   "stories": [
     {
-      "title": "Nearly 32% of organizations decide to build in-house software using AI coding agents over purchases: McKinsey",
-      "url": "https://www.livemint.com/technology/nearly-32-of-organizations-decide-to-build-in-house-software-using-ai-coding-agents-over-purchases-mckinsey-11788076917651.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-30T22:55:16.003942"
-    },
-    {
-      "title": "AssessPrep turns test scores into data schools can use; VC inflow into startups sees marginal rise",
-      "url": "https://yourstory.com/2026/08/assessprep-data-schools-can-use-marginal-rise-in-vc-inflow",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-30T22:55:16.003942"
-    },
-    {
-      "title": "Can a cheek swab screen for 7,442 genetic disorders?",
-      "url": "https://yourstory.com/2026/08/can-a-cheek-swab-screen-for-7442-genetic-disorders",
-      "cat": "RESEARCH",
-      "date": "2026-08-30T22:55:16.003942"
-    },
-    {
-      "title": "Trust levels for generative AI drops below 40%, yet consumers rely on AI product advice: McKinsey",
-      "url": "https://www.livemint.com/technology/trust-levels-for-generative-ai-drops-below-40-yet-consumers-rely-on-ai-product-advice-mckinsey-11788064906620.html",
-      "cat": "RESEARCH",
-      "date": "2026-08-30T22:55:16.003942"
-    },
-    {
-      "title": "Publications - Kotak IISc AI\u2013ML Centre - Indian Institute of Science",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpX5S-GBauv2MDiVfhlkBpFwuyLUiSaenhUH4_kHz63XMurqRUDoz5Ex_AshNibyWcmZ9qJC59IKY1HpaY4KzLb_6hxJqjVesd0I62r3HSUN7G-BxmvdZ5r2zqKe_y0cPUGKzmeTwJq-k=c",
-      "cat": "RESEARCH",
-      "date": "2026-08-30T22:55:16.003942"
-    },
-    {
-      "title": "Publications - Vision and AI Lab",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUY3TzoeALt2aHRbBL1ufpwBTRZif-cB9Be5R_F6el0gCbMA6AfSSywN0WHmFVgOrbyEd91_En98j4KrH4gyMWevMeDVly8p8GMxQ4Y3n3YwlMjxfnzq2ajqCa-tvYTxRIRMOgez4Q",
-      "cat": "RESEARCH",
-      "date": "2026-08-30T22:55:16.003942"
-    },
-    {
-      "title": "Myntra Tech Threads 2026 brings brands together to discuss tech-led fashion, beauty and lifestyle commerce",
-      "url": "https://yourstory.com/2026/08/myntra-tech-threads-2026-brings-brands-together-discuss-tech-led-fashion-commerce",
-      "cat": "ENTERPRISE",
-      "date": "2026-08-30T22:55:16.003942"
-    },
-    {
       "title": "India proposes cutting AI content takedown deadline from 36 hours to just 3 hours",
       "url": "https://www.livemint.com/technology/tech-news/india-proposes-cutting-ai-content-takedown-deadline-from-36-hours-to-just-3-hours-11691403437037.html",
       "cat": "POLICY",
@@ -863,6 +821,96 @@
       "url": "https://www.livemint.com/technology/moving-faster-cannot-be-only-objective-as-ai-models-become-more-autonomous-ai-expert-11789280764449.html",
       "cat": "RESEARCH",
       "date": "2026-09-13T22:34:48.416016"
+    },
+    {
+      "title": "MeitY unveils India AI Governance Guidelines to ensure safe, inclusive and responsible AI adoption",
+      "url": "https://www.aninews.in/news/national/meity-unveils-india-ai-governance-guidelines-to-ensure-safe-inclusive-and-responsible-ai-adoption202511051432359718",
+      "cat": "POLICY",
+      "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "Google Picks Four Indian Startups As Part Of AI For The Planet Accelerator",
+      "url": "https://inc42.com/buzz/google-picks-four-indian-startups-as-part-of-ai-for-the-planet-accelerator/",
+      "cat": "FUNDING",
+      "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "Four Indian startups selected for Google DeepMind Accelerator",
+      "url": "https://yourstory.com/2026/09/four-indian-startups-selected-for-google-deepmind-accelerator",
+      "cat": "FUNDING",
+      "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "IIT Madras develops AI platform with 185,000 alloy records for sustainable materials discovery",
+      "url": "https://timesofindia.indiatimes.com/education/news/iit-madras-develops-ai-platform-with-185000-alloy-records-for-sustainable-materials-discovery/articleshow/101183917.cms",
+      "cat": "RESEARCH",
+      "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "AI could make thinking cheap. What happens to jobs, education and human purpose?",
+      "url": "https://yourstory.com/2026/09/ai-could-make-thinking-cheap-what-happens-to-jobs-education-and-human-purpose",
+      "cat": "RESEARCH",
+      "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "Telcos & DoT pushes for \u2018light-touch\u2019 AI regulations, seeks risk-based approach",
+      "url": "https://www.medianama.com/2026/09/223-telcos-dot-risk-based-ai-regulations/",
+      "cat": "POLICY",
+      "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "OpenAI agents not proof AI is out of control, need stronger guardrails: NITI Aayog\u2019s Debjani Ghosh",
+      "url": "https://www.livemint.com/technology/openai-agents-not-proof-ai-is-out-of-control-need-stronger-guardrails-niti-aayog-s-debjani-ghosh-11789360925422.html",
+      "cat": "POLICY",
+      "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "Chinese President Xi announces open-source AI ecosystem in 5-point BRICS plan",
+      "url": "https://www.livemint.com/technology/chinese-president-xi-announces-open-source-ai-ecosystem-in-5-point-brics-plan-11789311844230.html",
+      "cat": "POLICY",
+      "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "Anthropic wants independent evaluators inside frontier AI labs; OpenAI agrees",
+      "url": "https://www.medianama.com/2026/09/223-anthropic-evaluators-frontier-ai-labs/",
+      "cat": "POLICY",
+      "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "Jacob Coxon, who set of debate on slowing AI development, advocates for kill switch for AI systems",
+      "url": "https://www.livemint.com/technology/jacob-coxon-who-set-of-debate-on-slowing-ai-development-advocates-for-kill-switch-for-ai-systems-11789345158042.html",
+      "cat": "POLICY",
+      "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella backs need for evaluators for AI systems amid slowdown debate",
+      "url": "https://www.livemint.com/technology/microsoft-ceo-satya-nadella-backs-need-for-evaluators-for-ai-systems-amid-slowdown-debate-11789343509587.html",
+      "cat": "POLICY",
+      "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "Agentic commerce is loosening the grocery aisle\u2019s grip on the shopper",
+      "url": "https://thenextweb.com/news/agentic-commerce-grocery-ai-neomi",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "Hundreds of contractors are reportedly reading real ChatGPT conversations",
+      "url": "https://thenextweb.com/news/chatgpt-human-reviewers-gdpr",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "Anthropic has built a Claude tool for financial advisers",
+      "url": "https://thenextweb.com/news/anthropic-claude-advisers-mifid",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "Publications - Kotak IISc AI\u2013ML Centre - Indian Institute of Science",
+      "url": "https://ai-ml.iisc.ac.in/publications/",
+      "cat": "RESEARCH",
+      "date": "2026-09-14T23:21:16.258698"
     }
   ]
 }

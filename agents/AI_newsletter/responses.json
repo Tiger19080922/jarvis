@@ -638,6 +638,18 @@
         "How does this IISc development differentiate itself from other low-power AI hardware initiatives, and what prevents a larger player from simply acquiring the IP or talent if it shows promise?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-14T23:21:16.260224",
+      "headline": "MeitY unveiled India AI Governance Guidelines on November 5, 2025.",
+      "source_url": "https://www.aninews.in/news/national/meity-unveils-india-ai-governance-guidelines-to-ensure-safe-inclusive-and-responsible-ai-adoption202511051432359718",
+      "questions": [
+        "Given the IndiaAI Mission has an outlay of \u20b910,371.92 crore over five years, how does MeitY ensure these AI Governance Guidelines are effectively implemented and enforced across all AI projects funded or supported by the mission, rather than remaining purely theoretical?",
+        "The 'Seven Sutras' are presented as a structured approach for AI deployment; what specific mechanisms are in place to measure adherence to these principles, and what are the penalties or corrective actions for non-compliance by entities operating under the IndiaAI Mission?",
+        "Considering the guidelines were unveiled on November 5, 2025, what proactive steps has MeitY taken to engage with AI developers and businesses to ensure they understand and can practically integrate these guidelines into their development cycles, especially for the smaller startups within the ecosystem?",
+        "With no specific private funding for the guidelines themselves, how will MeitY secure ongoing resources and expertise to adapt these governance principles as AI technology rapidly evolves over the next five years, beyond the initial IndiaAI Mission outlay?"
+      ],
+      "answers": []
     }
   ]
 }
