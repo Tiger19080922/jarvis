@@ -1,84 +1,6 @@
 {
   "stories": [
     {
-      "title": "India proposes cutting AI content takedown deadline from 36 hours to just 3 hours",
-      "url": "https://www.livemint.com/technology/tech-news/india-proposes-cutting-ai-content-takedown-deadline-from-36-hours-to-just-3-hours-11691403437037.html",
-      "cat": "POLICY",
-      "date": "2026-09-01T00:01:44.589974"
-    },
-    {
-      "title": "Inside India\u2019s quest to build a sovereign AI chip",
-      "url": "https://www.livemint.com/technology/india-first-ai-chip-cdac-11788173944541.html",
-      "cat": "POLICY",
-      "date": "2026-09-01T00:01:44.589974"
-    },
-    {
-      "title": "From theory to practice: building customer agents with Google's no-code tools",
-      "url": "https://yourstory.com/2026/08/-theory-practice-building-customer-agents-googles-no-code-tools",
-      "cat": "RESEARCH",
-      "date": "2026-09-01T00:01:44.589974"
-    },
-    {
-      "title": "How new broadcast technology is changing the way fans watch cricket",
-      "url": "https://yourstory.com/2026/08/how-new-broadcast-technology-is-changing-the-way-fans-watch-cricket",
-      "cat": "RESEARCH",
-      "date": "2026-09-01T00:01:44.589974"
-    },
-    {
-      "title": "Meta AI glasses will stop recording if capture LED is covered",
-      "url": "https://www.medianama.com/2026/08/223-meta-ai-glasses-recording-capture-led/",
-      "cat": "RESEARCH",
-      "date": "2026-09-01T00:01:44.589974"
-    },
-    {
-      "title": "The race to build India\u2019s first AI chip",
-      "url": "https://www.livemint.com/technology/india-first-ai-chip-cdac-11788173944541.html",
-      "cat": "POLICY",
-      "date": "2026-09-01T22:46:32.286657"
-    },
-    {
-      "title": "EquityList launches AI-native cap table and compliance OS",
-      "url": "https://yourstory.com/2026/08/equitylist-launches-ai-native-cap-table-and-compliance-platform",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-01T22:46:32.286657"
-    },
-    {
-      "title": "OYO parent Prism to launch AI agent for end-to-end hotel operations",
-      "url": "https://www.medianama.com/2026/09/223-oyo-prism-ai-agent-hotel-operations/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-01T22:46:32.286657"
-    },
-    {
-      "title": "India's AI rules may change: Who decides what stays online and what gets removed?",
-      "url": "https://www.livemint.com/technology/tech-news/indias-ai-rules-may-change-who-decides-what-stays-online-and-what-gets-removed-11691317821185.html",
-      "cat": "POLICY",
-      "date": "2026-09-01T22:46:32.286657"
-    },
-    {
-      "title": "NPCI To Launch Agentic Payments On UPI: Report",
-      "url": "https://inc42.com/buzz/npci-to-launch-agentic-payments-on-upi-report/",
-      "cat": "POLICY",
-      "date": "2026-09-01T22:46:32.286657"
-    },
-    {
-      "title": "Anthropic releases Claude Fable 5.1 and Mythos 5.1, cutting cache read prices by 75%",
-      "url": "https://thenextweb.com/news/claude-fable-mythos-5-1-eu-ai-act-watermark-detection-api-private-preview",
-      "cat": "RESEARCH",
-      "date": "2026-09-01T22:46:32.286657"
-    },
-    {
-      "title": "John Deere launches JD, an AI assistant that answers questions from a farm\u2019s own data",
-      "url": "https://thenextweb.com/news/john-deere-jd-ai-assistant-farmer-data-commitment-eu-data-act",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-01T22:46:32.286657"
-    },
-    {
-      "title": "Government of India Promotes AI and Digital Tech Adoption to Boost MSME Productivity",
-      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2029554",
-      "cat": "POLICY",
-      "date": "2026-09-01T22:46:32.286657"
-    },
-    {
       "title": "Salaries rise for tech professionals with AI skills, but dip or stagnate for those in traditional IT roles: Study",
       "url": "https://yourstory.com/2026/09/salaries-rise-for-ai-skills-dip-stagnate-for-traditional-it-roles-foundit-study",
       "cat": "RESEARCH",
@@ -911,6 +833,42 @@
       "url": "https://ai-ml.iisc.ac.in/publications/",
       "cat": "RESEARCH",
       "date": "2026-09-14T23:21:16.258698"
+    },
+    {
+      "title": "AI content startup Flam raises $40M from QED Investors, Shah Rukh Khan, and others",
+      "url": "https://yourstory.com/2026/09/ai-content-startup-flam-raises-series-b-qed-investors-shah-rukh-khan-others",
+      "cat": "FUNDING",
+      "date": "2026-09-15T23:04:41.805895"
+    },
+    {
+      "title": "Delhi HC seeks OpenAI response in ANI case: Here\u2019s the timeline",
+      "url": "https://www.medianama.com/2026/09/223-delhi-hc-openai-ani-case/",
+      "cat": "POLICY",
+      "date": "2026-09-15T23:04:41.805895"
+    },
+    {
+      "title": "BharatGen Research Papers | AI Research for Indian Languages",
+      "url": "https://bharatgen.ai/papers",
+      "cat": "RESEARCH",
+      "date": "2026-09-15T23:04:41.805895"
+    },
+    {
+      "title": "On closer reading: With India as chair, BRICS repeats its 2025 AI training and copyright line word for word",
+      "url": "https://www.medianama.com/2026/09/223-brics-new-delhi-declaration-ai-2026/",
+      "cat": "POLICY",
+      "date": "2026-09-15T23:04:41.805895"
+    },
+    {
+      "title": "Analysis-Investors nervous about AI spending slowdown after industry warnings",
+      "url": "https://www.livemint.com/technology/analysisinvestors-nervous-about-ai-spending-slowdown-after-industry-warnings-11789448644491.html",
+      "cat": "OTHER",
+      "date": "2026-09-15T23:04:41.805895"
+    },
+    {
+      "title": "Microsoft commits to sweeping AI privacy rules for students. Will other tech giants follow?",
+      "url": "https://www.livemint.com/technology/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow-11789445205084.html",
+      "cat": "POLICY",
+      "date": "2026-09-15T23:04:41.805895"
     }
   ]
 }
