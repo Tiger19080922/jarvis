@@ -1,36 +1,6 @@
 {
   "stories": [
     {
-      "title": "Salaries rise for tech professionals with AI skills, but dip or stagnate for those in traditional IT roles: Study",
-      "url": "https://yourstory.com/2026/09/salaries-rise-for-ai-skills-dip-stagnate-for-traditional-it-roles-foundit-study",
-      "cat": "RESEARCH",
-      "date": "2026-09-02T22:48:36.060588"
-    },
-    {
-      "title": "The Ad Break Comes To AI",
-      "url": "https://inc42.com/features/the-ad-break-comes-to-ai/",
-      "cat": "OTHER",
-      "date": "2026-09-02T22:48:36.060588"
-    },
-    {
-      "title": "How the Unacademy-upGrad deal unfolded; Why AI could push India\u2019s ER&D revenue past $100B",
-      "url": "https://yourstory.com/2026/09/unacademy-upgrad-deal-ai-could-push-india-erd-revenue",
-      "cat": "RESEARCH",
-      "date": "2026-09-02T22:48:36.060588"
-    },
-    {
-      "title": "Advertising is coming to AI. Regulators should prepare now",
-      "url": "https://www.medianama.com/2026/09/223-chatgpt-ads-india-ai-advertising-regulation/",
-      "cat": "POLICY",
-      "date": "2026-09-02T22:48:36.060588"
-    },
-    {
-      "title": "Adobe Acquires Peak XV-Backed AI Martech Startup Rilo",
-      "url": "https://inc42.com/buzz/adobe-acquires-peak-xv-backed-ai-martech-startup-rilo/",
-      "cat": "FUNDING",
-      "date": "2026-09-02T22:48:36.060588"
-    },
-    {
       "title": "Coworker.ai launches OM2, an organizational memory layer promising to slash enterprise AI token burn by 9x",
       "url": "https://thenextweb.com/news/coworker-ai-om2-organizational-memory-token-costs",
       "cat": "ENTERPRISE",
@@ -869,6 +839,126 @@
       "url": "https://www.livemint.com/technology/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow-11789445205084.html",
       "cat": "POLICY",
       "date": "2026-09-15T23:04:41.805895"
+    },
+    {
+      "title": "VerifAIX Bags $5 Mn To Scale AI-Based Chip Verification Platform",
+      "url": "https://inc42.com/buzz/verifaix-bags-5-mn-to-scale-ai-based-chip-verification-platform/",
+      "cat": "FUNDING",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "AI agents are already running Prism\u2019s finance operations, says OYO founder Ritesh Agarwal at GFF 2026",
+      "url": "https://www.medianama.com/2026/09/223-oyo-prism-ai-agents-gff/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "Aakrit Vaish\u2019s Activate Closes Maiden VC Fund At $105 Mn To Back AI Startups",
+      "url": "https://inc42.com/buzz/aakrit-vaishs-activate-closes-maiden-vc-fund-at-105-mn-to-back-ai-startups/",
+      "cat": "FUNDING",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "JanAI Technology launches with a plan to take AI to 100 million Bharat households",
+      "url": "https://yourstory.com/2026/09/janai-technology-ai-100-million-bharat-households",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "Govt to match VC investments in Indian chip startups; Shah Rukh Khan, QED Investors back AI content firm Flam",
+      "url": "https://yourstory.com/2026/09/govt-to-match-vc-investments-chip-startups-shah-rukh-khan-qed-investors-back-flam",
+      "cat": "FUNDING",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "Arcee AI built Trinity for about $20m, and investors now value it at $1bn+",
+      "url": "https://thenextweb.com/news/arcee-ai-series-b-1bn-valuation-open-weight-trinity",
+      "cat": "FUNDING",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "The Latest Payments Battle Point: AI Agents For Merchants",
+      "url": "https://inc42.com/features/the-latest-payments-battle-point-ai-agents-for-merchants/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In September",
+      "url": "https://inc42.com/startups/ai-startups-to-watch-5-startups-that-caught-our-eye-in-september/",
+      "cat": "RESEARCH",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "Google CEO Sundar Pichai outlines tech giant\u2019s AI efforts across health, weather and learning",
+      "url": "https://www.livemint.com/technology/google-ceo-sundar-pichai-outlines-tech-giant-s-ai-efforts-across-health-weather-and-learning-11789530130366.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "The hardest AI security problems now live in what an agent is permitted to do",
+      "url": "https://thenextweb.com/news/owasp-llm-2026-agency-cra",
+      "cat": "POLICY",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "Novo will test Anthropic\u2019s Claude Science to speed up drug discovery",
+      "url": "https://thenextweb.com/news/novo-anthropic-claude-science-drug-discovery",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "Cohere and Aleph Alpha sign, with headquarters in Berlin and Toronto",
+      "url": "https://thenextweb.com/news/cohere-aleph-alpha-definitive-agreement-transatlantic-sovereign-ai",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "\u201cA clearly labeled conversation\u201d: OpenAI tests Sponsored Agents in ChatGPT",
+      "url": "https://thenextweb.com/news/openai-chatgpt-sponsored-agents-ads-manager-hubspot-shopify",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "IISc Researchers Develop Analog Chipset for Faster, More Efficient AI",
+      "url": "https://vertex.ai/search/grounding-api-redirect/AUZIYQH5nGG3U_S9a-r3w9NaOrIzWEK9f_pDAsekh3JjyhXdjLdSwoonUv_fuY3C42ujimh_qykQ07PGjiPZNJRxXCJzb3Ai2Arxutl7YvIAiDLLAlZMbSlNhPmIsXVpa_1AlNj1n6cBq710aH6n6UAcp2Efn3WptttyKg7_BYoeL-GBZQSWknSLym-YjUbWcruK8d2c--9gzWEN",
+      "cat": "RESEARCH",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "Jio users to get Canva's premium design tools free for a year in Indian languages",
+      "url": "https://yourstory.com/2026/09/jio-users-to-get-canvas-premium-design-tools-free-for-a-year-in-indian-languages",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "Dainik Bhaskar is turning its reporting into AI micro-dramas. It hasn\u2019t said who checks them",
+      "url": "https://www.medianama.com/2026/09/223-dainik-bhaskar-ai-micro-dramas-news/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "'Pace yourself until youre confident': Jensen Huang, Sam Altman, Dario Amodei bat for AI safety and transparency",
+      "url": "https://www.livemint.com/technology/pace-yourself-until-youre-confident-jensen-huang-sam-altman-dario-amodei-bat-for-ai-safety-and-transparency-11789519437678.html",
+      "cat": "OTHER",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "'Key to building positive future is maintaining balance of power': Mark Zuckerberg calls for responsible AI development",
+      "url": "https://www.livemint.com/technology/key-to-building-positive-future-is-maintaining-balance-of-power-mark-zuckerberg-calls-for-responsible-ai-development-11789518094398.html",
+      "cat": "OTHER",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "Obama backs slower AI development, says choices now will shape its impact",
+      "url": "https://www.livemint.com/technology/obama-backs-slower-ai-development-says-choices-now-will-shape-its-impact-11789454158710.html",
+      "cat": "OTHER",
+      "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "Ex-Google DeepMind researcher adds to warnings that AI could kill all humans",
+      "url": "https://www.livemint.com/technology/tech-news/exgoogle-deepmind-researcher-adds-to-warnings-that-ai-could-kill-all-humans-11789449259247.html",
+      "cat": "OTHER",
+      "date": "2026-09-16T23:12:00.702913"
     }
   ]
 }

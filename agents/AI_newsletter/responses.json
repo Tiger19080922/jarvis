@@ -662,6 +662,19 @@
         "The participation of Bollywood actor Shah Rukh Khan as an investor alongside institutional investors like QED Investors and Claypond Capital suggests a unique blend of strategic and financial backing. How does Flam leverage this specific investor mix, particularly Khan's involvement, to acquire enterprise clients in the competitive AR/VR content space, and what is the tangible impact of these individual investors on Flam's go-to-market strategy beyond capital?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-16T23:12:00.704290",
+      "headline": "VerifAIX secured $5 million in seed funding for chip verification technology.",
+      "source_url": "https://inc42.com/buzz/verifaix-bags-5-mn-to-scale-ai-based-chip-verification-platform/",
+      "questions": [
+        "Given that formal verification is a notoriously complex and niche field, how does VerifAIX's 'Formal Brain' specifically overcome the scalability challenges that have historically limited AI adoption in this area, beyond just 'automated abstraction and decomposition'?",
+        "Endiya Partners and Bluehill VC are backing VerifAIX's AI-native approach to chip verification. What specific technical or market signals did they see that convinced them this is a fundamentally different and defensible approach, rather than an incremental improvement on existing EDA tools?",
+        "What is the projected customer acquisition cost and lifetime value for VerifAIX's early deployments, and how do these unit economics support the $5 million seed round without implying future, larger subsidy rounds?",
+        "Considering established EDA giants like Cadence and Synopsys have decades of R&D and deep customer relationships, what is VerifAIX's realistic go-to-market strategy to displace or integrate with these incumbents, rather than being a niche player?",
+        "What is the single most likely technical failure mode for the 'Formal Brain' in the next 18 months that would prevent VerifAIX from meeting its customer deployment expansion goals?"
+      ],
+      "answers": []
     }
   ]
 }
