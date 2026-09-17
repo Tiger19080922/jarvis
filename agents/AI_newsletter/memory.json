@@ -1,96 +1,6 @@
 {
   "stories": [
     {
-      "title": "Coworker.ai launches OM2, an organizational memory layer promising to slash enterprise AI token burn by 9x",
-      "url": "https://thenextweb.com/news/coworker-ai-om2-organizational-memory-token-costs",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
-      "title": "Sarvam AI becomes unicorn after raising $234M as India doubles down on home-grown AI",
-      "url": "https://www.livemint.com/companies/news/sarvam-ai-becomes-unicorn-after-raising-234m-as-india-doubles-down-on-home-grown-ai-11718522371408.html",
-      "cat": "FUNDING",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
-      "title": "As Enterprise AI Starts Charging For Work, Owning The Outcomes Becomes The Contest",
-      "url": "https://inc42.com/resources/as-enterprise-ai-starts-charging-for-work-owning-the-outcomes-becomes-the-contest/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
-      "title": "AMD, Delhi University partner to train 10,000 students in AI",
-      "url": "https://yourstory.com/2026/09/amd-delhi-university-partner-to-train-10000-students-in-ai",
-      "cat": "RESEARCH",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
-      "title": "India must counter AI censorship and exclusion with fairer sovereign data",
-      "url": "https://www.medianama.com/2026/09/223-india-ai-censorship-sovereign-data/",
-      "cat": "POLICY",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
-      "title": "Krutrim shifts focus to AI cloud services, reports strong financial performance",
-      "url": "https://entrackr.com/2026/05/krutrim-pivots-to-ai-cloud-clocks-rs-300-cr-revenue-in-fy26/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
-      "title": "Government-school teachers are ready for AI, survey finds",
-      "url": "https://yourstory.com/2026/09/government-school-teachers-ai-readiness-janai-survey",
-      "cat": "RESEARCH",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
-      "title": "Indian employees are taking the lead in defining the future of work: Microsoft study",
-      "url": "https://yourstory.com/2026/09/indian-employees-are-taking-the-lead-in-defining-the-future-of-work-microsoft-study",
-      "cat": "RESEARCH",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
-      "title": "IIT M and CMC Vellore are building a kidney\u2019s \u2018digital twin\u2019. It will catch diseases early",
-      "url": "https://theprint.in/science/iit-madras-cmc-vellore-kidney-disease-ai-digital-twin/3032755/",
-      "cat": "RESEARCH",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
-      "title": "Why video is the first frontier as AI learns to read the physical world",
-      "url": "https://thenextweb.com/news/video-first-frontier-ai-physical-world-lumana",
-      "cat": "RESEARCH",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
-      "title": "Tiny AI accelerator that compresses brain signals to enable scalable brain\u2013computer interfaces",
-      "url": "https://indianexpress.com/article/technology/science/tiny-ai-accelerator-compresses-brain-signals-brain-computer-interfaces-9504055/",
-      "cat": "RESEARCH",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
-      "title": "BITS Pilani-incubated Apollyon Dynamics sets new speed record in India with 498 km/h interceptor drone",
-      "url": "https://yourstory.com/2026/09/bits-pilani-incubated-apollyon-dynamics-sets-india-record-with-498-kmh-interceptor-drone",
-      "cat": "RESEARCH",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
-      "title": "September 2026 Android drop: 5 features for making life easier - Remember where you put things, ease motion sickness",
-      "url": "https://www.livemint.com/technology/tech-news/android-september-update-gemini-can-now-remember-where-you-put-things-motion-assist-and-more-11788324837780.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
-      "title": "Balancing capabilities and safeguards crucial for next-gen AI models, says Sam Altman",
-      "url": "https://www.livemint.com/technology/balancing-capabilities-and-safeguards-crucial-for-next-gen-ai-models-says-sam-altman-11788318928195.html",
-      "cat": "RESEARCH",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
-      "title": "Sam Altman says AI developers have fumbled at communicating the technology\u2019s benefits",
-      "url": "https://thenextweb.com/news/altman-says-industry-fumbled-communicating-ai-benefits-data-centre-backlash-europe-grid-eed-reporting",
-      "cat": "RESEARCH",
-      "date": "2026-09-03T22:46:40.421850"
-    },
-    {
       "title": "NVIDIA confirms it will acquire Hugging Face for $12.9 billion",
       "url": "https://www.medianama.com/2026/09/223-nvidia-hugging-face-12-9-billion/",
       "cat": "OTHER",
@@ -959,6 +869,84 @@
       "url": "https://www.livemint.com/technology/tech-news/exgoogle-deepmind-researcher-adds-to-warnings-that-ai-could-kill-all-humans-11789449259247.html",
       "cat": "OTHER",
       "date": "2026-09-16T23:12:00.702913"
+    },
+    {
+      "title": "India to Add 20,000 GPUs to Strengthen National AI Infrastructure",
+      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2050141",
+      "cat": "POLICY",
+      "date": "2026-09-17T23:02:04.587898"
+    },
+    {
+      "title": "Unstop acquires PerspectAI in all-equity deal to deepen AI-led talent assessment",
+      "url": "https://yourstory.com/2026/09/unstop-acquires-perspectai-in-all-equity-deal-to-deepen-ai-led-talent-assessment",
+      "cat": "FUNDING",
+      "date": "2026-09-17T23:02:04.587898"
+    },
+    {
+      "title": "Prasar Bharati seeks feedback on AI avatars & content creation; suggests mandatory labeling",
+      "url": "https://www.medianama.com/2026/09/223-prasar-bharati-ai-avatars-mandatory-labeling/",
+      "cat": "POLICY",
+      "date": "2026-09-17T23:02:04.587898"
+    },
+    {
+      "title": "India AI Governance Guidelines Released: A Framework for Safe and Responsible AI",
+      "url": "https://www.nasscom.in/media/press-releases/india-ai-governance-guidelines-released-framework-safe-and-responsible-ai",
+      "cat": "POLICY",
+      "date": "2026-09-17T23:02:04.587898"
+    },
+    {
+      "title": "Yaanendriya is building the sensors that help robots know where they are",
+      "url": "https://yourstory.com/2026/09/yaanendriya-sensors-navigation-startup",
+      "cat": "RESEARCH",
+      "date": "2026-09-17T23:02:04.587898"
+    },
+    {
+      "title": "Amazon launches Alexa+ in India: What its AI assistant can do and how much it costs",
+      "url": "https://www.medianama.com/2026/09/223-amazon-alexa-plus-launched-india/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-17T23:02:04.587898"
+    },
+    {
+      "title": "Comp AI raises $34m to turn compliance into continuous monitoring",
+      "url": "https://thenextweb.com/news/comp-ai-34m-series-a-agentic-compliance-security",
+      "cat": "FUNDING",
+      "date": "2026-09-17T23:02:04.587898"
+    },
+    {
+      "title": "Treble raises $18m to give physical AI a sense of hearing",
+      "url": "https://thenextweb.com/news/treble-18m-series-a2-acoustic-simulation-physical-ai",
+      "cat": "FUNDING",
+      "date": "2026-09-17T23:02:04.587898"
+    },
+    {
+      "title": "IIT Madras to Launch AI Studio for Turning Research into Startups",
+      "url": "https://www.college-mentor.com/iit-madras-to-launch-ai-studio-for-turning-research-into-startups/",
+      "cat": "RESEARCH",
+      "date": "2026-09-17T23:02:04.587898"
+    },
+    {
+      "title": "IIT Madras to launch AI studio to build AI and data science companies",
+      "url": "https://www.thehindu.com/education/iit-madras-to-launch-ai-studio-to-build-ai-and-data-science-companies/article69056864.ece",
+      "cat": "RESEARCH",
+      "date": "2026-09-17T23:02:04.587898"
+    },
+    {
+      "title": "India\u2019s top AI teams set to battle in Elastic and AWS's Forge the Future Hackathon finale",
+      "url": "https://yourstory.com/2026/09/indias-top-ai-teams-set-battle-elastic-awss-forge-future-hackathon-finale",
+      "cat": "RESEARCH",
+      "date": "2026-09-17T23:02:04.587898"
+    },
+    {
+      "title": "Microsoft agreed not to train AI on US student data. India has no such legal bar until May 2027",
+      "url": "https://www.medianama.com/2026/09/223-microsoft-student-data-ai-training-schools-india/",
+      "cat": "POLICY",
+      "date": "2026-09-17T23:02:04.587898"
+    },
+    {
+      "title": "Google rolls out AI contribution Pilot to compensate publishers appearing in AI responses",
+      "url": "https://www.medianama.com/2026/09/223-google-ai-pilot-publishers-responses/",
+      "cat": "OTHER",
+      "date": "2026-09-17T23:02:04.587898"
     }
   ]
 }
