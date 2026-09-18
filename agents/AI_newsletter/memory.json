@@ -1,36 +1,6 @@
 {
   "stories": [
     {
-      "title": "NVIDIA confirms it will acquire Hugging Face for $12.9 billion",
-      "url": "https://www.medianama.com/2026/09/223-nvidia-hugging-face-12-9-billion/",
-      "cat": "OTHER",
-      "date": "2026-09-04T22:30:01.369607"
-    },
-    {
-      "title": "Google Cloud Startup Summit to explore how agentic AI can reshape startup growth",
-      "url": "https://yourstory.com/2026/09/google-cloud-startup-summit-to-explore-how-agentic-ai-can-reshape-startup-growth",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-04T22:30:01.369607"
-    },
-    {
-      "title": "Cradlewise raises $12 million to make AI cribs for newborns: What about DPDP compliance?",
-      "url": "https://www.medianama.com/2026/09/223-cradlewise-ai-cribs-newborns/",
-      "cat": "FUNDING",
-      "date": "2026-09-04T22:30:01.369607"
-    },
-    {
-      "title": "Get AI to work on your terms: Microsoft's Puneet Chandok on navigating the modern tech race",
-      "url": "https://yourstory.com/2026/09/get-ai-to-work-on-your-terms-microsoft-puneet-chandok",
-      "cat": "OTHER",
-      "date": "2026-09-04T22:30:01.369607"
-    },
-    {
-      "title": "SEMI India CEO says India has much to gain from AI-driven global chip shortage. But there\u2019s a hitch",
-      "url": "https://theprint.in/india/semi-india-ceo-says-india-has-much-to-gain-from-ai-driven-global-chip-shortage-but-theres-a-hitch/3033105/",
-      "cat": "OTHER",
-      "date": "2026-09-04T22:30:01.369607"
-    },
-    {
       "title": "Sarvam AI has secured $75 million in fresh funding, marking a major milestone for homegrown artificial intelligence.",
       "url": "https://profit.theindirect.co/news/sarvam-ai-has-secured-75-million-in-fresh-funding-marking-a-major-milestone-for-homegrown-artificial-intelligence-as-investment-in-ai-continues-to-grow-indian-startups-are-proving-they-can-compete-and-innovate-on-the-global-stage",
       "cat": "FUNDING",
@@ -947,6 +917,66 @@
       "url": "https://www.medianama.com/2026/09/223-google-ai-pilot-publishers-responses/",
       "cat": "OTHER",
       "date": "2026-09-17T23:02:04.587898"
+    },
+    {
+      "title": "Sarvam AI Secures $234 Million in Series B Funding, Reaching $1.5 Billion Valuation",
+      "url": "https://www.slator.com/press-releases/indias-sarvam-raises-usd-234m-to-power-sovereign-multilingual-ai/",
+      "cat": "FUNDING",
+      "date": "2026-09-18T22:47:00.381587"
+    },
+    {
+      "title": "Nandan Nilekani Commits Second Grant to AI4Bharat, Total Funding Hits Rs 70 Crore",
+      "url": "https://www.businessworld.in/article/Nandan-Nilekani-Commits-Second-Grant-To-AI4Bharat-Total-Funding-Hits-Rs-70-Cr/07-06-2025-135578/",
+      "cat": "FUNDING",
+      "date": "2026-09-18T22:47:00.381587"
+    },
+    {
+      "title": "NHAI, GST Network & Mumbai Metro detail their AI use cases at GFF 2026",
+      "url": "https://www.medianama.com/2026/09/223-nhai-gstn-mumbai-metro-ai-use-cases/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-18T22:47:00.381587"
+    },
+    {
+      "title": "Activate Closes Debut AI Fund at $105 Million",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/activate-closes-debut-ai-fund-at-105-mn/articleshow/112746006.cms",
+      "cat": "FUNDING",
+      "date": "2026-09-18T22:47:00.381587"
+    },
+    {
+      "title": "Seller KYC, counterfeit listings & AI:  conversation on Indian e-commerce enforcement",
+      "url": "https://www.medianama.com/2026/09/223-seller-kyc-counterfeit-ai-e-commerce/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-18T22:47:00.381587"
+    },
+    {
+      "title": "Indian-origin researchers used Claude AI to hack OpenAI\u2019s systems\u2014got  \u20b96.27 lakh reward",
+      "url": "https://www.livemint.com/technology/tech-news/indianorigin-researchers-used-claude-ai-to-hack-openai-s-systems-got-6-27-lakh-bounty-11789753784566.html",
+      "cat": "RESEARCH",
+      "date": "2026-09-18T22:47:00.381587"
+    },
+    {
+      "title": "Enlight Metals Raises $1.5 Million in Funding",
+      "url": "https://www.startups.in.th/indian-startup-funding-news/enlight-metals-raises-1-5-million-from-exar-north-group/",
+      "cat": "FUNDING",
+      "date": "2026-09-18T22:47:00.381587"
+    },
+    {
+      "title": "VerifAIX Secures $5 Million in Funding",
+      "url": "https://www.startups.in.th/indian-startup-funding-news/ai-native-semiconductor-verification-startup-verifaix-raises-5-million/",
+      "cat": "FUNDING",
+      "date": "2026-09-18T22:47:00.381587"
+    },
+    {
+      "title": "Oversight Board\u2019s recommendations on Meta\u2019s AI labelling raise questions for India\u2019s deepfake rules",
+      "url": "https://www.medianama.com/2026/09/223-oversight-boards-metas-ai-labelling/",
+      "cat": "POLICY",
+      "date": "2026-09-18T22:47:00.381587"
+    },
+    {
+      "title": "AI research papers from Indian institutions on arXiv (recent submissions)",
+      "url": "https://arxiv.org/list/cs.AI/20260917",
+      "cat": "RESEARCH",
+      "date": "2026-09-18T22:47:00.381587"
     }
   ]
 }

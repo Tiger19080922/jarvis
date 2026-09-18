@@ -688,6 +688,18 @@
         "Considering the rapid pace of GPU hardware advancements, what is the IndiaAI Mission's plan for managing hardware obsolescence and ensuring the national AI infrastructure remains state-of-the-art over the five-year budget outlay, and what is the projected cost of upgrades or replacements?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-18T22:47:00.383034",
+      "headline": "Sarvam AI raised $234 million in Series B funding.",
+      "source_url": "https://www.slator.com/press-releases/indias-sarvam-raises-usd-234m-to-power-sovereign-multilingual-ai/",
+      "questions": [
+        "Given that Sarvam AI was founded in August 2023 and has already raised $234 million at a $1.5 billion valuation, what specific technological or data moats has the company built in its first 22 months that would prevent a well-funded competitor, like Microsoft or Google, from replicating its full-stack generative AI platform, including its LLMs and multimodal AI systems, within 6-18 months?",
+        "Peak XV Partners' thesis states they will \"continue to double down on AI.\" If Sarvam AI's core generative AI platform development hits a significant roadblock, or if the market shifts towards a different AI paradigm not currently addressed by Sarvam's full-stack approach, what specific contingency plans does the company have in place to pivot or adapt, given the substantial capital raised?",
+        "With a $1.5 billion valuation achieved just under two years since its founding, what specific, quantifiable milestones must Sarvam AI hit in the next 18 months to justify this valuation, beyond simply continuing to develop its LLMs and multimodal AI systems, and what are the key risks that could prevent achieving these milestones?",
+        "Sarvam AI is developing a full-stack generative AI platform in India. Considering the intense global competition from established tech giants and other well-funded AI startups, what is the specific, defensible reason why this team, in India, right now, is uniquely positioned to win in this market, especially when compared to companies with longer track records and potentially larger existing talent pools?"
+      ],
+      "answers": []
     }
   ]
 }
