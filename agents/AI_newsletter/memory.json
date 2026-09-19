@@ -1,54 +1,6 @@
 {
   "stories": [
     {
-      "title": "Sarvam AI has secured $75 million in fresh funding, marking a major milestone for homegrown artificial intelligence.",
-      "url": "https://profit.theindirect.co/news/sarvam-ai-has-secured-75-million-in-fresh-funding-marking-a-major-milestone-for-homegrown-artificial-intelligence-as-investment-in-ai-continues-to-grow-indian-startups-are-proving-they-can-compete-and-innovate-on-the-global-stage",
-      "cat": "FUNDING",
-      "date": "2026-09-05T22:12:24.536400"
-    },
-    {
-      "title": "TCS commits $7.4B to a one-gigawatt AI campus in Hyderabad",
-      "url": "https://thenextweb.com/news/tcs-hypervault-one-gigawatt-hyderabad-campus-7-4-billion-water-neutral-claim-eu-data-centre-reporting-delegated-regulation-2024-1364",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-05T22:12:24.536400"
-    },
-    {
-      "title": "Agentic AI could automate 80% of routine treasury work, leave strategic decisions to humans: EY",
-      "url": "https://www.livemint.com/technology/agentic-ai-could-automate-80-of-routine-treasury-work-leave-strategic-decisions-to-humans-ey-11788496812034.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-05T22:12:24.536400"
-    },
-    {
-      "title": "AI creator platform Creedom raises Rs 4.1 crore in funding at Rs 42 crore valuation",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvHCfYnBOTSDrccQcD73RyU1qg6Ta7DgXNG-gAKlIa10sxXPEPvWvRPdjkAiVFNEs3C5SXjnTf3Q0fWrNTsq1gNswqxwwXQz6K-1RjB5WAq4pG6Z9ZbLwGZi_szPuuXBxBYbRFq9ZpeFErDf5HIfT3i1riDYc_J8EQDrVZdsNls0T0FT_aCBpbCByQduZmM18TZyVsUFxfINESiM7zQjtanWWC3lsZomAyQDX5J8L0OttrS2k9VRNz25392ao=",
-      "cat": "FUNDING",
-      "date": "2026-09-05T22:12:24.536400"
-    },
-    {
-      "title": "Microsoft\u2019s Puneet Chandok calls learning AI a \u2018full contact body sport; Shaping the new tech order",
-      "url": "https://yourstory.com/2026/09/microsofts-puneet-chandok-on-navigating-the-modern-tech-race",
-      "cat": "OTHER",
-      "date": "2026-09-05T22:12:24.536400"
-    },
-    {
-      "title": "Exclusive: Thaler says India went further than the US on AI art \u2014 and still got the author wrong",
-      "url": "https://www.medianama.com/2026/09/223-stephen-thaler-ai-copyright-dabus-india/",
-      "cat": "POLICY",
-      "date": "2026-09-05T22:12:24.536400"
-    },
-    {
-      "title": "Funding and acquisitions in Indian startups this week [Aug 31 - Sep 05]",
-      "url": "https://entrackr.com/2026/09/funding-and-acquisitions-in-indian-startups-this-week-aug-31-sep-05/",
-      "cat": "FUNDING",
-      "date": "2026-09-05T22:12:24.536400"
-    },
-    {
-      "title": "Weekly Startup Funding Roundup: AI, Robotics, Healthcare, Creator Marketing, Clean Energy, and Semiconductors Attract Fresh Capital",
-      "url": "https://www.global.tech/news/weekly-startup-funding-roundup-ai-robotics-healthcare-creator-marketing-clean-energy-and-semiconductors-attract-fresh-capital/",
-      "cat": "FUNDING",
-      "date": "2026-09-05T22:12:24.536400"
-    },
-    {
       "title": "TCS HyperVault To Invest \u20b970,000 Cr To Set Up AI Data Centre in Hyderabad",
       "url": "https://inc42.com/buzz/tcs-hypervault-to-invest-%e2%82%b970000-cr-to-set-up-ai-data-centre-in-hyderabad/",
       "cat": "ENTERPRISE",
@@ -977,6 +929,30 @@
       "url": "https://arxiv.org/list/cs.AI/20260917",
       "cat": "RESEARCH",
       "date": "2026-09-18T22:47:00.381587"
+    },
+    {
+      "title": "National Program on Artificial Intelligence",
+      "url": "https://digitalindia.gov.in/content/national-program-artificial-intelligence",
+      "cat": "POLICY",
+      "date": "2026-09-19T22:26:02.205683"
+    },
+    {
+      "title": "India AI Impact Summit 2026 Session Highlights Pathways to Scale AI from Pilots to Population Impact",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2004217",
+      "cat": "POLICY",
+      "date": "2026-09-19T22:26:02.205683"
+    },
+    {
+      "title": "PM Narendra Modi's Human-Centric AI Odyssey",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2004105",
+      "cat": "POLICY",
+      "date": "2026-09-19T22:26:02.205683"
+    },
+    {
+      "title": "AI and the Future of India's Workforce",
+      "url": "https://www.drishtiias.com/printpdf/ai-and-the-future-of-india-s-workforce",
+      "cat": "POLICY",
+      "date": "2026-09-19T22:26:02.205683"
     }
   ]
 }
