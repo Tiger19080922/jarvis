@@ -713,6 +713,18 @@
         "How does the substantial \u20b910,371.92 crore government investment in IndiaAI create a moat for a specific startup, when the stated goal is to build and strengthen the *entire* AI ecosystem?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-20T22:38:38.943329",
+      "headline": "CubeAPM develops a managed, self-hosted observability platform.",
+      "source_url": "https://inc42.com/startups/how-cubeapm-plans-to-take-on-datadog-and-new-relic-with-its-80-cheaper-ai-observability-stack/",
+      "questions": [
+        "Given that Datadog and New Relic have spent years building out their feature sets and sales motions, what specific technical advantage or go-to-market insight allows CubeAPM, founded in 2023 and unfunded, to believe it can displace them in the observability market?",
+        "Peak XV Partners' thesis highlights deep tech in India; how does CubeAPM's managed, self-hosted observability platform differentiate itself technically from other deep tech plays, and what prevents a well-funded competitor from replicating your core value proposition within 18 months?",
+        "What is the specific failure mode for CubeAPM in the next 18 months, considering the established market players and the fact that you're currently unfunded?",
+        "How will CubeAPM acquire its initial customers and demonstrate product-market fit without any external capital, especially when competing against incumbents with extensive sales and marketing budgets?"
+      ],
+      "answers": []
     }
   ]
 }
