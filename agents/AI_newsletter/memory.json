@@ -1,90 +1,6 @@
 {
   "stories": [
     {
-      "title": "Tata\u2019s HyperVault plans Rs 70,000-crore AI data centre in Telangana",
-      "url": "https://www.medianama.com/2026/09/223-tcs-hypervault-ai-data-centre-telangana/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-07T23:00:02.277425"
-    },
-    {
-      "title": "Paytm\u2019s Vijay Shekhar Sharma predicts AI agents will eat apps by 2027",
-      "url": "https://yourstory.com/2026/09/paytms-vijay-shekhar-sharma-predicts-ai-agents-will-eat-apps-by-2027",
-      "cat": "RESEARCH",
-      "date": "2026-09-07T23:00:02.277425"
-    },
-    {
-      "title": "Explainer: Meta is testing AI agent integration on WhatsApp. Here is what it means",
-      "url": "https://www.medianama.com/2026/09/223-meta-ai-agent-whatsapp/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-07T23:00:02.277425"
-    },
-    {
-      "title": "AI agent reliability requires a new model of observability",
-      "url": "https://thenextweb.com/news/ai-agent-reliability-observability-moyai-robert-hommes",
-      "cat": "RESEARCH",
-      "date": "2026-09-07T23:00:02.277425"
-    },
-    {
-      "title": "AI Research Papers Published on ArXiv by Indian Institutions in Last 48 Hours",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4f-lg5zE0obpGYJ41Q3FyrfxKHmviVdC8YEtpSeDiWYN9nupZfnXN5Q3IkjSNYzkic3sIkOzzUHKOOL3vjgcvkw_xcCKofqPyny5tRZ44t0WbZ0C81D0KLbz3UQ==",
-      "cat": "RESEARCH",
-      "date": "2026-09-07T23:00:02.277425"
-    },
-    {
-      "title": "OpenAI discloses another instance of model misalignment: What was the \u2018Wiki incident\u2019?",
-      "url": "https://www.medianama.com/2026/09/223-openai-model-misalignment/",
-      "cat": "RESEARCH",
-      "date": "2026-09-07T23:00:02.277425"
-    },
-    {
-      "title": "Swiggy introduces Swiggy Money to its MCP to simplify agentic payments: We tested it and found friction",
-      "url": "https://www.medianama.com/2026/09/223-swiggy-money-mcp-agentic-payments/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-07T23:00:02.277425"
-    },
-    {
-      "title": "AI may accelerate anti-competitive practices in digital markets: CCI chief",
-      "url": "https://www.livemint.com/technology/ai-may-accelerate-anti-competitive-practices-in-digital-markets-cci-chief-11788777047734.html",
-      "cat": "POLICY",
-      "date": "2026-09-07T23:00:02.277425"
-    },
-    {
-      "title": "Dubai is training 14,000 companies to run AI agents, on a two-year clock",
-      "url": "https://thenextweb.com/news/dubai-chambers-agentic-ai-training-14000-companies",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-07T23:00:02.277425"
-    },
-    {
-      "title": "Cato raises \u20ac6m to sell AI into Italy\u2019s \u20ac309.7bn tender market",
-      "url": "https://thenextweb.com/news/cato-6m-seed-ai-italian-public-tenders",
-      "cat": "FUNDING",
-      "date": "2026-09-07T23:00:02.277425"
-    },
-    {
-      "title": "Nvidia Chief Jensen Huang declares arrival of AGI; Congratulates OpenAI team on GPT-6 Astra model",
-      "url": "https://www.livemint.com/technology/nvidia-chief-jensen-huang-declares-arrival-of-agi-congratulates-openai-team-on-gpt-6-astra-model-11788757083350.html",
-      "cat": "RESEARCH",
-      "date": "2026-09-07T23:00:02.277425"
-    },
-    {
-      "title": "\u201cTime calls for extreme caution\u201d, warns OpenAI chief scientist, pushing for broader interventions as AI capabilities surge",
-      "url": "https://www.livemint.com/technology/time-calls-for-extreme-caution-warns-openai-chief-scientist-pushing-for-broader-interventions-as-ai-capabilities-surge-11788748295891.html",
-      "cat": "RESEARCH",
-      "date": "2026-09-07T23:00:02.277425"
-    },
-    {
-      "title": "Jensen Huang says AGI has arrived, and 400,000 more GPUs are coming",
-      "url": "https://thenextweb.com/news/jensen-huang-agi-has-arrived-gpt-6-astra",
-      "cat": "RESEARCH",
-      "date": "2026-09-07T23:00:02.277425"
-    },
-    {
-      "title": "Cognizant put $4.5tn on AI job exposure, then hired 1,500 graduates",
-      "url": "https://thenextweb.com/news/cognizant-ai-jobs-4-5-trillion-graduates",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-07T23:00:02.277425"
-    },
-    {
       "title": "Got an AI Solution for Infrastructure? Rodic Consultants and Nasscom Are Opening the Door",
       "url": "https://yourstory.com/2026/09/got-an-ai-solution-for-infrastructure-rodic-consultants-and-nasscom-are-opening-the-door",
       "cat": "ENTERPRISE",
@@ -995,6 +911,90 @@
       "url": "https://www.livemint.com/technology/googles-gemini-breaks-out-of-test-environment-to-hack-three-external-firms-report-11789785729332.html",
       "cat": "RESEARCH",
       "date": "2026-09-20T22:38:38.941884"
+    },
+    {
+      "title": "NSE flags AI use by market participants as potential business risk",
+      "url": "https://www.medianama.com/2026/09/223-nse-ai-market-business-risk/",
+      "cat": "POLICY",
+      "date": "2026-09-21T23:31:06.511676"
+    },
+    {
+      "title": "India\u2019s drug regulator forms AI expert committee: What we know, what remains unclear",
+      "url": "https://www.medianama.com/2026/09/223-cdsco-ai-expert-committee/",
+      "cat": "POLICY",
+      "date": "2026-09-21T23:31:06.511676"
+    },
+    {
+      "title": "How Generative AI is Reshaping Enterprise IT Services in 2026 - NASSCOM Community",
+      "url": "https://community.nasscom.in/view/how-generative-ai-is-reshaping-enterprise-it-services-in-2026",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-21T23:31:06.511676"
+    },
+    {
+      "title": "EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise",
+      "url": "https://arxiv.org/abs/2609.21841",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-21T23:31:06.511676"
+    },
+    {
+      "title": "Building intelligent enterprises: why developers must bridge code and business reality",
+      "url": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-21T23:31:06.511676"
+    },
+    {
+      "title": "Open-source is more than free code. It\u2019s a way to build for the future",
+      "url": "https://yourstory.com/2026/09/open-source-is-more-than-free-code-its-a-way-to-build-for-the-future",
+      "cat": "RESEARCH",
+      "date": "2026-09-21T23:31:06.511676"
+    },
+    {
+      "title": "India sees no reason to pause AI research, says IT Ministry as it plans tighter incident reporting rules",
+      "url": "https://economictimes.indiatimes.com/tech/tech-policy/india-sees-no-reason-to-pause-ai-research-says-it-ministry-as-it-plans-tighter-incident-reporting-rules/articleshow/103834979.cms",
+      "cat": "POLICY",
+      "date": "2026-09-21T23:31:06.511676"
+    },
+    {
+      "title": "India Prioritises People-Centric AI Amidst Global Pause Calls",
+      "url": "https://rediff.com/news/report/india-prioritises-people-centric-ai-amidst-global-pause-calls/20260921.htm",
+      "cat": "POLICY",
+      "date": "2026-09-21T23:31:06.511676"
+    },
+    {
+      "title": "Ottonomy is building robots for real-world logistics",
+      "url": "https://yourstory.com/2026/09/ottonomy-is-building-robots-for-real-world-logistics",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-21T23:31:06.511676"
+    },
+    {
+      "title": "Companies adopting agentic AI risk choosing easier-to-approve tools over more capable ones: Report",
+      "url": "https://www.livemint.com/technology/companies-adopting-agentic-ai-risk-choosing-easier-to-approve-tools-over-more-capable-ones-report-11789967028784.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-21T23:31:06.511676"
+    },
+    {
+      "title": "AI model costs are pushing startups towards cheaper open weigh",
+      "url": "https://thenextweb.com/news/model-costs-startups-open-weights",
+      "cat": "FUNDING",
+      "date": "2026-09-21T23:31:06.511676"
+    },
+    {
+      "title": "AI brings benefits but also risks; regulation has a role - ET CFO",
+      "url": "https://economictimes.indiatimes.com/industry/services/data-storage/ai-brings-benefits-but-also-risks-regulation-has-a-role/articleshow/103798415.cms",
+      "cat": "POLICY",
+      "date": "2026-09-21T23:31:06.511676"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google and xAI sued over calls to slow AI development",
+      "url": "https://www.medianama.com/2026/09/223-openai-anthropic-google-xai-sued-ai-development/",
+      "cat": "POLICY",
+      "date": "2026-09-21T23:31:06.511676"
+    },
+    {
+      "title": "OpenAI asks Washington to lead a global AI standards push",
+      "url": "https://thenextweb.com/news/openai-global-ai-standards-push",
+      "cat": "POLICY",
+      "date": "2026-09-21T23:31:06.511676"
     }
   ]
 }

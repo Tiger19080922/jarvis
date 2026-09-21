@@ -725,6 +725,18 @@
         "How will CubeAPM acquire its initial customers and demonstrate product-market fit without any external capital, especially when competing against incumbents with extensive sales and marketing budgets?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-21T23:31:06.513142",
+      "headline": "NSE identifies AI use by market participants as a business risk.",
+      "source_url": "https://www.medianama.com/2026/09/223-nse-ai-market-business-risk/",
+      "questions": [
+        "Given the NSE's DRHP explicitly calls out AI use by market participants as a business risk, how does your company's AI-driven trading platform mitigate this specific, stated risk, rather than contributing to it?",
+        "The NSE's IPO filing highlights AI as a risk. What specific safeguards or unique technological approaches does your platform employ to differentiate itself from other AI-driven market participants that the NSE is concerned about?",
+        "If the NSE's primary concern is the potential for AI to create systemic risk, how does your company's business model ensure it doesn't exacerbate this, especially given you're seeking to profit from AI-driven strategies?",
+        "Considering the NSE's stated concern about AI as a business risk, what specific regulatory or compliance hurdles do you anticipate in the Indian market that are directly tied to the NSE's identified risks, and how have you planned for them?"
+      ],
+      "answers": []
     }
   ]
 }
