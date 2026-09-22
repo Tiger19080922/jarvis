@@ -1,78 +1,6 @@
 {
   "stories": [
     {
-      "title": "Got an AI Solution for Infrastructure? Rodic Consultants and Nasscom Are Opening the Door",
-      "url": "https://yourstory.com/2026/09/got-an-ai-solution-for-infrastructure-rodic-consultants-and-nasscom-are-opening-the-door",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-08T22:55:24.232173"
-    },
-    {
-      "title": "Bajaj Finance Picks Up 5% Stake in AI Video Startup TrueFan AI",
-      "url": "https://inc42.com/buzz/bajaj-finance-picks-up-5-stake-in-ai-video-startup-truefan-ai/",
-      "cat": "FUNDING",
-      "date": "2026-09-08T22:55:24.232173"
-    },
-    {
-      "title": "Fundly.ai Raises $4 Mn To Scale Pharma Payments, Commerce Infra",
-      "url": "https://inc42.com/buzz/fundly-ai-raises-4-mn-to-scale-pharma-payments-commerce-infra/",
-      "cat": "FUNDING",
-      "date": "2026-09-08T22:55:24.232173"
-    },
-    {
-      "title": "AI in healthcare: Remote monitoring, ICU optimisation to be next growth frontiers, says report",
-      "url": "https://yourstory.com/2026/09/ai-in-healthcare-remote-monitoring-icu-optimisation-to-be-next-growth-frontiers-says-report",
-      "cat": "RESEARCH",
-      "date": "2026-09-08T22:55:24.232173"
-    },
-    {
-      "title": "ANI appeals the ruling that made AI training on Indian news fair dealing",
-      "url": "https://www.medianama.com/2026/09/223-ani-ai-training-indian-news/",
-      "cat": "POLICY",
-      "date": "2026-09-08T22:55:24.232173"
-    },
-    {
-      "title": "AI Adoption Could Create New Competition Risks In Digital Markets: CCI Chief",
-      "url": "https://inc42.com/buzz/ai-adoption-could-create-new-competition-risks-in-digital-markets-cci-chief/",
-      "cat": "POLICY",
-      "date": "2026-09-08T22:55:24.232173"
-    },
-    {
-      "title": "Times of India publisher partners with OpenAI, but financial terms remain undisclosed",
-      "url": "https://www.medianama.com/2026/09/223-bccl-openai-content-partnership-toi/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-08T22:55:24.232173"
-    },
-    {
-      "title": "Meet enso, the next unicorn in agentic GTM",
-      "url": "https://thenextweb.com/news/meet-enso-the-next-unicorn-in-agentic-gtm",
-      "cat": "FUNDING",
-      "date": "2026-09-08T22:55:24.232173"
-    },
-    {
-      "title": "LLMs remember your code, not your life: Building a portable personal context layer",
-      "url": "https://thenextweb.com/news/llms-remember-code-not-life-portable-context-layer",
-      "cat": "RESEARCH",
-      "date": "2026-09-08T22:55:24.232173"
-    },
-    {
-      "title": "Canadian Music Publishers Association SOCAN has sued Suno for copyright infringement",
-      "url": "https://www.medianama.com/2026/09/223-socan-sued-suno-copyright/",
-      "cat": "RESEARCH",
-      "date": "2026-09-08T22:55:24.232173"
-    },
-    {
-      "title": "Meta launches personal AI agent, Muse, emphasizes safety and privacy",
-      "url": "https://www.livemint.com/technology/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy-11788894594364.html",
-      "cat": "RESEARCH",
-      "date": "2026-09-08T22:55:24.232173"
-    },
-    {
-      "title": "OpenAI now supplies the image models inside Adobe\u2019s creative studio. It is also turning prompts into things you pass around.",
-      "url": "https://thenextweb.com/news/openai-images-25-adobe-firefly-interface-layer",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-08T22:55:24.232173"
-    },
-    {
       "title": "From AI pilots to production: Rebuilding the enterprise stack for intelligent agents",
       "url": "https://yourstory.com/2026/09/ai-pilots-production-rebuilding-enterprise-stack-intelligent-agents",
       "cat": "ENTERPRISE",
@@ -995,6 +923,18 @@
       "url": "https://thenextweb.com/news/openai-global-ai-standards-push",
       "cat": "POLICY",
       "date": "2026-09-21T23:31:06.511676"
+    },
+    {
+      "title": "AI accounting startup Rillet has reached a massive $1 BILLION valuation\u2014roughly \u20b99,500 crore depending on the exchange rate. The company raised $100 million in Series C funding, and CEO Nicolas Kopp said the round came together in less than 48 hours!",
+      "url": "https://www.facebook.com/JOTTV.Official/videos/100-million-in-less-than-48-hours-ai-accounting-startup-rillet-has-reached-a-massive-1-b/764209912516867/",
+      "cat": "FUNDING",
+      "date": "2026-09-22T23:11:32.023238"
+    },
+    {
+      "title": "Proactive AI startup Sol raises $4 Mn from General Catalyst, Nexus VP, and others",
+      "url": "https://www.entrackr.com/news/sol-raises-4-mn-from-general-catalyst-nexus-vp-and-others/",
+      "cat": "FUNDING",
+      "date": "2026-09-22T23:11:32.023238"
     }
   ]
 }

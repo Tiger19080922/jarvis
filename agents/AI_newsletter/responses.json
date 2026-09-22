@@ -737,6 +737,18 @@
         "Considering the NSE's stated concern about AI as a business risk, what specific regulatory or compliance hurdles do you anticipate in the Indian market that are directly tied to the NSE's identified risks, and how have you planned for them?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-22T23:11:32.024586",
+      "headline": "AI-native ERP platform Rillet closed a $100 million Series C funding round.",
+      "source_url": "https://www.facebook.com/JOTTV.Official/videos/100-million-in-less-than-48-hours-ai-accounting-startup-rillet-has-reached-a-massive-1-b/764209912516867/",
+      "questions": [
+        "Given that Rillet raised $70M in Series B just last August, what specific, compounding customer adoption metrics or workflow automation breakthroughs have occurred in the last 12 months to justify a $100M Series C led by ICONIQ, with participation from a16z and Sequoia?",
+        "Rillet's 'agent-first' approach to automating accounting workflows directly within the general ledger sounds like a direct challenge to established players like SAP and Oracle. What specific technical moat, beyond AI agents, prevents these incumbents, or a well-funded competitor like Personio or Workday, from replicating Rillet's core functionality within 18 months?",
+        "The promise of a 'zero-day close' is ambitious. What is the most complex accounting workflow that Rillet's AI agents can currently handle end-to-end without human intervention, and what is the current failure rate or manual override percentage for those specific tasks?",
+        "With $100M in new capital, what is Rillet's strategy to achieve profitability, considering the significant R&D investment required for AI-native ERP and the long sales cycles typical in enterprise software? Specifically, how do the unit economics of acquiring and supporting an AI-native ERP customer compare to traditional SaaS ERP models once the initial VC subsidy from this round is factored out?"
+      ],
+      "answers": []
     }
   ]
 }
