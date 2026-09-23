@@ -749,6 +749,18 @@
         "With $100M in new capital, what is Rillet's strategy to achieve profitability, considering the significant R&D investment required for AI-native ERP and the long sales cycles typical in enterprise software? Specifically, how do the unit economics of acquiring and supporting an AI-native ERP customer compare to traditional SaaS ERP models once the initial VC subsidy from this round is factored out?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-23T23:06:16.757704",
+      "headline": "Zoho's Sridhar Vembu champions \"ubiquitous intelligence\" as AI's next evolution.",
+      "source_url": "https://yourstory.com/2026/09/ai-is-the-new-ui-zohos-sridhar-vembu-ubiquitous-intelligence",
+      "questions": [
+        "Sridhar Vembu's vision of 'ubiquitous intelligence' implies significant R&D investment; how does Zoho, as a bootstrapped company that has never raised external funding, plan to out-invest well-capitalized competitors like Microsoft or Google in this specific AI evolution?",
+        "Given Zoho's historical focus on a broad suite of business applications, what is the specific product or integration that represents the 'ubiquitous intelligence' breakthrough, and how does it demonstrably enable 'friction-free work' beyond existing AI features in competitors' offerings?",
+        "If 'ubiquitous intelligence' requires fundamentally new infrastructure or data models, how does Zoho's current technology stack, built over decades for traditional SaaS, support this leap, and what is the realistic timeline and cost to adapt it without external capital?",
+        "Zoho's success has been driven by its broad, integrated suite. How will the push for 'ubiquitous intelligence' specifically enhance the value proposition of existing products like Zoho CRM or Zoho Workplace in a way that creates a durable competitive moat against incumbents who are also investing heavily in AI integration?"
+      ],
+      "answers": []
     }
   ]
 }
