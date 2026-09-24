@@ -761,6 +761,18 @@
         "Zoho's success has been driven by its broad, integrated suite. How will the push for 'ubiquitous intelligence' specifically enhance the value proposition of existing products like Zoho CRM or Zoho Workplace in a way that creates a durable competitive moat against incumbents who are also investing heavily in AI integration?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-24T23:21:16.980396",
+      "headline": "Ema secured $77 million in Series B funding for its \"AI Employees\" platform.",
+      "source_url": "https://inc42.com/buzz/ema-raises-77-mn-to-scale-its-universal-ai-employee-platform-globally/",
+      "questions": [
+        "Given that Creaegis led the $77 million Series B, what specific metrics or milestones did Ema demonstrate that convinced them of the scalability of 'AI Employees' beyond the initial pilot stages, particularly concerning the cost-to-deploy and ongoing maintenance of these agents across diverse enterprise software stacks?",
+        "Nexus Venture Partners' thesis highlights a demand for software that 'acts.' If Ema's AI Employees are indeed acting autonomously, what specific guardrails and oversight mechanisms are in place to prevent unintended consequences or costly errors in complex, multi-step business processes, and how does this complexity scale with each new AI Employee deployed?",
+        "Ema raised $25 million in March 2024 and then two Series A rounds in July and October 2024, followed by a $77 million Series B in what appears to be less than a year. What specific, quantifiable improvements in customer acquisition cost, customer lifetime value, or churn reduction have occurred during this rapid funding cycle to justify this accelerated capital infusion?",
+        "With Accel, S32, and Prosus increasing their investments, they've clearly seen something compelling. However, what prevents a well-funded competitor, potentially with a different go-to-market strategy or a more focused initial product, from replicating Ema's core 'AI Employees' functionality and capturing market share within 12-18 months, especially if the underlying AI models become commoditized?"
+      ],
+      "answers": []
     }
   ]
 }

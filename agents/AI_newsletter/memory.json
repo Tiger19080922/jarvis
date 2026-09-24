@@ -1,42 +1,6 @@
 {
   "stories": [
     {
-      "title": "[Update] Graph AI Nets $13.3 Mn To Accelerate International Expansion",
-      "url": "https://inc42.com/buzz/graph-ai-in-talks-to-raise-14-mn-from-insight-partners-others/",
-      "cat": "FUNDING",
-      "date": "2026-09-10T22:45:58.737530"
-    },
-    {
-      "title": "Startups, Small Businesses Will Drive Job Creation In AI Era: Nandan Nilekani",
-      "url": "https://inc42.com/buzz/startups-small-businesses-will-drive-job-creation-in-ai-era-nandan-nilekani/",
-      "cat": "OTHER",
-      "date": "2026-09-10T22:45:58.737530"
-    },
-    {
-      "title": "Google expands India's clean-energy push with Solar API for 300M rooftops, climate-smart agri programme, and more",
-      "url": "https://yourstory.com/2026/09/google-expands-indias-clean-energy-push",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-10T22:45:58.737530"
-    },
-    {
-      "title": "Baseten buys Blaxel, a startup that builds sandboxes for AI agents",
-      "url": "https://thenextweb.com/news/baseten-acquires-blaxel-ai-agent-sandboxes",
-      "cat": "FUNDING",
-      "date": "2026-09-10T22:45:58.737530"
-    },
-    {
-      "title": "GFF 2026: Fintech-AI Partnerships Take The Centre Stage On Day 2",
-      "url": "https://inc42.com/buzz/gff-2026-fintech-ai-partnerships-take-the-centre-stage-on-day-2/",
-      "cat": "OTHER",
-      "date": "2026-09-10T22:45:58.737530"
-    },
-    {
-      "title": "Visa, Mastercard and Ant International team up on ID checks for AI agents",
-      "url": "https://thenextweb.com/news/visa-mastercard-ant-international-know-your-agent-ai-agents",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-10T22:45:58.737530"
-    },
-    {
       "title": "GFF 2026: Singapore has an AI agent framework. India is still examining one",
       "url": "https://www.medianama.com/2026/09/223-singapore-safr-agentic-ai-payments-india-gff/",
       "cat": "POLICY",
@@ -947,6 +911,108 @@
       "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM7K8K4IjXfIfnl0RwtUS_j7_haTC90Pj1Tauqrr2tCjxR3mxBwuEEe-KwDFDoJqtQQcatwRJjPczIITGkPxbxlt8j---J1nGsGqGkbx1Y4plhJRf86O1YyBZKkvEsevIwINpEJVKUoQ==",
       "cat": "RESEARCH",
       "date": "2026-09-23T23:06:16.756549"
+    },
+    {
+      "title": "Ema Raises $77 Mn To Scale Its Universal AI Employee Platform Globally",
+      "url": "https://inc42.com/buzz/ema-raises-77-mn-to-scale-its-universal-ai-employee-platform-globally/",
+      "cat": "FUNDING",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "Google Cloud pushes Gemini deeper into India\u2019s businesses",
+      "url": "https://yourstory.com/2026/09/google-cloud-brings-gemini-deeper-into-india-businesses",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "Enterprise AI startup Ema raises $77M in Series B round led by Creaegis",
+      "url": "https://yourstory.com/2026/09/enterprise-ai-startup-ema-raises-series-b-round-led-by-creaegis",
+      "cat": "FUNDING",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "Zoho\u2019s Sridhar Vembu talks about \u2018ubiquitous intelligence\u2019; Meet the speakers at TechSparks 2026",
+      "url": "https://yourstory.com/2026/09/zohos-sridhar-vembu-talks-about-ubiquitous-intelligence",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "Engineering is not a degree anymore, it is a mindset: Google exec Amit Kumar",
+      "url": "https://yourstory.com/2026/09/engineering-is-not-a-degree-anymore-it-is-a-mindset-google-amit-kumar",
+      "cat": "RESEARCH",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "CCPA draft guidelines seek to regulate spam calls, messages & AI-generated promotions",
+      "url": "https://www.medianama.com/2026/09/223-ccpa-draft-guidelines-spam-ai-promotions/",
+      "cat": "POLICY",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "AI Generated Synthetic Content Rules in India: Essential Actions for Brands",
+      "url": "https://vaquill.news/ai-generated-synthetic-content-rules-in-india-essential-actions-for-brands/",
+      "cat": "POLICY",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "UPI MDR Needed To Fight Cyber Threats With AI: NPCI Chief Dilip Asbe",
+      "url": "https://inc42.com/buzz/upi-mdr-needed-to-fight-cyber-threats-with-ai-npci-chief-dilip-asbe/",
+      "cat": "POLICY",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "Catalonia deepens India push, targets New Opportunities in AI, deeptech, and semiconductors",
+      "url": "https://yourstory.com/2026/09/catalonia-deepens-india-push-targets-new-opportunities-ai-deeptech-semiconductors",
+      "cat": "POLICY",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "5 strategic signals from Meta Connect 2026 about its AI agent Muse",
+      "url": "https://www.medianama.com/2026/09/223-signals-meta-connect-muse/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "Analysis-Oracle, Blue Owl project delay\u00a0sends ripples through AI financing, sources say",
+      "url": "https://www.livemint.com/technology/analysisoracle-blue-owl-project-delay-sends-ripples-through-ai-financing-sources-say-11790290849254.html",
+      "cat": "FUNDING",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "YouTube gets 30+ new features: AI editing tool to help creators; custom feeds, shorts series and more coming for users",
+      "url": "https://www.livemint.com/technology/youtube-gets-30-new-features-ai-editing-tool-to-help-creators-custom-feeds-shorts-series-and-more-coming-for-users-11790245559585.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "Gupshup\u2019s AI Rebuild, Moneyview\u2019s IPO & More",
+      "url": "https://inc42.com/buzz/gupshups-ai-rebuild-moneyviews-ipo-more/",
+      "cat": "OTHER",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "OpenAI agent hacked Australian medical portal. Why was it disclosed 3 months later?",
+      "url": "https://www.medianama.com/2026/09/223-openai-hacked-australian-medical-portal/",
+      "cat": "RESEARCH",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "Tech leaders to UN: For the sake of humanity, please control the AI technology we created",
+      "url": "https://www.livemint.com/technology/tech-leaders-to-un-for-the-sake-of-humanity-please-control-the-ai-technology-we-created-11790205255103.html",
+      "cat": "POLICY",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "81% of CIOs lack full oversight of AI agents built outside IT, Dataiku says",
+      "url": "https://thenextweb.com/news/cio-ai-agent-oversight-dataiku-survey",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "The next thing your endpoint manager manages is an AI agent",
+      "url": "https://thenextweb.com/news/endpoint-management-ai-agents-automox",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-24T23:21:16.979292"
     }
   ]
 }
