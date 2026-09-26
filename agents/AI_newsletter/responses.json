@@ -773,6 +773,18 @@
         "With Accel, S32, and Prosus increasing their investments, they've clearly seen something compelling. However, what prevents a well-funded competitor, potentially with a different go-to-market strategy or a more focused initial product, from replicating Ema's core 'AI Employees' functionality and capturing market share within 12-18 months, especially if the underlying AI models become commoditized?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-26T23:06:59.446143",
+      "headline": "Indian government considers new fund for frontier AI development and compute infrastructure.",
+      "source_url": "https://inc42.com/buzz/govt-mulls-%e2%82%b920000-cr-fund-to-power-frontier-ai-compute-ecosystem-report/",
+      "questions": [
+        "Given the NFAICF is still a proposal and the IndiaAI Mission's \u20b910,371.92 crore outlay is spread over five years, what is the realistic timeline for the NFAICF to deploy capital, and how will frontier AI startups access this funding before it materializes?",
+        "If the NFAICF's anchor investment is potentially larger than the entire IndiaAI Mission's budget, what specific mechanisms will be in place to prevent this new fund from cannibalizing or duplicating the efforts already planned under the IndiaAI Mission?",
+        "What specific criteria will the NFAICF use to define 'frontier AI development' and 'critical infrastructure' to ensure the capital is allocated to truly cutting-edge ventures rather than incremental improvements, and how will this differ from existing government R&D grants?",
+        "Beyond the proposed anchor investment, what is the strategy for attracting co-investment from private VCs and corporations into the NFAICF, and what return profile is expected to justify this government-led, potentially long-term capital injection?"
+      ],
+      "answers": []
     }
   ]
 }

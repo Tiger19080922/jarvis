@@ -1,156 +1,6 @@
 {
   "stories": [
     {
-      "title": "GFF 2026: Singapore has an AI agent framework. India is still examining one",
-      "url": "https://www.medianama.com/2026/09/223-singapore-safr-agentic-ai-payments-india-gff/",
-      "cat": "POLICY",
-      "date": "2026-09-11T22:46:23.081513"
-    },
-    {
-      "title": "Sitharaman calls for stronger AI safeguards without stifling innovation",
-      "url": "https://www.livemint.com/technology/sitharaman-calls-for-stronger-ai-safeguards-without-stifling-innovation-11789125942439.html",
-      "cat": "POLICY",
-      "date": "2026-09-11T22:46:23.081513"
-    },
-    {
-      "title": "India AI Governance Guidelines: A Pragmatic Framework Rooted in Collaboration",
-      "url": "https://www.nasscom.in/medias/view/india-ai-governance-guidelines-a-pragmatic-framework-rooted-in-collaboration",
-      "cat": "POLICY",
-      "date": "2026-09-11T22:46:23.081513"
-    },
-    {
-      "title": "Pocket Entertainment crosses $500M in ARR fuelled by AI",
-      "url": "https://yourstory.com/2026/09/pocket-entertainment-crosses-500m-in-arr-fuelled-by-ai",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-11T22:46:23.081513"
-    },
-    {
-      "title": "PayU rolls out AI fraud protection tool for cross-border card payments",
-      "url": "https://www.medianama.com/2026/09/223-payu-ai-fraud-protection-cross-border-card-payments/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-11T22:46:23.081513"
-    },
-    {
-      "title": "GFF 2026: An AI model can influence elections without voters sensing it, says Nirmala Sitharaman",
-      "url": "https://www.medianama.com/2026/09/223-ai-influence-elections-nirmala-sitharaman/",
-      "cat": "POLICY",
-      "date": "2026-09-11T22:46:23.081513"
-    },
-    {
-      "title": "Glance pivots to AI commerce agents as US market drives over 50% of revenue",
-      "url": "https://www.livemint.com/technology/tech-news/glance-pivot-agentic-commerce-ai-agents-shoppers-consumer-research-e-commerce-inmobi-us-japan-11789043069409.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-11T22:46:23.081513"
-    },
-    {
-      "title": "OpenAI Open To Slowing AI Development Amid Safety Concerns: Sam Altman",
-      "url": "https://inc42.com/buzz/openai-open-to-slowing-ai-development-amid-safety-concerns-sam-altman/",
-      "cat": "RESEARCH",
-      "date": "2026-09-11T22:46:23.081513"
-    },
-    {
-      "title": "Navi is using AI to build credit and fraud models, says Sachin Bansal",
-      "url": "https://yourstory.com/2026/09/navi-using-ai-build-credit-fraud-models-sachin-bansal",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-11T22:46:23.081513"
-    },
-    {
-      "title": "OpenAI pauses $200 ChatGPT Pro sign-ups as Astra demand strains its systems",
-      "url": "https://thenextweb.com/news/openai-pro-pause-astra-eu-zone",
-      "cat": "OTHER",
-      "date": "2026-09-11T22:46:23.081513"
-    },
-    {
-      "title": "AI agents are learning to spend money. Who will handle the payments?",
-      "url": "https://thenextweb.com/news/ai-agents-payments-xdc-x402-mastercard",
-      "cat": "RESEARCH",
-      "date": "2026-09-11T22:46:23.081513"
-    },
-    {
-      "title": "Global Fintech Fest 2026: Key product launches from agentic UPI payments to Android ATMs",
-      "url": "https://www.medianama.com/2026/09/223-agentic-ai-products-fintechs-gff-2026/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-11T22:46:23.081513"
-    },
-    {
-      "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
-      "url": "https://www.livemint.com/technology/anthropic-disrupts-russian-chinese-ai-campaigns-targeting-its-claude-models-11789071905671.html",
-      "cat": "OTHER",
-      "date": "2026-09-11T22:46:23.081513"
-    },
-    {
-      "title": "Chinese robot startup JoyIn says OpenAI copied its ideas and its website",
-      "url": "https://thenextweb.com/news/joyin-openai-copying-claim-aether-alien-mind",
-      "cat": "OTHER",
-      "date": "2026-09-11T22:46:23.081513"
-    },
-    {
-      "title": "India's AI funding takes application-led path, nearly 90 pc of investments flow into application layer: Avendus",
-      "url": "https://www.business-standard.com/content/press-releases-indian-news-wire/indias-ai-funding-takes-application-led-path-nearly-90-pc-of-investments-flow-into-application-layer-avendus-126090800646_1.html",
-      "cat": "FUNDING",
-      "date": "2026-09-12T22:31:18.114578"
-    },
-    {
-      "title": "BRICS leaders call for wider AI access, stronger global cooperation for tech safety, risk mitigation",
-      "url": "https://www.livemint.com/technology/brics-leaders-call-for-wider-ai-access-stronger-global-cooperation-for-tech-safety-risk-mitigation-11789222767219.html",
-      "cat": "POLICY",
-      "date": "2026-09-12T22:31:18.114578"
-    },
-    {
-      "title": "Nandan Nilekani Increases Support to AI4Bharat with Total Grant of INR 70 Crore",
-      "url": "https://www.entrepreneur.com/en/news-and-trends/nandan-nilekani-increases-support-to-ai4bharat-with-total-grant-of-inr-70-crore/476860",
-      "cat": "FUNDING",
-      "date": "2026-09-12T22:31:18.114578"
-    },
-    {
-      "title": "Graph AI raises $13.3M in Series A funding",
-      "url": "https://yourstory.com/2026/09/graph-ai-raises-133-million-in-series-a",
-      "cat": "FUNDING",
-      "date": "2026-09-12T22:31:18.114578"
-    },
-    {
-      "title": "'Must slow the pace down': Anthropic CEO Dario Amodei calls for AI industry to slow down or risk losing control",
-      "url": "https://www.livemint.com/technology/must-slow-the-pace-down-anthropic-ceo-dario-amodei-calls-for-ai-industry-to-slow-down-or-risk-losing-control-11789229416944.html",
-      "cat": "RESEARCH",
-      "date": "2026-09-12T22:31:18.114578"
-    },
-    {
-      "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse",
-      "url": "https://www.livemint.com/technology/anthropic-ceo-urges-ai-companies-to-slow-model-development-amid-fears-over-misuse-11789226398278.html",
-      "cat": "RESEARCH",
-      "date": "2026-09-12T22:31:18.114578"
-    },
-    {
-      "title": "Sam Altman backs Dario Amodei\u2019s call to slow down, and says OpenAI will do the same",
-      "url": "https://thenextweb.com/news/altman-matches-pacing-eu-antitrust",
-      "cat": "RESEARCH",
-      "date": "2026-09-12T22:31:18.114578"
-    },
-    {
-      "title": "Airtel bats for sovereign stack to process data from India",
-      "url": "https://yourstory.com/2026/09/airtel-bats-for-sovereign-stack-to-process-data-from-india",
-      "cat": "POLICY",
-      "date": "2026-09-12T22:31:18.114578"
-    },
-    {
-      "title": "BRICS backs startup incubator network, considers innovation fund in New Delhi Declaration",
-      "url": "https://yourstory.com/2026/09/brics-startup-incubator-network-considers-innovation-fund-new-delhi-declaration",
-      "cat": "POLICY",
-      "date": "2026-09-12T22:31:18.114578"
-    },
-    {
-      "title": "More US lawmakers call for new AI rules after Anthropic researchers warn of human extinction",
-      "url": "https://www.livemint.com/technology/more-us-lawmakers-call-for-new-ai-rules-after-anthropic-researchers-warn-of-human-extinction-11789098236542.html",
-      "cat": "POLICY",
-      "date": "2026-09-12T22:31:18.114578"
-    },
-    {
-      "title": "B2B pharma platform Fundly.ai raises $4 million to expand commerce, payments and credit business",
-      "url": "https://www.indianstartupnews.com/funding-fusion/b2b-pharma-platform-fundlyai-raises-4-million-to-expand-commerce-payments-and-credit-business-20260912",
-      "cat": "FUNDING",
-      "date": "2026-09-12T22:31:18.114578"
-    },
-    {
       "title": "Indian researchers explore neuromorphic AI hardware beyond GPUs",
       "url": "https://www.facebook.com/EEtimesIndia/posts/pfbid02vHhJ3o6E9Jz4Qn9z1fVfV7c5yM5fBwFv1M9qGkYqY2Bq1m7G5rXhK9F6z2R7d9p",
       "cat": "RESEARCH",
@@ -1013,6 +863,60 @@
       "url": "https://thenextweb.com/news/endpoint-management-ai-agents-automox",
       "cat": "ENTERPRISE",
       "date": "2026-09-24T23:21:16.979292"
+    },
+    {
+      "title": "Govt Mulls \u20b920,000 Cr Fund To Power Frontier AI, Compute Ecosystem: Report",
+      "url": "https://inc42.com/buzz/govt-mulls-%e2%82%b920000-cr-fund-to-power-frontier-ai-compute-ecosystem-report/",
+      "cat": "POLICY",
+      "date": "2026-09-26T23:06:59.444917"
+    },
+    {
+      "title": "Dextr AI Raises $6.7 Mn To Build AI Agents For Hospitality Industry",
+      "url": "https://inc42.com/buzz/dextr-ai-raises-6-7-mn-to-build-ai-agents-for-hospitality-industry/",
+      "cat": "FUNDING",
+      "date": "2026-09-26T23:06:59.444917"
+    },
+    {
+      "title": "Pine Labs, Google Cloud partner to expand agentic commerce to merchants",
+      "url": "https://www.medianama.com/2026/09/223-pine-labs-agentic-commerce-merchants/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-26T23:06:59.444917"
+    },
+    {
+      "title": "How Enterprises Are Building Robust Infra Backbone For AI At Scale",
+      "url": "https://inc42.com/buzz/how-enterprises-are-building-robust-infra-backbone-for-ai-at-scale/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-26T23:06:59.444917"
+    },
+    {
+      "title": "From tokenmaxxing to context engineering: Why enterprise AI needs better context, not bigger prompts",
+      "url": "https://yourstory.com/2026/09/tokenmaxxing-context-engineering-why-enterprise-ai-needs-better-context-not-bigger-prompts",
+      "cat": "RESEARCH",
+      "date": "2026-09-26T23:06:59.444917"
+    },
+    {
+      "title": "YouTube expands likeness detection to voices as Indian courts target AI voice clones",
+      "url": "https://www.medianama.com/2026/09/223-youtube-likeness-detection-voices-clones/",
+      "cat": "POLICY",
+      "date": "2026-09-26T23:06:59.444917"
+    },
+    {
+      "title": "How Pine Labs Shifted Gears: From PoS Devices To An AI-Powered Fintech Stack",
+      "url": "https://inc42.com/features/how-pine-labs-shifted-gears-from-pos-devices-to-an-ai-powered-fintech-stack/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-26T23:06:59.444917"
+    },
+    {
+      "title": "From Bihar to SEMICON India: How Shweta Suman is building Swadeza for the world",
+      "url": "https://yourstory.com/2026/09/swadeza-bihar-ai-semiconductor-forge-chip-design",
+      "cat": "RESEARCH",
+      "date": "2026-09-26T23:06:59.444917"
+    },
+    {
+      "title": "Tata tussle turns the spotlight on TVS-Hanno deal; India is leapfrogging in AI: Google Cloud executive",
+      "url": "https://yourstory.com/2026/09/tata-tussle-spotlight-tvs-hanno-deal-india-is-leapfrogging-in-ai",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-26T23:06:59.444917"
     }
   ]
 }
