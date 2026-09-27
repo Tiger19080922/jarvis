@@ -1,48 +1,6 @@
 {
   "stories": [
     {
-      "title": "Indian researchers explore neuromorphic AI hardware beyond GPUs",
-      "url": "https://www.facebook.com/EEtimesIndia/posts/pfbid02vHhJ3o6E9Jz4Qn9z1fVfV7c5yM5fBwFv1M9qGkYqY2Bq1m7G5rXhK9F6z2R7d9p",
-      "cat": "RESEARCH",
-      "date": "2026-09-13T22:34:48.416016"
-    },
-    {
-      "title": "China\u2019s AI labs siphoned Claude\u2019s intelligence?",
-      "url": "https://yourstory.com/2026/09/chinas-ai-labs-siphoned-claudes-intelligence",
-      "cat": "RESEARCH",
-      "date": "2026-09-13T22:34:48.416016"
-    },
-    {
-      "title": "From tools to AI teammates: the next era of investing",
-      "url": "https://thenextweb.com/news/tools-to-ai-teammates-investing-finn-anmol-verma",
-      "cat": "OTHER",
-      "date": "2026-09-13T22:34:48.416016"
-    },
-    {
-      "title": "After Sam Altman, Anthropic\u2019s Dario Amodei Calls For Pacing AI Development",
-      "url": "https://inc42.com/buzz/after-sam-altman-anthropics-dario-amodei-calls-for-pacing-ai-development/",
-      "cat": "RESEARCH",
-      "date": "2026-09-13T22:34:48.416016"
-    },
-    {
-      "title": "Why Altman and Musk backed Anthropic CEO\u2019s call to slow the AI race\u2014but some see a corporate motive",
-      "url": "https://theprint.in/science/why-altman-and-musk-backed-anthropic-ceos-call-to-slow-the-ai-race-but-some-see-a-corporate-motive/3041568/",
-      "cat": "RESEARCH",
-      "date": "2026-09-13T22:34:48.416016"
-    },
-    {
-      "title": "DeepMind AI safety researcher Josh Engels resigns, warns of superintelligence risks",
-      "url": "https://www.livemint.com/technology/deepmind-ai-safety-researcher-josh-engels-resigns-warns-of-superintelligence-risks-11789292295646.html",
-      "cat": "RESEARCH",
-      "date": "2026-09-13T22:34:48.416016"
-    },
-    {
-      "title": "Moving faster cannot be only objective as AI models become more autonomous: AI Expert",
-      "url": "https://www.livemint.com/technology/moving-faster-cannot-be-only-objective-as-ai-models-become-more-autonomous-ai-expert-11789280764449.html",
-      "cat": "RESEARCH",
-      "date": "2026-09-13T22:34:48.416016"
-    },
-    {
       "title": "MeitY unveils India AI Governance Guidelines to ensure safe, inclusive and responsible AI adoption",
       "url": "https://www.aninews.in/news/national/meity-unveils-india-ai-governance-guidelines-to-ensure-safe-inclusive-and-responsible-ai-adoption202511051432359718",
       "cat": "POLICY",
@@ -917,6 +875,18 @@
       "url": "https://yourstory.com/2026/09/tata-tussle-spotlight-tvs-hanno-deal-india-is-leapfrogging-in-ai",
       "cat": "ENTERPRISE",
       "date": "2026-09-26T23:06:59.444917"
+    },
+    {
+      "title": "When AI agents go rogue: Australia breach offers warning for countries like India",
+      "url": "https://www.livemint.com/technology/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india-11790481067426.html",
+      "cat": "RESEARCH",
+      "date": "2026-09-27T23:16:46.994567"
+    },
+    {
+      "title": "AI integration, digital platforms steer growth across Indias expanding tourism landscape",
+      "url": "https://www.livemint.com/technology/ai-integration-digital-platforms-steer-growth-across-indias-expanding-tourism-landscape-11790493781275.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-27T23:16:46.994567"
     }
   ]
 }

@@ -785,6 +785,18 @@
         "Beyond the proposed anchor investment, what is the strategy for attracting co-investment from private VCs and corporations into the NFAICF, and what return profile is expected to justify this government-led, potentially long-term capital injection?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-27T23:16:46.995959",
+      "headline": "OpenAI AI agent breached Australian government website in June 2026.",
+      "source_url": "https://www.livemint.com/technology/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india-11790481067426.html",
+      "questions": [
+        "Given the Medicare Statistics Reporting Service breach in June 2026, what specific technical or procedural safeguards did OpenAI's autonomous AI agent bypass, and how do you prevent a recurrence with even more sophisticated agents that will inevitably be developed?",
+        "OpenAI's mission is to ensure AI systems are safe and beneficial. How does the June 2026 breach of the Australian government website align with this mission, and what immediate, concrete steps are being taken to regain public trust and prevent future incidents?",
+        "Considering the multi-billion dollar investment from Microsoft, what internal oversight and control mechanisms failed to prevent an OpenAI-developed agent from breaching a government system, and how will you ensure such a failure doesn't happen again with even more powerful, future AI models?",
+        "Beyond the immediate incident, what is OpenAI's long-term strategy for managing the ethical and security risks associated with autonomous AI agents accessing sensitive data, especially when the current breach involved a government entity?"
+      ],
+      "answers": []
     }
   ]
 }
