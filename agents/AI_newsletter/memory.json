@@ -1,96 +1,6 @@
 {
   "stories": [
     {
-      "title": "MeitY unveils India AI Governance Guidelines to ensure safe, inclusive and responsible AI adoption",
-      "url": "https://www.aninews.in/news/national/meity-unveils-india-ai-governance-guidelines-to-ensure-safe-inclusive-and-responsible-ai-adoption202511051432359718",
-      "cat": "POLICY",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
-      "title": "Google Picks Four Indian Startups As Part Of AI For The Planet Accelerator",
-      "url": "https://inc42.com/buzz/google-picks-four-indian-startups-as-part-of-ai-for-the-planet-accelerator/",
-      "cat": "FUNDING",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
-      "title": "Four Indian startups selected for Google DeepMind Accelerator",
-      "url": "https://yourstory.com/2026/09/four-indian-startups-selected-for-google-deepmind-accelerator",
-      "cat": "FUNDING",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
-      "title": "IIT Madras develops AI platform with 185,000 alloy records for sustainable materials discovery",
-      "url": "https://timesofindia.indiatimes.com/education/news/iit-madras-develops-ai-platform-with-185000-alloy-records-for-sustainable-materials-discovery/articleshow/101183917.cms",
-      "cat": "RESEARCH",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
-      "title": "AI could make thinking cheap. What happens to jobs, education and human purpose?",
-      "url": "https://yourstory.com/2026/09/ai-could-make-thinking-cheap-what-happens-to-jobs-education-and-human-purpose",
-      "cat": "RESEARCH",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
-      "title": "Telcos & DoT pushes for \u2018light-touch\u2019 AI regulations, seeks risk-based approach",
-      "url": "https://www.medianama.com/2026/09/223-telcos-dot-risk-based-ai-regulations/",
-      "cat": "POLICY",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
-      "title": "OpenAI agents not proof AI is out of control, need stronger guardrails: NITI Aayog\u2019s Debjani Ghosh",
-      "url": "https://www.livemint.com/technology/openai-agents-not-proof-ai-is-out-of-control-need-stronger-guardrails-niti-aayog-s-debjani-ghosh-11789360925422.html",
-      "cat": "POLICY",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
-      "title": "Chinese President Xi announces open-source AI ecosystem in 5-point BRICS plan",
-      "url": "https://www.livemint.com/technology/chinese-president-xi-announces-open-source-ai-ecosystem-in-5-point-brics-plan-11789311844230.html",
-      "cat": "POLICY",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
-      "title": "Anthropic wants independent evaluators inside frontier AI labs; OpenAI agrees",
-      "url": "https://www.medianama.com/2026/09/223-anthropic-evaluators-frontier-ai-labs/",
-      "cat": "POLICY",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
-      "title": "Jacob Coxon, who set of debate on slowing AI development, advocates for kill switch for AI systems",
-      "url": "https://www.livemint.com/technology/jacob-coxon-who-set-of-debate-on-slowing-ai-development-advocates-for-kill-switch-for-ai-systems-11789345158042.html",
-      "cat": "POLICY",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella backs need for evaluators for AI systems amid slowdown debate",
-      "url": "https://www.livemint.com/technology/microsoft-ceo-satya-nadella-backs-need-for-evaluators-for-ai-systems-amid-slowdown-debate-11789343509587.html",
-      "cat": "POLICY",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
-      "title": "Agentic commerce is loosening the grocery aisle\u2019s grip on the shopper",
-      "url": "https://thenextweb.com/news/agentic-commerce-grocery-ai-neomi",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
-      "title": "Hundreds of contractors are reportedly reading real ChatGPT conversations",
-      "url": "https://thenextweb.com/news/chatgpt-human-reviewers-gdpr",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
-      "title": "Anthropic has built a Claude tool for financial advisers",
-      "url": "https://thenextweb.com/news/anthropic-claude-advisers-mifid",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
-      "title": "Publications - Kotak IISc AI\u2013ML Centre - Indian Institute of Science",
-      "url": "https://ai-ml.iisc.ac.in/publications/",
-      "cat": "RESEARCH",
-      "date": "2026-09-14T23:21:16.258698"
-    },
-    {
       "title": "AI content startup Flam raises $40M from QED Investors, Shah Rukh Khan, and others",
       "url": "https://yourstory.com/2026/09/ai-content-startup-flam-raises-series-b-qed-investors-shah-rukh-khan-others",
       "cat": "FUNDING",
@@ -887,6 +797,36 @@
       "url": "https://www.livemint.com/technology/ai-integration-digital-platforms-steer-growth-across-indias-expanding-tourism-landscape-11790493781275.html",
       "cat": "ENTERPRISE",
       "date": "2026-09-27T23:16:46.994567"
+    },
+    {
+      "title": "OpenAI Pauses Training Of Top Models After Agent Bypasses Internet Restrictions",
+      "url": "https://inc42.com/buzz/openai-pauses-training-of-top-models-after-agent-bypasses-internet-restrictions/",
+      "cat": "RESEARCH",
+      "date": "2026-09-29T00:30:58.441618"
+    },
+    {
+      "title": "IIT Madras\u2019 1,000-startup bet; OpenAI\u2019s rogue agents raise fresh privacy concerns",
+      "url": "https://yourstory.com/2026/09/iit-madras-1000-startup-bet-openais-rogue-agents",
+      "cat": "RESEARCH",
+      "date": "2026-09-29T00:30:58.441618"
+    },
+    {
+      "title": "OpenAI hits pause on powerful AI; NEET leak fallout sees CISF step in",
+      "url": "https://yourstory.com/2026/09/openai-hits-pause-on-powerful-ai-neet-leak-fallout-sees-cisf-step-in",
+      "cat": "RESEARCH",
+      "date": "2026-09-29T00:30:58.441618"
+    },
+    {
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue",
+      "url": "https://yourstory.com/2026/09/nvidia-unveils-security-platform-to-stop-ai-agents-from-going-rogue",
+      "cat": "RESEARCH",
+      "date": "2026-09-29T00:30:58.441618"
+    },
+    {
+      "title": "Epiklogue unveils India\u2019s new commerce model: Try and Buy",
+      "url": "https://yourstory.com/2026/09/epiklogue-unveils-indias-new-commerce-model-try-and-buy",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-29T00:30:58.441618"
     }
   ]
 }

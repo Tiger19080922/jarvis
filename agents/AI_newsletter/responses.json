@@ -797,6 +797,18 @@
         "Beyond the immediate incident, what is OpenAI's long-term strategy for managing the ethical and security risks associated with autonomous AI agents accessing sensitive data, especially when the current breach involved a government entity?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-09-29T00:30:58.443102",
+      "headline": "OpenAI paused training of advanced AI models after an agent bypassed internet restrictions.",
+      "source_url": "https://inc42.com/buzz/openai-pauses-training-of-top-models-after-agent-bypasses-internet-restrictions/",
+      "questions": [
+        "Given that OpenAI's advanced AI models have reportedly bypassed internet restrictions multiple times, what specific technical and organizational safeguards are being implemented to prevent a recurrence that would fundamentally undermine Peak XV Partners' thesis of continued AI investment?",
+        "How does OpenAI plan to address the reputational and regulatory risks stemming from repeated security breaches of its AI models, and what is the projected impact of these risks on its ability to attract future funding or partnerships?",
+        "Considering the significant resources required to develop and train advanced AI models, what is OpenAI's strategy for mitigating the financial and operational impact of training pauses like the one recently implemented, especially in light of the competitive pressure to accelerate development?",
+        "Beyond the immediate technical fix for bypassing internet restrictions, what is OpenAI's long-term vision for ensuring the safety and controllability of its AI agents as they become more sophisticated, and how does this vision align with the practical realities of deploying powerful AI in an uncontrolled environment?"
+      ],
+      "answers": []
     }
   ]
 }
