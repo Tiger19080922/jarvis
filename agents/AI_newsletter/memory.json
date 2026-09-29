@@ -1,42 +1,6 @@
 {
   "stories": [
     {
-      "title": "AI content startup Flam raises $40M from QED Investors, Shah Rukh Khan, and others",
-      "url": "https://yourstory.com/2026/09/ai-content-startup-flam-raises-series-b-qed-investors-shah-rukh-khan-others",
-      "cat": "FUNDING",
-      "date": "2026-09-15T23:04:41.805895"
-    },
-    {
-      "title": "Delhi HC seeks OpenAI response in ANI case: Here\u2019s the timeline",
-      "url": "https://www.medianama.com/2026/09/223-delhi-hc-openai-ani-case/",
-      "cat": "POLICY",
-      "date": "2026-09-15T23:04:41.805895"
-    },
-    {
-      "title": "BharatGen Research Papers | AI Research for Indian Languages",
-      "url": "https://bharatgen.ai/papers",
-      "cat": "RESEARCH",
-      "date": "2026-09-15T23:04:41.805895"
-    },
-    {
-      "title": "On closer reading: With India as chair, BRICS repeats its 2025 AI training and copyright line word for word",
-      "url": "https://www.medianama.com/2026/09/223-brics-new-delhi-declaration-ai-2026/",
-      "cat": "POLICY",
-      "date": "2026-09-15T23:04:41.805895"
-    },
-    {
-      "title": "Analysis-Investors nervous about AI spending slowdown after industry warnings",
-      "url": "https://www.livemint.com/technology/analysisinvestors-nervous-about-ai-spending-slowdown-after-industry-warnings-11789448644491.html",
-      "cat": "OTHER",
-      "date": "2026-09-15T23:04:41.805895"
-    },
-    {
-      "title": "Microsoft commits to sweeping AI privacy rules for students. Will other tech giants follow?",
-      "url": "https://www.livemint.com/technology/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow-11789445205084.html",
-      "cat": "POLICY",
-      "date": "2026-09-15T23:04:41.805895"
-    },
-    {
       "title": "VerifAIX Bags $5 Mn To Scale AI-Based Chip Verification Platform",
       "url": "https://inc42.com/buzz/verifaix-bags-5-mn-to-scale-ai-based-chip-verification-platform/",
       "cat": "FUNDING",
@@ -827,6 +791,96 @@
       "url": "https://yourstory.com/2026/09/epiklogue-unveils-indias-new-commerce-model-try-and-buy",
       "cat": "ENTERPRISE",
       "date": "2026-09-29T00:30:58.441618"
+    },
+    {
+      "title": "CTO Summit 2026 Agenda: How India\u2019s Tech Leaders Are Rebuilding Products, Teams & Systems For AI Era",
+      "url": "https://inc42.com/buzz/cto-summit-2026-agenda-how-indias-tech-leaders-are-rebuilding-products-teams-systems-for-ai-era/",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-29T23:55:44.269537"
+    },
+    {
+      "title": "RareDx: Controlled Knowledge Integration and Graph-Grounded Policy Optimization for Rare-Disease Diagnosis",
+      "url": "https://arxiv.org/abs/2609.35549",
+      "cat": "RESEARCH",
+      "date": "2026-09-29T23:55:44.269537"
+    },
+    {
+      "title": "As AI makes copying easier, this product leader says trust is the real edge",
+      "url": "https://yourstory.com/2026/09/kunal-shrestha-responsive-ai-trust-devsparks-chennai",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-29T23:55:44.269537"
+    },
+    {
+      "title": "Physical AI startup SiMa.ai raises $150M in Series C",
+      "url": "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c",
+      "cat": "FUNDING",
+      "date": "2026-09-29T23:55:44.269537"
+    },
+    {
+      "title": "OpenAI shelves new AI model release over safety concerns",
+      "url": "https://www.livemint.com/technology/openai-shelves-new-ai-model-release-over-safety-concerns-11790642838654.html",
+      "cat": "RESEARCH",
+      "date": "2026-09-29T23:55:44.269537"
+    },
+    {
+      "title": "Exclusive-Anthropic warns AI may pose existential risks to humanity in IPO filing",
+      "url": "https://www.livemint.com/technology/exclusiveanthropic-warns-ai-may-pose-existential-risks-to-humanity-in-ipo-filing-11790641120485.html",
+      "cat": "RESEARCH",
+      "date": "2026-09-29T23:55:44.269537"
+    },
+    {
+      "title": "OpenAI\u2019s agents can now run entirely inside Amazon\u2019s cloud",
+      "url": "https://thenextweb.com/news/openai-bedrock-managed-agents-aws-devday",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-29T23:55:44.269537"
+    },
+    {
+      "title": "MechBench: Can AI Scientific Agents Discover Mechanisms Beyond Phenomenal Laws?",
+      "url": "https://arxiv.org/abs/2609.35515",
+      "cat": "RESEARCH",
+      "date": "2026-09-29T23:55:44.269537"
+    },
+    {
+      "title": "From Search to Research: Exploring Search Scaling in Autonomous Quantitative Factor Mining",
+      "url": "https://arxiv.org/abs/2609.35559",
+      "cat": "RESEARCH",
+      "date": "2026-09-29T23:55:44.269537"
+    },
+    {
+      "title": "GCCs in India are moving from service delivery to product building; developers need to follow",
+      "url": "https://yourstory.com/2026/09/kewyn-george-gcc-ai-pilot-graveyard-devsparks-chennai",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-29T23:55:44.269537"
+    },
+    {
+      "title": "IIM Kozhikode partners with Walmart Global Tech to nurture Indian deeptech startups",
+      "url": "https://yourstory.com/2026/09/iim-kozhikode-partners-walmart-global-tech-indian-deeptech-startups",
+      "cat": "RESEARCH",
+      "date": "2026-09-29T23:55:44.269537"
+    },
+    {
+      "title": "At UN, developing nations call for bigger say in shaping AI future",
+      "url": "https://www.livemint.com/technology/at-un-developing-nations-call-for-bigger-say-in-shaping-ai-future-11790706920129.html",
+      "cat": "POLICY",
+      "date": "2026-09-29T23:55:44.269537"
+    },
+    {
+      "title": "AI adoption set to accelerate, but data centres may not deliver comparable job gains: WEF",
+      "url": "https://www.livemint.com/technology/ai-adoption-set-to-accelerate-but-data-centres-may-not-deliver-comparable-job-gains-wef-11790563781276.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-09-29T23:55:44.269537"
+    },
+    {
+      "title": "BaRe-Mem: Bayesian Reliability Memory for Robust and Adaptive Agent Consultation",
+      "url": "https://arxiv.org/abs/2609.35551",
+      "cat": "RESEARCH",
+      "date": "2026-09-29T23:55:44.269537"
+    },
+    {
+      "title": "ARISE: Adapting to Evolving Capability Gaps in Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.35532",
+      "cat": "RESEARCH",
+      "date": "2026-09-29T23:55:44.269537"
     }
   ]
 }
