@@ -821,6 +821,19 @@
         "Considering the reliance on ticket sales and sponsorships, what is Inc42's contingency plan if key sponsors withdraw or if ticket sales fall significantly short of projections for the CTO Summit 2026?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-10-01T00:06:55.278674",
+      "headline": "Arivihan secured $10 million in Series A funding for its AI learning platform.",
+      "source_url": "https://yourstory.com/2026/09/arivihan-10m-as-ai-led-edtech-targets-indias-smaller-cities",
+      "questions": [
+        "Given that Arivihan is targeting Tier II and III cities in India with an AI learning platform, what specific technical or infrastructure challenges have you encountered in these regions, and how does your $10M Series A funding address them beyond just scaling the user base?",
+        "Accel and Prosus Ventures have co-led this $10M round. What specific metrics or milestones did you have to hit that convinced them that your current $77.4M valuation was justified, and what are the key KPIs they will be watching for the next 18-24 months?",
+        "Peak XV Partners' excerpt mentions doubling down on AI. Beyond personalized study plans and doubt-solving, what proprietary AI technology or data moat does Arivihan possess that would prevent a well-funded competitor from replicating your core offering within 12 months?",
+        "You've raised over $15M total, including this $10M Series A. What are the unit economics of your platform for a student in a Tier III city, and how do they scale to profitability without relying on further subsidized funding rounds?",
+        "Considering past attempts at ed-tech in similar markets, what specific failure mode, distinct from funding or competition, could realistically kill Arivihan in the next 18 months, and what is your proactive mitigation strategy for it?"
+      ],
+      "answers": []
     }
   ]
 }
