@@ -1,66 +1,6 @@
 {
   "stories": [
     {
-      "title": "Sarvam AI Secures $234 Million in Series B Funding, Reaching $1.5 Billion Valuation",
-      "url": "https://www.slator.com/press-releases/indias-sarvam-raises-usd-234m-to-power-sovereign-multilingual-ai/",
-      "cat": "FUNDING",
-      "date": "2026-09-18T22:47:00.381587"
-    },
-    {
-      "title": "Nandan Nilekani Commits Second Grant to AI4Bharat, Total Funding Hits Rs 70 Crore",
-      "url": "https://www.businessworld.in/article/Nandan-Nilekani-Commits-Second-Grant-To-AI4Bharat-Total-Funding-Hits-Rs-70-Cr/07-06-2025-135578/",
-      "cat": "FUNDING",
-      "date": "2026-09-18T22:47:00.381587"
-    },
-    {
-      "title": "NHAI, GST Network & Mumbai Metro detail their AI use cases at GFF 2026",
-      "url": "https://www.medianama.com/2026/09/223-nhai-gstn-mumbai-metro-ai-use-cases/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-18T22:47:00.381587"
-    },
-    {
-      "title": "Activate Closes Debut AI Fund at $105 Million",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/activate-closes-debut-ai-fund-at-105-mn/articleshow/112746006.cms",
-      "cat": "FUNDING",
-      "date": "2026-09-18T22:47:00.381587"
-    },
-    {
-      "title": "Seller KYC, counterfeit listings & AI:  conversation on Indian e-commerce enforcement",
-      "url": "https://www.medianama.com/2026/09/223-seller-kyc-counterfeit-ai-e-commerce/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-18T22:47:00.381587"
-    },
-    {
-      "title": "Indian-origin researchers used Claude AI to hack OpenAI\u2019s systems\u2014got  \u20b96.27 lakh reward",
-      "url": "https://www.livemint.com/technology/tech-news/indianorigin-researchers-used-claude-ai-to-hack-openai-s-systems-got-6-27-lakh-bounty-11789753784566.html",
-      "cat": "RESEARCH",
-      "date": "2026-09-18T22:47:00.381587"
-    },
-    {
-      "title": "Enlight Metals Raises $1.5 Million in Funding",
-      "url": "https://www.startups.in.th/indian-startup-funding-news/enlight-metals-raises-1-5-million-from-exar-north-group/",
-      "cat": "FUNDING",
-      "date": "2026-09-18T22:47:00.381587"
-    },
-    {
-      "title": "VerifAIX Secures $5 Million in Funding",
-      "url": "https://www.startups.in.th/indian-startup-funding-news/ai-native-semiconductor-verification-startup-verifaix-raises-5-million/",
-      "cat": "FUNDING",
-      "date": "2026-09-18T22:47:00.381587"
-    },
-    {
-      "title": "Oversight Board\u2019s recommendations on Meta\u2019s AI labelling raise questions for India\u2019s deepfake rules",
-      "url": "https://www.medianama.com/2026/09/223-oversight-boards-metas-ai-labelling/",
-      "cat": "POLICY",
-      "date": "2026-09-18T22:47:00.381587"
-    },
-    {
-      "title": "AI research papers from Indian institutions on arXiv (recent submissions)",
-      "url": "https://arxiv.org/list/cs.AI/20260917",
-      "cat": "RESEARCH",
-      "date": "2026-09-18T22:47:00.381587"
-    },
-    {
       "title": "National Program on Artificial Intelligence",
       "url": "https://digitalindia.gov.in/content/national-program-artificial-intelligence",
       "cat": "POLICY",
@@ -791,6 +731,48 @@
       "url": "https://cce.iisc.ac.in/ai-research-foundations/",
       "cat": "RESEARCH",
       "date": "2026-10-02T00:04:40.285095"
+    },
+    {
+      "title": "Indian govt issues new AI content rules for social media, sets 3-hour takedown window",
+      "url": "https://economictimes.indiatimes.com/tech/technology/indian-govt-issues-new-ai-content-rules-for-social-media-sets-3-hour-takedown-window/articleshow/90286376.cms",
+      "cat": "POLICY",
+      "date": "2026-10-02T23:59:30.192672"
+    },
+    {
+      "title": "White-collar hiring grows 2% led by AI/ML sector in Sep: Report",
+      "url": "https://yourstory.com/2026/10/white-collar-hiring-grows-2-led-by-aiml-sector-in-sep-report",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-02T23:59:30.192672"
+    },
+    {
+      "title": "Meta\u2019s AI could flood the internet; Four Indian brands putting a new spin on khadi",
+      "url": "https://yourstory.com/2026/10/metas-ai-could-flood-the-internet-india-brands-khadi",
+      "cat": "RESEARCH",
+      "date": "2026-10-02T23:59:30.192672"
+    },
+    {
+      "title": "From music streaming to AI training: What India\u2019s IP data tells us about the next copyright debate",
+      "url": "https://www.medianama.com/2026/10/223-music-streaming-ai-training-india-ip-data-copyright/",
+      "cat": "RESEARCH",
+      "date": "2026-10-02T23:59:30.192672"
+    },
+    {
+      "title": "JioStar wants fans to ask ChatGPT during live matches. Where does fans\u2019 data go?",
+      "url": "https://www.medianama.com/2026/10/223-jiostar-chatgpt-live-matches/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-02T23:59:30.192672"
+    },
+    {
+      "title": "Zoho launches Arattai for Business: How it compares with WhatsApp Business after Meta\u2019s new charges",
+      "url": "https://www.livemint.com/technology/zoho-launches-arattai-for-business-how-it-compares-with-whatsapp-business-after-meta-s-new-charges-11790932153271.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-02T23:59:30.192672"
+    },
+    {
+      "title": "AI can\u2019t fix a business system with broken processes",
+      "url": "https://thenextweb.com/news/ai-cant-fix-broken-processes-dessy-pavlova",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-02T23:59:30.192672"
     }
   ]
 }

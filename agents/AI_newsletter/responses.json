@@ -846,6 +846,18 @@
         "Considering your industry-leading ratio of one support agent for every 20 million transactions, what is the inherent risk in this model if the remaining 6% of non-automated queries represent complex, high-value customer issues that, if mishandled, could disproportionately damage customer trust and brand reputation?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-10-02T23:59:30.194368",
+      "headline": "Indian government mandates AI content labeling and rapid takedowns for social media.",
+      "source_url": "https://economictimes.indiatimes.com/tech/technology/indian-govt-issues-new-ai-content-rules-for-social-media-sets-3-hour-takedown-window/articleshow/90286376.cms",
+      "questions": [
+        "Given the 3-hour takedown window for illegal content, what specific technical infrastructure and human moderation processes does your platform have in place to ensure compliance, and how do you anticipate scaling this to meet the demands of India's user base?",
+        "How does the mandated AI content labeling requirement impact user engagement and content creation on your platform, and what strategies are you employing to mitigate any potential negative effects?",
+        "What are the projected operational costs associated with implementing the AI content labeling and rapid takedown systems, and how do these costs align with your current revenue model and projected funding needs for the next 18 months?",
+        "Beyond government mandates, what proprietary technological advantages or unique data sets does your platform possess that would prevent well-funded competitors from replicating your AI content labeling and moderation capabilities within 6-18 months?"
+      ],
+      "answers": []
     }
   ]
 }
