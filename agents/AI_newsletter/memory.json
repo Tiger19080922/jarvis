@@ -1,84 +1,6 @@
 {
   "stories": [
     {
-      "title": "India to Add 20,000 GPUs to Strengthen National AI Infrastructure",
-      "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2050141",
-      "cat": "POLICY",
-      "date": "2026-09-17T23:02:04.587898"
-    },
-    {
-      "title": "Unstop acquires PerspectAI in all-equity deal to deepen AI-led talent assessment",
-      "url": "https://yourstory.com/2026/09/unstop-acquires-perspectai-in-all-equity-deal-to-deepen-ai-led-talent-assessment",
-      "cat": "FUNDING",
-      "date": "2026-09-17T23:02:04.587898"
-    },
-    {
-      "title": "Prasar Bharati seeks feedback on AI avatars & content creation; suggests mandatory labeling",
-      "url": "https://www.medianama.com/2026/09/223-prasar-bharati-ai-avatars-mandatory-labeling/",
-      "cat": "POLICY",
-      "date": "2026-09-17T23:02:04.587898"
-    },
-    {
-      "title": "India AI Governance Guidelines Released: A Framework for Safe and Responsible AI",
-      "url": "https://www.nasscom.in/media/press-releases/india-ai-governance-guidelines-released-framework-safe-and-responsible-ai",
-      "cat": "POLICY",
-      "date": "2026-09-17T23:02:04.587898"
-    },
-    {
-      "title": "Yaanendriya is building the sensors that help robots know where they are",
-      "url": "https://yourstory.com/2026/09/yaanendriya-sensors-navigation-startup",
-      "cat": "RESEARCH",
-      "date": "2026-09-17T23:02:04.587898"
-    },
-    {
-      "title": "Amazon launches Alexa+ in India: What its AI assistant can do and how much it costs",
-      "url": "https://www.medianama.com/2026/09/223-amazon-alexa-plus-launched-india/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-17T23:02:04.587898"
-    },
-    {
-      "title": "Comp AI raises $34m to turn compliance into continuous monitoring",
-      "url": "https://thenextweb.com/news/comp-ai-34m-series-a-agentic-compliance-security",
-      "cat": "FUNDING",
-      "date": "2026-09-17T23:02:04.587898"
-    },
-    {
-      "title": "Treble raises $18m to give physical AI a sense of hearing",
-      "url": "https://thenextweb.com/news/treble-18m-series-a2-acoustic-simulation-physical-ai",
-      "cat": "FUNDING",
-      "date": "2026-09-17T23:02:04.587898"
-    },
-    {
-      "title": "IIT Madras to Launch AI Studio for Turning Research into Startups",
-      "url": "https://www.college-mentor.com/iit-madras-to-launch-ai-studio-for-turning-research-into-startups/",
-      "cat": "RESEARCH",
-      "date": "2026-09-17T23:02:04.587898"
-    },
-    {
-      "title": "IIT Madras to launch AI studio to build AI and data science companies",
-      "url": "https://www.thehindu.com/education/iit-madras-to-launch-ai-studio-to-build-ai-and-data-science-companies/article69056864.ece",
-      "cat": "RESEARCH",
-      "date": "2026-09-17T23:02:04.587898"
-    },
-    {
-      "title": "India\u2019s top AI teams set to battle in Elastic and AWS's Forge the Future Hackathon finale",
-      "url": "https://yourstory.com/2026/09/indias-top-ai-teams-set-battle-elastic-awss-forge-future-hackathon-finale",
-      "cat": "RESEARCH",
-      "date": "2026-09-17T23:02:04.587898"
-    },
-    {
-      "title": "Microsoft agreed not to train AI on US student data. India has no such legal bar until May 2027",
-      "url": "https://www.medianama.com/2026/09/223-microsoft-student-data-ai-training-schools-india/",
-      "cat": "POLICY",
-      "date": "2026-09-17T23:02:04.587898"
-    },
-    {
-      "title": "Google rolls out AI contribution Pilot to compensate publishers appearing in AI responses",
-      "url": "https://www.medianama.com/2026/09/223-google-ai-pilot-publishers-responses/",
-      "cat": "OTHER",
-      "date": "2026-09-17T23:02:04.587898"
-    },
-    {
       "title": "Sarvam AI Secures $234 Million in Series B Funding, Reaching $1.5 Billion Valuation",
       "url": "https://www.slator.com/press-releases/indias-sarvam-raises-usd-234m-to-power-sovereign-multilingual-ai/",
       "cat": "FUNDING",
@@ -809,6 +731,66 @@
       "url": "https://www.livemint.com/technology/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference-11790707971529.html",
       "cat": "RESEARCH",
       "date": "2026-10-01T00:06:55.277531"
+    },
+    {
+      "title": "How AI Is Helping PhonePe Improve Efficiency & Cut Costs",
+      "url": "https://inc42.com/buzz/how-ai-is-helping-phonepe-improve-efficiency-cut-costs/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-02T00:04:40.285095"
+    },
+    {
+      "title": "AI Is Compressing The Travel-Booking Journey: MakeMyTrip Group CTO",
+      "url": "https://inc42.com/buzz/ai-is-compressing-the-travel-booking-journey-makemytrip-group-cto/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-02T00:04:40.285095"
+    },
+    {
+      "title": "MeitY Unveils India AI Governance Guidelines under IndiaAI Mission to Ensure Safe, Inclusive, and Responsible Adoption of Artificial Intelligence across Sectors - PIB",
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2056803",
+      "cat": "POLICY",
+      "date": "2026-10-02T00:04:40.285095"
+    },
+    {
+      "title": "India AI Governance Guidelines: A Pragmatic Framework Rooted in Collaboration",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwRNcQCBTmm-qfWVS6Zb7Mr4uwEc0-mtOUYdkCnb0vNGjr42vpqAh0mIowjziNQ38mX1ctkgISa6XD_wAJIJUyaGn5Kq-6YKkuOni6SNEyyEFhBzRXLcKnUHFp0uHaDOyNTWEzhpeb64jo5AAAUIbdGojbhcOFroifASNdKyB2G2yaL8FhOdFB5fBfp4yl-lgsmQ_IzZScQh0_4fFOvXcEgcWXUqLMxXOTisMGwmHENLhH80dyBZvWlvY=",
+      "cat": "POLICY",
+      "date": "2026-10-02T00:04:40.285095"
+    },
+    {
+      "title": "Building AI Products For Indian Users: The Challenge Of Scale, Access, And Cost",
+      "url": "https://inc42.com/buzz/building-ai-products-for-indian-users-the-challenge-of-scale-access-and-cost/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-02T00:04:40.285095"
+    },
+    {
+      "title": "More Code, More Review: How AI Is Changing Engineering",
+      "url": "https://inc42.com/buzz/more-code-more-review-how-ai-is-changing-engineering/",
+      "cat": "RESEARCH",
+      "date": "2026-10-02T00:04:40.285095"
+    },
+    {
+      "title": "IBM expands academic collaborations with IIT Bombay and IISc to advance agentic AI, sovereign AI and quantum computing research",
+      "url": "https://www.ibm.com/news/in/en/press-release/detail/ibm-expands-academic-collaborations-with-iit-bombay-and-iisc-to-advance-agentic-ai-sovereign-ai-and-quantum-computing-research/",
+      "cat": "RESEARCH",
+      "date": "2026-10-02T00:04:40.285095"
+    },
+    {
+      "title": "Fresh Data, Clear Access Rules: The Foundation For Reliable AI Applications",
+      "url": "https://inc42.com/buzz/fresh-data-clear-access-rules-the-foundation-for-reliable-ai-applications/",
+      "cat": "POLICY",
+      "date": "2026-10-02T00:04:40.285095"
+    },
+    {
+      "title": "Beyond Coding: Why AI Makes Systems Thinking More Important For Engineers",
+      "url": "https://inc42.com/buzz/beyond-coding-why-ai-makes-systems-thinking-more-important-for-engineers/",
+      "cat": "RESEARCH",
+      "date": "2026-10-02T00:04:40.285095"
+    },
+    {
+      "title": "AI Research Foundations",
+      "url": "https://cce.iisc.ac.in/ai-research-foundations/",
+      "cat": "RESEARCH",
+      "date": "2026-10-02T00:04:40.285095"
     }
   ]
 }

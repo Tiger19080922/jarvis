@@ -834,6 +834,18 @@
         "Considering past attempts at ed-tech in similar markets, what specific failure mode, distinct from funding or competition, could realistically kill Arivihan in the next 18 months, and what is your proactive mitigation strategy for it?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-10-02T00:04:40.286530",
+      "headline": "PhonePe automates 94% of customer support queries using AI.",
+      "source_url": "https://inc42.com/buzz/how-ai-is-helping-phonepe-improve-efficiency-cut-costs/",
+      "questions": [
+        "Given that PhonePe has automated 94% of customer support queries, what is the specific, measurable impact of that automation on your operational costs and customer satisfaction scores over the last 12 months, and how does that translate into a competitive advantage against competitors who may not have achieved similar automation levels?",
+        "With a valuation of $14.5 billion after your October 2025 secondary round led by General Atlantic, what is the precise path to achieving profitability, considering the significant capital deployed in the past, and what specific metrics will demonstrate this shift within the next 18-24 months?",
+        "PhonePe operates in a highly competitive digital payments and financial services market in India; what specific, defensible moat, beyond AI-driven customer support automation, prevents a well-funded competitor from replicating your service offering and customer base within 12-18 months?",
+        "Considering your industry-leading ratio of one support agent for every 20 million transactions, what is the inherent risk in this model if the remaining 6% of non-automated queries represent complex, high-value customer issues that, if mishandled, could disproportionately damage customer trust and brand reputation?"
+      ],
+      "answers": []
     }
   ]
 }
