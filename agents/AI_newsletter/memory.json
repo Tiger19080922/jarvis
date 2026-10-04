@@ -1,102 +1,6 @@
 {
   "stories": [
     {
-      "title": "National Program on Artificial Intelligence",
-      "url": "https://digitalindia.gov.in/content/national-program-artificial-intelligence",
-      "cat": "POLICY",
-      "date": "2026-09-19T22:26:02.205683"
-    },
-    {
-      "title": "India AI Impact Summit 2026 Session Highlights Pathways to Scale AI from Pilots to Population Impact",
-      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2004217",
-      "cat": "POLICY",
-      "date": "2026-09-19T22:26:02.205683"
-    },
-    {
-      "title": "PM Narendra Modi's Human-Centric AI Odyssey",
-      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2004105",
-      "cat": "POLICY",
-      "date": "2026-09-19T22:26:02.205683"
-    },
-    {
-      "title": "AI and the Future of India's Workforce",
-      "url": "https://www.drishtiias.com/printpdf/ai-and-the-future-of-india-s-workforce",
-      "cat": "POLICY",
-      "date": "2026-09-19T22:26:02.205683"
-    },
-    {
-      "title": "How CubeAPM Plans To Take On Datadog And New Relic In The AI Observability Race",
-      "url": "https://inc42.com/startups/how-cubeapm-plans-to-take-on-datadog-and-new-relic-with-its-80-cheaper-ai-observability-stack/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-20T22:38:38.941884"
-    },
-    {
-      "title": "Anthropic, OpenAI, SpaceXAI, Google face federal antitrust lawsuit over calls to slowdown AI development",
-      "url": "https://www.livemint.com/technology/anthropic-openai-spacexai-google-face-federal-antitrust-lawsuit-over-calls-to-slowdown-ai-development-11789791351245.html",
-      "cat": "POLICY",
-      "date": "2026-09-20T22:38:38.941884"
-    },
-    {
-      "title": "Zuckerberg\u2019s reason for refusing to coordinate on AI safety is now the argument in an antitrust suit against four rivals.",
-      "url": "https://thenextweb.com/news/suleyman-zuckerberg-dissent-matches-antitrust-argument",
-      "cat": "POLICY",
-      "date": "2026-09-20T22:38:38.941884"
-    },
-    {
-      "title": "Amodei wrote that coordinating on pace would need an antitrust waiver. Altman said OpenAI would not wait for one. Both lines are now in a lawsuit.",
-      "url": "https://thenextweb.com/news/buist-v-anthropic-antitrust-waiver-evidence-public-agreement",
-      "cat": "POLICY",
-      "date": "2026-09-20T22:38:38.941884"
-    },
-    {
-      "title": "AI-to-AI communication could change how ads are bought and sold: Report",
-      "url": "https://www.livemint.com/technology/aitoai-communication-could-change-how-ads-are-bought-and-sold-report-11789885296164.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-20T22:38:38.941884"
-    },
-    {
-      "title": "McKinsey report shows productivity decline in 30% of companies using agentic AI",
-      "url": "https://www.livemint.com/technology/tech-news/mckinsey-report-shows-productivity-decline-in-30-of-companies-using-agentic-ai-11789881025363.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-20T22:38:38.941884"
-    },
-    {
-      "title": "Will AI models achieve the ability to improve autonomously? Leading labs say the scenario is near",
-      "url": "https://www.livemint.com/technology/will-ai-models-achieve-the-ability-to-improve-autonomously-leading-labs-say-the-scenario-is-near-11789812081843.html",
-      "cat": "RESEARCH",
-      "date": "2026-09-20T22:38:38.941884"
-    },
-    {
-      "title": "OpenAI forecasts cash burn near $280 billion by 2030, FT reports",
-      "url": "https://www.livemint.com/technology/openai-forecasts-cash-burn-near-280-billion-by-2030-ft-reports-11789774165992.html",
-      "cat": "OTHER",
-      "date": "2026-09-20T22:38:38.941884"
-    },
-    {
-      "title": "OpenAI told investors in February its compute bill would be around $600bn. A July presentation puts it at $856bn.",
-      "url": "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved",
-      "cat": "OTHER",
-      "date": "2026-09-20T22:38:38.941884"
-    },
-    {
-      "title": "From Flam To VerifAIX \u2014 Indian Startups Raised About $59 Mn This Week",
-      "url": "https://inc42.com/buzz/from-flam-to-verifaix-indian-startups-raised-about-59-mn-this-week/",
-      "cat": "FUNDING",
-      "date": "2026-09-20T22:38:38.941884"
-    },
-    {
-      "title": "TRAI finalises spam rules: Bars apps like Truecaller from blanket-blocking 140, 1600-series calls",
-      "url": "https://www.medianama.com/2026/09/223-trai-truecaller-140-1600-calls-spam-rules/",
-      "cat": "POLICY",
-      "date": "2026-09-20T22:38:38.941884"
-    },
-    {
-      "title": "Google\u2019s Gemini breaks out of test environment to hack three external firms: Report",
-      "url": "https://www.livemint.com/technology/googles-gemini-breaks-out-of-test-environment-to-hack-three-external-firms-report-11789785729332.html",
-      "cat": "RESEARCH",
-      "date": "2026-09-20T22:38:38.941884"
-    },
-    {
       "title": "NSE flags AI use by market participants as potential business risk",
       "url": "https://www.medianama.com/2026/09/223-nse-ai-market-business-risk/",
       "cat": "POLICY",
@@ -773,6 +677,12 @@
       "url": "https://thenextweb.com/news/ai-cant-fix-broken-processes-dessy-pavlova",
       "cat": "ENTERPRISE",
       "date": "2026-10-02T23:59:30.192672"
+    },
+    {
+      "title": "Nasscom \u00d7 MeitY DPDP Workshop Series: From Readiness to Reality",
+      "url": "https://community.nasscom.in/blogs/nasscom-meity-dpdp-workshop-series-readiness-reality",
+      "cat": "POLICY",
+      "date": "2026-10-04T23:29:43.123112"
     }
   ]
 }

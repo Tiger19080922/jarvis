@@ -858,6 +858,18 @@
         "Beyond government mandates, what proprietary technological advantages or unique data sets does your platform possess that would prevent well-funded competitors from replicating your AI content labeling and moderation capabilities within 6-18 months?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-10-04T23:29:43.124785",
+      "headline": "NASSCOM and MeitY launch workshop series on India's data protection act.",
+      "source_url": "https://community.nasscom.in/blogs/nasscom-meity-dpdp-workshop-series-readiness-reality",
+      "questions": [
+        "Given that the DPDP Act is still in its nascent stages of implementation and the workshop series only runs through January 2027, what specific, repeatable mechanisms will NASSCOM and MeitY put in place to ensure ongoing compliance and adaptation beyond this initial 16-city push?",
+        "How will NASSCOM and MeitY measure the 'readiness to reality' transition for Indian businesses beyond simple attendance at these workshops, and what tangible outcomes will demonstrate the success of this initiative?",
+        "What specific challenges have NASSCOM and MeitY identified in the practical implementation of the DPDP Act that this workshop series is designed to address, and what unique expertise do they bring to solving these particular problems?",
+        "Considering the 16-city scope, how will NASSCOM and MeitY ensure that businesses in Tier 2 and Tier 3 cities, or those with limited digital infrastructure, receive the same level of guidance and support as those in major metropolitan areas?"
+      ],
+      "answers": []
     }
   ]
 }
