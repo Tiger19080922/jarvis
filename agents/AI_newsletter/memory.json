@@ -1,90 +1,6 @@
 {
   "stories": [
     {
-      "title": "NSE flags AI use by market participants as potential business risk",
-      "url": "https://www.medianama.com/2026/09/223-nse-ai-market-business-risk/",
-      "cat": "POLICY",
-      "date": "2026-09-21T23:31:06.511676"
-    },
-    {
-      "title": "India\u2019s drug regulator forms AI expert committee: What we know, what remains unclear",
-      "url": "https://www.medianama.com/2026/09/223-cdsco-ai-expert-committee/",
-      "cat": "POLICY",
-      "date": "2026-09-21T23:31:06.511676"
-    },
-    {
-      "title": "How Generative AI is Reshaping Enterprise IT Services in 2026 - NASSCOM Community",
-      "url": "https://community.nasscom.in/view/how-generative-ai-is-reshaping-enterprise-it-services-in-2026",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-21T23:31:06.511676"
-    },
-    {
-      "title": "EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise",
-      "url": "https://arxiv.org/abs/2609.21841",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-21T23:31:06.511676"
-    },
-    {
-      "title": "Building intelligent enterprises: why developers must bridge code and business reality",
-      "url": "https://yourstory.com/2026/09/building-intelligent-enterprises-developers-bridge-code-business-reality",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-21T23:31:06.511676"
-    },
-    {
-      "title": "Open-source is more than free code. It\u2019s a way to build for the future",
-      "url": "https://yourstory.com/2026/09/open-source-is-more-than-free-code-its-a-way-to-build-for-the-future",
-      "cat": "RESEARCH",
-      "date": "2026-09-21T23:31:06.511676"
-    },
-    {
-      "title": "India sees no reason to pause AI research, says IT Ministry as it plans tighter incident reporting rules",
-      "url": "https://economictimes.indiatimes.com/tech/tech-policy/india-sees-no-reason-to-pause-ai-research-says-it-ministry-as-it-plans-tighter-incident-reporting-rules/articleshow/103834979.cms",
-      "cat": "POLICY",
-      "date": "2026-09-21T23:31:06.511676"
-    },
-    {
-      "title": "India Prioritises People-Centric AI Amidst Global Pause Calls",
-      "url": "https://rediff.com/news/report/india-prioritises-people-centric-ai-amidst-global-pause-calls/20260921.htm",
-      "cat": "POLICY",
-      "date": "2026-09-21T23:31:06.511676"
-    },
-    {
-      "title": "Ottonomy is building robots for real-world logistics",
-      "url": "https://yourstory.com/2026/09/ottonomy-is-building-robots-for-real-world-logistics",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-21T23:31:06.511676"
-    },
-    {
-      "title": "Companies adopting agentic AI risk choosing easier-to-approve tools over more capable ones: Report",
-      "url": "https://www.livemint.com/technology/companies-adopting-agentic-ai-risk-choosing-easier-to-approve-tools-over-more-capable-ones-report-11789967028784.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-21T23:31:06.511676"
-    },
-    {
-      "title": "AI model costs are pushing startups towards cheaper open weigh",
-      "url": "https://thenextweb.com/news/model-costs-startups-open-weights",
-      "cat": "FUNDING",
-      "date": "2026-09-21T23:31:06.511676"
-    },
-    {
-      "title": "AI brings benefits but also risks; regulation has a role - ET CFO",
-      "url": "https://economictimes.indiatimes.com/industry/services/data-storage/ai-brings-benefits-but-also-risks-regulation-has-a-role/articleshow/103798415.cms",
-      "cat": "POLICY",
-      "date": "2026-09-21T23:31:06.511676"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google and xAI sued over calls to slow AI development",
-      "url": "https://www.medianama.com/2026/09/223-openai-anthropic-google-xai-sued-ai-development/",
-      "cat": "POLICY",
-      "date": "2026-09-21T23:31:06.511676"
-    },
-    {
-      "title": "OpenAI asks Washington to lead a global AI standards push",
-      "url": "https://thenextweb.com/news/openai-global-ai-standards-push",
-      "cat": "POLICY",
-      "date": "2026-09-21T23:31:06.511676"
-    },
-    {
       "title": "AI accounting startup Rillet has reached a massive $1 BILLION valuation\u2014roughly \u20b99,500 crore depending on the exchange rate. The company raised $100 million in Series C funding, and CEO Nicolas Kopp said the round came together in less than 48 hours!",
       "url": "https://www.facebook.com/JOTTV.Official/videos/100-million-in-less-than-48-hours-ai-accounting-startup-rillet-has-reached-a-massive-1-b/764209912516867/",
       "cat": "FUNDING",
@@ -683,6 +599,90 @@
       "url": "https://community.nasscom.in/blogs/nasscom-meity-dpdp-workshop-series-readiness-reality",
       "cat": "POLICY",
       "date": "2026-10-04T23:29:43.123112"
+    },
+    {
+      "title": "India needs its own AI safety framework, not a copy of US pact: Industry experts",
+      "url": "https://yourstory.com/2026/10/india-needs-own-ai-safety-framework-not-copy-us-pact-industry-experts",
+      "cat": "POLICY",
+      "date": "2026-10-06T01:25:18.275775"
+    },
+    {
+      "title": "India urged to develop bespoke AI safety framework for its unique ecosystem",
+      "url": "https://www.livemint.com/industry/infotech/india-urged-to-develop-bespoke-ai-safety-framework-for-its-unique-ecosystem-11728109515215.html",
+      "cat": "POLICY",
+      "date": "2026-10-06T01:25:18.275775"
+    },
+    {
+      "title": "Sarvam AI raises $75 million; Ather trims losses in Q1",
+      "url": "https://economictimes.indiatimes.com/tech/startups/sarvam-raises-75-million-ather-trims-losses-in-q1/articleshow/102426130.cms",
+      "cat": "FUNDING",
+      "date": "2026-10-06T01:25:18.275775"
+    },
+    {
+      "title": "AI startup Autoheal raises $7.9 million to build self-improving software factory for enterprises",
+      "url": "https://www.livemint.com/technology/tech-news/ai-startup-autoheal-raises-79-million-to-build-self-improving-software-factory-for-enterprises-11727954018167.html",
+      "cat": "FUNDING",
+      "date": "2026-10-06T01:25:18.275775"
+    },
+    {
+      "title": "Razorpay Partners With OpenAI To Help Indian Brands Advertise On ChatGPT",
+      "url": "https://inc42.com/buzz/razorpay-partners-with-openai-to-help-indian-brands-advertise-on-chatgpt/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-06T01:25:18.275775"
+    },
+    {
+      "title": "AI driving BPM sector's biggest reinvention, India can be global intelligent operations hub: Nasscom",
+      "url": "https://www.peoplematters.in/article/technology/ai-driving-bpms-biggest-reinvention-india-can-be-global-intelligent-operations-hub-nasscom-31735",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-06T01:25:18.275775"
+    },
+    {
+      "title": "Nandan Nilekani commits fresh funding to AI4Bharat, total support reaches \u20b970 cr to power Indian language AI",
+      "url": "https://www.indiablooms.com/business/nandan-nilekani-commits-fresh-funding-to-ai4bharat-total-support-reaches-rs-70-cr-to-power-indian-language-ai-126709",
+      "cat": "FUNDING",
+      "date": "2026-10-06T01:25:18.275775"
+    },
+    {
+      "title": "The Rise Of Bank-Built AI, Weekly Funding Rundown & More",
+      "url": "https://inc42.com/buzz/the-rise-of-bank-built-ai-weekly-funding-rundown-more/",
+      "cat": "RESEARCH",
+      "date": "2026-10-06T01:25:18.275775"
+    },
+    {
+      "title": "Quantum computing and AI firm QpiAI secures Rs 50 Cr debt financing from InnoVen Capital",
+      "url": "https://yourstory.com/2026/10/qpiai-secures-rs-50-cr-debt-financing-from-innoven-capital",
+      "cat": "FUNDING",
+      "date": "2026-10-06T01:25:18.275775"
+    },
+    {
+      "title": "IT Q2 preview: Muted growth, steady margins likely; deal conversion, AI deflation in focus",
+      "url": "https://yourstory.com/2026/10/it-q2-preview-muted-growth-steady-margins-likely-deal-conversion-ai-deflation-in-focus",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-06T01:25:18.275775"
+    },
+    {
+      "title": "Most of India's Nearly $500 Mn AI Boom is Squeezed Into Just 4 Deals | AIM",
+      "url": "https://aimresearch.co/news/most-of-indias-nearly-500-mn-ai-boom-is-squeezed-into-just-4-deals",
+      "cat": "FUNDING",
+      "date": "2026-10-06T01:25:18.275775"
+    },
+    {
+      "title": "Ai4bharat.org has raised a total funding of $12M over 2 rounds",
+      "url": "https://www.tracxn.com/d/company/ai4bharat-org/profile",
+      "cat": "FUNDING",
+      "date": "2026-10-06T01:25:18.275775"
+    },
+    {
+      "title": "PanIIT, Andhra Pradesh plan Rs 500 Cr deeptech fund, target 25 AP startups by 2030",
+      "url": "https://yourstory.com/2026/10/paniit-500-cr-deeptech-fund-targets-25-andhra-startups-by-2030",
+      "cat": "FUNDING",
+      "date": "2026-10-06T01:25:18.275775"
+    },
+    {
+      "title": "Andhra Pradesh, PanIIT partner for Rs 500-Cr deeptech fund; An intralogistics business that serves 25 countries",
+      "url": "https://yourstory.com/2026/10/andhra-pradesh-paniit-partner-for-rs-500-cr-deeptech-fund-an-intralogistics-business-that-serves-25-countries",
+      "cat": "FUNDING",
+      "date": "2026-10-06T01:25:18.275775"
     }
   ]
 }
