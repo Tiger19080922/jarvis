@@ -1,18 +1,6 @@
 {
   "stories": [
     {
-      "title": "AI accounting startup Rillet has reached a massive $1 BILLION valuation\u2014roughly \u20b99,500 crore depending on the exchange rate. The company raised $100 million in Series C funding, and CEO Nicolas Kopp said the round came together in less than 48 hours!",
-      "url": "https://www.facebook.com/JOTTV.Official/videos/100-million-in-less-than-48-hours-ai-accounting-startup-rillet-has-reached-a-massive-1-b/764209912516867/",
-      "cat": "FUNDING",
-      "date": "2026-09-22T23:11:32.023238"
-    },
-    {
-      "title": "Proactive AI startup Sol raises $4 Mn from General Catalyst, Nexus VP, and others",
-      "url": "https://www.entrackr.com/news/sol-raises-4-mn-from-general-catalyst-nexus-vp-and-others/",
-      "cat": "FUNDING",
-      "date": "2026-09-22T23:11:32.023238"
-    },
-    {
       "title": "Next wave of AI is UI: Zoho\u2019s Sridhar Vembu outlines his vision for \u2018ubiquitous intelligence\u2019",
       "url": "https://yourstory.com/2026/09/ai-is-the-new-ui-zohos-sridhar-vembu-ubiquitous-intelligence",
       "cat": "RESEARCH",
@@ -683,6 +671,72 @@
       "url": "https://yourstory.com/2026/10/andhra-pradesh-paniit-partner-for-rs-500-cr-deeptech-fund-an-intralogistics-business-that-serves-25-countries",
       "cat": "FUNDING",
       "date": "2026-10-06T01:25:18.275775"
+    },
+    {
+      "title": "IBM and Indian Institutes Boost AI and Quantum Research",
+      "url": "https://www.ibm.com/blog/ibm-indian-institutes-boost-ai-and-quantum-research/",
+      "cat": "RESEARCH",
+      "date": "2026-10-07T00:01:35.176905"
+    },
+    {
+      "title": "India\u2019s new AI ad labelling guidelines: What brands must disclose and when AI content counts as an ad",
+      "url": "https://www.medianama.com/2026/10/223-asci-ai-labelling-guidelines-advertising-2026/",
+      "cat": "POLICY",
+      "date": "2026-10-07T00:01:35.176905"
+    },
+    {
+      "title": "Razorpay to run ad campaigns for Indian brands on ChatGPT",
+      "url": "https://www.medianama.com/2026/10/223-razorpay-chatgpt-ads-india/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-07T00:01:35.176905"
+    },
+    {
+      "title": "Publications - Kotak IISc AI\u2013ML Centre - Indian Institute of Science",
+      "url": "https://aiml.iisc.ac.in/publications/",
+      "cat": "RESEARCH",
+      "date": "2026-10-07T00:01:35.176905"
+    },
+    {
+      "title": "UP govt aims to establish Lucknow among Indias leading AI innovation cities: Yogi Adityanath",
+      "url": "https://www.livemint.com/technology/up-govt-aims-to-establish-lucknow-among-indias-leading-ai-innovation-cities-yogi-adityanath-11791296987020.html",
+      "cat": "POLICY",
+      "date": "2026-10-07T00:01:35.176905"
+    },
+    {
+      "title": "World Bank says India should scale small AI applications instead of betting heavily on frontier models",
+      "url": "https://www.livemint.com/technology/world-bank-says-india-should-scale-small-ai-applications-instead-of-betting-heavily-on-frontier-models-11791283874808.html",
+      "cat": "POLICY",
+      "date": "2026-10-07T00:01:35.176905"
+    },
+    {
+      "title": "Sant\u00e9 raises $15 million to bring AI to the neighborhood liquor store",
+      "url": "https://thenextweb.com/news/sante-15-million-ai-neighborhood-liquor-store",
+      "cat": "FUNDING",
+      "date": "2026-10-07T00:01:35.176905"
+    },
+    {
+      "title": "Navya Naveli Nanda\u2019s venture to back deeptech, frontier tech ambitions",
+      "url": "https://yourstory.com/2026/10/navya-naveli-nanda-naveli-ventures-to-back-deeptech-frontier-tech-ambitions",
+      "cat": "FUNDING",
+      "date": "2026-10-07T00:01:35.176905"
+    },
+    {
+      "title": "Chandigarh court suspends three Facebook pages over AI-generated political videos",
+      "url": "https://www.medianama.com/2026/10/223-chandigarh-court-facebook-pages-ai-political-videos/",
+      "cat": "POLICY",
+      "date": "2026-10-07T00:01:35.176905"
+    },
+    {
+      "title": "Sierra announces Personal Agent Protocol, an open standard for personal AI agents",
+      "url": "https://thenextweb.com/news/personal-agent-protocol-sierra-meta",
+      "cat": "RESEARCH",
+      "date": "2026-10-07T00:01:35.176905"
+    },
+    {
+      "title": "Hark debuts an AI agent a year before its first devices",
+      "url": "https://thenextweb.com/news/hark-pro-agent-hardware-europe",
+      "cat": "RESEARCH",
+      "date": "2026-10-07T00:01:35.176905"
     }
   ]
 }

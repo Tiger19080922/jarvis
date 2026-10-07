@@ -882,6 +882,18 @@
         "What specific, quantifiable metrics will 'AI Safety India' use to demonstrate the success of its tailored strategy, and how will these metrics be independently verified to show efficacy beyond simply adopting a new policy?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-10-07T00:01:35.178063",
+      "headline": "IBM expands AI and quantum research collaborations with IIT Bombay and IISc.",
+      "source_url": "https://www.ibm.com/blog/ibm-indian-institutes-boost-ai-and-quantum-research/",
+      "questions": [
+        "Given IBM's long-standing presence in India and existing partnerships with top research institutions, what specific, proprietary advantage does this *expanded* collaboration with IIT Bombay and IISc grant IBM that prevents a well-funded competitor from replicating the AI advancements for Indian languages and agentic AI systems within 18 months?",
+        "If IBM's strategic thesis hinges on developing AI for Indian languages, what specific metric or milestone, beyond the expansion of research, would indicate that this collaboration is *actually* moving the needle and not just a continuation of existing academic outreach?",
+        "Considering IBM has been operating in India since 1992, what specific failure mode related to *this particular* expanded collaboration with IIT Bombay and IISc could lead to a significant setback or termination of the program within the next 18 months, and what is IBM's contingency plan?",
+        "Beyond the research output, how does IBM plan to translate these advancements in AI for Indian languages and quantum computing algorithms into tangible, scalable commercial products or services that differentiate from existing offerings, especially given the lack of new funding tied to this expansion?"
+      ],
+      "answers": []
     }
   ]
 }
