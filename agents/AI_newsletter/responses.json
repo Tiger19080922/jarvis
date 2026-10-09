@@ -894,6 +894,18 @@
         "Beyond the research output, how does IBM plan to translate these advancements in AI for Indian languages and quantum computing algorithms into tangible, scalable commercial products or services that differentiate from existing offerings, especially given the lack of new funding tied to this expansion?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-10-09T00:35:34.332905",
+      "headline": "India will release a consultation paper on AI safety and deepfakes.",
+      "source_url": "https://www.thehindubusinessline.com/info-tech/india-moves-to-regulate-ai-deepfakes/article68775789.ece",
+      "questions": [
+        "Given Peak XV Partners' thesis on ensuring unsafe models are not released, how does this forthcoming consultation paper from MeitY specifically change the risk calculus for companies like 'AI Safety India' (hypothetical name based on context) in terms of compliance burdens and potential liability, beyond what's already expected of responsible AI developers?",
+        "If the MeitY consultation paper introduces stringent requirements for deepfake detection and mitigation, what are the specific technical and operational challenges 'AI Safety India' will face in implementing these measures at scale, and how do these challenges differ from existing industry best practices?",
+        "Considering India's 'human-first' approach to AI, what are the most likely areas where 'AI Safety India' might encounter regulatory friction or unexpected policy shifts as this consultation paper evolves into actionable regulations?",
+        "Beyond the stated goal of user harm prevention, what are the potential unintended consequences of a dedicated AI regulatory framework in India that could disproportionately impact the growth or innovation trajectory of companies like 'AI Safety India'?"
+      ],
+      "answers": []
     }
   ]
 }

@@ -1,108 +1,6 @@
 {
   "stories": [
     {
-      "title": "Ema Raises $77 Mn To Scale Its Universal AI Employee Platform Globally",
-      "url": "https://inc42.com/buzz/ema-raises-77-mn-to-scale-its-universal-ai-employee-platform-globally/",
-      "cat": "FUNDING",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "Google Cloud pushes Gemini deeper into India\u2019s businesses",
-      "url": "https://yourstory.com/2026/09/google-cloud-brings-gemini-deeper-into-india-businesses",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "Enterprise AI startup Ema raises $77M in Series B round led by Creaegis",
-      "url": "https://yourstory.com/2026/09/enterprise-ai-startup-ema-raises-series-b-round-led-by-creaegis",
-      "cat": "FUNDING",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "Zoho\u2019s Sridhar Vembu talks about \u2018ubiquitous intelligence\u2019; Meet the speakers at TechSparks 2026",
-      "url": "https://yourstory.com/2026/09/zohos-sridhar-vembu-talks-about-ubiquitous-intelligence",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "Engineering is not a degree anymore, it is a mindset: Google exec Amit Kumar",
-      "url": "https://yourstory.com/2026/09/engineering-is-not-a-degree-anymore-it-is-a-mindset-google-amit-kumar",
-      "cat": "RESEARCH",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "CCPA draft guidelines seek to regulate spam calls, messages & AI-generated promotions",
-      "url": "https://www.medianama.com/2026/09/223-ccpa-draft-guidelines-spam-ai-promotions/",
-      "cat": "POLICY",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "AI Generated Synthetic Content Rules in India: Essential Actions for Brands",
-      "url": "https://vaquill.news/ai-generated-synthetic-content-rules-in-india-essential-actions-for-brands/",
-      "cat": "POLICY",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "UPI MDR Needed To Fight Cyber Threats With AI: NPCI Chief Dilip Asbe",
-      "url": "https://inc42.com/buzz/upi-mdr-needed-to-fight-cyber-threats-with-ai-npci-chief-dilip-asbe/",
-      "cat": "POLICY",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "Catalonia deepens India push, targets New Opportunities in AI, deeptech, and semiconductors",
-      "url": "https://yourstory.com/2026/09/catalonia-deepens-india-push-targets-new-opportunities-ai-deeptech-semiconductors",
-      "cat": "POLICY",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "5 strategic signals from Meta Connect 2026 about its AI agent Muse",
-      "url": "https://www.medianama.com/2026/09/223-signals-meta-connect-muse/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "Analysis-Oracle, Blue Owl project delay\u00a0sends ripples through AI financing, sources say",
-      "url": "https://www.livemint.com/technology/analysisoracle-blue-owl-project-delay-sends-ripples-through-ai-financing-sources-say-11790290849254.html",
-      "cat": "FUNDING",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "YouTube gets 30+ new features: AI editing tool to help creators; custom feeds, shorts series and more coming for users",
-      "url": "https://www.livemint.com/technology/youtube-gets-30-new-features-ai-editing-tool-to-help-creators-custom-feeds-shorts-series-and-more-coming-for-users-11790245559585.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "Gupshup\u2019s AI Rebuild, Moneyview\u2019s IPO & More",
-      "url": "https://inc42.com/buzz/gupshups-ai-rebuild-moneyviews-ipo-more/",
-      "cat": "OTHER",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "OpenAI agent hacked Australian medical portal. Why was it disclosed 3 months later?",
-      "url": "https://www.medianama.com/2026/09/223-openai-hacked-australian-medical-portal/",
-      "cat": "RESEARCH",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "Tech leaders to UN: For the sake of humanity, please control the AI technology we created",
-      "url": "https://www.livemint.com/technology/tech-leaders-to-un-for-the-sake-of-humanity-please-control-the-ai-technology-we-created-11790205255103.html",
-      "cat": "POLICY",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "81% of CIOs lack full oversight of AI agents built outside IT, Dataiku says",
-      "url": "https://thenextweb.com/news/cio-ai-agent-oversight-dataiku-survey",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
-      "title": "The next thing your endpoint manager manages is an AI agent",
-      "url": "https://thenextweb.com/news/endpoint-management-ai-agents-automox",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-24T23:21:16.979292"
-    },
-    {
       "title": "Govt Mulls \u20b920,000 Cr Fund To Power Frontier AI, Compute Ecosystem: Report",
       "url": "https://inc42.com/buzz/govt-mulls-%e2%82%b920000-cr-fund-to-power-frontier-ai-compute-ecosystem-report/",
       "cat": "POLICY",
@@ -713,6 +611,54 @@
       "url": "https://thenextweb.com/news/hubspot-layoffs-dublin-consultation",
       "cat": "ENTERPRISE",
       "date": "2026-10-08T00:21:47.462565"
+    },
+    {
+      "title": "India moves to regulate AI, deepfakes",
+      "url": "https://www.thehindubusinessline.com/info-tech/india-moves-to-regulate-ai-deepfakes/article68775789.ece",
+      "cat": "POLICY",
+      "date": "2026-10-09T00:35:34.331693"
+    },
+    {
+      "title": "India steps up AI regulation push with consultation paper likely next month",
+      "url": "https://theprint.in/tech/india-steps-up-ai-regulation-push-with-consultation-paper-likely-next-month-deepfakes-safety-in-focus/1150297/",
+      "cat": "POLICY",
+      "date": "2026-10-09T00:35:34.331693"
+    },
+    {
+      "title": "India needs own AI safety framework, say experts, as government weighs rules",
+      "url": "https://www.techgig.com/tech/india-needs-own-ai-safety-framework-say-experts-as-government-weighs-rules/99613196",
+      "cat": "POLICY",
+      "date": "2026-10-09T00:35:34.331693"
+    },
+    {
+      "title": "Sarvam AI hires ex Google Cloud India MD Sreedharan as AI",
+      "url": "https://www.marksmen.com/news/sarvam-ai-hires-ex-google-cloud-india-md-sreedharan-as-ai-38227",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-09T00:35:34.331693"
+    },
+    {
+      "title": "Sarvam AI Names Sashikumar Sreedharan President and Chief Business Officer",
+      "url": "https://www.newsbytes.ai/news/business/sarvam-ai-names-sashikumar-sreedharan-president-and-chief-business-officer/68247",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-09T00:35:34.331693"
+    },
+    {
+      "title": "India's Open Access AI Research Explodes Past 18,000 Papers, Machine Learning Themes Revealed",
+      "url": "https://scienmag.com/news/indias-open-access-ai-research-explodes-past-18000-papers-machine-learning-themes-revealed/",
+      "cat": "RESEARCH",
+      "date": "2026-10-09T00:35:34.331693"
+    },
+    {
+      "title": "Credfix raises Rs 16.1 Cr in a seed round",
+      "url": "https://yourstory.com/credifx-raises-rs-16-1-cr-seed-round-tanglin-venture-partners",
+      "cat": "FUNDING",
+      "date": "2026-10-09T00:35:34.331693"
+    },
+    {
+      "title": "Cypher 2026 Day 2 Highlights: GCCs Face AI Reckoning, Compute Hits Physical Limits",
+      "url": "https://www.financialexpress.com/industry/cypher-2026-day-2-highlights-gccs-face-ai-reckoning-compute-hits-physical-limits/3597818/",
+      "cat": "OTHER",
+      "date": "2026-10-09T00:35:34.331693"
     }
   ]
 }
