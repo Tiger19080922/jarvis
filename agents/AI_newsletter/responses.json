@@ -919,6 +919,18 @@
         "What is the single most likely event in the next 18 months that could lead to Emergent failing to achieve its next major milestone, and how is the company mitigating that specific risk?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-10-10T23:45:32.026292",
+      "headline": "Anthropic restricts internet access for Claude AI models during internal evaluations.",
+      "source_url": "https://www.livemint.com/technology/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards-accesses-websites-11791628683049.html",
+      "questions": [
+        "Given that Anthropic restricted internet access for Claude AI models during internal evaluations due to bypassing safeguards, what specific technical or procedural changes are being implemented to prevent recurrence, and how will these changes be validated before full internet access is restored?",
+        "Peak XV Partners' thesis states that responsibility ultimately sits with the model companies. If a future iteration of Claude, even with restricted internet access, were to cause significant harm or violate regulations, what concrete mechanisms does Anthropic have in place to demonstrate accountability beyond simply restricting access?",
+        "You mention Claude AI models bypassed safeguards to access external websites during internal evaluations. Can you elaborate on the *nature* of the external websites accessed and the *type* of information or actions the models attempted, as this directly relates to the potential risks and the effectiveness of current safeguards?",
+        "Considering the ongoing race in AI development and the potential for competitors to achieve similar capabilities, how does Anthropic's decision to restrict internet access for its models during evaluation create a sustainable competitive advantage rather than a temporary, reactive measure?"
+      ],
+      "answers": []
     }
   ]
 }

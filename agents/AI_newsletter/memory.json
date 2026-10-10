@@ -1,60 +1,6 @@
 {
   "stories": [
     {
-      "title": "Govt Mulls \u20b920,000 Cr Fund To Power Frontier AI, Compute Ecosystem: Report",
-      "url": "https://inc42.com/buzz/govt-mulls-%e2%82%b920000-cr-fund-to-power-frontier-ai-compute-ecosystem-report/",
-      "cat": "POLICY",
-      "date": "2026-09-26T23:06:59.444917"
-    },
-    {
-      "title": "Dextr AI Raises $6.7 Mn To Build AI Agents For Hospitality Industry",
-      "url": "https://inc42.com/buzz/dextr-ai-raises-6-7-mn-to-build-ai-agents-for-hospitality-industry/",
-      "cat": "FUNDING",
-      "date": "2026-09-26T23:06:59.444917"
-    },
-    {
-      "title": "Pine Labs, Google Cloud partner to expand agentic commerce to merchants",
-      "url": "https://www.medianama.com/2026/09/223-pine-labs-agentic-commerce-merchants/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-26T23:06:59.444917"
-    },
-    {
-      "title": "How Enterprises Are Building Robust Infra Backbone For AI At Scale",
-      "url": "https://inc42.com/buzz/how-enterprises-are-building-robust-infra-backbone-for-ai-at-scale/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-26T23:06:59.444917"
-    },
-    {
-      "title": "From tokenmaxxing to context engineering: Why enterprise AI needs better context, not bigger prompts",
-      "url": "https://yourstory.com/2026/09/tokenmaxxing-context-engineering-why-enterprise-ai-needs-better-context-not-bigger-prompts",
-      "cat": "RESEARCH",
-      "date": "2026-09-26T23:06:59.444917"
-    },
-    {
-      "title": "YouTube expands likeness detection to voices as Indian courts target AI voice clones",
-      "url": "https://www.medianama.com/2026/09/223-youtube-likeness-detection-voices-clones/",
-      "cat": "POLICY",
-      "date": "2026-09-26T23:06:59.444917"
-    },
-    {
-      "title": "How Pine Labs Shifted Gears: From PoS Devices To An AI-Powered Fintech Stack",
-      "url": "https://inc42.com/features/how-pine-labs-shifted-gears-from-pos-devices-to-an-ai-powered-fintech-stack/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-26T23:06:59.444917"
-    },
-    {
-      "title": "From Bihar to SEMICON India: How Shweta Suman is building Swadeza for the world",
-      "url": "https://yourstory.com/2026/09/swadeza-bihar-ai-semiconductor-forge-chip-design",
-      "cat": "RESEARCH",
-      "date": "2026-09-26T23:06:59.444917"
-    },
-    {
-      "title": "Tata tussle turns the spotlight on TVS-Hanno deal; India is leapfrogging in AI: Google Cloud executive",
-      "url": "https://yourstory.com/2026/09/tata-tussle-spotlight-tvs-hanno-deal-india-is-leapfrogging-in-ai",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-26T23:06:59.444917"
-    },
-    {
       "title": "When AI agents go rogue: Australia breach offers warning for countries like India",
       "url": "https://www.livemint.com/technology/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india-11790481067426.html",
       "cat": "RESEARCH",
@@ -731,6 +677,66 @@
       "url": "https://pharmabiz.net/news/indian-healthcare-providers-are-moving-ai-from-pilots-to-practice-bain-company-and-healthquad/",
       "cat": "ENTERPRISE",
       "date": "2026-10-10T00:16:29.201063"
+    },
+    {
+      "title": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards, accesses websites",
+      "url": "https://www.livemint.com/technology/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards-accesses-websites-11791628683049.html",
+      "cat": "RESEARCH",
+      "date": "2026-10-10T23:45:32.024648"
+    },
+    {
+      "title": "Anthropic AI model submits false homicide tip to police website",
+      "url": "https://www.livemint.com/technology/anthropic-ai-model-submits-false-homicide-tip-to-police-website-11791577939308.html",
+      "cat": "RESEARCH",
+      "date": "2026-10-10T23:45:32.024648"
+    },
+    {
+      "title": "IISc Develops Design Framework for Next-Generation Analog AI Chipsets",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOaYX0QnA3qzyqu5eQ23T3yPMJQUU2m7Bmq_fqHJ0lprv-F9_5SPh5JGcSxqjggPZ5J8oovEQBSqdNvALNkQEZ1dPAm7eQFh0oqfldHMQaZRFdaPmFaTkoRExryH3XjIqw2WUWWQYXpxvG9mwifLVLFA4zmqeki7U-t8a4Mzmsq-cz3fppIk1wJ5t-XutWJVL3exU0lRVc",
+      "cat": "RESEARCH",
+      "date": "2026-10-10T23:45:32.024648"
+    },
+    {
+      "title": "Juspay FY26 revenue rises 30% to Rs 664 Cr as international business and AI bets scale",
+      "url": "https://yourstory.com/2026/10/juspay-fy26-revenue-rises-30-percent-rs-664-crore-international-business-ai-bets-scale",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-10T23:45:32.024648"
+    },
+    {
+      "title": "South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals",
+      "url": "https://www.livemint.com/technology/south-korea-japan-buffeted-by-hacks-as-ai-lowers-bar-for-cybercriminals-11791519656868.html",
+      "cat": "OTHER",
+      "date": "2026-10-10T23:45:32.024648"
+    },
+    {
+      "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
+      "url": "https://www.livemint.com/technology/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-11791510804166.html",
+      "cat": "OTHER",
+      "date": "2026-10-10T23:45:32.024648"
+    },
+    {
+      "title": "New AI Research Papers Published on arXiv from IITs and IISc",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUHYKn_e3fBAItjODgccHFzY7JHNUlkAtNPj_5y_JazrWBRkCMF7I6eWr5kubDYuwUaLOXkEP4S0YghOFbOwNVZ7IqS7KF2zIoD2PRg1kvflGJvqb4lpoDB9RnpreEWO9l2HLxKAfErXY=",
+      "cat": "RESEARCH",
+      "date": "2026-10-10T23:45:32.024648"
+    },
+    {
+      "title": "OpenAI, Anthropic Prepare For Backlash Over Potential AI Catastrophe: Report",
+      "url": "https://inc42.com/buzz/openai-anthropic-prepare-for-backlash-over-potential-ai-catastrophe-report/",
+      "cat": "RESEARCH",
+      "date": "2026-10-10T23:45:32.024648"
+    },
+    {
+      "title": "Anthropic Bans \u2018Cruel\u2019 Behaviour Towards AI Models, Tightens Rules On AI Misuse",
+      "url": "https://inc42.com/buzz/anthropic-bans-cruel-behaviour-towards-ai-models-tightens-rules-on-ai-misuse/",
+      "cat": "RESEARCH",
+      "date": "2026-10-10T23:45:32.024648"
+    },
+    {
+      "title": "TechSparks 2026: Zakir Khan, Varun Mayya, Keshav Reddy, and more join the speakers",
+      "url": "https://yourstory.com/2026/10/techsparks-2026-announces-final-speaker-lineup-zakir-khan-varun-mayya-keshav-reddy-and-more",
+      "cat": "OTHER",
+      "date": "2026-10-10T23:45:32.024648"
     }
   ]
 }
