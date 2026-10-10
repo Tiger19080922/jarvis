@@ -906,6 +906,19 @@
         "Beyond the stated goal of user harm prevention, what are the potential unintended consequences of a dedicated AI regulatory framework in India that could disproportionately impact the growth or innovation trajectory of companies like 'AI Safety India'?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-10-10T00:16:29.202309",
+      "headline": "Emergent raised $130 million in Series C funding, becoming India's sixth unicorn of 2026.",
+      "source_url": "https://inc42.com/features/indian-ai-startup-funding-surges-265-yoy-in-q3-will-momentum-continue/",
+      "questions": [
+        "Given that Emergent claims to deploy full-stack applications based on plain language input, what specific technical or product limitations would prevent a well-funded competitor, like a major cloud provider's AI division, from replicating this capability within 12 months?",
+        "Peak XV Partners' thesis highlights that validating code remains difficult despite easier writing. How does Emergent's current product and go-to-market strategy address this specific validation challenge, and what evidence do you have that it's a solvable problem at scale?",
+        "With $130 million in new capital at a $1.5 billion valuation, what are the specific unit economics of an Emergent application deployment, and how do they scale to profitability without relying on continued subsidization from this funding round?",
+        "Considering the history of failed attempts to democratize software development, what unique market conditions or team advantages does Emergent possess in India in 2026 that will allow it to succeed where others have faltered?",
+        "What is the single most likely event in the next 18 months that could lead to Emergent failing to achieve its next major milestone, and how is the company mitigating that specific risk?"
+      ],
+      "answers": []
     }
   ]
 }
