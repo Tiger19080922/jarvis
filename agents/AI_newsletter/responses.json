@@ -931,6 +931,18 @@
         "Considering the ongoing race in AI development and the potential for competitors to achieve similar capabilities, how does Anthropic's decision to restrict internet access for its models during evaluation create a sustainable competitive advantage rather than a temporary, reactive measure?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-10-11T23:52:07.774413",
+      "headline": "India plans AI regulation consultation paper by November 8, 2026.",
+      "source_url": "https://dig.watch/trends/india-plans-ai-regulation-consultation-safety-deepfakes-data-use-and-industry-responsibility",
+      "questions": [
+        "If India's AI regulation consultation paper, due November 8, 2026, focuses on safety and user harm, how does 'India AI's' current business model, which is solely focused on providing AI-driven insights for agricultural yield prediction, navigate potential compliance costs or restrictions that might arise from these regulations?",
+        "Peak XV Partners' thesis emphasizes that responsibility ultimately sits with model companies; how does 'India AI' ensure its AI models, which are trained on proprietary agricultural data, meet the safety and ethical standards that will likely be detailed in India's upcoming techno-legal framework?",
+        "Given that the consultation paper will address deepfakes and user harm, what specific technical safeguards or data governance protocols does 'India AI' have in place to prevent its agricultural AI models from being misused or generating misleading outputs that could cause user harm, especially considering the lack of mentioned funding or investor oversight?",
+        "What specific technical capabilities or legal expertise does the 'India AI' team possess to proactively engage with the government's consultation process and influence the techno-legal framework in a way that benefits, rather than hinders, their agricultural AI prediction business?"
+      ],
+      "answers": []
     }
   ]
 }

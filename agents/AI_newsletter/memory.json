@@ -1,18 +1,6 @@
 {
   "stories": [
     {
-      "title": "When AI agents go rogue: Australia breach offers warning for countries like India",
-      "url": "https://www.livemint.com/technology/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india-11790481067426.html",
-      "cat": "RESEARCH",
-      "date": "2026-09-27T23:16:46.994567"
-    },
-    {
-      "title": "AI integration, digital platforms steer growth across Indias expanding tourism landscape",
-      "url": "https://www.livemint.com/technology/ai-integration-digital-platforms-steer-growth-across-indias-expanding-tourism-landscape-11790493781275.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-27T23:16:46.994567"
-    },
-    {
       "title": "OpenAI Pauses Training Of Top Models After Agent Bypasses Internet Restrictions",
       "url": "https://inc42.com/buzz/openai-pauses-training-of-top-models-after-agent-bypasses-internet-restrictions/",
       "cat": "RESEARCH",
@@ -737,6 +725,48 @@
       "url": "https://yourstory.com/2026/10/techsparks-2026-announces-final-speaker-lineup-zakir-khan-varun-mayya-keshav-reddy-and-more",
       "cat": "OTHER",
       "date": "2026-10-10T23:45:32.024648"
+    },
+    {
+      "title": "India plans AI regulation consultation on safety, deepfakes, data use and industry responsibility",
+      "url": "https://dig.watch/trends/india-plans-ai-regulation-consultation-safety-deepfakes-data-use-and-industry-responsibility",
+      "cat": "POLICY",
+      "date": "2026-10-11T23:52:07.772705"
+    },
+    {
+      "title": "India Strengthens Its AI Strategy with 5-Layer Plan",
+      "url": "https://www.facebook.com/photo.php?fbid=848014940657198&set=pb.100063543771631.-2207520000&type=3",
+      "cat": "POLICY",
+      "date": "2026-10-11T23:52:07.772705"
+    },
+    {
+      "title": "Ministry of Electronics & Information Technology, Government of India unveils India AI Governance Guidelines",
+      "url": "https://www.facebook.com/photo.php?fbid=847701337355225&set=pb.100063543771631.-2207520000&type=3",
+      "cat": "POLICY",
+      "date": "2026-10-11T23:52:07.772705"
+    },
+    {
+      "title": "Guardrails, safe architecture key to unlocking AI gains for enterprises: Airtel Business CEO",
+      "url": "https://www.livemint.com/technology/guardrails-safe-architecture-key-to-unlocking-ai-gains-for-enterprises-airtel-business-ceo-11791708289040.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-11T23:52:07.772705"
+    },
+    {
+      "title": "National Program on Artificial Intelligence - Digital India",
+      "url": "https://www.digitalindia.gov.in/national-program-on-artificial-intelligence-2675",
+      "cat": "POLICY",
+      "date": "2026-10-11T23:52:07.772705"
+    },
+    {
+      "title": "TechSparks masterclass: Gemini, AI, and the business of building better",
+      "url": "https://yourstory.com/2026/10/techsparks-masterclass-gemini-ai-and-the-business-of-building-better",
+      "cat": "RESEARCH",
+      "date": "2026-10-11T23:52:07.772705"
+    },
+    {
+      "title": "Most trustworthy AI system demands least inherent model trust, says Microsoft CEO Satya Nadella",
+      "url": "https://www.livemint.com/technology/most-trustworthy-ai-system-demands-least-inherent-model-trust-says-microsoft-ceo-satya-nadella-11791687133324.html",
+      "cat": "RESEARCH",
+      "date": "2026-10-11T23:52:07.772705"
     }
   ]
 }
