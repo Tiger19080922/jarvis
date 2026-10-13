@@ -955,6 +955,18 @@
         "What specific failure mode would kill 'BrandsAI' in the next 18 months, considering the rapid evolution of AI models and the potential for these models to natively understand brand names without third-party intervention?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-10-13T23:51:41.509883",
+      "headline": "Fundamentum Frontier Advisors secured Rs 3,000 crore for its third fund.",
+      "source_url": "https://inc42.com/buzz/build-buy-or-rent-how-indian-ctos-are-rethinking-the-ai-stack/",
+      "questions": [
+        "Given Nandan Nilekani's involvement and the Rs 3,000 crore fund size, what specific, defensible moat will the growth-stage AI and deeptech startups F2A targets possess, preventing well-funded incumbents or other VCs from replicating their success within 18 months?",
+        "If F2A's thesis is that India is now ripe for growth-stage AI/deeptech leadership, what specific market dynamics or technological shifts have occurred in the last 1-2 years that make this fund's timing different from previous attempts in the Indian deeptech ecosystem?",
+        "With cheque sizes ranging from Rs 100-200 crore, what is the precise failure mode for a portfolio company that experiences a 30% revenue shortfall or a key technology pivot requirement within the first 18 months of F2A's investment?",
+        "Beyond Nandan Nilekani's mentorship, what tangible, repeatable operational advantages will F2A provide its portfolio companies that will ensure their unit economics are sustainable at scale, rather than being subsidized by this Rs 3,000 crore fund?"
+      ],
+      "answers": []
     }
   ]
 }
