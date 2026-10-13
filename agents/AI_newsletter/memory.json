@@ -1,36 +1,6 @@
 {
   "stories": [
     {
-      "title": "OpenAI Pauses Training Of Top Models After Agent Bypasses Internet Restrictions",
-      "url": "https://inc42.com/buzz/openai-pauses-training-of-top-models-after-agent-bypasses-internet-restrictions/",
-      "cat": "RESEARCH",
-      "date": "2026-09-29T00:30:58.441618"
-    },
-    {
-      "title": "IIT Madras\u2019 1,000-startup bet; OpenAI\u2019s rogue agents raise fresh privacy concerns",
-      "url": "https://yourstory.com/2026/09/iit-madras-1000-startup-bet-openais-rogue-agents",
-      "cat": "RESEARCH",
-      "date": "2026-09-29T00:30:58.441618"
-    },
-    {
-      "title": "OpenAI hits pause on powerful AI; NEET leak fallout sees CISF step in",
-      "url": "https://yourstory.com/2026/09/openai-hits-pause-on-powerful-ai-neet-leak-fallout-sees-cisf-step-in",
-      "cat": "RESEARCH",
-      "date": "2026-09-29T00:30:58.441618"
-    },
-    {
-      "title": "Nvidia unveils security platform to stop AI agents from going rogue",
-      "url": "https://yourstory.com/2026/09/nvidia-unveils-security-platform-to-stop-ai-agents-from-going-rogue",
-      "cat": "RESEARCH",
-      "date": "2026-09-29T00:30:58.441618"
-    },
-    {
-      "title": "Epiklogue unveils India\u2019s new commerce model: Try and Buy",
-      "url": "https://yourstory.com/2026/09/epiklogue-unveils-indias-new-commerce-model-try-and-buy",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-29T00:30:58.441618"
-    },
-    {
       "title": "CTO Summit 2026 Agenda: How India\u2019s Tech Leaders Are Rebuilding Products, Teams & Systems For AI Era",
       "url": "https://inc42.com/buzz/cto-summit-2026-agenda-how-indias-tech-leaders-are-rebuilding-products-teams-systems-for-ai-era/",
       "cat": "ENTERPRISE",
@@ -767,6 +737,36 @@
       "url": "https://www.livemint.com/technology/most-trustworthy-ai-system-demands-least-inherent-model-trust-says-microsoft-ceo-satya-nadella-11791687133324.html",
       "cat": "RESEARCH",
       "date": "2026-10-11T23:52:07.772705"
+    },
+    {
+      "title": "Brands Have A New Mission: How To Get AI To Say Your Name",
+      "url": "https://inc42.com/features/brands-have-a-new-mission-how-to-get-ai-to-say-your-name/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-13T02:13:56.933176"
+    },
+    {
+      "title": "Deeptech Funding Zooms 2.8X YoY In Q3 Despite Tighter Deal Flow",
+      "url": "https://inc42.com/buzz/deeptech-funding-zooms-2-8x-yoy-in-q3-despite-tighter-deal-flow/",
+      "cat": "FUNDING",
+      "date": "2026-10-13T02:13:56.933176"
+    },
+    {
+      "title": "RDI Fund Announces First Cohort Of 19 Fund Managers, Eyes Deploying \u20b97,131 Cr To Strengthen Deeptech Startups",
+      "url": "https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/",
+      "cat": "FUNDING",
+      "date": "2026-10-13T02:13:56.933176"
+    },
+    {
+      "title": "India\u2019s Cleantech Funding Boom, The AI Safety Drill & More",
+      "url": "https://inc42.com/buzz/indias-cleantech-funding-boom-the-ai-safety-drill-more/",
+      "cat": "OTHER",
+      "date": "2026-10-13T02:13:56.933176"
+    },
+    {
+      "title": "Publications - Vision and AI Lab",
+      "url": "https://vision.iisc.ac.in/publications/",
+      "cat": "RESEARCH",
+      "date": "2026-10-13T02:13:56.933176"
     }
   ]
 }
