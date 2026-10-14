@@ -1,96 +1,6 @@
 {
   "stories": [
     {
-      "title": "CTO Summit 2026 Agenda: How India\u2019s Tech Leaders Are Rebuilding Products, Teams & Systems For AI Era",
-      "url": "https://inc42.com/buzz/cto-summit-2026-agenda-how-indias-tech-leaders-are-rebuilding-products-teams-systems-for-ai-era/",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
-      "title": "RareDx: Controlled Knowledge Integration and Graph-Grounded Policy Optimization for Rare-Disease Diagnosis",
-      "url": "https://arxiv.org/abs/2609.35549",
-      "cat": "RESEARCH",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
-      "title": "As AI makes copying easier, this product leader says trust is the real edge",
-      "url": "https://yourstory.com/2026/09/kunal-shrestha-responsive-ai-trust-devsparks-chennai",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
-      "title": "Physical AI startup SiMa.ai raises $150M in Series C",
-      "url": "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c",
-      "cat": "FUNDING",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
-      "title": "OpenAI shelves new AI model release over safety concerns",
-      "url": "https://www.livemint.com/technology/openai-shelves-new-ai-model-release-over-safety-concerns-11790642838654.html",
-      "cat": "RESEARCH",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
-      "title": "Exclusive-Anthropic warns AI may pose existential risks to humanity in IPO filing",
-      "url": "https://www.livemint.com/technology/exclusiveanthropic-warns-ai-may-pose-existential-risks-to-humanity-in-ipo-filing-11790641120485.html",
-      "cat": "RESEARCH",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
-      "title": "OpenAI\u2019s agents can now run entirely inside Amazon\u2019s cloud",
-      "url": "https://thenextweb.com/news/openai-bedrock-managed-agents-aws-devday",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
-      "title": "MechBench: Can AI Scientific Agents Discover Mechanisms Beyond Phenomenal Laws?",
-      "url": "https://arxiv.org/abs/2609.35515",
-      "cat": "RESEARCH",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
-      "title": "From Search to Research: Exploring Search Scaling in Autonomous Quantitative Factor Mining",
-      "url": "https://arxiv.org/abs/2609.35559",
-      "cat": "RESEARCH",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
-      "title": "GCCs in India are moving from service delivery to product building; developers need to follow",
-      "url": "https://yourstory.com/2026/09/kewyn-george-gcc-ai-pilot-graveyard-devsparks-chennai",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
-      "title": "IIM Kozhikode partners with Walmart Global Tech to nurture Indian deeptech startups",
-      "url": "https://yourstory.com/2026/09/iim-kozhikode-partners-walmart-global-tech-indian-deeptech-startups",
-      "cat": "RESEARCH",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
-      "title": "At UN, developing nations call for bigger say in shaping AI future",
-      "url": "https://www.livemint.com/technology/at-un-developing-nations-call-for-bigger-say-in-shaping-ai-future-11790706920129.html",
-      "cat": "POLICY",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
-      "title": "AI adoption set to accelerate, but data centres may not deliver comparable job gains: WEF",
-      "url": "https://www.livemint.com/technology/ai-adoption-set-to-accelerate-but-data-centres-may-not-deliver-comparable-job-gains-wef-11790563781276.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
-      "title": "BaRe-Mem: Bayesian Reliability Memory for Robust and Adaptive Agent Consultation",
-      "url": "https://arxiv.org/abs/2609.35551",
-      "cat": "RESEARCH",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
-      "title": "ARISE: Adapting to Evolving Capability Gaps in Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2609.35532",
-      "cat": "RESEARCH",
-      "date": "2026-09-29T23:55:44.269537"
-    },
-    {
       "title": "Arivihan raises $10M as AI-led edtech targets India\u2019s smaller cities",
       "url": "https://yourstory.com/2026/09/arivihan-10m-as-ai-led-edtech-targets-indias-smaller-cities",
       "cat": "FUNDING",
@@ -893,6 +803,90 @@
       "url": "https://www.rediff.com/news/report/experts-stress-real-world-ai-evaluation-for-safe-healthcare-deployment/20261013.htm",
       "cat": "RESEARCH",
       "date": "2026-10-13T23:51:41.508480"
+    },
+    {
+      "title": "Agentic AI Startup RevRag.AI Nets $2.5 Mn To Build AI Relationship Managers For Lenders And Insurers",
+      "url": "https://inc42.com/buzz/fintech-saas-startup-revrag-ai-nets-2-5-mn-to-build-ai-relationship-managers-for-lenders-and-insurers/",
+      "cat": "FUNDING",
+      "date": "2026-10-14T23:24:43.893132"
+    },
+    {
+      "title": "The/Nudge secures $15M from Google.org to develop AI tools for small businesses",
+      "url": "https://yourstory.com/2026/10/thenudge-secures-15m-from-googleorg-to-develop-ai-tools-for-small-businesses",
+      "cat": "FUNDING",
+      "date": "2026-10-14T23:24:43.893132"
+    },
+    {
+      "title": "Centre pushes child rights body to fast-track AI tool to detect child sexual abuse material",
+      "url": "https://www.medianama.com/2026/10/223-ncpcr-ai-child-safety-tool/",
+      "cat": "POLICY",
+      "date": "2026-10-14T23:24:43.893132"
+    },
+    {
+      "title": "Parallel Loop Raises $6.6 Mn To Integrate AI Into Enterprise Workflows",
+      "url": "https://inc42.com/buzz/parallel-loop-raises-6-6-mn-to-integrate-ai-into-enterprise-workflows/",
+      "cat": "FUNDING",
+      "date": "2026-10-14T23:24:43.893132"
+    },
+    {
+      "title": "Spill Games Raises $10.5 Mn To Scale AI-Led Mobile Gaming Studio",
+      "url": "https://inc42.com/buzz/spill-games-raises-10-5-mn-to-scale-ai-led-mobile-gaming-studio/",
+      "cat": "FUNDING",
+      "date": "2026-10-14T23:24:43.893132"
+    },
+    {
+      "title": "Nandan Nilekani suggests last-minute AI-generated exam papers to prevent leaks",
+      "url": "https://www.medianama.com/2026/10/223-nandan-nilekani-ai-generated-exam-papers/",
+      "cat": "POLICY",
+      "date": "2026-10-14T23:24:43.893132"
+    },
+    {
+      "title": "TechSparks 2026: Here\u2019s all that\u2019s happening on Day 2",
+      "url": "https://yourstory.com/2026/10/techsparks-2026-day-2-agenda-speakers",
+      "cat": "RESEARCH",
+      "date": "2026-10-14T23:24:43.893132"
+    },
+    {
+      "title": "Kyndryl will run AI agents inside Toyota Finance\u2019s live IT operations",
+      "url": "https://thenextweb.com/news/kyndryl-toyota-finance-agentic-ai",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-14T23:24:43.893132"
+    },
+    {
+      "title": "A London startup is putting AI cameras into Polish operating theatres",
+      "url": "https://thenextweb.com/news/vitvio-gdansk-operating-room-ai",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-14T23:24:43.893132"
+    },
+    {
+      "title": "Humanly acquires CareerArc, adding recruitment marketing to its AI hiring tools",
+      "url": "https://thenextweb.com/news/humanly-careerarc-ai-hiring-rollup",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-14T23:24:43.893132"
+    },
+    {
+      "title": "The Personal Agents Era Comes With Caveats",
+      "url": "https://inc42.com/features/the-personal-agents-era-comes-with-caveats/",
+      "cat": "RESEARCH",
+      "date": "2026-10-14T23:24:43.893132"
+    },
+    {
+      "title": "Stripe India MD on why Indian startups should build for the world from day one",
+      "url": "https://yourstory.com/2026/10/indian-founders-can-think-global-and-go-global-on-day-one-says-stripe-india-chief",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-14T23:24:43.893132"
+    },
+    {
+      "title": "Salience Labs raises $125M for optical AI switches, then expands in California",
+      "url": "https://thenextweb.com/news/salience-labs-125m-optical-switching",
+      "cat": "FUNDING",
+      "date": "2026-10-14T23:24:43.893132"
+    },
+    {
+      "title": "Compare to Correct: Pairwise-Guided Logit Adjustment for LLM Test-Time Scaling",
+      "url": "https://arxiv.org/abs/2610.18583",
+      "cat": "RESEARCH",
+      "date": "2026-10-14T23:24:43.893132"
     }
   ]
 }
