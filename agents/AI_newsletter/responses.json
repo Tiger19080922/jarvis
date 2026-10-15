@@ -980,6 +980,18 @@
         "If the core thesis is that AI is becoming the architecture, what specific failure mode would cause RevRag.AI to fail in the next 18 months, considering the $2.5M seed round and the competitive landscape?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-10-15T23:13:37.695631",
+      "headline": "Google announces over $13 million in AI funding for India.",
+      "source_url": "https://timesofindia.indiatimes.com/gadgets/tech-news/google-announces-ai-collaborations-funding-initiatives-to-boost-healthcare-research-in-india/articleshow/104451650.cms",
+      "questions": [
+        "Given Peak XV Partners' thesis on deep tech as the final frontier in India, how does Google's $13M+ investment, primarily through grants and collaborations with government-backed institutions like IIT Bombay and Wadhwani AI, create a sustainable moat for Gnani.AI and CoRover.AI against future, venture-backed deep tech competitors?",
+        "Beyond the initial $50,000 grants, what is the specific, scalable revenue model for Gnani.AI and CoRover.AI that demonstrates positive unit economics, independent of Google's philanthropic funding?",
+        "If the 'Lab to Impact' dialogue and the India AI Impact Summit 2026 are indicative of the current AI landscape, what specific market failure or unmet need is Google's $8 million investment in AI Centres of Excellence uniquely positioned to address that established players or other funded startups have missed?",
+        "Considering Google's $400,000 commitment for MedGemma AI model collaborations, what specific technical or data-access barriers prevent other healthcare AI startups in India from replicating this approach within 18 months, thus eroding Gnani.AI's competitive advantage?"
+      ],
+      "answers": []
     }
   ]
 }

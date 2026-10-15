@@ -1,54 +1,6 @@
 {
   "stories": [
     {
-      "title": "Arivihan raises $10M as AI-led edtech targets India\u2019s smaller cities",
-      "url": "https://yourstory.com/2026/09/arivihan-10m-as-ai-led-edtech-targets-indias-smaller-cities",
-      "cat": "FUNDING",
-      "date": "2026-10-01T00:06:55.277531"
-    },
-    {
-      "title": "Google unveils Gemini 4 Argon, and cyber defenders get it first",
-      "url": "https://thenextweb.com/news/google-gemini-4-argon-cyber-defenders-fairwind",
-      "cat": "RESEARCH",
-      "date": "2026-10-01T00:06:55.277531"
-    },
-    {
-      "title": "Google is paying 100 publishers for AI answers, The Information reports",
-      "url": "https://thenextweb.com/news/google-ai-contribution-pilot-publishers-payments",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-01T00:06:55.277531"
-    },
-    {
-      "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
-      "url": "https://arxiv.org/abs/2609.38147",
-      "cat": "RESEARCH",
-      "date": "2026-10-01T00:06:55.277531"
-    },
-    {
-      "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
-      "url": "https://arxiv.org/abs/2609.38143",
-      "cat": "RESEARCH",
-      "date": "2026-10-01T00:06:55.277531"
-    },
-    {
-      "title": "AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation",
-      "url": "https://arxiv.org/abs/2609.38142",
-      "cat": "RESEARCH",
-      "date": "2026-10-01T00:06:55.277531"
-    },
-    {
-      "title": "Did Claude discover a new enzyme or \u2018stole\u2019 a biologist\u2019s work? Anthropic responds",
-      "url": "https://theprint.in/science/did-claude-discover-a-new-enzyme-or-stole-a-biologists-work-anthropic-responds/3057122/",
-      "cat": "RESEARCH",
-      "date": "2026-10-01T00:06:55.277531"
-    },
-    {
-      "title": "OpenAI CEO announces new AI agent and avoids mention of security concerns at developer conference",
-      "url": "https://www.livemint.com/technology/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference-11790707971529.html",
-      "cat": "RESEARCH",
-      "date": "2026-10-01T00:06:55.277531"
-    },
-    {
       "title": "How AI Is Helping PhonePe Improve Efficiency & Cut Costs",
       "url": "https://inc42.com/buzz/how-ai-is-helping-phonepe-improve-efficiency-cut-costs/",
       "cat": "ENTERPRISE",
@@ -887,6 +839,42 @@
       "url": "https://arxiv.org/abs/2610.18583",
       "cat": "RESEARCH",
       "date": "2026-10-14T23:24:43.893132"
+    },
+    {
+      "title": "Google announces AI collaborations, funding initiatives to boost healthcare, research in India",
+      "url": "https://timesofindia.indiatimes.com/gadgets/tech-news/google-announces-ai-collaborations-funding-initiatives-to-boost-healthcare-research-in-india/articleshow/104451650.cms",
+      "cat": "FUNDING",
+      "date": "2026-10-15T23:13:37.694281"
+    },
+    {
+      "title": "'AI lowers the capital needed': India's drug discovery push faces test of human trials",
+      "url": "https://www.channelnewsasia.com/asia/india-ai-drug-discovery-push-faces-test-human-trials-42639872",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-15T23:13:37.694281"
+    },
+    {
+      "title": "Fujifilm India & AIIMS Collaborate on Research for AI-Assisted Cancer Detection",
+      "url": "https://www.thecsruniverse.com/news/healthcare/fujifilm-india-aiims-collaborate-on-research-for-ai-assisted-cancer-detection/",
+      "cat": "RESEARCH",
+      "date": "2026-10-15T23:13:37.694281"
+    },
+    {
+      "title": "India and Europe must jointly develop AI-driven automotive technology: Nasscom Vice Chairperson",
+      "url": "https://www.thehindubusinessline.com/companies/india-europe-must-jointly-develop-ai-driven-automotive-technology-nasscom-vice-chairperson/article68753186.ece",
+      "cat": "POLICY",
+      "date": "2026-10-15T23:13:37.694281"
+    },
+    {
+      "title": "AI can aid faster, cost-effective diagnosis but clinical validation and data safeguards needed: experts",
+      "url": "https://www.thehindu.com/science/health/ai-can-aid-faster-cost-effective-diagnosis-but-clinical-validation-and-data-safeguards-needed-experts/article68744901.ece",
+      "cat": "RESEARCH",
+      "date": "2026-10-15T23:13:37.694281"
+    },
+    {
+      "title": "68% of automotive organizations use or pilot agentic AI for product development, but only 5% report mature AI governance",
+      "url": "https://itvoice.in/68-of-automotive-organizations-use-or-pilot-agentic-ai-for-product-development-but-only-5-report-mature-ai-governance/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-15T23:13:37.694281"
     }
   ]
 }
