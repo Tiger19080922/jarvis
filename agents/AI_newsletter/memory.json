@@ -1,66 +1,6 @@
 {
   "stories": [
     {
-      "title": "How AI Is Helping PhonePe Improve Efficiency & Cut Costs",
-      "url": "https://inc42.com/buzz/how-ai-is-helping-phonepe-improve-efficiency-cut-costs/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-02T00:04:40.285095"
-    },
-    {
-      "title": "AI Is Compressing The Travel-Booking Journey: MakeMyTrip Group CTO",
-      "url": "https://inc42.com/buzz/ai-is-compressing-the-travel-booking-journey-makemytrip-group-cto/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-02T00:04:40.285095"
-    },
-    {
-      "title": "MeitY Unveils India AI Governance Guidelines under IndiaAI Mission to Ensure Safe, Inclusive, and Responsible Adoption of Artificial Intelligence across Sectors - PIB",
-      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2056803",
-      "cat": "POLICY",
-      "date": "2026-10-02T00:04:40.285095"
-    },
-    {
-      "title": "India AI Governance Guidelines: A Pragmatic Framework Rooted in Collaboration",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwRNcQCBTmm-qfWVS6Zb7Mr4uwEc0-mtOUYdkCnb0vNGjr42vpqAh0mIowjziNQ38mX1ctkgISa6XD_wAJIJUyaGn5Kq-6YKkuOni6SNEyyEFhBzRXLcKnUHFp0uHaDOyNTWEzhpeb64jo5AAAUIbdGojbhcOFroifASNdKyB2G2yaL8FhOdFB5fBfp4yl-lgsmQ_IzZScQh0_4fFOvXcEgcWXUqLMxXOTisMGwmHENLhH80dyBZvWlvY=",
-      "cat": "POLICY",
-      "date": "2026-10-02T00:04:40.285095"
-    },
-    {
-      "title": "Building AI Products For Indian Users: The Challenge Of Scale, Access, And Cost",
-      "url": "https://inc42.com/buzz/building-ai-products-for-indian-users-the-challenge-of-scale-access-and-cost/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-02T00:04:40.285095"
-    },
-    {
-      "title": "More Code, More Review: How AI Is Changing Engineering",
-      "url": "https://inc42.com/buzz/more-code-more-review-how-ai-is-changing-engineering/",
-      "cat": "RESEARCH",
-      "date": "2026-10-02T00:04:40.285095"
-    },
-    {
-      "title": "IBM expands academic collaborations with IIT Bombay and IISc to advance agentic AI, sovereign AI and quantum computing research",
-      "url": "https://www.ibm.com/news/in/en/press-release/detail/ibm-expands-academic-collaborations-with-iit-bombay-and-iisc-to-advance-agentic-ai-sovereign-ai-and-quantum-computing-research/",
-      "cat": "RESEARCH",
-      "date": "2026-10-02T00:04:40.285095"
-    },
-    {
-      "title": "Fresh Data, Clear Access Rules: The Foundation For Reliable AI Applications",
-      "url": "https://inc42.com/buzz/fresh-data-clear-access-rules-the-foundation-for-reliable-ai-applications/",
-      "cat": "POLICY",
-      "date": "2026-10-02T00:04:40.285095"
-    },
-    {
-      "title": "Beyond Coding: Why AI Makes Systems Thinking More Important For Engineers",
-      "url": "https://inc42.com/buzz/beyond-coding-why-ai-makes-systems-thinking-more-important-for-engineers/",
-      "cat": "RESEARCH",
-      "date": "2026-10-02T00:04:40.285095"
-    },
-    {
-      "title": "AI Research Foundations",
-      "url": "https://cce.iisc.ac.in/ai-research-foundations/",
-      "cat": "RESEARCH",
-      "date": "2026-10-02T00:04:40.285095"
-    },
-    {
       "title": "Indian govt issues new AI content rules for social media, sets 3-hour takedown window",
       "url": "https://economictimes.indiatimes.com/tech/technology/indian-govt-issues-new-ai-content-rules-for-social-media-sets-3-hour-takedown-window/articleshow/90286376.cms",
       "cat": "POLICY",
@@ -875,6 +815,90 @@
       "url": "https://itvoice.in/68-of-automotive-organizations-use-or-pilot-agentic-ai-for-product-development-but-only-5-report-mature-ai-governance/",
       "cat": "ENTERPRISE",
       "date": "2026-10-15T23:13:37.694281"
+    },
+    {
+      "title": "Sarvam AI in talks to raise up to $300 million at $3 billion valuation",
+      "url": "https://economictimes.indiatimes.com/tech/startups/sarvam-ai-in-talks-to-raise-up-to-300-million-at-3-billion-valuation/articleshow/104417199.cms",
+      "cat": "FUNDING",
+      "date": "2026-10-16T23:00:13.458490"
+    },
+    {
+      "title": "Krutrim AI Funding: Recent Rounds, Layoffs, and Strategic Shift",
+      "url": "https://www.facebook.com/story.php?story_fbid=10167947756170183&id=643400176",
+      "cat": "FUNDING",
+      "date": "2026-10-16T23:00:13.458490"
+    },
+    {
+      "title": "Enterprise AI Startup RapidCanvas Nets $29 Mn To Expand GTM Teams",
+      "url": "https://inc42.com/buzz/enterprise-ai-startup-rapidcanvas-nets-29-mn-to-expand-gtm-teams/",
+      "cat": "FUNDING",
+      "date": "2026-10-16T23:00:13.458490"
+    },
+    {
+      "title": "India\u2019s AI opportunity could run into trillions of dollars, creating new possibilities for startups",
+      "url": "https://yourstory.com/2026/10/indias-ai-opportunity-could-run-trillions-dollars-creating-new-possibilities-startups",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-16T23:00:13.458490"
+    },
+    {
+      "title": "AI execution company RapidCanvas raises $29M in Series B",
+      "url": "https://yourstory.com/2026/10/ai-execution-company-rapidcanvas-raises-29m-in-series-b",
+      "cat": "FUNDING",
+      "date": "2026-10-16T23:00:13.458490"
+    },
+    {
+      "title": "Government issues critical warning as AI agents access Indian companies' confidential data",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzb5Y8qedTLis4ixkvYJKkWMPBQF4w4PwRZeOxGY25Trbt6fVd4sfLUJoXDsNcSG4uiBGemEquHy69GL2R9SSNM1hHIHDRbRlv2mCg45U20pf_4x4MQcxnbXd4LrRB4a4rLNTn0fGCter0Um0_ns2zS-E4cHkAyqtG9mI2NnfGNzz10jxioqoA5lD-ypKjxPANNRxBAHs5F9B-hJicWODj9o236dKf9XGQg0yVYSWTRoHOg-Z7q7qNNCTZte4a-Jp7mZXeguvS6ZC-2A2DFahoiqv_HXa_O7QSL2-VexXvmq98B4irVu3D",
+      "cat": "POLICY",
+      "date": "2026-10-16T23:00:13.458490"
+    },
+    {
+      "title": "Indian billionaire family offices ramp up AI bets as funding rises 50% in 2026: Report",
+      "url": "https://www.livemint.com/companies/news/indian-billionaire-family-offices-ramp-up-ai-bets-as-funding-rises-50-in-2026-report-11697460407154.html",
+      "cat": "FUNDING",
+      "date": "2026-10-16T23:00:13.458490"
+    },
+    {
+      "title": "AI startup RapidCanvas raises $29 million led by Vertex Ventures",
+      "url": "https://www.livemint.com/companies/startups/ai-startup-rapidcanvas-raises-29-million-led-by-vertex-ventures-11697459459776.html",
+      "cat": "FUNDING",
+      "date": "2026-10-16T23:00:13.458490"
+    },
+    {
+      "title": "Rising AI\u2019s Costs Put SaaS Companies Between A Rock And A Hard Place",
+      "url": "https://inc42.com/features/rising-ais-costs-put-saas-companies-between-a-rock-and-a-hard-place/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-16T23:00:13.458490"
+    },
+    {
+      "title": "India's AI Content Advisory Big Update October 2026: Platforms Told to Flag AI-Made Fakes",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnmQBPc17cDT7LThnxzD_-5wkZLEFRSAdVlc-EwidXyVu6j_jC07wMtWRdvcDfIQU6K_61zh-gGY1SFE4Av_C9AGefjZhnbrGzbMHvbhDTmcC_x822Zm_-mlqpKxAwHhN4o-4u3TA=0",
+      "cat": "POLICY",
+      "date": "2026-10-16T23:00:13.458490"
+    },
+    {
+      "title": "Bengaluru-based enterprise AI startup RevRag AI has raised $2.5 million in seed funding",
+      "url": "https://www.instagram.com/p/C0Xp9qgI7P0/",
+      "cat": "FUNDING",
+      "date": "2026-10-16T23:00:13.458490"
+    },
+    {
+      "title": "DataLEADS, JanAI Plan 100 Swasth AI Hubs to Advance Rural Healthcare Innovation",
+      "url": "https://www.digitalhealthwire.com/news/dataleads-janai-plan-100-swasth-ai-hubs-to-advance-rural-healthcare-innovation",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-16T23:00:13.458490"
+    },
+    {
+      "title": "CERT-In Flags Unauthorised AI Agent Access To Indian Organisations\u2019 Systems",
+      "url": "https://inc42.com/buzz/cert-in-flags-unauthorised-ai-agent-access-to-indian-organisations-systems/",
+      "cat": "POLICY",
+      "date": "2026-10-16T23:00:13.458490"
+    },
+    {
+      "title": "Can we change an AI model's architecture without retraining it from scratch?",
+      "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
+      "cat": "RESEARCH",
+      "date": "2026-10-16T23:00:13.458490"
     }
   ]
 }
