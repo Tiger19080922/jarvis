@@ -1,48 +1,6 @@
 {
   "stories": [
     {
-      "title": "Indian govt issues new AI content rules for social media, sets 3-hour takedown window",
-      "url": "https://economictimes.indiatimes.com/tech/technology/indian-govt-issues-new-ai-content-rules-for-social-media-sets-3-hour-takedown-window/articleshow/90286376.cms",
-      "cat": "POLICY",
-      "date": "2026-10-02T23:59:30.192672"
-    },
-    {
-      "title": "White-collar hiring grows 2% led by AI/ML sector in Sep: Report",
-      "url": "https://yourstory.com/2026/10/white-collar-hiring-grows-2-led-by-aiml-sector-in-sep-report",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-02T23:59:30.192672"
-    },
-    {
-      "title": "Meta\u2019s AI could flood the internet; Four Indian brands putting a new spin on khadi",
-      "url": "https://yourstory.com/2026/10/metas-ai-could-flood-the-internet-india-brands-khadi",
-      "cat": "RESEARCH",
-      "date": "2026-10-02T23:59:30.192672"
-    },
-    {
-      "title": "From music streaming to AI training: What India\u2019s IP data tells us about the next copyright debate",
-      "url": "https://www.medianama.com/2026/10/223-music-streaming-ai-training-india-ip-data-copyright/",
-      "cat": "RESEARCH",
-      "date": "2026-10-02T23:59:30.192672"
-    },
-    {
-      "title": "JioStar wants fans to ask ChatGPT during live matches. Where does fans\u2019 data go?",
-      "url": "https://www.medianama.com/2026/10/223-jiostar-chatgpt-live-matches/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-02T23:59:30.192672"
-    },
-    {
-      "title": "Zoho launches Arattai for Business: How it compares with WhatsApp Business after Meta\u2019s new charges",
-      "url": "https://www.livemint.com/technology/zoho-launches-arattai-for-business-how-it-compares-with-whatsapp-business-after-meta-s-new-charges-11790932153271.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-02T23:59:30.192672"
-    },
-    {
-      "title": "AI can\u2019t fix a business system with broken processes",
-      "url": "https://thenextweb.com/news/ai-cant-fix-broken-processes-dessy-pavlova",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-02T23:59:30.192672"
-    },
-    {
       "title": "Nasscom \u00d7 MeitY DPDP Workshop Series: From Readiness to Reality",
       "url": "https://community.nasscom.in/blogs/nasscom-meity-dpdp-workshop-series-readiness-reality",
       "cat": "POLICY",
@@ -899,6 +857,36 @@
       "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
       "cat": "RESEARCH",
       "date": "2026-10-16T23:00:13.458490"
+    },
+    {
+      "title": "AI agents accessed Indian organisations\u2019 systems without authorisation, CERT-In reveals",
+      "url": "https://www.medianama.com/2026/10/223-cert-in-ai-agents-unauthorised-access/",
+      "cat": "RESEARCH",
+      "date": "2026-10-17T22:33:00.427973"
+    },
+    {
+      "title": "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley",
+      "url": "https://www.livemint.com/technology/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley-11792231459245.html",
+      "cat": "POLICY",
+      "date": "2026-10-17T22:33:00.427973"
+    },
+    {
+      "title": "CERT-In issues critical alert after autonomous AI agents access live systems of Indian orgs",
+      "url": "https://www.livemint.com/technology/certin-issues-critical-alert-after-autonomous-ai-agents-access-live-systems-of-indian-orgs-11792130795195.html",
+      "cat": "POLICY",
+      "date": "2026-10-17T22:33:00.427973"
+    },
+    {
+      "title": "India\u2019s massive AI opportunity; Women entrepreneurs in this year\u2019s Mann Ki Baat",
+      "url": "https://yourstory.com/2026/10/india-massive-ai-opportunity-women-entrepreneurship",
+      "cat": "POLICY",
+      "date": "2026-10-17T22:33:00.427973"
+    },
+    {
+      "title": "AI could give small businesses competitive edge over large firms: Former UK PM Rishi Sunak",
+      "url": "https://www.livemint.com/technology/ai-could-give-small-businesses-competitive-edge-over-large-firms-former-uk-pm-rishi-sunak-11792226876294.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-17T22:33:00.427973"
     }
   ]
 }
