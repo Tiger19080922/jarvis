@@ -1017,6 +1017,18 @@
         "Considering the CERT-In advisory specifically mentions cyber attackers misusing open-source agentic AI tools, what is your company's plan to mitigate the risk of your own technology being similarly weaponized by malicious actors, and how does this differ from the current landscape where providers are reporting vulnerabilities after the fact?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-10-18T22:33:46.087352",
+      "headline": "NICSI seeks 20 tech firms to modernize Indian government IT systems with AI.",
+      "source_url": "https://www.youtube.com/watch?v=iU8F17oQ5Lg",
+      "questions": [
+        "Given NICSI's RFE seeks up to 20 firms, how does your company differentiate itself from the other 19 potential awardees to secure the lion's share of the modernization contracts, rather than being a small player in a fragmented market?",
+        "The IndiaAI Mission has Rs. 1,000 crore allocated; what specific mechanisms are in place to ensure your company directly benefits from this funding, as opposed to other AI initiatives or infrastructure development?",
+        "NICSI is modernizing 'obsolete and inefficient' systems; what specific technical debt or legacy infrastructure challenges have you encountered in prior government projects that would prevent a similar roadblock here?",
+        "Beyond AI, generative AI, and agentic AI, what proprietary technology or unique approach does your company possess that creates a moat against other tech firms also responding to this RFE?"
+      ],
+      "answers": []
     }
   ]
 }
