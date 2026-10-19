@@ -1,12 +1,6 @@
 {
   "stories": [
     {
-      "title": "Nasscom \u00d7 MeitY DPDP Workshop Series: From Readiness to Reality",
-      "url": "https://community.nasscom.in/blogs/nasscom-meity-dpdp-workshop-series-readiness-reality",
-      "cat": "POLICY",
-      "date": "2026-10-04T23:29:43.123112"
-    },
-    {
       "title": "India needs its own AI safety framework, not a copy of US pact: Industry experts",
       "url": "https://yourstory.com/2026/10/india-needs-own-ai-safety-framework-not-copy-us-pact-industry-experts",
       "cat": "POLICY",
@@ -929,6 +923,60 @@
       "url": "https://arxiv.org/list/cs.AI/2026-10-16",
       "cat": "RESEARCH",
       "date": "2026-10-18T22:33:46.085710"
+    },
+    {
+      "title": "India\u2019s Trade Marks Registry proposes mandatory AI disclosure, bars AI-generated affidavits and altered evidence",
+      "url": "https://www.medianama.com/2026/10/223-india-trade-marks-registry-ai-guidelines/",
+      "cat": "POLICY",
+      "date": "2026-10-19T23:54:10.643791"
+    },
+    {
+      "title": "AI Agent Breach Exposes Flaws in India\u2019s Autonomous System Defences",
+      "url": "https://analyticsindiamag.com/ai-features/ai-agent-breach-exposes-flaws-in-indias-autonomous-system-defences",
+      "cat": "POLICY",
+      "date": "2026-10-19T23:54:10.643791"
+    },
+    {
+      "title": "Birla AI Labs Launches Yug-1, a Time Series Foundation Model Built in India",
+      "url": "https://analyticsindiamag.com/ai-news/birla-ai-labs-launches-yug-1-a-time-series-foundation-model-built-in-india",
+      "cat": "RESEARCH",
+      "date": "2026-10-19T23:54:10.643791"
+    },
+    {
+      "title": "Data, not chips, will decide India\u2019s AI and biotech future, say deeptech founders",
+      "url": "https://yourstory.com/2026/10/india-data-infrastructure-ai-biotech-coremantle-loopworm",
+      "cat": "POLICY",
+      "date": "2026-10-19T23:54:10.643791"
+    },
+    {
+      "title": "LTTS Secures $203 Million in Large Deals, More Than Half AI-Led",
+      "url": "https://analyticsindiamag.com/ai-news/ltts-secures-203-million-in-large-deals-more-than-half-ai-led",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-19T23:54:10.643791"
+    },
+    {
+      "title": "Coursera Brings Project Helix to Bengaluru to Focus on Building Karnataka\u2019s AI-Ready Workforce",
+      "url": "https://analyticsindiamag.com/ai-news/coursera-brings-project-helix-to-bengaluru-to-focus-on-building-karnatakas-ai-ready-workforce",
+      "cat": "POLICY",
+      "date": "2026-10-19T23:54:10.643791"
+    },
+    {
+      "title": "Is your marketing AI tool driving profit or just noise? CleverTap co-founder Anand Jain weighs in",
+      "url": "https://yourstory.com/2026/10/is-your-marketing-ai-driving-profit-or-just-more-noise-clevertap-co-founder-anand-jain-weighs-in",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-19T23:54:10.643791"
+    },
+    {
+      "title": "Karnataka\u2019s ElevenLabs Partnership Irks Indian Voice AI Startups",
+      "url": "https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups",
+      "cat": "POLICY",
+      "date": "2026-10-19T23:54:10.643791"
+    },
+    {
+      "title": "Tech Mahindra\u2019s Q2 Revenue Modest, But AI-led Deflation Remains Higher",
+      "url": "https://analyticsindiamag.com/it-services/tech-mahindra-lifted-margins-for-12-quarters-ai-is-the-next-test",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-19T23:54:10.643791"
     }
   ]
 }

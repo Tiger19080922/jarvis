@@ -1029,6 +1029,18 @@
         "Beyond AI, generative AI, and agentic AI, what proprietary technology or unique approach does your company possess that creates a moat against other tech firms also responding to this RFE?"
       ],
       "answers": []
+    },
+    {
+      "date": "2026-10-19T23:54:10.645656",
+      "headline": "India's Trade Marks Registry proposes new AI disclosure guidelines.",
+      "source_url": "https://www.medianama.com/2026/10/223-india-trade-marks-registry-ai-guidelines/",
+      "questions": [
+        "Given Peak XV's thesis on responsible AI deployment, how does India's Trade Marks Registry's proposed ban on AI-generated affidavits and altered evidence specifically impact your go-to-market strategy for your trademark filing platform?",
+        "What specific technical or legal hurdles do you anticipate in ensuring compliance with the new AI disclosure guidelines, especially concerning the bar on 'altered evidence' in filings?",
+        "Beyond the immediate disclosure requirements, how will the Registry's stance on AI-generated content affect the long-term defensibility and perceived authenticity of trademarks filed using your platform?",
+        "If other major trademark jurisdictions do not adopt similar stringent AI disclosure rules, how will your India-focused strategy differentiate from or compete with global platforms that may not face these specific constraints?"
+      ],
+      "answers": []
     }
   ]
 }
