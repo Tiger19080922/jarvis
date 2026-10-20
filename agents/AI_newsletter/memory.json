@@ -1,90 +1,6 @@
 {
   "stories": [
     {
-      "title": "India needs its own AI safety framework, not a copy of US pact: Industry experts",
-      "url": "https://yourstory.com/2026/10/india-needs-own-ai-safety-framework-not-copy-us-pact-industry-experts",
-      "cat": "POLICY",
-      "date": "2026-10-06T01:25:18.275775"
-    },
-    {
-      "title": "India urged to develop bespoke AI safety framework for its unique ecosystem",
-      "url": "https://www.livemint.com/industry/infotech/india-urged-to-develop-bespoke-ai-safety-framework-for-its-unique-ecosystem-11728109515215.html",
-      "cat": "POLICY",
-      "date": "2026-10-06T01:25:18.275775"
-    },
-    {
-      "title": "Sarvam AI raises $75 million; Ather trims losses in Q1",
-      "url": "https://economictimes.indiatimes.com/tech/startups/sarvam-raises-75-million-ather-trims-losses-in-q1/articleshow/102426130.cms",
-      "cat": "FUNDING",
-      "date": "2026-10-06T01:25:18.275775"
-    },
-    {
-      "title": "AI startup Autoheal raises $7.9 million to build self-improving software factory for enterprises",
-      "url": "https://www.livemint.com/technology/tech-news/ai-startup-autoheal-raises-79-million-to-build-self-improving-software-factory-for-enterprises-11727954018167.html",
-      "cat": "FUNDING",
-      "date": "2026-10-06T01:25:18.275775"
-    },
-    {
-      "title": "Razorpay Partners With OpenAI To Help Indian Brands Advertise On ChatGPT",
-      "url": "https://inc42.com/buzz/razorpay-partners-with-openai-to-help-indian-brands-advertise-on-chatgpt/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-06T01:25:18.275775"
-    },
-    {
-      "title": "AI driving BPM sector's biggest reinvention, India can be global intelligent operations hub: Nasscom",
-      "url": "https://www.peoplematters.in/article/technology/ai-driving-bpms-biggest-reinvention-india-can-be-global-intelligent-operations-hub-nasscom-31735",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-06T01:25:18.275775"
-    },
-    {
-      "title": "Nandan Nilekani commits fresh funding to AI4Bharat, total support reaches \u20b970 cr to power Indian language AI",
-      "url": "https://www.indiablooms.com/business/nandan-nilekani-commits-fresh-funding-to-ai4bharat-total-support-reaches-rs-70-cr-to-power-indian-language-ai-126709",
-      "cat": "FUNDING",
-      "date": "2026-10-06T01:25:18.275775"
-    },
-    {
-      "title": "The Rise Of Bank-Built AI, Weekly Funding Rundown & More",
-      "url": "https://inc42.com/buzz/the-rise-of-bank-built-ai-weekly-funding-rundown-more/",
-      "cat": "RESEARCH",
-      "date": "2026-10-06T01:25:18.275775"
-    },
-    {
-      "title": "Quantum computing and AI firm QpiAI secures Rs 50 Cr debt financing from InnoVen Capital",
-      "url": "https://yourstory.com/2026/10/qpiai-secures-rs-50-cr-debt-financing-from-innoven-capital",
-      "cat": "FUNDING",
-      "date": "2026-10-06T01:25:18.275775"
-    },
-    {
-      "title": "IT Q2 preview: Muted growth, steady margins likely; deal conversion, AI deflation in focus",
-      "url": "https://yourstory.com/2026/10/it-q2-preview-muted-growth-steady-margins-likely-deal-conversion-ai-deflation-in-focus",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-06T01:25:18.275775"
-    },
-    {
-      "title": "Most of India's Nearly $500 Mn AI Boom is Squeezed Into Just 4 Deals | AIM",
-      "url": "https://aimresearch.co/news/most-of-indias-nearly-500-mn-ai-boom-is-squeezed-into-just-4-deals",
-      "cat": "FUNDING",
-      "date": "2026-10-06T01:25:18.275775"
-    },
-    {
-      "title": "Ai4bharat.org has raised a total funding of $12M over 2 rounds",
-      "url": "https://www.tracxn.com/d/company/ai4bharat-org/profile",
-      "cat": "FUNDING",
-      "date": "2026-10-06T01:25:18.275775"
-    },
-    {
-      "title": "PanIIT, Andhra Pradesh plan Rs 500 Cr deeptech fund, target 25 AP startups by 2030",
-      "url": "https://yourstory.com/2026/10/paniit-500-cr-deeptech-fund-targets-25-andhra-startups-by-2030",
-      "cat": "FUNDING",
-      "date": "2026-10-06T01:25:18.275775"
-    },
-    {
-      "title": "Andhra Pradesh, PanIIT partner for Rs 500-Cr deeptech fund; An intralogistics business that serves 25 countries",
-      "url": "https://yourstory.com/2026/10/andhra-pradesh-paniit-partner-for-rs-500-cr-deeptech-fund-an-intralogistics-business-that-serves-25-countries",
-      "cat": "FUNDING",
-      "date": "2026-10-06T01:25:18.275775"
-    },
-    {
       "title": "IBM and Indian Institutes Boost AI and Quantum Research",
       "url": "https://www.ibm.com/blog/ibm-indian-institutes-boost-ai-and-quantum-research/",
       "cat": "RESEARCH",
@@ -977,6 +893,24 @@
       "url": "https://analyticsindiamag.com/it-services/tech-mahindra-lifted-margins-for-12-quarters-ai-is-the-next-test",
       "cat": "ENTERPRISE",
       "date": "2026-10-19T23:54:10.643791"
+    },
+    {
+      "title": "Indian Family Offices Lift AI Funding 50% to $760 Mn in 2026",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfYSw8SfjpdibbqHu1qv1cxDfAEci-1aI2CoJjlBhRF1scaAnHFoCeaH6Sz2h5WxjkZcWx1suj7B5MrkQ8MwJWqTR_G_LSZG6gYiENCpMhsxJwb6BVx6RkoLYl0AXaPaVjBEwI2lGicTOqtbEsTBZmV9LVP4W0XQBVrq6AIOMbqfWCPzE=",
+      "cat": "FUNDING",
+      "date": "2026-10-20T23:20:18.350689"
+    },
+    {
+      "title": "Ex-DeepMind researcher Thore Graepel launches London AI lab Metis Reasoning",
+      "url": "https://thenextweb.com/news/metis-reasoning-thore-graepel-alphago-london-ai-lab",
+      "cat": "RESEARCH",
+      "date": "2026-10-20T23:20:18.350689"
+    },
+    {
+      "title": "ASI hits a $3bn valuation as its AI moves from air traffic to the grid",
+      "url": "https://thenextweb.com/news/asi-325m-series-c-3bn-valuation-air-space-intelligence",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-20T23:20:18.350689"
     }
   ]
 }
