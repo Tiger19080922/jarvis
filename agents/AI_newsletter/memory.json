@@ -1,72 +1,6 @@
 {
   "stories": [
     {
-      "title": "IBM and Indian Institutes Boost AI and Quantum Research",
-      "url": "https://www.ibm.com/blog/ibm-indian-institutes-boost-ai-and-quantum-research/",
-      "cat": "RESEARCH",
-      "date": "2026-10-07T00:01:35.176905"
-    },
-    {
-      "title": "India\u2019s new AI ad labelling guidelines: What brands must disclose and when AI content counts as an ad",
-      "url": "https://www.medianama.com/2026/10/223-asci-ai-labelling-guidelines-advertising-2026/",
-      "cat": "POLICY",
-      "date": "2026-10-07T00:01:35.176905"
-    },
-    {
-      "title": "Razorpay to run ad campaigns for Indian brands on ChatGPT",
-      "url": "https://www.medianama.com/2026/10/223-razorpay-chatgpt-ads-india/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-07T00:01:35.176905"
-    },
-    {
-      "title": "Publications - Kotak IISc AI\u2013ML Centre - Indian Institute of Science",
-      "url": "https://aiml.iisc.ac.in/publications/",
-      "cat": "RESEARCH",
-      "date": "2026-10-07T00:01:35.176905"
-    },
-    {
-      "title": "UP govt aims to establish Lucknow among Indias leading AI innovation cities: Yogi Adityanath",
-      "url": "https://www.livemint.com/technology/up-govt-aims-to-establish-lucknow-among-indias-leading-ai-innovation-cities-yogi-adityanath-11791296987020.html",
-      "cat": "POLICY",
-      "date": "2026-10-07T00:01:35.176905"
-    },
-    {
-      "title": "World Bank says India should scale small AI applications instead of betting heavily on frontier models",
-      "url": "https://www.livemint.com/technology/world-bank-says-india-should-scale-small-ai-applications-instead-of-betting-heavily-on-frontier-models-11791283874808.html",
-      "cat": "POLICY",
-      "date": "2026-10-07T00:01:35.176905"
-    },
-    {
-      "title": "Sant\u00e9 raises $15 million to bring AI to the neighborhood liquor store",
-      "url": "https://thenextweb.com/news/sante-15-million-ai-neighborhood-liquor-store",
-      "cat": "FUNDING",
-      "date": "2026-10-07T00:01:35.176905"
-    },
-    {
-      "title": "Navya Naveli Nanda\u2019s venture to back deeptech, frontier tech ambitions",
-      "url": "https://yourstory.com/2026/10/navya-naveli-nanda-naveli-ventures-to-back-deeptech-frontier-tech-ambitions",
-      "cat": "FUNDING",
-      "date": "2026-10-07T00:01:35.176905"
-    },
-    {
-      "title": "Chandigarh court suspends three Facebook pages over AI-generated political videos",
-      "url": "https://www.medianama.com/2026/10/223-chandigarh-court-facebook-pages-ai-political-videos/",
-      "cat": "POLICY",
-      "date": "2026-10-07T00:01:35.176905"
-    },
-    {
-      "title": "Sierra announces Personal Agent Protocol, an open standard for personal AI agents",
-      "url": "https://thenextweb.com/news/personal-agent-protocol-sierra-meta",
-      "cat": "RESEARCH",
-      "date": "2026-10-07T00:01:35.176905"
-    },
-    {
-      "title": "Hark debuts an AI agent a year before its first devices",
-      "url": "https://thenextweb.com/news/hark-pro-agent-hardware-europe",
-      "cat": "RESEARCH",
-      "date": "2026-10-07T00:01:35.176905"
-    },
-    {
       "title": "India among top 10 emerging markets in AI readiness; private AI investment triples: World Bank",
       "url": "https://www.livemint.com/technology/india-among-top-10-emerging-markets-in-ai-readiness-private-ai-investment-triples-world-bank-11791283557375.html",
       "cat": "POLICY",
@@ -911,6 +845,132 @@
       "url": "https://thenextweb.com/news/asi-325m-series-c-3bn-valuation-air-space-intelligence",
       "cat": "ENTERPRISE",
       "date": "2026-10-20T23:20:18.350689"
+    },
+    {
+      "title": "Peak XV-Backed AI Startup Blacksmith Nets $66 Mn At A Unicorn Valuation",
+      "url": "https://inc42.com/buzz/peak-xv-backed-ai-startup-blacksmith-nets-66-mn-at-a-unicorn-valuation/",
+      "cat": "FUNDING",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "Building AI in India? Privacy is now a valuation issue: Shivaarti Bajaj",
+      "url": "https://yourstory.com/2026/10/dpdp-privacy-ai-startup-valuation-shivaarti-bajaj",
+      "cat": "POLICY",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "India Needs to Build the AI 'Brain' for Robotics, Not Just Import Hardware",
+      "url": "https://analyticsindiamag.com/ai-features/india-needs-to-build-the-ai-brain-for-robotics-not-just-import-hardware",
+      "cat": "RESEARCH",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "Indian IT firms eye $20m\u2013$60m US and European AI targets in outbound M&amp;A push",
+      "url": "https://www.livemint.com/technology/tech-news/indian-it-firms-ai-data-analytics-acquisitions-11792474876154.html",
+      "cat": "FUNDING",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "Enterprise AI Startup AuxoAI Nets $20.7M To Strengthen Its FDE Team",
+      "url": "https://inc42.com/buzz/enterprise-ai-startup-auxoai-nets-20-7m-to-strengthen-its-fde-team/",
+      "cat": "FUNDING",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "Deepinder Goyal to foray into AI with privacy-focused engine Dark.ai",
+      "url": "https://yourstory.com/2026/10/deepinder-goyal-ai-privacy-focused-engine-darkai",
+      "cat": "RESEARCH",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "Hunar.AI raises Rs 40 Cr in Series A funding round led by Blume Ventures",
+      "url": "https://yourstory.com/2026/10/hunarai-raises-rs-40-crore-in-series-a-led-by-blume-ventures",
+      "cat": "FUNDING",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "Amazon bets on agentic AI to power enterprise ops; Is your marketing AI tool driving profit or just noise?",
+      "url": "https://yourstory.com/2026/10/amazon-bets-on-agentic-ai-marketing-ai-tool-is-it-driving-profit-clevertap",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "43% of Indian Enterprises Struggle to Control AI Costs: Splunk Report",
+      "url": "https://analyticsindiamag.com/ai-news/43-of-indian-enterprises-struggle-to-control-ai-costs-splunk-report",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "The Hardest Part of Industrial AI Isn\u2019t Adoption\u2014It\u2019s On-Site Deployment",
+      "url": "https://analyticsindiamag.com/gcc/the-hardest-part-of-industrial-ai-isnt-adoptionits-on-site-deployment",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "India's AI rules may change: Who decides what stays online and what gets removed?",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeJGmlMOQNsjt22LsTv5C3218owmaqn6cA6gMVRsKIvzAPQ6dkQcnbfqHKOFliW_-XozmZmxCu6BqRAbhAkn2T1qbnZkRrysuJv4BQdxGlbioVD8wOE3CTXPUjSjnBvIoaevEkH3AdI0nr1T1c6zW_o7GtMrkaN7mbmHUTRu3olRva3stIiufpPMf7jZqCHG-nyzxYHPghIKaXXGGLleM=",
+      "cat": "POLICY",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "Eternal Unveils Privacy-Focused AI Platform Dark, Eyes Global Launch In 2026",
+      "url": "https://inc42.com/buzz/eternal-unveils-privacy-focused-ai-platform-dark-eyes-global-launch-in-2026/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "Deepinder Goyal Teases Dark.ai, a Privacy-Focused AI Platform",
+      "url": "https://analyticsindiamag.com/ai-news/deepinder-goyal-teases-darkai-a-privacy-focused-ai-platform",
+      "cat": "RESEARCH",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "Microsoft Proposes Guardian Agents to Secure Enterprise AI",
+      "url": "https://analyticsindiamag.com/ai-news/microsoft-proposes-guardian-agents-to-secure-enterprise-ai",
+      "cat": "RESEARCH",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "OpenAI Acquires Pharma Co Orchestra Bio to Build AI Agents for Drug Development",
+      "url": "https://analyticsindiamag.com/ai-news/openai-acquires-pharma-co-orchestra-bio-to-build-ai-agents-for-drug-development",
+      "cat": "RESEARCH",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "ElevenLabs Launches Real-Time Voice AI Models With Up to 98.8% Speech Reasoning Accuracy",
+      "url": "https://analyticsindiamag.com/ai-news/elevenlabs-launches-real-time-voice-ai-models-with-up-to-988-speech-reasoning-accuracy",
+      "cat": "RESEARCH",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "Why Enterprise AI Prototypes Break in Production",
+      "url": "https://analyticsindiamag.com/ai-features/why-enterprise-ai-prototypes-break-in-production",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "Enterprise software costs threaten AI investment, innovation as firms spend 28% of budgets on unwanted changes: Report",
+      "url": "https://www.livemint.com/technology/enterprise-software-costs-threaten-ai-investment-innovation-as-firms-spend-28-of-budgets-on-unwanted-changes-report-11792484168392.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "Can India Capitalise On The AI Homecoming?",
+      "url": "https://inc42.com/features/can-india-capitalise-on-the-ai-homecoming/",
+      "cat": "OTHER",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "After ED\u2019s WhatsApp pump-and-dump searches, Zerodha founder points investors to AI chatbots",
+      "url": "https://www.medianama.com/2026/10/223-ed-whatsapp-zerodha-founder-investors-chatbots/",
+      "cat": "OTHER",
+      "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "Harvey adds Australian startup Mary\u2019s case-fact tools to its legal AI",
+      "url": "https://thenextweb.com/news/harvey-mary-technology-legal-ai-case-facts",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-21T23:34:27.206583"
     }
   ]
 }
