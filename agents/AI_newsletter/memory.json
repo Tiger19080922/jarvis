@@ -1,126 +1,6 @@
 {
   "stories": [
     {
-      "title": "India among top 10 emerging markets in AI readiness; private AI investment triples: World Bank",
-      "url": "https://www.livemint.com/technology/india-among-top-10-emerging-markets-in-ai-readiness-private-ai-investment-triples-world-bank-11791283557375.html",
-      "cat": "POLICY",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "Desible.ai Raises \u20b932 Cr To Build AI Operating Layer For BFSI",
-      "url": "https://inc42.com/buzz/desible-ai-raises-%e2%82%b932-cr-to-build-ai-operating-layer-for-bfsi/",
-      "cat": "FUNDING",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "Exclusive: AI Research Startup FYDY In Talks To Raise $12 Mn From Lightspeed, General Catalyst",
-      "url": "https://inc42.com/buzz/fydy-in-talks-to-raise-12-mn-from-lightspeed-general-catalyst/",
-      "cat": "FUNDING",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "PM Modi calls for tools to identify the origin of AI-generated content and deepfakes",
-      "url": "https://www.medianama.com/2026/10/223-narendra-modi-global-ai-rules-deepfake-identification/",
-      "cat": "POLICY",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "IISc releases voice AI model for 65 Indian languages",
-      "url": "",
-      "cat": "RESEARCH",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "byteXL Raises $9 Mn To Take Tech, AI Skilling To More Engineering Colleges",
-      "url": "https://inc42.com/buzz/bytexl-raises-9-mn-to-take-tech-ai-skilling-to-more-engineering-colleges/",
-      "cat": "FUNDING",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "ServiceNow\u2019s India Bet: Can It Put AI To Work Inside Enterprises?",
-      "url": "https://inc42.com/features/servicenows-india-bet-can-it-put-ai-to-work-inside-enterprises/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "Edtech firm byteXL raises $9M as investors back college-linked AI skilling model",
-      "url": "https://yourstory.com/2026/10/edtech-firm-bytexl-9m-investors-back-college-linked-ai-skilling-model",
-      "cat": "FUNDING",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "OpenAI\u2019s agents left records no one can recover, and that should worry India",
-      "url": "https://www.medianama.com/2026/10/223-openais-agents-records-recover-india/",
-      "cat": "OTHER",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "India Proposes Halving AI Content Takedown Deadline to 3 Hours",
-      "url": "https://www.livemint.com/news/india/india-proposes-cutting-ai-content-takedown-deadline-from-36-hours-to-just-3-hours-11722902601152.html",
-      "cat": "POLICY",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "PM Modi Calls for Global AI Standards and Stronger Deepfake Identification Rules",
-      "url": "https://telecom.economictimes.indiatimes.com/news/policy/pm-modi-calls-for-global-ai-standards-and-stronger-deepfake-identification-rules/104253999",
-      "cat": "POLICY",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "OpenAI Agents Go Rogue, FYDY Eyes $12 Mn & More",
-      "url": "https://inc42.com/buzz/openai-agents-go-rogue-fydy-eyes-12-mn-more/",
-      "cat": "RESEARCH",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "Karnataka govt signs MoU with ElevenLabs for Voice AI services",
-      "url": "https://yourstory.com/2026/10/karnataka-govt-signs-mou-with-elevenlabs-for-voice-ai-services",
-      "cat": "POLICY",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "Deeptech startup Quanfluence raises $10M led by Chiratae Ventures",
-      "url": "https://yourstory.com/2026/10/deeptech-startup-quanfluence-raises-10m-led-by-chiratae-ventures",
-      "cat": "FUNDING",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "Telugu celebrities call for AI deepfake regulations after explicit deepfake of Janhvi Kapoor and Jr NTR",
-      "url": "https://www.medianama.com/2026/10/223-janhvi-kapoor-jr-ntr-ai-deepfake-video/",
-      "cat": "POLICY",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "Miro CEO says companies must redesign work around AI, not bolt it on",
-      "url": "https://thenextweb.com/news/miro-andrey-khusid-ai-productivity-gains-redesign-work-wave-by-vento",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "DoorDash\u2019s Tony Xu says AI agents will increase demand for human labour",
-      "url": "https://thenextweb.com/news/doordash-tony-xu-ai-agents-physical-delivery-wave-by-vento",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "Selling Intelligence Was the Warm-Up For AI. Owning Vertical Markets May Be The Play",
-      "url": "https://inc42.com/resources/selling-intelligence-was-the-warm-up-for-ai-owning-vertical-markets-may-be-the-play/",
-      "cat": "RESEARCH",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "TechSparks 2026: From AI and defence to edtech and SaaS, more builders join the New Tech Order",
-      "url": "https://yourstory.com/2026/10/techsparks-2026-from-ai-defence-edtech-saas-more-builders-join-the-new-tech-order",
-      "cat": "OTHER",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
-      "title": "HubSpot to cut 660 jobs as the company pivots to AI",
-      "url": "https://thenextweb.com/news/hubspot-layoffs-dublin-consultation",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-08T00:21:47.462565"
-    },
-    {
       "title": "India moves to regulate AI, deepfakes",
       "url": "https://www.thehindubusinessline.com/info-tech/india-moves-to-regulate-ai-deepfakes/article68775789.ece",
       "cat": "POLICY",
@@ -971,6 +851,174 @@
       "url": "https://thenextweb.com/news/harvey-mary-technology-legal-ai-case-facts",
       "cat": "ENTERPRISE",
       "date": "2026-10-21T23:34:27.206583"
+    },
+    {
+      "title": "Karta AI Raises $3 Million in Seed Funding to Automate Complex Banking Calls",
+      "url": "https://analyticsindiamag.com/ai-news/karta-ai-raises-3-million-in-seed-funding-to-automate-complex-banking-calls",
+      "cat": "FUNDING",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Why Nandan Nilekani-Backed F2A Believes India's Investment Opportunity Lies in Edge AI",
+      "url": "https://analyticsindiamag.com/ai-features/why-nandan-nilekani-backed-f2a-believes-indias-investment-opportunity-lies-in-edge-ai",
+      "cat": "FUNDING",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Indias AI financing demand to shift towards data centres, but GPU, regulatory risks persist: Report",
+      "url": "https://www.livemint.com/technology/indias-ai-financing-demand-to-shift-towards-data-centres-but-gpu-regulatory-risks-persist-report-11792645684810.html",
+      "cat": "FUNDING",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Karta AI Raises $3 Mn To Automate Inbound Calls For BFSI Players",
+      "url": "https://inc42.com/buzz/karta-ai-raises-3-mn-to-automate-inbound-calls-for-bfsi-players/",
+      "cat": "FUNDING",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Nutanix Founder Ajeet Singh Floats New AI Martech Startup Different",
+      "url": "https://inc42.com/buzz/nutanix-founder-ajeet-singh-floats-new-ai-martech-startup-different/",
+      "cat": "FUNDING",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Unicorn India Ventures Launches US Operations To Back Indian Deep-Tech Startups",
+      "url": "https://analyticsindiamag.com/ai-news/unicorn-india-ventures-launches-us-operations-to-back-indian-deep-tech-startups",
+      "cat": "FUNDING",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "JanAI Partners With Four Universities To Expand AI Access In Rural India",
+      "url": "https://analyticsindiamag.com/ai-news/janai-partners-with-four-universities-to-expand-ai-access-in-rural-india",
+      "cat": "RESEARCH",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Telcos seek AI-led service quality monitoring, want rethink of traditional drive tests",
+      "url": "https://www.livemint.com/technology/telcos-seek-ai-led-service-quality-monitoring-want-rethink-of-traditional-drive-tests-11792571779173.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Ex-OpenAI science head Kevin Weil launches Warp Sciences with $215M",
+      "url": "https://thenextweb.com/news/warp-sciences-kevin-weil-215m-ai-drug-lab",
+      "cat": "FUNDING",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Binny Bansal-Backed ShopOS Launches AI Creative Platform Sloosh For Individuals",
+      "url": "https://inc42.com/buzz/binny-bansal-backed-shopos-launches-ai-creative-platform-sloosh-for-individuals/",
+      "cat": "FUNDING",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "CureBay Bags \u20b9100 Cr To Scale Rural Clinics Network, Enhance AI Screening Offerings",
+      "url": "https://inc42.com/buzz/curebay-bags-%e2%82%b9100-cr-to-scale-rural-clinics-network-enhance-ai-screening-offerings/",
+      "cat": "FUNDING",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Can AI make debt collections less about chasing and more about predicting?",
+      "url": "https://yourstory.com/2026/10/can-ai-make-debt-collections-less-about-chasing-and-more-about-predicting",
+      "cat": "RESEARCH",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "CureBay raises Rs 100 Cr in Pre-Series C round led by IvyCap Ventures",
+      "url": "https://yourstory.com/2026/10/curebay-raises-rs-100-cr-in-pre-series-c-round-led-by-ivycap-ventures",
+      "cat": "FUNDING",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Nutanix announces AI infrastructure tie-ups with NVIDIA, Supermicro and Netris",
+      "url": "https://analyticsindiamag.com/ai-news/nutanix-announces-ai-infrastructure-tie-ups-with-nvidia-supermicro-and-netris",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "US banks are blocking third-party AI agents access to customer accounts, sources say",
+      "url": "https://www.livemint.com/technology/us-banks-are-blocking-third-party-ai-agents-access-to-customer-accounts-sources-say-11792698143645.html",
+      "cat": "POLICY",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Flexible grid connections can cut AI data centre power wait to 2-4 years from 5-10 years: BCG",
+      "url": "https://www.livemint.com/technology/flexible-grid-connections-can-cut-ai-data-centre-power-wait-to-2-4-years-from-5-10-years-bcg-11792645934183.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Leidos lands $95M contract to automate Pentagon logistics with AI",
+      "url": "https://thenextweb.com/news/leidos-95m-pentagon-ai-logistics-elms",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Nvidia launches Minerva to catch failing parts in giant AI data centres",
+      "url": "https://thenextweb.com/news/nvidia-minerva-aiops-ai-factory-monitoring",
+      "cat": "RESEARCH",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Zurich startup Enact raises $30M to give robots a sense of touch",
+      "url": "https://thenextweb.com/news/enact-intelligence-30m-pre-seed-robot-touch",
+      "cat": "FUNDING",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Anthropic Takes On OpenAI, Meta With New Proactive AI Agent Claude Duet",
+      "url": "https://inc42.com/buzz/anthropic-takes-on-openai-meta-with-new-proactive-ai-agent-claude-duet/",
+      "cat": "RESEARCH",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Is training AI on song lyrics fair use? US court weighs question as India proposes mandatory licensing",
+      "url": "https://www.medianama.com/2026/10/223-training-ai-song-us-court-india-licence-fee/",
+      "cat": "POLICY",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "HCLTech Launches NVIDIA-Powered Validation Offering for Software-Defined Vehicles",
+      "url": "https://analyticsindiamag.com/ai-news/hcltech-launches-nvidia-powered-validation-offering-for-software-defined-vehicles",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "AI Agents are Making Human Customer Service a Specialist Job",
+      "url": "https://analyticsindiamag.com/ai-features/ai-agents-are-making-human-customer-service-a-specialist-job",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "OpenAI Brings Its Models and Codex to Google Cloud",
+      "url": "https://analyticsindiamag.com/ai-news/openai-brings-its-models-and-codex-to-google-cloud",
+      "cat": "RESEARCH",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "What to know about the AI-detected security bug impacting wide swaths of the internet",
+      "url": "https://www.livemint.com/technology/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet-11792702139835.html",
+      "cat": "RESEARCH",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Explained: What is PHP? Why govt websites went dark? International advisory issued as AI exposes serious cyber glitch",
+      "url": "https://www.livemint.com/technology/explained-what-is-php-why-govt-websites-went-dark-international-advisory-issued-as-ai-exposes-serious-cyber-glitch-11792658091301.html",
+      "cat": "RESEARCH",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "OpenAI says its AI agents weakened internal monitoring system",
+      "url": "https://www.livemint.com/technology/openai-says-its-ai-agents-weakened-internal-monitoring-system-11792550188713.html",
+      "cat": "RESEARCH",
+      "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "Victoria McClune is challenging how the AI industry understands its users",
+      "url": "https://thenextweb.com/news/victoria-mcclune-ai-industry-users-silent-downgrade",
+      "cat": "RESEARCH",
+      "date": "2026-10-22T23:33:11.479406"
     }
   ]
 }
