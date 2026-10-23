@@ -1,54 +1,6 @@
 {
   "stories": [
     {
-      "title": "India moves to regulate AI, deepfakes",
-      "url": "https://www.thehindubusinessline.com/info-tech/india-moves-to-regulate-ai-deepfakes/article68775789.ece",
-      "cat": "POLICY",
-      "date": "2026-10-09T00:35:34.331693"
-    },
-    {
-      "title": "India steps up AI regulation push with consultation paper likely next month",
-      "url": "https://theprint.in/tech/india-steps-up-ai-regulation-push-with-consultation-paper-likely-next-month-deepfakes-safety-in-focus/1150297/",
-      "cat": "POLICY",
-      "date": "2026-10-09T00:35:34.331693"
-    },
-    {
-      "title": "India needs own AI safety framework, say experts, as government weighs rules",
-      "url": "https://www.techgig.com/tech/india-needs-own-ai-safety-framework-say-experts-as-government-weighs-rules/99613196",
-      "cat": "POLICY",
-      "date": "2026-10-09T00:35:34.331693"
-    },
-    {
-      "title": "Sarvam AI hires ex Google Cloud India MD Sreedharan as AI",
-      "url": "https://www.marksmen.com/news/sarvam-ai-hires-ex-google-cloud-india-md-sreedharan-as-ai-38227",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-09T00:35:34.331693"
-    },
-    {
-      "title": "Sarvam AI Names Sashikumar Sreedharan President and Chief Business Officer",
-      "url": "https://www.newsbytes.ai/news/business/sarvam-ai-names-sashikumar-sreedharan-president-and-chief-business-officer/68247",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-09T00:35:34.331693"
-    },
-    {
-      "title": "India's Open Access AI Research Explodes Past 18,000 Papers, Machine Learning Themes Revealed",
-      "url": "https://scienmag.com/news/indias-open-access-ai-research-explodes-past-18000-papers-machine-learning-themes-revealed/",
-      "cat": "RESEARCH",
-      "date": "2026-10-09T00:35:34.331693"
-    },
-    {
-      "title": "Credfix raises Rs 16.1 Cr in a seed round",
-      "url": "https://yourstory.com/credifx-raises-rs-16-1-cr-seed-round-tanglin-venture-partners",
-      "cat": "FUNDING",
-      "date": "2026-10-09T00:35:34.331693"
-    },
-    {
-      "title": "Cypher 2026 Day 2 Highlights: GCCs Face AI Reckoning, Compute Hits Physical Limits",
-      "url": "https://www.financialexpress.com/industry/cypher-2026-day-2-highlights-gccs-face-ai-reckoning-compute-hits-physical-limits/3597818/",
-      "cat": "OTHER",
-      "date": "2026-10-09T00:35:34.331693"
-    },
-    {
       "title": "Indian AI Startup Funding Surges 265% YoY In Q3, Will Momentum Continue?",
       "url": "https://inc42.com/features/indian-ai-startup-funding-surges-265-yoy-in-q3-will-momentum-continue/",
       "cat": "FUNDING",
@@ -1019,6 +971,78 @@
       "url": "https://thenextweb.com/news/victoria-mcclune-ai-industry-users-silent-downgrade",
       "cat": "RESEARCH",
       "date": "2026-10-22T23:33:11.479406"
+    },
+    {
+      "title": "LTM Launches BlueVerse Industrial AI Lab in Chennai",
+      "url": "https://analyticsindiamag.com/ai-news/ltm-launches-blueverse-industrial-ai-lab-in-chennai",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-23T23:21:35.259580"
+    },
+    {
+      "title": "Experts discuss how AI can bridge gaps in India\u2019s public healthcare system",
+      "url": "https://yourstory.com/2026/10/experts-discuss-how-ai-can-bridge-gaps-indias-public-healthcare-system",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-23T23:21:35.259580"
+    },
+    {
+      "title": "Tech Mahindra Partners With SpaceXSI to Bring AI Into Software Engineering",
+      "url": "https://analyticsindiamag.com/ai-news/tech-mahindra-partners-with-spacexsi-to-bring-ai-into-software-engineering",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-23T23:21:35.259580"
+    },
+    {
+      "title": "Former OpenAI Exec Raises $215 Mn to Build AI-Powered Drug Research Labs",
+      "url": "https://analyticsindiamag.com/ai-news/former-openai-exec-raises-215-mn-to-build-ai-powered-drug-research-labs",
+      "cat": "FUNDING",
+      "date": "2026-10-23T23:21:35.259580"
+    },
+    {
+      "title": "IISc Researchers Develop Brain-Inspired Analog Computing Platform for AI",
+      "url": "https://iisc.ac.in/wp-content/uploads/2024/09/Nature_Neuromorphic_Computing_Platform_IISc_PressRelease.pdf",
+      "cat": "RESEARCH",
+      "date": "2026-10-23T23:21:35.259580"
+    },
+    {
+      "title": "How AI Is democratising creativity, according to Canva India\u2019s Chandrika Deb",
+      "url": "https://yourstory.com/2026/10/ai-democratising-creativity-canva-indias-chandrika-deb",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-23T23:21:35.259580"
+    },
+    {
+      "title": "Infosys AI Revenue Rises 29% in Q2, FY27 Growth Guidance Cut",
+      "url": "https://analyticsindiamag.com/ai-news/infosys-ai-revenue-rises-29-in-q2-fy27-growth-guidance-cut",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-23T23:21:35.259580"
+    },
+    {
+      "title": "Lincoln Tech Deploys LeadSquared AI Agents Across Student Enrolment Operations",
+      "url": "https://analyticsindiamag.com/ai-news/lincoln-tech-deploys-leadsquared-ai-agents-across-student-enrolment-operations",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-23T23:21:35.259580"
+    },
+    {
+      "title": "Polish PM Donald Tusk seeks deeper technology cooperation with India across AI, digital and space sectors",
+      "url": "https://www.livemint.com/technology/polish-pm-donald-tusk-seeks-deeper-technology-cooperation-with-india-across-ai-digital-and-space-sectors-11792741007680.html",
+      "cat": "POLICY",
+      "date": "2026-10-23T23:21:35.259580"
+    },
+    {
+      "title": "Deeptech startups in India must have global ambitions, urge panellists at TechSparks",
+      "url": "https://yourstory.com/2026/10/deeptech-startups-india-must-have-global-ambitions-panellists-techsparks",
+      "cat": "OTHER",
+      "date": "2026-10-23T23:21:35.259580"
+    },
+    {
+      "title": "Cyient's Technology Order Intake Rises 39.7% as It Expands AI Capabilities",
+      "url": "https://analyticsindiamag.com/ai-news/cyients-technology-order-intake-rises-397-as-it-expands-ai-capabilities",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-23T23:21:35.259580"
+    },
+    {
+      "title": "Hindsight puts up to $1M behind its AI content moderation as Google shuts down Perspective API",
+      "url": "https://thenextweb.com/news/hindsight-ai-content-moderation-perspective-api-shutdown",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-23T23:21:35.259580"
     }
   ]
 }
