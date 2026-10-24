@@ -1,18 +1,6 @@
 {
   "responses": [
     {
-      "date": "2026-07-26T21:29:23.575707",
-      "headline": "SpotDraft raised an additional $8 million in a Series B extension round.",
-      "source_url": "https://yourstory.com/2026/07/how-to-run-b2b-gtm-when-your-buyer-asks-chatgpt-first-",
-      "questions": [
-        "Given that contract lifecycle management is a crowded space with established players like Ironclad and ContractPodAi, what specific, defensible moat does SpotDraft's AI-powered platform possess that prevents a well-funded competitor from replicating your capabilities within 18 months, especially considering Qualcomm Ventures' deep ties to enterprise technology?",
-        "SpotDraft has now raised $62 million in Series B funding. What specific unit economics demonstrate that your AI-powered contract automation becomes profitable at scale, rather than solely relying on continued venture capital subsidies to acquire and retain customers?",
-        "With a $54 million Series B in February 2025 and now an $8 million extension, what specific customer feedback or market shifts over the past 6-12 months necessitated this additional capital injection, and how does it fundamentally alter your go-to-market strategy or competitive positioning?",
-        "Considering the history of legal tech, what specific failure mode, beyond a general market downturn, could kill SpotDraft in the next 18 months, given the significant capital raised and the competitive landscape?"
-      ],
-      "answers": []
-    },
-    {
       "date": "2026-07-27T21:41:22.097400",
       "headline": "Enterprise trust is India's next AI growth frontier.",
       "source_url": "https://inc42.com/resources/why-enterprise-trust-is-indias-next-ai-growth-frontier/",
@@ -1039,6 +1027,18 @@
         "Peak XV's thesis focuses on startups bringing technology into the physical world; LTM is a publicly listed services company. What specific, proprietary technology or IP will BlueVerse develop that prevents larger, established industrial players from simply hiring their own teams or acquiring smaller AI consultancies to achieve the same outcomes?",
         "LTM partners with large enterprises for AI integration. How will BlueVerse ensure that the AI models and solutions developed for these enterprises are not commoditized, and what prevents these large enterprises from building similar capabilities in-house once they see the value, thus cutting out LTM?",
         "The news doesn't mention specific funding for BlueVerse. As a publicly traded entity with a conglomerate parent, what are the specific KPIs and financial targets that will measure the success of this Industrial AI Lab, and how will its performance be evaluated independently of LTM's broader services revenue?"
+      ],
+      "answers": []
+    },
+    {
+      "date": "2026-10-24T22:40:22.176687",
+      "headline": "India mandates labeling of AI-generated content on online platforms.",
+      "source_url": "https://www.outlookbusiness.com/industries/technology/meity-notifies-it-rules-to-curb-deepfakes-and-ai-generated-content-73797",
+      "questions": [
+        "Given the February 20, 2026 deadline, how will India's online platforms achieve 100% compliance with mandatory AI-generated content labeling, and what specific penalties will be enforced for non-compliance that would incentivize immediate adoption?",
+        "If the core of Peak XV Partners' thesis is about responsible model release, how does this regulation specifically address the *creation* of AI content versus its *dissemination*, and what happens to platforms that host content from unregulated foreign sources?",
+        "Beyond a simple label, what technical mechanisms can be reliably implemented by platforms to detect and flag all AI-generated or manipulated content, especially as AI generation techniques become more sophisticated and harder to distinguish from authentic media?",
+        "What is the estimated cost for online platforms in India to implement the necessary detection and labeling infrastructure, and how does this impact the unit economics for smaller platforms that may not have the resources of larger incumbents?"
       ],
       "answers": []
     }
