@@ -1,66 +1,6 @@
 {
   "stories": [
     {
-      "title": "Anthropic restricts internet access in internal AI evaluations after Claude bypasses safeguards, accesses websites",
-      "url": "https://www.livemint.com/technology/anthropic-restricts-internet-access-in-internal-ai-evaluations-after-claude-bypasses-safeguards-accesses-websites-11791628683049.html",
-      "cat": "RESEARCH",
-      "date": "2026-10-10T23:45:32.024648"
-    },
-    {
-      "title": "Anthropic AI model submits false homicide tip to police website",
-      "url": "https://www.livemint.com/technology/anthropic-ai-model-submits-false-homicide-tip-to-police-website-11791577939308.html",
-      "cat": "RESEARCH",
-      "date": "2026-10-10T23:45:32.024648"
-    },
-    {
-      "title": "IISc Develops Design Framework for Next-Generation Analog AI Chipsets",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOaYX0QnA3qzyqu5eQ23T3yPMJQUU2m7Bmq_fqHJ0lprv-F9_5SPh5JGcSxqjggPZ5J8oovEQBSqdNvALNkQEZ1dPAm7eQFh0oqfldHMQaZRFdaPmFaTkoRExryH3XjIqw2WUWWQYXpxvG9mwifLVLFA4zmqeki7U-t8a4Mzmsq-cz3fppIk1wJ5t-XutWJVL3exU0lRVc",
-      "cat": "RESEARCH",
-      "date": "2026-10-10T23:45:32.024648"
-    },
-    {
-      "title": "Juspay FY26 revenue rises 30% to Rs 664 Cr as international business and AI bets scale",
-      "url": "https://yourstory.com/2026/10/juspay-fy26-revenue-rises-30-percent-rs-664-crore-international-business-ai-bets-scale",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-10T23:45:32.024648"
-    },
-    {
-      "title": "South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals",
-      "url": "https://www.livemint.com/technology/south-korea-japan-buffeted-by-hacks-as-ai-lowers-bar-for-cybercriminals-11791519656868.html",
-      "cat": "OTHER",
-      "date": "2026-10-10T23:45:32.024648"
-    },
-    {
-      "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
-      "url": "https://www.livemint.com/technology/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-11791510804166.html",
-      "cat": "OTHER",
-      "date": "2026-10-10T23:45:32.024648"
-    },
-    {
-      "title": "New AI Research Papers Published on arXiv from IITs and IISc",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUHYKn_e3fBAItjODgccHFzY7JHNUlkAtNPj_5y_JazrWBRkCMF7I6eWr5kubDYuwUaLOXkEP4S0YghOFbOwNVZ7IqS7KF2zIoD2PRg1kvflGJvqb4lpoDB9RnpreEWO9l2HLxKAfErXY=",
-      "cat": "RESEARCH",
-      "date": "2026-10-10T23:45:32.024648"
-    },
-    {
-      "title": "OpenAI, Anthropic Prepare For Backlash Over Potential AI Catastrophe: Report",
-      "url": "https://inc42.com/buzz/openai-anthropic-prepare-for-backlash-over-potential-ai-catastrophe-report/",
-      "cat": "RESEARCH",
-      "date": "2026-10-10T23:45:32.024648"
-    },
-    {
-      "title": "Anthropic Bans \u2018Cruel\u2019 Behaviour Towards AI Models, Tightens Rules On AI Misuse",
-      "url": "https://inc42.com/buzz/anthropic-bans-cruel-behaviour-towards-ai-models-tightens-rules-on-ai-misuse/",
-      "cat": "RESEARCH",
-      "date": "2026-10-10T23:45:32.024648"
-    },
-    {
-      "title": "TechSparks 2026: Zakir Khan, Varun Mayya, Keshav Reddy, and more join the speakers",
-      "url": "https://yourstory.com/2026/10/techsparks-2026-announces-final-speaker-lineup-zakir-khan-varun-mayya-keshav-reddy-and-more",
-      "cat": "OTHER",
-      "date": "2026-10-10T23:45:32.024648"
-    },
-    {
       "title": "India plans AI regulation consultation on safety, deepfakes, data use and industry responsibility",
       "url": "https://dig.watch/trends/india-plans-ai-regulation-consultation-safety-deepfakes-data-use-and-industry-responsibility",
       "cat": "POLICY",
@@ -1013,6 +953,42 @@
       "url": "https://thenextweb.com/news/cambricon-q3-sales-miss-chip-supply",
       "cat": "OTHER",
       "date": "2026-10-24T22:40:22.175239"
+    },
+    {
+      "title": "India to Start Consultation Process over AI Legislation: Ashwini Vaishnaw",
+      "url": "https://www.cxotoday.com/news/india-to-start-consultation-process-over-ai-legislation-ashwini-vaishnaw/",
+      "cat": "POLICY",
+      "date": "2026-10-25T22:46:28.459130"
+    },
+    {
+      "title": "India Moves Toward New AI Regulations to Address Deepfakes, Safety and Emerging Risks",
+      "url": "https://www.google.com/search?q=India+artificial+intelligence+enterprise+adoption+BFSI+healthcare+automotive+last+48+hours&tbs=qdr:2&tbo=1&hl=en",
+      "cat": "POLICY",
+      "date": "2026-10-25T22:46:28.459130"
+    },
+    {
+      "title": "DeepSeek and MiniMax cleared to take AI models abroad, state media says",
+      "url": "https://thenextweb.com/news/deepseek-minimax-china-ai-export-controls-overseas",
+      "cat": "POLICY",
+      "date": "2026-10-25T22:46:28.459130"
+    },
+    {
+      "title": "IIT Madras to release white paper on AI jobs, global standards and reskilling",
+      "url": "https://www.dtnext.in/news/technology/iit-madras-to-release-white-paper-on-ai-jobs-global-standards-and-reskilling-713263",
+      "cat": "RESEARCH",
+      "date": "2026-10-25T22:46:28.459130"
+    },
+    {
+      "title": "IIT-Madras AI platform to fast-track discovery of greener, high-performance alloys",
+      "url": "https://www.dtnext.in/news/technology/iit-madras-ai-platform-to-fast-track-discovery-of-greener-high-performance-alloys-706256",
+      "cat": "RESEARCH",
+      "date": "2026-10-25T22:46:28.459130"
+    },
+    {
+      "title": "Transforming AI Hardware: IISc's Neuromorphic Computing Platform Sets New Benchmark",
+      "url": "https://www.iisc.ac.in/wp-content/uploads/2024/09/IISc-Neuromorphic-Computing-Platform-Press-Release-12092024.pdf",
+      "cat": "RESEARCH",
+      "date": "2026-10-25T22:46:28.459130"
     }
   ]
 }
