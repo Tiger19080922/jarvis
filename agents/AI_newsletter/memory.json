@@ -1,162 +1,6 @@
 {
   "stories": [
     {
-      "title": "Brands Have A New Mission: How To Get AI To Say Your Name",
-      "url": "https://inc42.com/features/brands-have-a-new-mission-how-to-get-ai-to-say-your-name/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-13T02:13:56.933176"
-    },
-    {
-      "title": "Deeptech Funding Zooms 2.8X YoY In Q3 Despite Tighter Deal Flow",
-      "url": "https://inc42.com/buzz/deeptech-funding-zooms-2-8x-yoy-in-q3-despite-tighter-deal-flow/",
-      "cat": "FUNDING",
-      "date": "2026-10-13T02:13:56.933176"
-    },
-    {
-      "title": "RDI Fund Announces First Cohort Of 19 Fund Managers, Eyes Deploying \u20b97,131 Cr To Strengthen Deeptech Startups",
-      "url": "https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/",
-      "cat": "FUNDING",
-      "date": "2026-10-13T02:13:56.933176"
-    },
-    {
-      "title": "India\u2019s Cleantech Funding Boom, The AI Safety Drill & More",
-      "url": "https://inc42.com/buzz/indias-cleantech-funding-boom-the-ai-safety-drill-more/",
-      "cat": "OTHER",
-      "date": "2026-10-13T02:13:56.933176"
-    },
-    {
-      "title": "Publications - Vision and AI Lab",
-      "url": "https://vision.iisc.ac.in/publications/",
-      "cat": "RESEARCH",
-      "date": "2026-10-13T02:13:56.933176"
-    },
-    {
-      "title": "Build, Buy, Or Rent? How Indian CTOs Are Rethinking The AI Stack",
-      "url": "https://inc42.com/buzz/build-buy-or-rent-how-indian-ctos-are-rethinking-the-ai-stack/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "Why AI Agents Are Forcing Enterprises To Rebuild Their Data Foundations",
-      "url": "https://inc42.com/buzz/why-ai-agents-are-forcing-enterprises-to-rebuild-their-data-foundation/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "MeitY invites AI compute providers to supply 10,000 GPUs under IndiaAI Mission",
-      "url": "https://www.medianama.com/2026/10/223-meity-ai-compute-providers-gpus-indiaai-mission/",
-      "cat": "POLICY",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "[Update] Adani Enterprises, Jabil Sign MoU To Set Up AI-Focused Joint Venture",
-      "url": "https://inc42.com/buzz/adani-group-partners-with-jabil-to-build-ai-data-infrastructure/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "Clueso Bags $10 Mn To Automate Enterprise Video Creation With AI Agents",
-      "url": "https://inc42.com/buzz/clueso-bags-10-mn-to-automate-enterprise-video-creation-with-ai-agents/",
-      "cat": "FUNDING",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "Fundamentum Frontier Advisors Marks First Close Of \u20b93,000 Cr Deeptech-Focused Fund",
-      "url": "https://inc42.com/buzz/fundamentum-frontier-advisors-marks-first-close-of-%e2%82%b93000-cr-deeptech-focused-fund/",
-      "cat": "FUNDING",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "Agentic video startup Clueso raises $10M in Series A funding round",
-      "url": "https://yourstory.com/2026/10/agentic-video-startup-clueso-raises-series-a-funding",
-      "cat": "FUNDING",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "Google says Gemini 4 Argon is a \u2018powerhouse\u2019 AI model, and anyone can pay for it",
-      "url": "https://thenextweb.com/news/gemini-4-argon-public-release",
-      "cat": "RESEARCH",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "FonadaLabs Builds Reliable Voice AI for Enterprise Communication",
-      "url": "https://www.itvoice.in/fonadalabs-builds-reliable-voice-ai-for-enterprise-communication/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "Freshworks To Acquire Torii To Expand AI Spend Governance Offerings",
-      "url": "https://inc42.com/buzz/freshworks-to-acquire-torii-to-expand-ai-spend-governance-offerings/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "AI could outperform 90% of coders in six months: Zoho's Sridhar Vembu",
-      "url": "https://yourstory.com/2026/10/ai-could-outperform-coders-in-months-zoho-sridhar-vembu",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "AI will create new kinds of jobs: Angel One Group CEO",
-      "url": "https://yourstory.com/2026/10/ai-will-create-new-kinds-of-jobs-angel-one-group-ceo",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "Delhi HC: BJP MP and actor Kangana Ranaut gets personality rights protections against deepfakes, false quotes",
-      "url": "https://www.medianama.com/2026/10/223-delhi-hc-bjp-mp-actor-kangana-ranaut-personality-rights/",
-      "cat": "POLICY",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "India Leads In Planned AI Investment, Autodesk Report Finds",
-      "url": "https://apacmedia.org/india-leads-in-planned-ai-investment-autodesk-report-finds/",
-      "cat": "FUNDING",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "India's AI Market To Cross $7 Billion In 2026: 6 Companies Investors Can Track",
-      "url": "https://www.zeenews.india.com/tech/india-ai-market-to-cross-7-billion-in-2026-6-companies-investors-can-track-2017043.html",
-      "cat": "FUNDING",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "AI & BFSI Watch for October 2026",
-      "url": "https://www.bankingfinance.in/news/ai-bfsi-watch-for-october-2026",
-      "cat": "POLICY",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "Karnataka govt cautious on use of AI in governance: Priyank Kharge",
-      "url": "https://yourstory.com/2026/10/karnataka-govt-cautious-on-use-of-ai-in-governance-priyank-kharge",
-      "cat": "POLICY",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "Hostinger\u2019s Auks\u0117 \u017dirgul\u0117 on winning customer experience in the AI era",
-      "url": "https://yourstory.com/2026/10/customer-obsession-the-foundation-hostinger-aukse-zirgule-techsparks",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "Zuckerberg admits Meta spent $200B on AI without knowing it would work",
-      "url": "https://thenextweb.com/news/zuckerberg-200bn-ai-bet-doubt",
-      "cat": "RESEARCH",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "Europe trails the US on AI because of how firms work, Sifted report says",
-      "url": "https://thenextweb.com/news/europe-ai-adoption-gap-sifted-lbs-report",
-      "cat": "RESEARCH",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
-      "title": "Experts Stress Real-World AI Evaluation For Safe Healthcare Deployment",
-      "url": "https://www.rediff.com/news/report/experts-stress-real-world-ai-evaluation-for-safe-healthcare-deployment/20261013.htm",
-      "cat": "RESEARCH",
-      "date": "2026-10-13T23:51:41.508480"
-    },
-    {
       "title": "Agentic AI Startup RevRag.AI Nets $2.5 Mn To Build AI Relationship Managers For Lenders And Insurers",
       "url": "https://inc42.com/buzz/fintech-saas-startup-revrag-ai-nets-2-5-mn-to-build-ai-relationship-managers-for-lenders-and-insurers/",
       "cat": "FUNDING",
@@ -1061,6 +905,174 @@
       "url": "https://indianexpress.com/article/technology/tech-news-india/iit-madras-research-projects-on-ai-study-feasibility-of-small-data-centres-7593847/",
       "cat": "RESEARCH",
       "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "Sarvam Signs 5-Year Defence AI Deal Covering Army, Navy and Air Force",
+      "url": "https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Ministry Of Defence Partners With Sarvam To Drive AI Adoption For Armed Forces",
+      "url": "https://inc42.com/buzz/ministry-of-defence-partners-with-sarvam-to-drive-ai-adoption-for-armed-forces/",
+      "cat": "POLICY",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Protectt.ai To Acquire Controlling Stake In Bosch\u2019s AIShield",
+      "url": "https://inc42.com/buzz/protectt-ai-to-acquire-controlling-stake-in-boschs-aishield/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "India Enterprise AI Adoption 2026: What 100 CIOs Actually Said",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpYpfr8Ze9Vz0esXdkzlVUJE8-ZnAhSbd5KIXn9aoTv42-2k0ri5jAso5bi_fiDXxvP2GQF7jpeRCDvv4HEtuiGynKNrjDJXVJFGqT-QZvjw5vSaiDTM30MhUJMBynUPji_LlN08cEg5OYDHpq8hP6B9Jy5RLjkI65-ROPPDyG4A==",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Live2.ai Raises \u20b9130 Cr To Scale AI Marketing SaaS Platform",
+      "url": "https://inc42.com/buzz/live2-ai-raises-%e2%82%b9130-cr-to-scale-ai-marketing-saas-platform/",
+      "cat": "FUNDING",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Simplismart Bags $14 Mn To Expand AI Inference Platform",
+      "url": "https://inc42.com/buzz/simplismart-bags-14-mn-to-expand-ai-inference-platform/",
+      "cat": "FUNDING",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Cent Raises $15 Mn To Scale AI-Led Preventive Healthcare Platform",
+      "url": "https://inc42.com/buzz/cent-raises-15-mn-to-scale-ai-led-preventive-healthcare-platform/",
+      "cat": "FUNDING",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Healthtech startup Cent raises $15M in Series A",
+      "url": "https://yourstory.com/2026/10/healthtech-startup-cent-raises-15-million-in-series-a",
+      "cat": "FUNDING",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Live2.ai raises Rs 130 Cr to expand its AI-led social commerce platform",
+      "url": "https://yourstory.com/2026/10/live2ai-raises-rs-130-cr-to-expand-its-ai-led-social-commerce-platform",
+      "cat": "FUNDING",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "AI startup Simplismart raises $14M from Dallas Venture Capital, Nvidia, and others",
+      "url": "https://yourstory.com/2026/10/ai-startup-simplismart-14-million-dallas-venture-capital-nvidia-others",
+      "cat": "FUNDING",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Bengaluru AI Startup Simplismart Raises $14 Mn in NVIDIA-Backed Round",
+      "url": "https://analyticsindiamag.com/ai-news/bengaluru-ai-startup-simplismart-raises-14-mn-in-nvidia-backed-round",
+      "cat": "FUNDING",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Former GitHub CEO Launches Git Platform Built for AI Agents",
+      "url": "https://analyticsindiamag.com/ai-news/former-github-ceo-launches-git-platform-built-for-ai-agents",
+      "cat": "RESEARCH",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Tata Communications Plans $450 Mn Investment to Build 10,000 Km AI Network",
+      "url": "https://analyticsindiamag.com/ai-news/tata-communications-plans-450-mn-investment-to-build-10000-km-ai-network",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "India is ready for AI. But are its businesses ready to use it?",
+      "url": "https://timesofindia.indiatimes.com/blogs/voices/india-is-ready-for-ai-but-are-its-businesses-ready-to-use-it/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "BFSI, retail have seen big AI adoption in India, says ServiceNow COO",
+      "url": "https://www.business-standard.com/industry/news/bfsi-retail-have-seen-big-ai-adoption-in-india-says-servicenow-coo-126022200041_1.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "AI adoption in key Indian sectors touches 48% in FY24",
+      "url": "https://economictimes.indiatimes.com/tech/information-technology/ai-adoption-in-key-indian-sectors-touches-48-in-fy24/articleshow/100250897.cms",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "NSE chief asks brokers\u2019 body to set up a task force against AI cyberattacks",
+      "url": "https://www.medianama.com/2026/10/223-nse-chief-brokers-task-force-ai-cyberattacks/",
+      "cat": "POLICY",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "MakeMyTrip says AI agents can\u2019t replace travel platforms, as its own assistant handles 3,000 bookings a day",
+      "url": "https://www.medianama.com/2026/10/223-makemytrip-ai-agents-platforms-bookings/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "CoRover Lists Three BharatGPT Models On Government-Backed AIKosh Platform",
+      "url": "https://analyticsindiamag.com/ai-news/corover-lists-three-bharatgpt-models-on-government-backed-aikosh-platform",
+      "cat": "RESEARCH",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "E2E Networks Plans 5.4 MW NVIDIA Blackwell Expansion in India",
+      "url": "https://analyticsindiamag.com/ai-news/e2e-networks-plans-54-mw-nvidia-blackwell-expansion-in-india",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Protectt.ai Takes Majority Stake in Bosch-incubated AIShield",
+      "url": "https://analyticsindiamag.com/ai-news/protecttai-takes-majority-stake-in-bosch-incubated-aishield",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Pronto Founder Enters Physical AI Space With Provision Labs",
+      "url": "https://analyticsindiamag.com/ai-news/pronto-founder-enters-physical-ai-space-with-provision-labs",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "India Artificial Intelligence (AI) in BFSI Market Size, 2034",
+      "url": "https://www.imarcgroup.com/india-artificial-intelligence-in-bfsi-market",
+      "cat": "RESEARCH",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Google Cloud\u2019s Gemini voice AI wants to do more than just talk",
+      "url": "https://yourstory.com/2026/10/google-cloud-gemini-voice-ai-techsparks-2026",
+      "cat": "RESEARCH",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Chai Point Cuts Monthly AWS Bill by 58%",
+      "url": "https://analyticsindiamag.com/ai-news/chai-point-cuts-monthly-aws-bill-by-58",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "HCLTech Completes Acquisition of Croatia-Based Robotiq.ai",
+      "url": "https://analyticsindiamag.com/ai-news/hcltech-completes-acquisition-of-croatia-based-robotiqai",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Infosys\u2019s $5.2 Billion Deal Wins Fail to Lift FY27 Outlook",
+      "url": "https://analyticsindiamag.com/it-services/infosyss-52-billion-deal-wins-fail-to-lift-fy27-outlook",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Agentic AI could strengthen financial-crime prevention, but governance, cost hurdles limit adoption: McKinsey",
+      "url": "https://www.livemint.com/technology/agentic-ai-could-strengthen-financial-crime-prevention-but-governance-cost-hurdles-limit-adoption-mckinsey-11793086477778.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T23:58:00.252271"
     }
   ]
 }

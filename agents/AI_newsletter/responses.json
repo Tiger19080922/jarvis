@@ -1,18 +1,6 @@
 {
   "responses": [
     {
-      "date": "2026-07-29T21:29:30.489248",
-      "headline": "Gen-AI could substitute 8-12% of India's non-agricultural jobs.",
-      "source_url": "https://www.livemint.com/technology/genai-may-replace-8-12-of-indias-non-agricultural-jobs-goldman-sachs-11785307373774.html",
-      "questions": [
-        "Given Goldman Sachs' projection that Gen-AI could substitute 8-12% of India's non-agricultural jobs, what specific mechanisms will [Company Name] employ to ensure its own workforce isn't part of that substitution, rather than a beneficiary of the complementary productivity gains?",
-        "Nexus Venture Partners believes the market needs a 'second AI cloud stack.' If [Company Name] is building this, how does its go-to-market strategy specifically address the risk of incumbents like AWS, Azure, or Google Cloud rapidly integrating similar capabilities, effectively becoming a 'first AI cloud stack' with a broader existing customer base?",
-        "The Goldman Sachs report highlights both job substitution and productivity complementation. What is [Company Name]'s precise revenue model, and how does it avoid being overly reliant on the 'complementary' side, which might not translate into direct revenue for your platform if end-users simply adopt open-source tools?",
-        "Considering the report estimates 42-48% of India's workforce could see productivity complemented by Gen-AI, what is [Company Name]'s strategy to capture value from this broad productivity shift, and why won't this value accrue primarily to the end-users or their existing employers rather than a new platform?"
-      ],
-      "answers": []
-    },
-    {
       "date": "2026-07-30T21:44:49.246667",
       "headline": "Sarvam AI plans to develop a trillion-parameter large language model.",
       "source_url": "https://inc42.com/buzz/sarvam-to-build-trillion-plus-ai-model-in-india-launches-inference-service/",
@@ -1039,6 +1027,18 @@
         "Peak XV Partners' thesis emphasizes the responsibility of model companies to prevent unsafe models from being released. If 'SafeAI's' core technology relies on open-source foundational models that are known to have safety vulnerabilities, what is your specific, defensible moat against competitors who can more easily integrate and iterate on these same models with less regulatory burden?",
         "The consultation paper mentions 'skilling' and 'inclusivity.' How does 'SafeAI' plan to leverage or contribute to India's AI skilling initiatives, and what specific features or product differentiators will ensure its AI solutions are truly inclusive and accessible to the broader Indian population, not just a tech-savvy elite?",
         "Considering the nascent stage of AI regulation in India and the potential for significant shifts based on this consultation paper, what is the single most likely failure mode for 'SafeAI' in the next 18 months that is directly attributable to regulatory uncertainty or changes, and what contingency plans are in place?"
+      ],
+      "answers": []
+    },
+    {
+      "date": "2026-10-27T23:58:00.253505",
+      "headline": "Sarvam AI signs five-year defense AI deal with Indian armed forces.",
+      "source_url": "https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force",
+      "questions": [
+        "Given that Sarvam AI is developing LLMs and multimodal AI for Indian defense, what specific technical or data moat prevents a well-funded competitor, like a major global AI player or even a state-backed Chinese entity, from replicating your decision support or target acquisition capabilities within 18 months, especially given HCLTech's $150M strategic investment which could be leveraged for competitive R&D?",
+        "The five-year defense AI deal is significant, but what specific, measurable milestones within this contract would trigger a termination clause or significant penalty for Sarvam AI if not met, and how do these milestones de-risk the $234M Series B funding from a revenue certainty perspective?",
+        "Beyond the initial deal, what is Sarvam AI's go-to-market strategy for commercializing its Indian language and region-specific AI models, and how do you ensure the unit economics of these commercial applications are not subsidized by the defense contract revenue, especially considering the $1.5B post-money valuation?",
+        "With $275M raised, including the substantial Series B, what is the precise failure mode for Sarvam AI in the next 18 months that would be most catastrophic, and what specific operational or technical dependencies exist within the defense deal that, if disrupted, would trigger this failure?"
       ],
       "answers": []
     }
