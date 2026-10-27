@@ -1,48 +1,6 @@
 {
   "stories": [
     {
-      "title": "India plans AI regulation consultation on safety, deepfakes, data use and industry responsibility",
-      "url": "https://dig.watch/trends/india-plans-ai-regulation-consultation-safety-deepfakes-data-use-and-industry-responsibility",
-      "cat": "POLICY",
-      "date": "2026-10-11T23:52:07.772705"
-    },
-    {
-      "title": "India Strengthens Its AI Strategy with 5-Layer Plan",
-      "url": "https://www.facebook.com/photo.php?fbid=848014940657198&set=pb.100063543771631.-2207520000&type=3",
-      "cat": "POLICY",
-      "date": "2026-10-11T23:52:07.772705"
-    },
-    {
-      "title": "Ministry of Electronics & Information Technology, Government of India unveils India AI Governance Guidelines",
-      "url": "https://www.facebook.com/photo.php?fbid=847701337355225&set=pb.100063543771631.-2207520000&type=3",
-      "cat": "POLICY",
-      "date": "2026-10-11T23:52:07.772705"
-    },
-    {
-      "title": "Guardrails, safe architecture key to unlocking AI gains for enterprises: Airtel Business CEO",
-      "url": "https://www.livemint.com/technology/guardrails-safe-architecture-key-to-unlocking-ai-gains-for-enterprises-airtel-business-ceo-11791708289040.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-11T23:52:07.772705"
-    },
-    {
-      "title": "National Program on Artificial Intelligence - Digital India",
-      "url": "https://www.digitalindia.gov.in/national-program-on-artificial-intelligence-2675",
-      "cat": "POLICY",
-      "date": "2026-10-11T23:52:07.772705"
-    },
-    {
-      "title": "TechSparks masterclass: Gemini, AI, and the business of building better",
-      "url": "https://yourstory.com/2026/10/techsparks-masterclass-gemini-ai-and-the-business-of-building-better",
-      "cat": "RESEARCH",
-      "date": "2026-10-11T23:52:07.772705"
-    },
-    {
-      "title": "Most trustworthy AI system demands least inherent model trust, says Microsoft CEO Satya Nadella",
-      "url": "https://www.livemint.com/technology/most-trustworthy-ai-system-demands-least-inherent-model-trust-says-microsoft-ceo-satya-nadella-11791687133324.html",
-      "cat": "RESEARCH",
-      "date": "2026-10-11T23:52:07.772705"
-    },
-    {
       "title": "Brands Have A New Mission: How To Get AI To Say Your Name",
       "url": "https://inc42.com/features/brands-have-a-new-mission-how-to-get-ai-to-say-your-name/",
       "cat": "ENTERPRISE",
@@ -989,6 +947,120 @@
       "url": "https://www.iisc.ac.in/wp-content/uploads/2024/09/IISc-Neuromorphic-Computing-Platform-Press-Release-12092024.pdf",
       "cat": "RESEARCH",
       "date": "2026-10-25T22:46:28.459130"
+    },
+    {
+      "title": "India steps up AI regulation push with consultation paper likely next month",
+      "url": "https://theprint.in/tech/india-steps-up-ai-regulation-push-with-consultation-paper-likely-next-month/1208647/",
+      "cat": "POLICY",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "Unacademy Cofounders Plan \u20b9700 Cr AI, Deeptech Fund",
+      "url": "https://inc42.com/buzz/unacademy-cofounders-plan-%e2%82%b9700-cr-ai-deeptech-fund-longshot-capital/",
+      "cat": "FUNDING",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "Sarvam AI eyes $3 billion valuation in fresh funding round",
+      "url": "https://www.thehindubusinessline.com/info-tech/sarvam-ai-eyes-3-billion-valuation-in-fresh-funding-round/article67414472.ece",
+      "cat": "FUNDING",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "BioStack Nets $9.5 Mn To Build Training Datasets For Medical AI",
+      "url": "https://inc42.com/buzz/biostack-nets-9-5-mn-to-build-training-datasets-for-medical-ai/",
+      "cat": "FUNDING",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "Exclusive: AI-Powered Trading Platform Tradl Bags $4.1 Mn From Nexus, Stellaris",
+      "url": "https://inc42.com/buzz/exclusive-ai-powered-trading-platform-tradl-bags-4-1-mn-from-nexus-stellaris/",
+      "cat": "FUNDING",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Terra, a cheaper model for everyday computer work",
+      "url": "https://thenextweb.com/news/openai-gpt-6-1-terra-computer-use",
+      "cat": "RESEARCH",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "Krutrim case study: from startup to unicorn",
+      "url": "https://www.therevenue.in/case-studies/krutrim-case-study",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "Tata Communications To Pour Up To $450 Mn To Build AI Connectivity Infrastructure",
+      "url": "https://inc42.com/buzz/tata-communications-to-pour-up-to-450-mn-in-build-ai-connectivity-infrastructure/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "Build, scale, and govern AI agents: Inside Google Cloud\u2019s Gemini roadmap",
+      "url": "https://yourstory.com/2026/10/build-scale-and-govern-ai-agents-inside-google-clouds-gemini-roadmap",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "Same AI, different outcomes: what 25 lean AI startups got right",
+      "url": "https://yourstory.com/2026/10/lean-ai-startup-scaling-framework-seven-growth-drivers",
+      "cat": "RESEARCH",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "How Attero is using AI to solve recycling\u2019s pricing and compliance challenges",
+      "url": "https://yourstory.com/2026/10/attero-ai-recycling-scrap-pricing-compliance-techsparks",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "AI Can Be Cyborg or Centaur. But Can Enterprises Monetise It?",
+      "url": "https://analyticsindiamag.com/ai-features/ai-can-be-cyborg-or-centaur-but-can-enterprises-monetise-it",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "OpenAI says its AI model has disproved the Exponential Time Hypothesis",
+      "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills",
+      "cat": "RESEARCH",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing in a test",
+      "url": "https://thenextweb.com/news/cohere-alibaba-qwen-beijing-bucket-upload-test",
+      "cat": "RESEARCH",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "Nandan Nilekani commits second multi-year grant to AI4Bharat at IIT Madras",
+      "url": "https://www.business-standard.com/companies/news/nandan-nilekani-commits-second-multi-year-grant-to-ai4bharat-at-iit-madras-125060701067_1.html",
+      "cat": "FUNDING",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "Pronto Founder Anjali Sardana Sets Up Physical AI Venture Provision Labs In US",
+      "url": "https://inc42.com/buzz/pronto-founder-anjali-sardana-sets-up-physical-ai-venture-provision-labs-in-us/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "Collective Artists Network\u2019s Vijay Subramaniam on AI and the changing media landscape",
+      "url": "https://yourstory.com/2026/10/collective-artists-network-vijay-subramaniam-ai-changing-media-landscape",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "Telangana Unveils AI-Powered Digital Twin of IT Minister at DevFest 2026",
+      "url": "https://analyticsindiamag.com/ai-news/telangana-unveils-ai-powered-digital-twin-of-it-minister-at-devfest-2026",
+      "cat": "OTHER",
+      "date": "2026-10-27T00:02:15.414134"
+    },
+    {
+      "title": "IIT-Madras announces research projects on AI, seeks to study feasibility of small data centres",
+      "url": "https://indianexpress.com/article/technology/tech-news-india/iit-madras-research-projects-on-ai-study-feasibility-of-small-data-centres-7593847/",
+      "cat": "RESEARCH",
+      "date": "2026-10-27T00:02:15.414134"
     }
   ]
 }

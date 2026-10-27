@@ -1,18 +1,6 @@
 {
   "responses": [
     {
-      "date": "2026-07-28T21:40:18.405404",
-      "headline": "Indic DiarBench dataset released for 22 Indian languages.",
-      "source_url": "https://arxiv.org/abs/2607.23808",
-      "questions": [
-        "Given Nexus Venture Partners' thesis that the world won't be well served by a single compute-stack, how does Indic DiarBench's focus on 22 Indian languages avoid becoming a niche dataset that limits broader adoption and integration into global speech technology stacks?",
-        "What specific technical or data-collection challenges did the creators of Indic DiarBench overcome that prevented previous efforts from establishing a standardized benchmark for Indian language diarization, and how does this dataset prevent future, better-funded efforts from simply replicating it?",
-        "Beyond academic research and developer evaluation, what is the concrete path for Indic DiarBench to generate revenue or demonstrate commercial viability, especially considering the dataset itself is a public good?",
-        "If a large tech company were to develop their own proprietary diarization model trained on a vastly larger, unreleased dataset for these 22 Indian languages, how would Indic DiarBench's benchmark hold up as a true measure of progress or superiority?"
-      ],
-      "answers": []
-    },
-    {
       "date": "2026-07-29T21:29:30.489248",
       "headline": "Gen-AI could substitute 8-12% of India's non-agricultural jobs.",
       "source_url": "https://www.livemint.com/technology/genai-may-replace-8-12-of-indias-non-agricultural-jobs-goldman-sachs-11785307373774.html",
@@ -1039,6 +1027,18 @@
         "Peak XV Partners' thesis emphasizes the responsibility of model companies. How will 'India AI,' as a regulatory body, enforce this responsibility on the ground, especially considering the security incidents involving unauthorized AI agents accessing sensitive data?",
         "What specific mechanisms will 'India AI' put in place during its public consultation to ensure that the input from citizens, industry, and experts is genuinely representative and not skewed by powerful lobbying groups, particularly concerning the development and deployment of AI?",
         "Beyond the immediate security incidents, what are the long-term economic and innovation implications of strict AI legislation in India that 'India AI' aims to balance during this consultation phase, and what data supports this balancing act?"
+      ],
+      "answers": []
+    },
+    {
+      "date": "2026-10-27T00:02:15.415295",
+      "headline": "India to release AI regulation consultation paper next month.",
+      "source_url": "https://theprint.in/tech/india-steps-up-ai-regulation-push-with-consultation-paper-likely-next-month/1208647/",
+      "questions": [
+        "Given MeitY's focus on AI safety and a human-first approach in their upcoming consultation paper, how does 'SafeAI's' current product roadmap and go-to-market strategy specifically address or anticipate these regulatory requirements beyond just general safety measures, and what's the timeline for adapting if the regulations are more stringent than anticipated?",
+        "Peak XV Partners' thesis emphasizes the responsibility of model companies to prevent unsafe models from being released. If 'SafeAI's' core technology relies on open-source foundational models that are known to have safety vulnerabilities, what is your specific, defensible moat against competitors who can more easily integrate and iterate on these same models with less regulatory burden?",
+        "The consultation paper mentions 'skilling' and 'inclusivity.' How does 'SafeAI' plan to leverage or contribute to India's AI skilling initiatives, and what specific features or product differentiators will ensure its AI solutions are truly inclusive and accessible to the broader Indian population, not just a tech-savvy elite?",
+        "Considering the nascent stage of AI regulation in India and the potential for significant shifts based on this consultation paper, what is the single most likely failure mode for 'SafeAI' in the next 18 months that is directly attributable to regulatory uncertainty or changes, and what contingency plans are in place?"
       ],
       "answers": []
     }
