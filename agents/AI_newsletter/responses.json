@@ -1,18 +1,6 @@
 {
   "responses": [
     {
-      "date": "2026-07-30T21:44:49.246667",
-      "headline": "Sarvam AI plans to develop a trillion-parameter large language model.",
-      "source_url": "https://inc42.com/buzz/sarvam-to-build-trillion-plus-ai-model-in-india-launches-inference-service/",
-      "questions": [
-        "Given Sarvam AI's ambition to build a trillion-parameter LLM for Indian languages, what specific technical hurdles, beyond compute, do you anticipate in achieving this scale and performance for a market with less standardized data compared to English?",
-        "Lightspeed and Peak XV have both invested in Sarvam AI's $41M Series A, following a $120M seed round. How does Sarvam AI's go-to-market strategy for its enterprise-grade AI solutions differ from other LLM providers targeting Indian businesses, and what makes it defensible against incumbents or future entrants?",
-        "With $161 million raised across two rounds, what are the key unit economic drivers for Sarvam AI's inference service, and how do these scale as you move from early adopters to broader enterprise deployment across diverse Indian languages?",
-        "What specific failure mode, beyond a general market downturn or competitive pressure, would lead to Sarvam AI being unable to achieve its trillion-parameter LLM goal within the next 18-24 months?"
-      ],
-      "answers": []
-    },
-    {
       "date": "2026-07-31T21:40:43.476973",
       "headline": "RoshAi raised \u20b922 crore in a funding round led by IAN Alpha Fund.",
       "source_url": "https://yourstory.com/2026/07/roshai-self-driving-truck-technology",
@@ -1039,6 +1027,18 @@
         "The five-year defense AI deal is significant, but what specific, measurable milestones within this contract would trigger a termination clause or significant penalty for Sarvam AI if not met, and how do these milestones de-risk the $234M Series B funding from a revenue certainty perspective?",
         "Beyond the initial deal, what is Sarvam AI's go-to-market strategy for commercializing its Indian language and region-specific AI models, and how do you ensure the unit economics of these commercial applications are not subsidized by the defense contract revenue, especially considering the $1.5B post-money valuation?",
         "With $275M raised, including the substantial Series B, what is the precise failure mode for Sarvam AI in the next 18 months that would be most catastrophic, and what specific operational or technical dependencies exist within the defense deal that, if disrupted, would trigger this failure?"
+      ],
+      "answers": []
+    },
+    {
+      "date": "2026-10-29T00:14:57.730114",
+      "headline": "QwikBuild raises $2.3 million in pre-seed funding round.",
+      "source_url": "https://inc42.com/buzz/exclusive-qwikbuild-raises-2-3-mn-to-expand-enterprise-ai-platform/",
+      "questions": [
+        "Given that QwikBuild aims to accelerate software development and deployment with AI agents, what specific technical moat prevents a well-funded competitor from replicating your core AI agent technology within 12-18 months, especially considering the rapid advancements in foundational models?",
+        "You're claiming QwikBuild can build bespoke, production-ready software and AI agents in days. Can you walk me through the unit economics of delivering a 'bespoke' solution in days versus the traditional development cycle, and how that scales profitably beyond this $2.3M pre-seed round?",
+        "Globalway, a publicly listed Japanese technology company, led this round. What specific strategic advantages does Globalway bring beyond capital that are critical for QwikBuild's success in the enterprise AI space, and how will those advantages be leveraged to counter potential competition?",
+        "The enterprise AI agent market is nascent but rapidly evolving. What specific failure mode, if any of your current assumptions are wrong about customer adoption or the efficacy of AI agents for 'bespoke' software, would kill QwikBuild in the next 18 months?"
       ],
       "answers": []
     }

@@ -1,90 +1,6 @@
 {
   "stories": [
     {
-      "title": "Agentic AI Startup RevRag.AI Nets $2.5 Mn To Build AI Relationship Managers For Lenders And Insurers",
-      "url": "https://inc42.com/buzz/fintech-saas-startup-revrag-ai-nets-2-5-mn-to-build-ai-relationship-managers-for-lenders-and-insurers/",
-      "cat": "FUNDING",
-      "date": "2026-10-14T23:24:43.893132"
-    },
-    {
-      "title": "The/Nudge secures $15M from Google.org to develop AI tools for small businesses",
-      "url": "https://yourstory.com/2026/10/thenudge-secures-15m-from-googleorg-to-develop-ai-tools-for-small-businesses",
-      "cat": "FUNDING",
-      "date": "2026-10-14T23:24:43.893132"
-    },
-    {
-      "title": "Centre pushes child rights body to fast-track AI tool to detect child sexual abuse material",
-      "url": "https://www.medianama.com/2026/10/223-ncpcr-ai-child-safety-tool/",
-      "cat": "POLICY",
-      "date": "2026-10-14T23:24:43.893132"
-    },
-    {
-      "title": "Parallel Loop Raises $6.6 Mn To Integrate AI Into Enterprise Workflows",
-      "url": "https://inc42.com/buzz/parallel-loop-raises-6-6-mn-to-integrate-ai-into-enterprise-workflows/",
-      "cat": "FUNDING",
-      "date": "2026-10-14T23:24:43.893132"
-    },
-    {
-      "title": "Spill Games Raises $10.5 Mn To Scale AI-Led Mobile Gaming Studio",
-      "url": "https://inc42.com/buzz/spill-games-raises-10-5-mn-to-scale-ai-led-mobile-gaming-studio/",
-      "cat": "FUNDING",
-      "date": "2026-10-14T23:24:43.893132"
-    },
-    {
-      "title": "Nandan Nilekani suggests last-minute AI-generated exam papers to prevent leaks",
-      "url": "https://www.medianama.com/2026/10/223-nandan-nilekani-ai-generated-exam-papers/",
-      "cat": "POLICY",
-      "date": "2026-10-14T23:24:43.893132"
-    },
-    {
-      "title": "TechSparks 2026: Here\u2019s all that\u2019s happening on Day 2",
-      "url": "https://yourstory.com/2026/10/techsparks-2026-day-2-agenda-speakers",
-      "cat": "RESEARCH",
-      "date": "2026-10-14T23:24:43.893132"
-    },
-    {
-      "title": "Kyndryl will run AI agents inside Toyota Finance\u2019s live IT operations",
-      "url": "https://thenextweb.com/news/kyndryl-toyota-finance-agentic-ai",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-14T23:24:43.893132"
-    },
-    {
-      "title": "A London startup is putting AI cameras into Polish operating theatres",
-      "url": "https://thenextweb.com/news/vitvio-gdansk-operating-room-ai",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-14T23:24:43.893132"
-    },
-    {
-      "title": "Humanly acquires CareerArc, adding recruitment marketing to its AI hiring tools",
-      "url": "https://thenextweb.com/news/humanly-careerarc-ai-hiring-rollup",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-14T23:24:43.893132"
-    },
-    {
-      "title": "The Personal Agents Era Comes With Caveats",
-      "url": "https://inc42.com/features/the-personal-agents-era-comes-with-caveats/",
-      "cat": "RESEARCH",
-      "date": "2026-10-14T23:24:43.893132"
-    },
-    {
-      "title": "Stripe India MD on why Indian startups should build for the world from day one",
-      "url": "https://yourstory.com/2026/10/indian-founders-can-think-global-and-go-global-on-day-one-says-stripe-india-chief",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-14T23:24:43.893132"
-    },
-    {
-      "title": "Salience Labs raises $125M for optical AI switches, then expands in California",
-      "url": "https://thenextweb.com/news/salience-labs-125m-optical-switching",
-      "cat": "FUNDING",
-      "date": "2026-10-14T23:24:43.893132"
-    },
-    {
-      "title": "Compare to Correct: Pairwise-Guided Logit Adjustment for LLM Test-Time Scaling",
-      "url": "https://arxiv.org/abs/2610.18583",
-      "cat": "RESEARCH",
-      "date": "2026-10-14T23:24:43.893132"
-    },
-    {
       "title": "Google announces AI collaborations, funding initiatives to boost healthcare, research in India",
       "url": "https://timesofindia.indiatimes.com/gadgets/tech-news/google-announces-ai-collaborations-funding-initiatives-to-boost-healthcare-research-in-india/articleshow/104451650.cms",
       "cat": "FUNDING",
@@ -1073,6 +989,162 @@
       "url": "https://www.livemint.com/technology/agentic-ai-could-strengthen-financial-crime-prevention-but-governance-cost-hurdles-limit-adoption-mckinsey-11793086477778.html",
       "cat": "ENTERPRISE",
       "date": "2026-10-27T23:58:00.252271"
+    },
+    {
+      "title": "Exclusive: QwikBuild Raises $2.3 Mn To Expand Enterprise AI Platform",
+      "url": "https://inc42.com/buzz/exclusive-qwikbuild-raises-2-3-mn-to-expand-enterprise-ai-platform/",
+      "cat": "FUNDING",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "India's AI Governance Guidelines Emphasize Collaboration and Risk Mitigation",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_YR8TtLHQDd_5LojuUoW028r5zfjshnZfgf9HOzWJu0T_QmJIjcnksXNg1MePqALeSngYFwLJ99D3Od0YxaIZaCc9ZnRfocraWfmthGck0P-mG_-85VswqZplNOpjyZIhWE70fwuTahxts1m0t4X__En599cucxnPyxTIf8mPqA3vv7ObUhlqQtNcKm8da_LdJg_rGWemaTP6d2kekUHfcG8PviyY79Qaqgnv2Z678-aHSfZ5JQyrH3Q=",
+      "cat": "POLICY",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "India Launches AI Governance Guidelines with 'Do No Harm' Principle",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0DoWs_h4sf_Cq-MOAclCUbyS6CbtQKXapfgSi1mLRGNot9PUaCZITkDmo1ZoanrvkrWdU-tlU_x0LO9hQ6Yr43urVSrG1iymW7bqgaB2bYW_vfnYK-WhKmfxvxpXwUfI9FppNij8=",
+      "cat": "POLICY",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Workato bets on India as enterprise AI shifts from pilots to production",
+      "url": "https://economictimes.indiatimes.com/tech/software/workato-bets-on-india-as-enterprise-ai-shifts-from-pilots-to-production/articleshow/104774111.cms",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Why Indian AI Founders Are Eyeing Silicon Valley And What They Risk Leaving Behind",
+      "url": "https://inc42.com/resources/why-indian-ai-founders-are-eyeing-silicon-valley-and-what-they-risk-leaving-behind/",
+      "cat": "OTHER",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "This Bengaluru Startup Is Building AI Agents for Hardware Design",
+      "url": "https://analyticsindiamag.com/ai-startups/this-bengaluru-startup-is-building-ai-agents-for-hardware-design",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Oracle Partners With OpenAI to Bring ChatGPT and Codex to Enterprise Workflows",
+      "url": "https://analyticsindiamag.com/ai-news/oracle-partners-with-openai-to-bring-chatgpt-and-codex-to-enterprise-workflows",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Indian IT firms poised to benefit from enterprise AI adoption as infrastructure costs rise: Report",
+      "url": "https://www.livemint.com/technology/indian-it-firms-poised-to-benefit-from-enterprise-ai-adoption-as-infrastructure-costs-rise-report-11793166741416.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Indian AI startup funding gains pace as VCs explore six deals",
+      "url": "https://www.infrainsiders.com/indian-ai-startup-funding-gains-pace-as-vcs-explore-six-deals/",
+      "cat": "FUNDING",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Top bank chiefs urge shift from AI pilots to real-world use in banking",
+      "url": "https://www.business-standard.com/companies/news/top-bank-chiefs-urge-shift-from-ai-pilots-to-real-world-use-in-banking-126102600478_1.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "IndicParam: Benchmark to Evaluate LLMs on Low-Resource Indic Languages",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuTv4dloUkHG0jE-NEJGOAdbdry6b_q7PUgIbyBV4ONd20_b0C6Pn72VM7Y5l29_Y5zgNz3cadANMHJxrKql1Tm78tjjamD_iU1c5ocO9CWrKsY_2VW0EgObzDgJtzNrnJ",
+      "cat": "RESEARCH",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Finding India\u2019s Next AI Goldmine",
+      "url": "https://inc42.com/features/finding-indias-next-ai-goldmine/",
+      "cat": "OTHER",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Nova Spectral AI Raises \u20b921.2 Cr To Build Indigenous Infrared Sensor Chips",
+      "url": "https://inc42.com/buzz/nova-spectral-ai-raises-%e2%82%b921-2-cr-to-build-indigenous-infrared-sensor-chips/",
+      "cat": "FUNDING",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "GitHub Expands Infra With 4 Mn Cores, Debuts Copilot Fusion for Multi-Model Routing",
+      "url": "https://analyticsindiamag.com/ai-news/github-expands-infra-with-4-mn-cores-debuts-copilot-fusion-for-multi-model-routing",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "\u2018Owning of the IP Itself is Meaningless,\u2019 Says Mphasis\u2019 Ravi Vasantraj",
+      "url": "https://analyticsindiamag.com/it-services/owning-of-the-ip-itself-is-meaningless-says-mphasis-ravi-vasantraj",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Akamai Launches AI Inference and Agent Sandbox Services",
+      "url": "https://analyticsindiamag.com/ai-news/akamai-launches-ai-inference-and-agent-sandbox-services",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Oracle Expands AI Compute Options With NVIDIA, Google TPUs and Cerebras",
+      "url": "https://analyticsindiamag.com/ai-news/oracle-expands-ai-compute-options-with-nvidia-google-tpus-and-cerebras",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Rubixe Introduces Industry-Specific AI Solutions for Healthcare, Manufacturing, Retail and BFSI",
+      "url": "https://www.prlog.org/12935910-rubixe-introduces-industry-specific-ai-solutions-for-healthcare-manufacturing-retail-and-bfsi.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Why better data could be the key to AI-driven food R&D",
+      "url": "https://yourstory.com/2026/10/how-genai-digital-ontologies-are-redefining-food-rd-food-safety",
+      "cat": "RESEARCH",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "\u2018Keep learning, keep adapting\u2019: Priyank Kharge tells IT professionals to stay ahead of AI",
+      "url": "https://yourstory.com/2026/10/priyank-kharge-it-professionals-ai-skilling-nipuna-karnataka",
+      "cat": "OTHER",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Why women should build their front row; AI automation and its impact on jobs",
+      "url": "https://yourstory.com/2026/10/why-women-should-build-their-front-row-ai-automation-jobs",
+      "cat": "OTHER",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "[Webinar Alert] Building Secure and Scalable Enterprise Applications in the Age of AI With Aurigo",
+      "url": "https://analyticsindiamag.com/ai-highlights/webinar-alert-building-secure-and-scalable-enterprise-applications-in-the-age-of-ai-with-aurigo",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "KPIT Bets on AI for Margin Growth as Q2 Revenue Growth Stays Weak",
+      "url": "https://analyticsindiamag.com/ai-news/kpit-bets-on-ai-for-margin-growth-as-q2-revenue-growth-stays-weak",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "OpenAI Plans to Purchase Google TPUs: Report",
+      "url": "https://analyticsindiamag.com/ai-news/openai-plans-to-purchase-google-tpus-report",
+      "cat": "OTHER",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "\u200b\u200bGoogle DeepMind Unveils Genie 4 for Real-Time World Simulation",
+      "url": "https://analyticsindiamag.com/ai-news/google-deepmind-unveils-genie-4-for-real-time-world-simulation",
+      "cat": "RESEARCH",
+      "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Nearly 60% of firms yet to move AI beyond pilots as deployment remains key challenge: Report",
+      "url": "https://www.livemint.com/technology/nearly-60-of-firms-yet-to-move-ai-beyond-pilots-as-deployment-remains-key-challenge-report-11793157436353.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-29T00:14:57.728281"
     }
   ]
 }
