@@ -1,90 +1,6 @@
 {
   "stories": [
     {
-      "title": "Sarvam AI in talks to raise up to $300 million at $3 billion valuation",
-      "url": "https://economictimes.indiatimes.com/tech/startups/sarvam-ai-in-talks-to-raise-up-to-300-million-at-3-billion-valuation/articleshow/104417199.cms",
-      "cat": "FUNDING",
-      "date": "2026-10-16T23:00:13.458490"
-    },
-    {
-      "title": "Krutrim AI Funding: Recent Rounds, Layoffs, and Strategic Shift",
-      "url": "https://www.facebook.com/story.php?story_fbid=10167947756170183&id=643400176",
-      "cat": "FUNDING",
-      "date": "2026-10-16T23:00:13.458490"
-    },
-    {
-      "title": "Enterprise AI Startup RapidCanvas Nets $29 Mn To Expand GTM Teams",
-      "url": "https://inc42.com/buzz/enterprise-ai-startup-rapidcanvas-nets-29-mn-to-expand-gtm-teams/",
-      "cat": "FUNDING",
-      "date": "2026-10-16T23:00:13.458490"
-    },
-    {
-      "title": "India\u2019s AI opportunity could run into trillions of dollars, creating new possibilities for startups",
-      "url": "https://yourstory.com/2026/10/indias-ai-opportunity-could-run-trillions-dollars-creating-new-possibilities-startups",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-16T23:00:13.458490"
-    },
-    {
-      "title": "AI execution company RapidCanvas raises $29M in Series B",
-      "url": "https://yourstory.com/2026/10/ai-execution-company-rapidcanvas-raises-29m-in-series-b",
-      "cat": "FUNDING",
-      "date": "2026-10-16T23:00:13.458490"
-    },
-    {
-      "title": "Government issues critical warning as AI agents access Indian companies' confidential data",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzb5Y8qedTLis4ixkvYJKkWMPBQF4w4PwRZeOxGY25Trbt6fVd4sfLUJoXDsNcSG4uiBGemEquHy69GL2R9SSNM1hHIHDRbRlv2mCg45U20pf_4x4MQcxnbXd4LrRB4a4rLNTn0fGCter0Um0_ns2zS-E4cHkAyqtG9mI2NnfGNzz10jxioqoA5lD-ypKjxPANNRxBAHs5F9B-hJicWODj9o236dKf9XGQg0yVYSWTRoHOg-Z7q7qNNCTZte4a-Jp7mZXeguvS6ZC-2A2DFahoiqv_HXa_O7QSL2-VexXvmq98B4irVu3D",
-      "cat": "POLICY",
-      "date": "2026-10-16T23:00:13.458490"
-    },
-    {
-      "title": "Indian billionaire family offices ramp up AI bets as funding rises 50% in 2026: Report",
-      "url": "https://www.livemint.com/companies/news/indian-billionaire-family-offices-ramp-up-ai-bets-as-funding-rises-50-in-2026-report-11697460407154.html",
-      "cat": "FUNDING",
-      "date": "2026-10-16T23:00:13.458490"
-    },
-    {
-      "title": "AI startup RapidCanvas raises $29 million led by Vertex Ventures",
-      "url": "https://www.livemint.com/companies/startups/ai-startup-rapidcanvas-raises-29-million-led-by-vertex-ventures-11697459459776.html",
-      "cat": "FUNDING",
-      "date": "2026-10-16T23:00:13.458490"
-    },
-    {
-      "title": "Rising AI\u2019s Costs Put SaaS Companies Between A Rock And A Hard Place",
-      "url": "https://inc42.com/features/rising-ais-costs-put-saas-companies-between-a-rock-and-a-hard-place/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-16T23:00:13.458490"
-    },
-    {
-      "title": "India's AI Content Advisory Big Update October 2026: Platforms Told to Flag AI-Made Fakes",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnmQBPc17cDT7LThnxzD_-5wkZLEFRSAdVlc-EwidXyVu6j_jC07wMtWRdvcDfIQU6K_61zh-gGY1SFE4Av_C9AGefjZhnbrGzbMHvbhDTmcC_x822Zm_-mlqpKxAwHhN4o-4u3TA=0",
-      "cat": "POLICY",
-      "date": "2026-10-16T23:00:13.458490"
-    },
-    {
-      "title": "Bengaluru-based enterprise AI startup RevRag AI has raised $2.5 million in seed funding",
-      "url": "https://www.instagram.com/p/C0Xp9qgI7P0/",
-      "cat": "FUNDING",
-      "date": "2026-10-16T23:00:13.458490"
-    },
-    {
-      "title": "DataLEADS, JanAI Plan 100 Swasth AI Hubs to Advance Rural Healthcare Innovation",
-      "url": "https://www.digitalhealthwire.com/news/dataleads-janai-plan-100-swasth-ai-hubs-to-advance-rural-healthcare-innovation",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-16T23:00:13.458490"
-    },
-    {
-      "title": "CERT-In Flags Unauthorised AI Agent Access To Indian Organisations\u2019 Systems",
-      "url": "https://inc42.com/buzz/cert-in-flags-unauthorised-ai-agent-access-to-indian-organisations-systems/",
-      "cat": "POLICY",
-      "date": "2026-10-16T23:00:13.458490"
-    },
-    {
-      "title": "Can we change an AI model's architecture without retraining it from scratch?",
-      "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch",
-      "cat": "RESEARCH",
-      "date": "2026-10-16T23:00:13.458490"
-    },
-    {
       "title": "AI agents accessed Indian organisations\u2019 systems without authorisation, CERT-In reveals",
       "url": "https://www.medianama.com/2026/10/223-cert-in-ai-agents-unauthorised-access/",
       "cat": "RESEARCH",
@@ -1241,6 +1157,24 @@
       "url": "https://thenextweb.com/news/cohere-series-e-c7bn-canada-nvidia",
       "cat": "FUNDING",
       "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "IISc Bengaluru launches AI challenge for dementia prediction",
+      "url": "https://www.newindianexpress.com/states/karnataka/2026/04/21/iisc-bengalurus-new-ai-contestrs-2-crore-for-best-model-to-detect-early-brain-decline-2443273.html",
+      "cat": "RESEARCH",
+      "date": "2026-10-30T23:59:43.851296"
+    },
+    {
+      "title": "India AI Impact Summit 2026 to focus on inclusive and impactful AI research",
+      "url": "https://www.business-standard.com/article/economy-commerce/india-ai-impact-summit-2026-to-focus-on-inclusive-and-impactful-ai-research-123102600617_1.html",
+      "cat": "POLICY",
+      "date": "2026-10-30T23:59:43.851296"
+    },
+    {
+      "title": "Cognizant puts 25,000 staff behind OpenAI, days after a Gemini push",
+      "url": "https://thenextweb.com/news/cognizant-openai-frontier-capability-group-25000",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-30T23:59:43.851296"
     }
   ]
 }
