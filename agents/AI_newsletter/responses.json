@@ -1,18 +1,6 @@
 {
   "responses": [
     {
-      "date": "2026-07-31T21:40:43.476973",
-      "headline": "RoshAi raised \u20b922 crore in a funding round led by IAN Alpha Fund.",
-      "source_url": "https://yourstory.com/2026/07/roshai-self-driving-truck-technology",
-      "questions": [
-        "Given that RoshAi licenses its autonomy software stack to OEMs and fleet operators, what prevents an OEM with deep pockets and existing relationships from developing a comparable or superior stack internally, given they already control the vehicle platform?",
-        "RoshAi is targeting industrial trucks and heavy vehicles; what specific regulatory hurdles exist in India for deploying Level 4/5 autonomous vehicles in these sectors within the next 18-24 months, and how does RoshAi's current product roadmap address them?",
-        "The previous seed round was \u20b915 crore and this seed round is \u20b922 crore, an increase of only 46%. Considering the capital intensity of hardware retrofitting and AI development, how does RoshAi plan to achieve significant product development and market penetration milestones with this funding before needing a substantially larger Series A?",
-        "What is the projected customer acquisition cost and lifetime value for a fleet operator purchasing RoshAi's hardware retrofit kits, and how does this unit economics model scale profitably without significant ongoing subsidies from venture funding?"
-      ],
-      "answers": []
-    },
-    {
       "date": "2026-08-01T21:27:03.713722",
       "headline": "Sarvam AI secures $234 million, achieves unicorn status in Series B funding.",
       "source_url": "https://www.livemint.com/companies/start-ups/sarvam-ai-becomes-unicorn-after-raising-234m-as-india-doubles-down-on-home-grown-ai-11718401915752.html",
@@ -1039,6 +1027,18 @@
         "You're claiming QwikBuild can build bespoke, production-ready software and AI agents in days. Can you walk me through the unit economics of delivering a 'bespoke' solution in days versus the traditional development cycle, and how that scales profitably beyond this $2.3M pre-seed round?",
         "Globalway, a publicly listed Japanese technology company, led this round. What specific strategic advantages does Globalway bring beyond capital that are critical for QwikBuild's success in the enterprise AI space, and how will those advantages be leveraged to counter potential competition?",
         "The enterprise AI agent market is nascent but rapidly evolving. What specific failure mode, if any of your current assumptions are wrong about customer adoption or the efficacy of AI agents for 'bespoke' software, would kill QwikBuild in the next 18 months?"
+      ],
+      "answers": []
+    },
+    {
+      "date": "2026-10-30T00:08:43.503766",
+      "headline": "Sarvam AI signs five-year MoU with India's Ministry of Defence.",
+      "source_url": "https://www.medianama.com/2026/10/223-sarvam-ai-defence-deal-indian-armed-forces/",
+      "questions": [
+        "Given the five-year MoU with the Ministry of Defence, how does Sarvam AI plan to ensure its AI applications remain relevant and effective as military technology and threats evolve over that period, especially considering the rapid pace of AI development?",
+        "With HCLTech's $150 million investment in Sarvam AI's Series B, what specific strategic advantages or integration opportunities does this partnership unlock that prevent a well-funded competitor from replicating Sarvam AI's position within the Indian defence sector?",
+        "The $324.4 million Series B funding is substantial. What specific KPIs or milestones must Sarvam AI hit within the next 18 months to validate that this funding is being deployed efficiently and not merely subsidizing early-stage development for defence contracts?",
+        "What specific failure mode for Sarvam AI would be triggered by a shift in Indian defence procurement policy or a change in government priorities away from AI adoption in the next 18 months?"
       ],
       "answers": []
     }

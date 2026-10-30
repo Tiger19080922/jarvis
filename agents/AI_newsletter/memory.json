@@ -1,42 +1,6 @@
 {
   "stories": [
     {
-      "title": "Google announces AI collaborations, funding initiatives to boost healthcare, research in India",
-      "url": "https://timesofindia.indiatimes.com/gadgets/tech-news/google-announces-ai-collaborations-funding-initiatives-to-boost-healthcare-research-in-india/articleshow/104451650.cms",
-      "cat": "FUNDING",
-      "date": "2026-10-15T23:13:37.694281"
-    },
-    {
-      "title": "'AI lowers the capital needed': India's drug discovery push faces test of human trials",
-      "url": "https://www.channelnewsasia.com/asia/india-ai-drug-discovery-push-faces-test-human-trials-42639872",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-15T23:13:37.694281"
-    },
-    {
-      "title": "Fujifilm India & AIIMS Collaborate on Research for AI-Assisted Cancer Detection",
-      "url": "https://www.thecsruniverse.com/news/healthcare/fujifilm-india-aiims-collaborate-on-research-for-ai-assisted-cancer-detection/",
-      "cat": "RESEARCH",
-      "date": "2026-10-15T23:13:37.694281"
-    },
-    {
-      "title": "India and Europe must jointly develop AI-driven automotive technology: Nasscom Vice Chairperson",
-      "url": "https://www.thehindubusinessline.com/companies/india-europe-must-jointly-develop-ai-driven-automotive-technology-nasscom-vice-chairperson/article68753186.ece",
-      "cat": "POLICY",
-      "date": "2026-10-15T23:13:37.694281"
-    },
-    {
-      "title": "AI can aid faster, cost-effective diagnosis but clinical validation and data safeguards needed: experts",
-      "url": "https://www.thehindu.com/science/health/ai-can-aid-faster-cost-effective-diagnosis-but-clinical-validation-and-data-safeguards-needed-experts/article68744901.ece",
-      "cat": "RESEARCH",
-      "date": "2026-10-15T23:13:37.694281"
-    },
-    {
-      "title": "68% of automotive organizations use or pilot agentic AI for product development, but only 5% report mature AI governance",
-      "url": "https://itvoice.in/68-of-automotive-organizations-use-or-pilot-agentic-ai-for-product-development-but-only-5-report-mature-ai-governance/",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-15T23:13:37.694281"
-    },
-    {
       "title": "Sarvam AI in talks to raise up to $300 million at $3 billion valuation",
       "url": "https://economictimes.indiatimes.com/tech/startups/sarvam-ai-in-talks-to-raise-up-to-300-million-at-3-billion-valuation/articleshow/104417199.cms",
       "cat": "FUNDING",
@@ -1145,6 +1109,138 @@
       "url": "https://www.livemint.com/technology/nearly-60-of-firms-yet-to-move-ai-beyond-pilots-as-deployment-remains-key-challenge-report-11793157436353.html",
       "cat": "ENTERPRISE",
       "date": "2026-10-29T00:14:57.728281"
+    },
+    {
+      "title": "Sarvam AI signs deal to develop AI systems for Indian military",
+      "url": "https://www.medianama.com/2026/10/223-sarvam-ai-defence-deal-indian-armed-forces/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "Articul8 Launches Bivia To Help Enterprise AI Agents Make Decisions",
+      "url": "https://analyticsindiamag.com/ai-news/articul8-launches-bivia-to-help-enterprise-ai-agents-make-decisions",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "Freshworks Acquires AI Startup Robusta To Strengthen IT Operations Platform",
+      "url": "https://inc42.com/buzz/freshworks-acquires-ai-startup-robusta-to-strengthen-it-operations-platform/",
+      "cat": "FUNDING",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "Freshworks acquires Israel-based AI startup Robusta Dev",
+      "url": "https://yourstory.com/2026/10/freshworks-acquires-israel-based-ai-startup-robusta-dev",
+      "cat": "FUNDING",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "Gnani AI Launches Prisma v3.0 Speech Recognition Model for 10 Languages",
+      "url": "https://analyticsindiamag.com/ai-news/gnani-ai-launches-prisma-v30-speech-recognition-model-for-10-languages",
+      "cat": "RESEARCH",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "India\u2019s Enterprises are Scaling AI. Is the Infrastructure Ready?",
+      "url": "https://analyticsindiamag.com/ai-features/indias-enterprises-are-scaling-ai-is-the-infrastructure-ready",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "Google Announces Gemini 4 Carbon With Focus on Cybersecurity and Coding",
+      "url": "https://analyticsindiamag.com/ai-news/google-announces-gemini-4-carbon-with-focus-on-cybersecurity-and-coding",
+      "cat": "RESEARCH",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "AI-led services to generate up to USD 200 billion in new work by 2030: BCG report",
+      "url": "https://www.livemint.com/technology/ailed-services-to-generate-up-to-usd-200-billion-in-new-work-by-2030-bcg-report-11793262102735.html",
+      "cat": "RESEARCH",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "Sell first, build second, automate last: A solo founder\u2019s playbook for the AI era",
+      "url": "https://yourstory.com/2026/10/sell-first-build-second-automate-last-a-solo-founders-playbook-for-the-ai-era",
+      "cat": "OTHER",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "The AI Slowdown Narrative Doesn\u2019t Reflect Enterprise Reality",
+      "url": "https://analyticsindiamag.com/ai-features/the-ai-slowdown-narrative-doesnt-reflect-enterprise-reality",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "Coforge Introduces Autonomous Software Factory to Coordinate AI Agents",
+      "url": "https://analyticsindiamag.com/ai-news/coforge-introduces-autonomous-software-factory-to-coordinate-ai-agents",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "SAP India Targets 2 Million People for AI Skilling by 2030",
+      "url": "https://analyticsindiamag.com/ai-news/sap-india-targets-2-million-people-for-ai-skilling-by-2030",
+      "cat": "POLICY",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "\u2018You\u2019re Not Doing This AI Stuff,\u2019 Databricks CEO Tells Snowflake",
+      "url": "https://analyticsindiamag.com/ai-news/youre-not-doing-this-ai-stuff-databricks-ceo-tells-snowflake",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "HCLTech Launches Nano GCC Model With AWS to Build AI Operations",
+      "url": "https://analyticsindiamag.com/ai-news/hcltech-launches-nano-gcc-model-with-aws-to-build-ai-operations",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "Microsoft Visual Studio update brings smarter Copilot AI, bulk conflict resolution and Hot Exit: Details here",
+      "url": "https://www.livemint.com/technology/microsoft-visual-studio-update-brings-smarter-copilot-ai-bulk-conflict-resolution-and-hot-exit-details-here-11793191723325.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "Baseten\u2019s joey-1 makes AI decisions for a penny per million tokens",
+      "url": "https://thenextweb.com/news/baseten-joey-1-decision-model-open-weights",
+      "cat": "RESEARCH",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "India\u2019s new-age manufacturers to benefit from $3 trillion global AI investment cycle: Avendus Capital",
+      "url": "https://yourstory.com/2026/10/new-age-manufacturers-to-benefit-from-3-trillion-global-ai-investment-cycle-avendus-capital",
+      "cat": "OTHER",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "Meesho rules out platform fees, says AI is cutting delivery costs but raising server bills",
+      "url": "https://www.medianama.com/2026/10/223-meesho-platform-fees-ai-server-costs/",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "The Economics of Continuous Inference",
+      "url": "https://analyticsindiamag.com/ai-highlights/the-economics-of-continuous-inference",
+      "cat": "RESEARCH",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "One Tech Tip: How to get started with AI agents, and which are best for specific tasks",
+      "url": "https://www.livemint.com/technology/one-tech-tip-how-to-get-started-with-ai-agents-and-which-are-best-for-specific-tasks-11793246711702.html",
+      "cat": "RESEARCH",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "What\u2019s new in iOS 27.2: New Siri AI languages, 160+ security fixes and CarPlay upgrades",
+      "url": "https://www.livemint.com/technology/tech-news/whats-new-in-ios-27-2-new-siri-ai-languages-160-security-fixes-and-carplay-upgrades-11793176532277.html",
+      "cat": "RESEARCH",
+      "date": "2026-10-30T00:08:43.501716"
+    },
+    {
+      "title": "Canada joins Nvidia in backing Cohere\u2019s record C$7bn Series E",
+      "url": "https://thenextweb.com/news/cohere-series-e-c7bn-canada-nvidia",
+      "cat": "FUNDING",
+      "date": "2026-10-30T00:08:43.501716"
     }
   ]
 }
