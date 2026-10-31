@@ -1,19 +1,6 @@
 {
   "responses": [
     {
-      "date": "2026-08-02T21:26:33.648167",
-      "headline": "India allocates \u20b910,371.92 crore to IndiaAI Mission over five years.",
-      "source_url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2037783",
-      "questions": [
-        "Given Nexus Venture Partners' thesis on autonomous AI agents, how does the IndiaAI Mission's broader ecosystem approach, rather than a specific product focus, de-risk the potential for a well-funded competitor to replicate its success in 6-18 months?",
-        "If the IndiaAI Mission's goal is to boost MSME productivity through AI, what specific, measurable metrics will demonstrate success beyond just the \u20b910,371.92 crore allocation, and what happens if adoption by MSMEs remains stubbornly low?",
-        "How does the IndiaAI Mission's five-year timeline and government-led implementation account for the rapid pace of innovation in AI, and what specific mechanisms are in place to prevent it from becoming obsolete before its objectives are met?",
-        "Considering the government's \u20b910,371.92 crore investment, what is the explicit exit strategy or path to commercialization for the AI solutions developed or fostered under the IndiaAI Mission, and how does this align with a venture capital return profile?",
-        "What specific failures of prior government AI initiatives in India has the IndiaAI Mission learned from, and what makes this team, under MeitY, uniquely positioned to execute this ambitious plan where others have faltered?"
-      ],
-      "answers": []
-    },
-    {
       "date": "2026-08-03T21:41:51.312720",
       "headline": "Google selects 20 AI startups for 2026 Play Accelerator India program.",
       "source_url": "https://yourstory.com/2026/08/google-picks-20-ai-startups-for-2026-play-accelerator-india-cohort",
@@ -1039,6 +1026,18 @@
         "What prevents a well-funded academic institution or even a large tech company from replicating this Grand Challenges in AI platform and its dementia prediction dataset, thereby eroding any first-mover advantage?",
         "Beyond the initial launch and participation, what is the concrete, scalable business model that emerges from this AI challenge, and how does it generate revenue to sustain itself beyond the initial funding or grant structure?",
         "What specific failure mode exists for this Grand Challenges in AI platform that would kill the initiative in the next 18 months, independent of the success of the dementia prediction models themselves?"
+      ],
+      "answers": []
+    },
+    {
+      "date": "2026-10-31T23:34:23.581953",
+      "headline": "India ranks second globally in AI-powered shopping adoption.",
+      "source_url": "https://www.livemint.com/technology/india-ranks-second-globally-in-ai-powered-shopping-76-consumers-use-ai-tools-mckinsey-11793345395158.html",
+      "questions": [
+        "Given that 76% of Indian consumers are already using AI in their shopping, what is the specific unmet need that your company, [Company Name], is uniquely positioned to address that existing AI tools haven't solved?",
+        "McKinsey's survey highlights high adoption, but what are the key friction points or limitations in current AI-powered shopping that [Company Name] will overcome, and how will you measure success against those specific failures?",
+        "With India ranking second globally in AI-powered shopping adoption, what prevents a well-funded incumbent, or even a new entrant with significant capital, from replicating your core technology or go-to-market strategy within 18 months?",
+        "How will [Company Name]'s unit economics scale profitably in India, considering the current consumer behavior and the competitive landscape, without relying on the capital from this current funding round to subsidize core operations?"
       ],
       "answers": []
     }

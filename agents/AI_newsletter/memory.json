@@ -1,36 +1,6 @@
 {
   "stories": [
     {
-      "title": "AI agents accessed Indian organisations\u2019 systems without authorisation, CERT-In reveals",
-      "url": "https://www.medianama.com/2026/10/223-cert-in-ai-agents-unauthorised-access/",
-      "cat": "RESEARCH",
-      "date": "2026-10-17T22:33:00.427973"
-    },
-    {
-      "title": "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley",
-      "url": "https://www.livemint.com/technology/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley-11792231459245.html",
-      "cat": "POLICY",
-      "date": "2026-10-17T22:33:00.427973"
-    },
-    {
-      "title": "CERT-In issues critical alert after autonomous AI agents access live systems of Indian orgs",
-      "url": "https://www.livemint.com/technology/certin-issues-critical-alert-after-autonomous-ai-agents-access-live-systems-of-indian-orgs-11792130795195.html",
-      "cat": "POLICY",
-      "date": "2026-10-17T22:33:00.427973"
-    },
-    {
-      "title": "India\u2019s massive AI opportunity; Women entrepreneurs in this year\u2019s Mann Ki Baat",
-      "url": "https://yourstory.com/2026/10/india-massive-ai-opportunity-women-entrepreneurship",
-      "cat": "POLICY",
-      "date": "2026-10-17T22:33:00.427973"
-    },
-    {
-      "title": "AI could give small businesses competitive edge over large firms: Former UK PM Rishi Sunak",
-      "url": "https://www.livemint.com/technology/ai-could-give-small-businesses-competitive-edge-over-large-firms-former-uk-pm-rishi-sunak-11792226876294.html",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-17T22:33:00.427973"
-    },
-    {
       "title": "ALERT: MEITY's Plan to Replace Every Government IT System in India With AI",
       "url": "https://www.youtube.com/watch?v=iU8F17oQ5Lg",
       "cat": "POLICY",
@@ -1175,6 +1145,42 @@
       "url": "https://thenextweb.com/news/cognizant-openai-frontier-capability-group-25000",
       "cat": "ENTERPRISE",
       "date": "2026-10-30T23:59:43.851296"
+    },
+    {
+      "title": "India ranks second globally in AI-powered shopping, 76% consumers use AI tools: McKinsey",
+      "url": "https://www.livemint.com/technology/india-ranks-second-globally-in-ai-powered-shopping-76-consumers-use-ai-tools-mckinsey-11793345395158.html",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-31T23:34:23.579962"
+    },
+    {
+      "title": "Are Boutique AI Firms India\u2019s Next Big Thing?",
+      "url": "https://analyticsindiamag.com/it-services/are-boutique-ai-firms-indias-next-big-thing",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-31T23:34:23.579962"
+    },
+    {
+      "title": "Rs. 300 Cr lost in AI cyberattacks on NBFCs: Why did the public learn about it from the media, not regulators?",
+      "url": "https://www.medianama.com/2026/10/223-ai-cyberattacks-siphon-rs-300-crore-nbfcs/",
+      "cat": "OTHER",
+      "date": "2026-10-31T23:34:23.579962"
+    },
+    {
+      "title": "National Program on Artificial Intelligence - Digital India",
+      "url": "https://digitalindia.gov.in/national-program-on-artificial-intelligence-32007",
+      "cat": "POLICY",
+      "date": "2026-10-31T23:34:23.579962"
+    },
+    {
+      "title": "AI search gains 3-fold influence over traditional search in shopping decisions: McKinsey",
+      "url": "https://www.livemint.com/technology/ai-search-gains-3-fold-influence-over-traditional-search-in-shopping-decisions-mckinsey-11793434097444.html",
+      "cat": "OTHER",
+      "date": "2026-10-31T23:34:23.579962"
+    },
+    {
+      "title": "AWS grows 39% and Amazon will spend even more on AI in 2027",
+      "url": "https://thenextweb.com/news/amazon-q3-earnings-aws-39-free-cash-flow-2027-capex",
+      "cat": "ENTERPRISE",
+      "date": "2026-10-31T23:34:23.579962"
     }
   ]
 }
