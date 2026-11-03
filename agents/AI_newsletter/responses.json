@@ -1,30 +1,6 @@
 {
   "responses": [
     {
-      "date": "2026-08-03T21:41:51.312720",
-      "headline": "Google selects 20 AI startups for 2026 Play Accelerator India program.",
-      "source_url": "https://yourstory.com/2026/08/google-picks-20-ai-startups-for-2026-play-accelerator-india-cohort",
-      "questions": [
-        "Given that Google Play Accelerator is equity-free and focused on mentorship and product credits, what specific, measurable outcomes can the 20 selected AI startups achieve in three months that would fundamentally de-risk them for future, priced funding rounds, beyond what they could achieve with their existing seed or Series A capital?",
-        "The program is designed for AI-first startups between Seed to Series A. What specific criteria did Google use to select these 20 startups from the India market, and how does that selection process inherently filter for companies with a defensible moat that won't be replicated by the other 18 participants or similarly positioned startups globally within 12-18 months?",
-        "Beyond Google product credits, what tangible, non-replicable advantages does participation in the Google Play Accelerator India program provide to these 20 AI startups that would prevent a well-funded competitor, perhaps one not selected for this cohort, from achieving similar scale or market position within the next 18 months?",
-        "If the core thesis for these AI startups is to scale their applications, and the program offers mentorship and support but no direct funding, what specific failure mode within the next 18 months would be most acutely exacerbated by the *lack* of direct capital infusion from Google, even with the program's benefits?"
-      ],
-      "answers": []
-    },
-    {
-      "date": "2026-08-04T21:51:06.638628",
-      "headline": "Superleap secured \u20b936 crore in a pre-Series A funding round.",
-      "source_url": "https://inc42.com/buzz/ai-native-crm-startup-superleap-bags-%e2%82%b136-cr-led-by-peak-xvs-surge/",
-      "questions": [
-        "Given that Surge has backed numerous B2B SaaS companies in India, what specific, defensible moat does Superleap possess that prevents a well-funded competitor from replicating its AI-powered automation capabilities within 18 months, especially considering the relatively low barrier to entry for AI model integration?",
-        "Nexus Venture Partners' thesis highlights 'enterprise context, decision-making, and action-taking' for their agents. How does Superleap's current product, which aims to automate tasks across the sales cycle, demonstrably achieve this level of autonomous decision-making and action-taking, beyond simple workflow automation?",
-        "Superleap is raising \u20b936 crore pre-Series A in 2024. What specific customer acquisition cost (CAC) and lifetime value (LTV) metrics would need to be achieved at scale for this business model to be sustainable, and what evidence do you have today that these unit economics will hold true?",
-        "Considering the history of CRM providers, both global giants and Indian startups, what specific market failure or unmet need in the Indian enterprise sales cycle does Superleap uniquely address, and why are existing solutions from Salesforce, Zoho, or even newer AI-native CRMs insufficient?"
-      ],
-      "answers": []
-    },
-    {
       "date": "2026-08-05T21:48:51.532121",
       "headline": "InRisk Labs secured $27 million in Series A funding.",
       "source_url": "https://inc42.com/buzz/inrisk-labs-raises-27-mn-to-scale-ai-led-reinsurance-platform-earthre/",
@@ -1038,6 +1014,18 @@
         "McKinsey's survey highlights high adoption, but what are the key friction points or limitations in current AI-powered shopping that [Company Name] will overcome, and how will you measure success against those specific failures?",
         "With India ranking second globally in AI-powered shopping adoption, what prevents a well-funded incumbent, or even a new entrant with significant capital, from replicating your core technology or go-to-market strategy within 18 months?",
         "How will [Company Name]'s unit economics scale profitably in India, considering the current consumer behavior and the competitive landscape, without relying on the capital from this current funding round to subsidize core operations?"
+      ],
+      "answers": []
+    },
+    {
+      "date": "2026-11-03T02:34:24.962839",
+      "headline": "Intuit Ventures invests in Indian AI startup Neysa.",
+      "source_url": "https://yourstory.com/2026/11/prompt-engineers-tool-builders-intuits-vignesh-subrahmaniam-building-ai-acts",
+      "questions": [
+        "Given that Intuit Ventures is a strategic investor, how does Neysa ensure its platform remains truly neutral and not unduly influenced by Intuit's product roadmap or competitive priorities, especially as other enterprises adopt it?",
+        "Neysa offers a 'full-stack AI platform.' Can you detail the specific technical moats that prevent a well-funded competitor, perhaps backed by Sequoia or Accel, from replicating this stack within 12-18 months, given the relative immaturity of the market?",
+        "With Neysa being founded in 2022 and this being its first external funding, what specific customer traction or revenue milestones have been achieved to justify this undisclosed investment from Intuit Ventures, and how do those metrics scale?",
+        "Beyond Intuit Ventures, which other specific enterprise clients have committed to using Neysa's platform in production, and what are their stated ROI drivers that suggest this is a sustainable business model, not just a pilot program?"
       ],
       "answers": []
     }
