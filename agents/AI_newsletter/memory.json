@@ -1,24 +1,6 @@
 {
   "stories": [
     {
-      "title": "Indian Family Offices Lift AI Funding 50% to $760 Mn in 2026",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfYSw8SfjpdibbqHu1qv1cxDfAEci-1aI2CoJjlBhRF1scaAnHFoCeaH6Sz2h5WxjkZcWx1suj7B5MrkQ8MwJWqTR_G_LSZG6gYiENCpMhsxJwb6BVx6RkoLYl0AXaPaVjBEwI2lGicTOqtbEsTBZmV9LVP4W0XQBVrq6AIOMbqfWCPzE=",
-      "cat": "FUNDING",
-      "date": "2026-10-20T23:20:18.350689"
-    },
-    {
-      "title": "Ex-DeepMind researcher Thore Graepel launches London AI lab Metis Reasoning",
-      "url": "https://thenextweb.com/news/metis-reasoning-thore-graepel-alphago-london-ai-lab",
-      "cat": "RESEARCH",
-      "date": "2026-10-20T23:20:18.350689"
-    },
-    {
-      "title": "ASI hits a $3bn valuation as its AI moves from air traffic to the grid",
-      "url": "https://thenextweb.com/news/asi-325m-series-c-3bn-valuation-air-space-intelligence",
-      "cat": "ENTERPRISE",
-      "date": "2026-10-20T23:20:18.350689"
-    },
-    {
       "title": "Peak XV-Backed AI Startup Blacksmith Nets $66 Mn At A Unicorn Valuation",
       "url": "https://inc42.com/buzz/peak-xv-backed-ai-startup-blacksmith-nets-66-mn-at-a-unicorn-valuation/",
       "cat": "FUNDING",
@@ -1193,6 +1175,36 @@
       "url": "https://rcoe.iisc.ac.in/publications/",
       "cat": "RESEARCH",
       "date": "2026-11-03T02:34:24.961458"
+    },
+    {
+      "title": "India Becomes ChatGPT\u2019s Largest Market Globally, User Base Doubles Since January",
+      "url": "https://inc42.com/buzz/india-becomes-chatgpts-largest-market-globally-user-base-doubles-since-january/",
+      "cat": "ENTERPRISE",
+      "date": "2026-11-04T00:49:42.573845"
+    },
+    {
+      "title": "Soket Labs & ZenteiQ Launch Indigenous AI Models",
+      "url": "https://inc42.com/buzz/soket-labs-zenteiq-launch-indigenous-ai-models/",
+      "cat": "RESEARCH",
+      "date": "2026-11-04T00:49:42.573845"
+    },
+    {
+      "title": "The Enterprise AI Push For Decision Models",
+      "url": "https://inc42.com/features/the-enterprise-ai-push-for-decision-models/",
+      "cat": "ENTERPRISE",
+      "date": "2026-11-04T00:49:42.573845"
+    },
+    {
+      "title": "Why AI-powered intelligence is every winning brand\u2019s secret sauce",
+      "url": "https://yourstory.com/2026/11/why-ai-powered-intelligence-is-every-winning-brands-secret-sauce",
+      "cat": "ENTERPRISE",
+      "date": "2026-11-04T00:49:42.573845"
+    },
+    {
+      "title": "UiPath will charge per document for its new finance AI agents",
+      "url": "https://thenextweb.com/news/uipath-per-document-pricing-source-to-pay-agents",
+      "cat": "ENTERPRISE",
+      "date": "2026-11-04T00:49:42.573845"
     }
   ]
 }

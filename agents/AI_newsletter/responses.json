@@ -1,18 +1,6 @@
 {
   "responses": [
     {
-      "date": "2026-08-05T21:48:51.532121",
-      "headline": "InRisk Labs secured $27 million in Series A funding.",
-      "source_url": "https://inc42.com/buzz/inrisk-labs-raises-27-mn-to-scale-ai-led-reinsurance-platform-earthre/",
-      "questions": [
-        "Given that EarthRe is the first reinsurer licensed in GIFT City, what specific regulatory hurdles or unforeseen compliance costs could arise that might impede its ability to scale its AI-led reinsurance platform, and how does InRisk Labs' technology uniquely position it to navigate these compared to established reinsurers?",
-        "If a well-funded competitor, perhaps backed by one of the global reinsurers like Munich Re or Swiss Re, decided to replicate InRisk Labs' AI-powered risk assessment and pricing models for climate and natural catastrophes, what specific, defensible moat does InRisk Labs possess beyond its early mover advantage in GIFT City?",
-        "InRisk Labs is leveraging a licensed balance sheet through EarthRe. What are the specific capital requirements and ongoing solvency regulations for reinsurers operating out of GIFT City, and how does the $27 million Series A funding ensure InRisk Labs can meet these not just for initial operations, but for sustained growth and the underwriting of increasingly complex risks?",
-        "The success of InRisk Labs hinges on the accuracy and predictive power of its AI models for climate and natural catastrophe risks. What specific validation or back-testing has been done to prove these models' efficacy in real-world, high-impact events, and what is the plan to continuously update and retrain them as climate patterns evolve unpredictably?"
-      ],
-      "answers": []
-    },
-    {
       "date": "2026-08-07T00:59:08.014629",
       "headline": "Consint.AI raised \u20b922 crore in Series A funding.",
       "source_url": "https://inc42.com/buzz/consint-ai-bags-%e2%82%b922-cr-to-expand-globally-build-ai-model-for-risk-and-fraud-detection/",
@@ -1026,6 +1014,18 @@
         "Neysa offers a 'full-stack AI platform.' Can you detail the specific technical moats that prevent a well-funded competitor, perhaps backed by Sequoia or Accel, from replicating this stack within 12-18 months, given the relative immaturity of the market?",
         "With Neysa being founded in 2022 and this being its first external funding, what specific customer traction or revenue milestones have been achieved to justify this undisclosed investment from Intuit Ventures, and how do those metrics scale?",
         "Beyond Intuit Ventures, which other specific enterprise clients have committed to using Neysa's platform in production, and what are their stated ROI drivers that suggest this is a sustainable business model, not just a pilot program?"
+      ],
+      "answers": []
+    },
+    {
+      "date": "2026-11-04T00:49:42.575116",
+      "headline": "ChatGPT's user base in India doubled since January 2026.",
+      "source_url": "https://inc42.com/buzz/india-becomes-chatgpts-largest-market-globally-user-base-doubles-since-january/",
+      "questions": [
+        "Given ChatGPT's user base in India doubled since January 2026, what specific product changes or market dynamics in India, beyond general AI acceleration, drove that growth, and how does OpenAI plan to sustain it without significant localized investment?",
+        "With OpenAI seeking $1.4 trillion and having raised $122 billion in March 2026, how does the company's current burn rate and projected future spend align with the potential for monetizing a user base that has doubled in India, particularly if a significant portion of that growth is non-paying?",
+        "Peak XV Partners cites accelerating AI innovation in India; what specific competitive threats from Indian AI startups, potentially leveraging local data or regulatory advantages, could emerge in the next 18 months to challenge OpenAI's dominance in the Indian market?",
+        "If Microsoft's $13 billion and Amazon's $50 billion investments are indicative of strategic dependencies, how does OpenAI's stated goal of broad AI accessibility reconcile with the concentrated capital and potential influence of these major cloud providers, especially concerning the Indian market?"
       ],
       "answers": []
     }
