@@ -1,18 +1,6 @@
 {
   "responses": [
     {
-      "date": "2026-08-07T00:59:08.014629",
-      "headline": "Consint.AI raised \u20b922 crore in Series A funding.",
-      "source_url": "https://inc42.com/buzz/consint-ai-bags-%e2%82%b922-cr-to-expand-globally-build-ai-model-for-risk-and-fraud-detection/",
-      "questions": [
-        "Nexus Venture Partners' thesis mentions 'embedding AI across operations to drive further efficiency and impact.' Given Consint.AI's focus on healthcare and insurance risk management, what specific, defensible moat does the company possess against a well-funded incumbent insurer or healthcare provider building a similar AI solution in-house within 18 months?",
-        "Consint.AI raised \u20b922 crore, approximately $2.3 million. What are the projected unit economics for your AI-driven risk management solutions at scale, and how do these compare to the cost of existing, non-AI-driven underwriting processes that insurers currently employ?",
-        "You've stated the \u20b922 crore Series A funding will support global expansion. Beyond the initial investment in sales and marketing, what are the specific operational and regulatory hurdles Consint.AI anticipates in key international markets, and how will this funding address them effectively?",
-        "Consint.AI was founded in 2020. Considering the inherent complexities and data sensitivity in healthcare and insurance, what specific event or market shift in the last two years could have fundamentally undermined your business model, and how did you navigate or mitigate that risk?"
-      ],
-      "answers": []
-    },
-    {
       "date": "2026-08-07T21:12:46.459621",
       "headline": "Bajaj Finance's AI bots handled 71% of DIY customer service volumes in Q1 FY27.",
       "source_url": "https://www.medianama.com/2026/08/223-bajaj-finances-71-customer-service-2500-crores-disbursements/",
@@ -1026,6 +1014,18 @@
         "With OpenAI seeking $1.4 trillion and having raised $122 billion in March 2026, how does the company's current burn rate and projected future spend align with the potential for monetizing a user base that has doubled in India, particularly if a significant portion of that growth is non-paying?",
         "Peak XV Partners cites accelerating AI innovation in India; what specific competitive threats from Indian AI startups, potentially leveraging local data or regulatory advantages, could emerge in the next 18 months to challenge OpenAI's dominance in the Indian market?",
         "If Microsoft's $13 billion and Amazon's $50 billion investments are indicative of strategic dependencies, how does OpenAI's stated goal of broad AI accessibility reconcile with the concentrated capital and potential influence of these major cloud providers, especially concerning the Indian market?"
+      ],
+      "answers": []
+    },
+    {
+      "date": "2026-11-05T01:02:37.567346",
+      "headline": "India plans to develop indigenous GPU chips within 24 months.",
+      "source_url": "https://economictimes.indiatimes.com/tech/tech-policy/india-plans-indigenous-gpu-chips-in-24-months-says-meity-secretary-s-krishnan-on-ai-strategy/articleshow/105745529.cms",
+      "questions": [
+        "Given the 24-month timeline announced by S. Krishnan for indigenous GPU development, what specific technical breakthroughs or existing IP will India leverage to achieve this, considering the typical multi-year R&D cycles for advanced chip design and fabrication?",
+        "With a total budgetary outlay of \u20b91,27,500 crore over 12 years for India Semiconductor Mission 2.0, how will the initial $15 billion funding be deployed to ensure tangible progress within the first 24 months of the GPU initiative, and what are the key performance indicators for that initial period?",
+        "Beyond reducing dependence on foreign technology, what is the projected competitive advantage of India's indigenous GPUs against established players like NVIDIA and AMD in terms of performance, power efficiency, and cost, especially for high-demand AI applications?",
+        "How will the Indian government ensure the development of a skilled workforce and the necessary manufacturing ecosystem to support indigenous GPU production at scale, given the significant talent and infrastructure gaps that have historically challenged similar national chip initiatives globally?"
       ],
       "answers": []
     }
